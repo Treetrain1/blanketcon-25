@@ -1,0 +1,13 @@
+name = "Have Another Pretty Particle. Yayyyyyyyy"
+filename = "happy-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KVSwjhVT/versions/OPXVdWbN/happy-0.0.2.jar"
+hash-format = "sha512"
+hash = "dac7b1e3094b87a3534c543702524d5db07c17463b818ef37bd1418b60340c603f06dc04ff251de17452f79f840ec27b47be092a88c9eb9a3785bec492d861dd"
+
+[update]
+[update.modrinth]
+mod-id = "KVSwjhVT"
+version = "OPXVdWbN"
