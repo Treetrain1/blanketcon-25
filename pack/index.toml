@@ -80,7 +80,11 @@ file = "mods/armorstandeditor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
+file = "mods/axiom-client.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/axiom-server.pw.toml"
 metafile = true
 
 [[files]]
@@ -280,7 +284,11 @@ file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
+file = "mods/worldedit-client.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-server.pw.toml"
 metafile = true
 
 [[files]]
@@ -563,3 +571,6 @@ file = "server.properties"
 
 [[files]]
 file = "servers.dat"
+
+[[files]]
+file = "unsup.toml"
