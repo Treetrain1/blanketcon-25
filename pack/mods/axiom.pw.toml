@@ -11,3 +11,8 @@ hash = "ff39087093d72bdd965fc80b7986ecb2bcd026dc9a25c1989153c2a1a346caadca4fd870
 [update.modrinth]
 mod-id = "N6n5dqoA"
 version = "CzIcKw68"
+
+[option]
+optional=true
+default=false
+description="Building utility mod.\n\n<b>Usage of Axiom requires you to agree to the Axiom EULA.</b> By enabling the mod here, you affirm you have read and agree to the Axiom EULA, available at https://axiom.moulberry.com/eula"

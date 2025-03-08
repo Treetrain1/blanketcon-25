@@ -1,0 +1,8 @@
+name = "WorldEditCUI"
+filename = "WorldEditCUI-1.21.1+01-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://files.y2k.diy/WorldEditCUI-1.21.1+01-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "d6902d629c4ca66482820cc8f468f2f5a7efb3462826bab8c3c1bdc707bf69e5"

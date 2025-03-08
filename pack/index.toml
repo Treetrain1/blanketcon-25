@@ -34,6 +34,9 @@ file = "config/roles.json"
 file = "config/simplefog.json"
 
 [[files]]
+file = "config/sodium-options.json"
+
+[[files]]
 file = "config/styled-chat.json"
 
 [[files]]
@@ -214,6 +217,13 @@ file = "mods/scattered-shards.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/shrimpsicle-0.0.2-1.21.1.jar"
+
+[[files]]
+file = "mods/sidekick.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 metafile = true
 
@@ -274,14 +284,15 @@ file = "mods/worldedit.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 metafile = true
 
 [[files]]
 file = "options.txt"
-
-[[files]]
-file = "resources/common/required/mf_music/assets/minecraft/models/item/music_disc_cat.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
@@ -387,6 +398,9 @@ file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/credits.json"
