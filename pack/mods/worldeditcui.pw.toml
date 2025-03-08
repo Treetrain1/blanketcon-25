@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://files.y2k.diy/WorldEditCUI-1.21.1+01-SNAPSHOT.jar"
-hash-format = "sha256"
-hash = "d6902d629c4ca66482820cc8f468f2f5a7efb3462826bab8c3c1bdc707bf69e5"
+hash-format = "sha512"
+hash = "a22e9d9a566bcee9e666560b02c31a94c3ca6b9e17e95c8402fffff3cd9c3a284286ce2c4d9eef4666613d5bd572d0487c688af621c161ced7d15a6129c2638e"
