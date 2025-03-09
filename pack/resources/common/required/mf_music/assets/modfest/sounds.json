@@ -22,5 +22,17 @@
 		"sounds": [
 			"modfest:music/stereo/mechanical_plateau"
 		]
+	},
+	"music.hot_treacle": {
+		"subtitle": "now-playing.modfest:music/hot_treacle",
+		"sounds": [
+			"modfest:music/hot_treacle"
+		]
+	},
+	"music.stereo.hot_treacle": {
+		"subtitle": "now-playing.modfest:music/hot_treacle",
+		"sounds": [
+			"modfest:music/stereo/hot_treacle"
+		]
 	}
 }

@@ -1,4 +1,5 @@
 {
 	"modfest:music/dormant": "modfest:textures/item/music/dormant",
-	"modfest:music/mechanical_plateau": "modfest:textures/item/music/mechanical_plateau"
+	"modfest:music/mechanical_plateau": "modfest:textures/item/music/mechanical_plateau",
+	"modfest:music/hot_treacle": "modfest:textures/item/music/hot_treacle"
 }
