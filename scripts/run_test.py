@@ -188,6 +188,9 @@ def main():
                 dest = exec_dir / (f.relative_to(cached_pack_dir))
                 dest.parent.mkdir(exist_ok=True, parents=True)
                 os.symlink(f, dest, target_is_directory=False)
+        dotconnector = runtime_cache / ".connector"
+        dotconnector.mkdir(exist_ok=True, parents=True)
+        os.symlink(dotconnector, exec_dir / "mods" / ".connector", target_is_directory=True)
     else:
         for f in cached_pack_dir.iterdir():
             os.symlink(f, exec_dir / (f.relative_to(cached_pack_dir)), target_is_directory=f.is_dir())
@@ -195,10 +198,6 @@ def main():
     dotfabric = runtime_cache / ".fabric"
     dotfabric.mkdir(exist_ok=True, parents=True)
     os.symlink(dotfabric, exec_dir / ".fabric", target_is_directory=True)
-
-    dotconnector = runtime_cache / ".connector"
-    dotconnector.mkdir(exist_ok=True, parents=True)
-    os.symlink(dotconnector, exec_dir / "mods" / ".connector", target_is_directory=True)
     
     # Accept eula
     eula = exec_dir / "eula.txt"
