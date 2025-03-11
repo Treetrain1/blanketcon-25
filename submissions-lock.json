@@ -594,11 +594,11 @@
 		"files": {
 			"mods/cc-polymer.pw.toml": {
 				"download": {
-					"hash": "6117f2b0db31ed08ec978c4c7cf7c68044d9420b4193654df4744b4415f6cbc247a43d5ae827dac1ebe1c08e172e7c6d6cb5274dbb2eb5ebf75380a8f74aa2f1",
+					"hash": "cfacbeba09e89f4976c9b1793d3ace717a570307cb3d48e830b448e537dc11a2285cbb0dc30d7d6f9215a1f1c2e470d8cd360bba5d444daa89ec9e78f5d385d1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MfXTuV8J/versions/GgFvutpM/cc-tweaked-polymer-patch-1.113.1.0%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/MfXTuV8J/versions/8XtMhvRv/cc-tweaked-polymer-patch-1.115.1.0%2B1.21.1.jar"
 				},
-				"filename": "cc-tweaked-polymer-patch-1.113.1.0+1.21.jar",
+				"filename": "cc-tweaked-polymer-patch-1.115.1.0+1.21.1.jar",
 				"name": "Polymer Patch for CC:Tweaked",
 				"side": "server"
 			},
@@ -623,7 +623,7 @@
 				"side": "server"
 			}
 		},
-		"key": "8685757a6240ad2bc6baeef5b822ca0321accf85cf1928f86c7e8af146c68363"
+		"key": "ec7e7ed523cdf23a557096395c8925c047082e8e1bb1f3bfa7cde7700b9de4be"
 	},
 	"charta": {
 		"files": {
@@ -2862,6 +2862,41 @@
 			}
 		},
 		"key": "c8c94bf22fbabc035e5fddb01f8d908c798ece0e0ec261b17b878f12476d4357"
+	},
+	"vivatech": {
+		"files": {
+			"mods/cloth-config.pw.toml": {
+				"download": {
+					"hash": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
+				},
+				"filename": "cloth-config-15.0.140-fabric.jar",
+				"name": "Cloth Config API",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/vivatech.pw.toml": {
+				"download": {
+					"hash": "75f2bc0b1fcfb094b5c99f27febb17ea2f540b2cc67471b3eb192a88b5bbbc70365512a57ed50c565e822a26e6ad9a689eec832c02cd5e88c0d7009655464683",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/4W8JPjsA/vivatech-1.0.0-alpha.16.jar"
+				},
+				"filename": "vivatech-1.0.0-alpha.16.jar",
+				"name": "Vivatech",
+				"side": "both"
+			}
+		},
+		"key": "2b35fe3798449617456c56c545264c81fd001f5eed940acd877a49eece0ce273"
 	},
 	"wandering-rana": {
 		"files": {

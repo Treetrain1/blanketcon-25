@@ -46,6 +46,7 @@ def main():
 
             dst_file = dest_pack / filename
             if not dst_file.exists():
+                dst_file.parent.mkdir(parents=True, exist_ok=True)
                 # We want all mods to be on both sides for singleplayer compat
                 filedata["side"] = "both"
                 with open(dst_file, "w") as f:
