@@ -8,6 +8,7 @@ import tempfile
 import tomllib
 import urllib.request
 from pathlib import Path
+import hashlib
 
 import common
 from assemble_packwiz import SubmissionLockfileFormat
@@ -51,12 +52,13 @@ def main():
 	for mod_id in submissions_by_id:
 		platform_info = submissions_by_id[mod_id]
 		lock_info = lock_data.get(mod_id)  # Might be None
-		# If the url changes we need to update the lock data. This is the only use of 'url' in the lock file
-		if lock_info is None or lock_info["url"] != platform_info["download"]:
+		submission_hash = hashlib.sha256(json.dumps(platform_info["platform"], sort_keys=True).encode("utf-8")).digest().hex()
+		# If the platform info changes we need to update the lock data
+		if lock_info is None or lock_info["key"] != submission_hash:
 			print(f"Updating lock data for {mod_id}")
 			lock_info = {}  # Reset the lock info for this mod
 			assert lock_info is not None  # mypy is quite stupid
-			lock_info["url"] = platform_info["download"]
+			lock_info["key"] = submission_hash
 
 			old_dir = os.getcwd()
 
@@ -74,21 +76,28 @@ def main():
 				# Install the mod into the temporary packwiz pack
 				rate_limit.limit()
 				mod_type = platform_info.get("platform")
-				if mod_type != None and mod_type.get("type") == "modrinth":
-					subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
+				if mod_type == None:
+					raise Error(f"{mod_id}'s platform info is null")
+				elif mod_type.get("type") == "modrinth":
+					if mod_type["version_id"] != None:
+						subprocess.run([packwiz, "modrinth", "install", "--project-id", mod_type["project_id"], "--version-id", mod_type["version_id"], "-y"])
+				elif mod_type.get("type") == "other":
+					if mod_type["download_url"] != None:
+						subprocess.run([packwiz, "url", "add", mod_id, mod_type["download_url"]])
 				else:
-					subprocess.run([packwiz, "url", "add", platform_info["download"]])
+					raise Error(f"Invalid platform type {mod_type}")
 
 				# Now lets see which files packwiz thought we should download
 				files = {}
 				mod_dir = tmpdir / "mods"
 				if not mod_dir.exists():
-					print(f"{Ansi.WARN}Packwiz didn't generate any files for {mod_id}{Ansi.RESET}")
-					continue
-				for packwiz_meta in os.listdir(mod_dir):
-					packwiz_data = tomllib.loads(common.read_file(mod_dir / packwiz_meta))
-					del packwiz_data["update"]
-					files[packwiz_meta] = packwiz_data
+					print(f"{Ansi.WARN}Packwiz didn't generate any mod files for {mod_id}{Ansi.RESET}")
+				else:
+					for packwiz_meta in os.listdir(mod_dir):
+						packwiz_data = tomllib.loads(common.read_file(mod_dir / packwiz_meta))
+						if "update" in packwiz_data:
+							del packwiz_data["update"]
+						files[packwiz_meta] = packwiz_data
 				lock_info["files"] = files
 
 				os.chdir(old_dir)
