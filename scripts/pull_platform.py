@@ -89,15 +89,13 @@ def main():
 
 				# Now lets see which files packwiz thought we should download
 				files = {}
-				mod_dir = tmpdir / "mods"
-				if not mod_dir.exists():
+				for packwiz_meta in tmpdir.rglob("**/*.pw.toml"):
+					packwiz_data = tomllib.loads(common.read_file(tmpdir / packwiz_meta))
+					if "update" in packwiz_data:
+						del packwiz_data["update"]
+					files[str(packwiz_meta.relative_to(tmpdir))] = packwiz_data
+				if len(files) == 0:
 					print(f"{Ansi.WARN}Packwiz didn't generate any mod files for {mod_id}{Ansi.RESET}")
-				else:
-					for packwiz_meta in os.listdir(mod_dir):
-						packwiz_data = tomllib.loads(common.read_file(mod_dir / packwiz_meta))
-						if "update" in packwiz_data:
-							del packwiz_data["update"]
-						files[packwiz_meta] = packwiz_data
 				lock_info["files"] = files
 
 				os.chdir(old_dir)

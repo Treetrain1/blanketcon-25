@@ -44,7 +44,7 @@ def main():
                 print(f"skipping file {filename}")
                 continue
 
-            dst_file = dest_pack / "mods" / filename
+            dst_file = dest_pack / filename
             if not dst_file.exists():
                 # We want all mods to be on both sides for singleplayer compat
                 filedata["side"] = "both"
