@@ -15,4 +15,5 @@ unsup-experimental = "1.1-pre7"
 unsup-stable = "1.0.2"
 
 [options]
+datapack-folder = "resources/datapack/required"
 no-internal-hashes = true
