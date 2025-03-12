@@ -1,6 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/accessories_temp_mixin_disable.txt"
+
+[[files]]
 file = "config/ballotbox.toml"
 
 [[files]]
@@ -62,6 +69,9 @@ file = "config/waila/waila.json"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
+
+[[files]]
+file = "config/wwizardry.json"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -312,6 +322,9 @@ file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/dormant.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/hot_treacle.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/mechanical_plateau.json"
 
 [[files]]
@@ -321,16 +334,25 @@ file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/dormant.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/hot_treacle.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/mechanical_plateau.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dormant.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hot_treacle.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/mechanical_plateau.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hot_treacle.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/mechanical_plateau.png"
@@ -342,10 +364,16 @@ file = "resources/common/required/mf_music/assets/now-playing/sprites.json"
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/dormant.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/hot_treacle.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/mechanical_plateau.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dormant.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hot_treacle.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/mechanical_plateau.json"
