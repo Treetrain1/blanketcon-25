@@ -49,7 +49,7 @@ def main():
                 dst_file.parent.mkdir(parents=True, exist_ok=True)
                 # We want all mods to be on both sides for singleplayer compat
                 filedata["side"] = "both"
-                with open(dst_file, "w") as f:
+                with open(dst_file, "w", encoding="utf8") as f:
                     f.write(tomli_w.dumps(filedata))
 
     for e in exclusions:

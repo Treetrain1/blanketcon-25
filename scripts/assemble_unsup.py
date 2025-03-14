@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-import io
 import json
-import re
 import sys
-import urllib.request
 import zipfile
 from typing import Any
 from zipfile import ZipFile
+
+import requests
 
 import common
 from common import Ansi
@@ -27,7 +26,7 @@ def main():
     unsup_v = common.env("UNSUP_VERSION", default="1.0-rc2")
 
     print(f"Using unsup version {unsup_v}")
-    
+
     packwiz_info = common.parse_packwiz(pack_toml_file)
     constants = common.jsonc_at_home(common.read_file(constants_file))
 
@@ -36,10 +35,8 @@ def main():
     if not unsup_jar_file.exists():
         unsup_jar_file.parent.mkdir(exist_ok=True, parents=True)
         print(f"Downloading unsup to {unsup_jar_file.relative_to(repo_root)}")
-        urllib.request.urlretrieve(
-            f"https://repo.sleeping.town/com/unascribed/unsup/{unsup_v}/unsup-{unsup_v}.jar",
-            unsup_jar_file
-        )
+        with open(unsup_jar_file, "wb") as f:
+            f.write(requests.get(f"https://repo.sleeping.town/com/unascribed/unsup/{unsup_v}/unsup-{unsup_v}.jar").content)
 
     # Create prism zip
     prism = generated_dir / f"{packwiz_info.name}.zip"
@@ -51,11 +48,10 @@ def main():
 
         with output_zip.open("mmc-pack.json", mode="w") as packjson:
             packjson.write(create_mmc_meta(packwiz_info, unsup_v).encode("utf-8"))
-        
+
         art_id = constants["art_id"]
-        with urllib.request.urlopen(f'https://github.com/ModFest/art/blob/v2/icon/64w/{art_id}/transparent.png?raw=true') as icon:
-            with output_zip.open(f"{icon_key}.png", mode="w") as icon_out:
-                icon_out.write(icon.read())
+        with output_zip.open(f"{icon_key}.png", mode="w") as f:
+            f.write(requests.get(f'https://github.com/ModFest/art/blob/v2/icon/64w/{art_id}/transparent.png?raw=true').content)
 
         with output_zip.open("patches/com.unascribed.unsup.json", mode="w") as patch:
             patch.write(create_unsup_patch(unsup_v).encode("utf-8"))
@@ -106,7 +102,7 @@ def create_unsup_patch(unsup_version):
 def create_mmc_meta(packwiz_info, unsup_version):
     meta: Any = {}
     meta["formatVersion"] = 1
-    
+
     components = []
     # Add mc component
     components.append({
@@ -114,14 +110,14 @@ def create_mmc_meta(packwiz_info, unsup_version):
             "uid": "net.minecraft",
             "version": packwiz_info.minecraft_version
         })
-    
+
     # Add unsup component
     components.append({
             "cachedName": "Una's Simple Updater",
             "cachedVersion": unsup_version,
             "uid": "com.unascribed.unsup"
         })
-    
+
     # Add loader component
     if packwiz_info.loader == "neoforge":
         components.append({
