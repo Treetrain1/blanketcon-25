@@ -198,7 +198,11 @@ def main():
     dotfabric = runtime_cache / ".fabric"
     dotfabric.mkdir(exist_ok=True, parents=True)
     os.symlink(dotfabric, exec_dir / ".fabric", target_is_directory=True)
-
+	#
+    # dotconnector = runtime_cache / ".connector"
+    # dotconnector.mkdir(exist_ok=True, parents=True)
+    # os.symlink(dotconnector, exec_dir / "mods" / ".connector", target_is_directory=True)
+    
     # Accept eula
     eula = exec_dir / "eula.txt"
     if not eula.exists():
