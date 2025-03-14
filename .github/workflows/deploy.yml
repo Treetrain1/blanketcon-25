@@ -3,7 +3,7 @@ name: Deploy modpack
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["main", "test"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,8 +29,17 @@ jobs:
   build_test_deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          ref: "main"
+
+      - name: Checkout test
+        uses: actions/checkout@v4
+        with:
+          ref: "test"
+          path: test
+          clean: false
 
       # Set up dependencies
 
@@ -61,8 +70,11 @@ jobs:
 
       # Build
 
-      - name: Build pack
+      - name: Build main pack
         run: python scripts/assemble_packwiz.py
+
+      - name: Build test pack
+        run: python test/scripts/assemble_packwiz.py
 
       # Setup test-runner cache
       - name: Generate cache key
@@ -87,10 +99,15 @@ jobs:
         with:
           distribution: 'temurin' # See 'Supported distributions' for available options
           java-version: '21'
-      - name: Test pack
+      - name: Test main pack
         run: python scripts/run_test.py
+      - name: Test test pack
+        run: python test/scripts/run_test.py
+
 
       # Deploy
+      - name: Copy test pack
+        run: cp -r test/generated/pack generated/pack/test
 
       - name: Configure pages
         id: pages
