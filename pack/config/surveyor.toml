@@ -13,16 +13,14 @@ structures = "DISABLED"
 # options: DISABLED, FROZEN, DYNAMIC, ENABLED
 # default: DYNAMIC
 landmarks = "DYNAMIC"
-# Whether to automatically add/remove nether portal landmarks
-# default: true
-netherPortalLandmarks = false
-# Whether to automatically add player death waypoints
-# default: true
-playerDeathLandmarks = false
-# Displays the following logs and messages:
-# [Action Bar] Structure Discovery
+# Logs structure discovery to the action bar.
+# E.g. 'Discovered Village Plains at [91, 63, -54]'
 # default: false
-debugMode = false
+discoveryMessages = false
+# Force-enables the following commands.
+# waypoints/landmarks raw | prints the raw SNBT of a landmark
+# default: false
+debugCommands = false
 
 [networking]
 	# [Server] Whether to place every player in a single share group
@@ -62,3 +60,16 @@ debugMode = false
 	# range: 1 - 200
 	# default: 1
 	positionTicks = 1
+
+[builtins]
+	# Which block entities to preserve data for when creating block landmarks.
+	allowedBlockEntities = ["minecraft:banner"]
+	# Which points of interest to automatically add block landmarks for.
+	poiLandmarks = []
+	# Whether to automatically add specialised nether portal POI landmarks.
+	# Creates one landmark for each nether portal, instead of one per portal block.
+	# default: true
+	netherPortalLandmarks = false
+	# Whether to automatically add player death waypoints
+	# default: true
+	playerDeathWaypoints = false
