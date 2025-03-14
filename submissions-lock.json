@@ -1529,28 +1529,28 @@
 	},
 	"familiar-magic": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
-					"hash-format": "sha1",
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
 				},
 				"filename": "fabric-api-0.115.1+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\familiar-magic.pw.toml": {
+			"mods/familiar-magic.pw.toml": {
 				"download": {
-					"hash": "dcd17fd7b2576fe955fc721dfff8c6064e297df2",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/xJ9YGQ49/familiar_magic-1.1.0.jar"
+					"hash": "c261e179936173f0cf4f91e0ff642cf249fcb496bec810a525fd25c5221aac4b046e524b10ffa3d701717c6cdd1311b182d49036e811c2f23388fcb0467ddb7f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/zEJ0kXlf/familiar_magic-1.1.1.jar"
 				},
-				"filename": "familiar_magic-1.1.0.jar",
+				"filename": "familiar_magic-1.1.1.jar",
 				"name": "familiar magic",
 				"side": "both"
 			}
 		},
-		"key": "99c31bd05b159766820c448dfe1da4b53ead515cac632d504314ca0c7345a295"
+		"key": "09836a886704263d54cc2983af4fe911985f90df1cb3271b0cad2bba7a0193e6"
 	},
 	"farmers-delight-refabricated": {
 		"files": {
@@ -3641,17 +3641,17 @@
 	},
 	"superposition": {
 		"files": {
-			"mods\\superposition.pw.toml": {
+			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "1f306d9e228c34ad76e8722769e33642e9a716b7abce4527df99d4cf270c2121",
+					"hash": "156dd97628a577e14b8e0d5ae8ef26bc3621a4aca652ecda5c4cb8ea6fecf3b2",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.5/superposition-fabric-1.21.1-0.2.5.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.6/superposition-fabric-1.21.1-0.2.6.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.5.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.6.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "daa340ac944c2dac5be28881e7bc3e8a11c48aba382cee5c7690127cb61ea9e7"
+		"key": "9195b27706caa51f954247c0316cec5ecd8f9d05d169582deab08437149b1032"
 	},
 	"surveyor": {
 		"files": {
