@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packwignore"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
@@ -23,6 +26,9 @@ file = "config/crunchy_crunchy_advancements.toml"
 file = "config/emi.css"
 
 [[files]]
+file = "config/familiar_friends.json"
+
+[[files]]
 file = "config/fireblanket/fireblanket.txt"
 
 [[files]]
@@ -30,6 +36,9 @@ file = "config/hoofprint.toml"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/modfest_sync/behaviour.properties"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
@@ -189,6 +198,10 @@ file = "mods/meret-6.0.0.jar"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modfest-role-sync.pw.toml"
 metafile = true
 
 [[files]]
@@ -434,6 +447,483 @@ file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/mtr_custom_resources.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/door_close_ann.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/door_open_bell.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/airhigh.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/airzero.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/brakefreq.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/brakevol.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/doorcls.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/dooropn.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/loop.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor0.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor1.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor2.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor3.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor4.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor5.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor6.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/motor7.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/point.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/powerfreq.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/powervol.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/rub.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/run.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/sound.cfg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/wholefamily.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cx_pis_cfg.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_base.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_base.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_wheel.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/bogie_wheel.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/gizmo.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/gizmo.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/main.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/metal.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/models.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/ann.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/cartoon_train.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/logo.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/logo_highlight.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_common.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_config_parser.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_head_side.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_company_logo.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_dest_info.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_interrupt.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_next_name.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/pis_page_route.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/seven_segment.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/particles.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/pis_config.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/pis_placeholder.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_connector.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_mini.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/s_train_mini.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/sound.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/tcjc_pis_cfg.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/mesh_test.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/player_driver.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab_driver.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab_driver.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cyanex_blue.js"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cyanex_blue.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle_adult.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle_adult.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/common_jp_stop_pos_sign.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_1.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_2.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/ground_2.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_1.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_1.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_2.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1.5_2.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_1.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_1.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_2.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/lshape1_2.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/metal.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_0.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_0.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_1.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.5.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.5.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/pole/roof_2.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_horizontal.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_horizontal.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_vertical.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/normal_vertical.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf1.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf10.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf11.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf12.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf13.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf14.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf15.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf2.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf3.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf4.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf5.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf6.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf7.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf8.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf9.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf_all.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/pf_all2.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/sign_horizontal.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/sign_vertical.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/forail_object.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/forail_railway_signage.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_pole.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_pole.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_texture.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_twall.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_twall.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_hkb_plat_1_platform_edge_1/hkl_hkb_plat_1_platform_edge_1_left.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_hkb_plat_1_platform_edge_1/hkl_hkb_plat_1_platform_edge_1_left.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_hkb_plat_1_platform_edge_1/hkl_hkb_plat_1_platform_edge_1_right.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_hkb_plat_1_platform_edge_1/hkl_hkb_plat_1_platform_edge_1_right.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_trial_ride_day_cardboard_cut_out/hkl_trial_ride_day_cardboard_cut_out.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_trial_ride_day_cardboard_cut_out/hkl_trial_ride_day_cardboard_cut_out.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/hkl_trial_ride_day_cardboard_cut_out/texture_flipped.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/jp_trap_point_em_1/jp_trap_point_em_1.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/jp_trap_point_em_1/jp_trap_point_em_1.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/jp_trap_point_em_1/jp_trap_point_em_1.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1_pull.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1_push.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/schwebe_support.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_pole.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/shonan_monorail_track.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.obj"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.png"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
