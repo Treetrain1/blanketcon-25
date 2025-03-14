@@ -40,7 +40,7 @@
 	},
 	"affinity": {
 		"files": {
-			"mods\\affinity.pw.toml": {
+			"mods/affinity.pw.toml": {
 				"download": {
 					"hash": "a45dd8cf093ab2518e16601817af3168d5625153",
 					"hash-format": "sha1",
@@ -50,7 +50,7 @@
 				"name": "Affinity",
 				"side": "both"
 			},
-			"mods\\cardinal-components-api.pw.toml": {
+			"mods/cardinal-components-api.pw.toml": {
 				"download": {
 					"hash": "bf272e2aa6e9e8a98e8e7a7ed8cc585fc18c59eb",
 					"hash-format": "sha1",
@@ -60,7 +60,7 @@
 				"name": "Cardinal Components API",
 				"side": "server"
 			},
-			"mods\\lavender.pw.toml": {
+			"mods/lavender.pw.toml": {
 				"download": {
 					"hash": "a1ecb564d1cff65e34a5dd60be893bd1d55d93bf",
 					"hash-format": "sha1",
@@ -70,7 +70,7 @@
 				"name": "Lavender",
 				"side": "both"
 			},
-			"mods\\owo-lib.pw.toml": {
+			"mods/owo-lib.pw.toml": {
 				"download": {
 					"hash": "14781b7426f95b96bf1d677c04af15b8704373d9",
 					"hash-format": "sha1",
@@ -80,7 +80,7 @@
 				"name": "o\u00cf\u2030o (owo-lib)",
 				"side": "both"
 			},
-			"mods\\terrablender.pw.toml": {
+			"mods/terrablender.pw.toml": {
 				"download": {
 					"hash": "4a969dae334681103d3a0977b9448be0c7f4fe07",
 					"hash-format": "sha1",
@@ -90,7 +90,7 @@
 				"name": "TerraBlender",
 				"side": "both"
 			},
-			"mods\\trinkets.pw.toml": {
+			"mods/trinkets.pw.toml": {
 				"download": {
 					"hash": "f54756f938c7c273713b9f97d4a987eec551e892",
 					"hash-format": "sha1",
@@ -140,7 +140,7 @@
 	},
 	"allium": {
 		"files": {
-			"mods\\allium.pw.toml": {
+			"mods/allium.pw.toml": {
 				"download": {
 					"hash": "531b04625ca060f09f877a3833559501b8389460",
 					"hash-format": "sha1",
@@ -255,7 +255,7 @@
 	},
 	"armorstandeditor": {
 		"files": {
-			"mods\\armorstandeditor.pw.toml": {
+			"mods/armorstandeditor.pw.toml": {
 				"download": {
 					"hash": "57ab8492dee30cbc73a693d061b60166f51083e5",
 					"hash-format": "sha1",
@@ -285,7 +285,7 @@
 	},
 	"autocut": {
 		"files": {
-			"mods\\autocut.pw.toml": {
+			"mods/autocut.pw.toml": {
 				"download": {
 					"hash": "7be6b19ec7bb36741258e8924c8104784db888a0",
 					"hash-format": "sha1",
@@ -295,7 +295,7 @@
 				"name": "Autocut",
 				"side": "client"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -305,7 +305,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\yacl.pw.toml": {
+			"mods/yacl.pw.toml": {
 				"download": {
 					"hash": "7198829e93b40b29ff3d67f441c8e2817499f903",
 					"hash-format": "sha1",
@@ -320,7 +320,7 @@
 	},
 	"automobility": {
 		"files": {
-			"mods\\automobility.pw.toml": {
+			"mods/automobility.pw.toml": {
 				"download": {
 					"hash": "39a4ceeafac4d4ab7fb896268550c85f5072e12e",
 					"hash-format": "sha1",
@@ -330,7 +330,7 @@
 				"name": "Automobility",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -380,7 +380,7 @@
 	},
 	"barkeep": {
 		"files": {
-			"mods\\barkeep.pw.toml": {
+			"mods/barkeep.pw.toml": {
 				"download": {
 					"hash": "44c59b897bc04ae4a8454230239abe3b37d302c5",
 					"hash-format": "sha1",
@@ -390,7 +390,7 @@
 				"name": "Barkeep",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -450,7 +450,7 @@
 	},
 	"beebuddy": {
 		"files": {
-			"mods\\beebuddy.pw.toml": {
+			"mods/beebuddy.pw.toml": {
 				"download": {
 					"hash": "2e53fdb557328ef0ad8c9b6c34c4a1c4831c0351",
 					"hash-format": "sha1",
@@ -460,7 +460,7 @@
 				"name": "Bee Buddies",
 				"side": "both"
 			},
-			"mods\\cardinal-components-api.pw.toml": {
+			"mods/cardinal-components-api.pw.toml": {
 				"download": {
 					"hash": "bf272e2aa6e9e8a98e8e7a7ed8cc585fc18c59eb",
 					"hash-format": "sha1",
@@ -470,7 +470,7 @@
 				"name": "Cardinal Components API",
 				"side": "server"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -485,7 +485,7 @@
 	},
 	"berry-bounty": {
 		"files": {
-			"mods\\berry-bounty.pw.toml": {
+			"mods/berry-bounty.pw.toml": {
 				"download": {
 					"hash": "8fa911449b7510593ae2183b67f4712babdc0322",
 					"hash-format": "sha1",
@@ -495,7 +495,7 @@
 				"name": "Berry Bounty",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -565,7 +565,7 @@
 	},
 	"boatism": {
 		"files": {
-			"mods\\boatism.pw.toml": {
+			"mods/boatism.pw.toml": {
 				"download": {
 					"hash": "d89b9605215fbc0e30fc46e3df39e201f3431cdd",
 					"hash-format": "sha1",
@@ -640,7 +640,7 @@
 	},
 	"bovines-and-buttercups": {
 		"files": {
-			"mods\\bovines-and-buttercups.pw.toml": {
+			"mods/bovines-and-buttercups.pw.toml": {
 				"download": {
 					"hash": "3efad27b64196af3defb559482e7b601f300a85a",
 					"hash-format": "sha1",
@@ -650,7 +650,7 @@
 				"name": "Bovines and Buttercups (Mooblooms)",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -720,7 +720,7 @@
 	},
 	"brewery": {
 		"files": {
-			"mods\\brewery.pw.toml": {
+			"mods/brewery.pw.toml": {
 				"download": {
 					"hash": "1411099121f39e7f013a5f9c4609fdbdccb382a9",
 					"hash-format": "sha1",
@@ -829,7 +829,7 @@
 	},
 	"cabbage-glasses": {
 		"files": {
-			"mods\\brewery.pw.toml": {
+			"mods/brewery.pw.toml": {
 				"download": {
 					"hash": "1411099121f39e7f013a5f9c4609fdbdccb382a9",
 					"hash-format": "sha1",
@@ -839,7 +839,7 @@
 				"name": "Patbox's Brewery",
 				"side": "server"
 			},
-			"resourcepacks\\cabbage-glasses.pw.toml": {
+			"resourcepacks/cabbage-glasses.pw.toml": {
 				"download": {
 					"hash": "069a4b859f6840102e3cfa326d883a38d4e8f406",
 					"hash-format": "sha1",
@@ -1042,7 +1042,7 @@
 	},
 	"chickensaurs": {
 		"files": {
-			"mods\\chickensaurs.pw.toml": {
+			"mods/chickensaurs.pw.toml": {
 				"download": {
 					"hash": "6890081c88fbab75ae1b2fe28e99bc6545a694c3",
 					"hash-format": "sha1",
@@ -1214,7 +1214,7 @@
 	},
 	"crystalline": {
 		"files": {
-			"mods\\crystalline.pw.toml": {
+			"mods/crystalline.pw.toml": {
 				"download": {
 					"hash": "fca3c375b2a3dab7ec16b404b168157c06cbfdb8",
 					"hash-format": "sha1",
@@ -1224,7 +1224,7 @@
 				"name": "Crystalline",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -1402,7 +1402,7 @@
 	},
 	"extended-drawers": {
 		"files": {
-			"mods\\extended-drawers.pw.toml": {
+			"mods/extended-drawers.pw.toml": {
 				"download": {
 					"hash": "5dc7344297a67c96f047727f7e1c6c13f440ca6c",
 					"hash-format": "sha1",
@@ -1412,7 +1412,7 @@
 				"name": "Extended Drawers",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -1452,7 +1452,7 @@
 	},
 	"extra-trinkets": {
 		"files": {
-			"mods\\extra-trinkets.pw.toml": {
+			"mods/extra-trinkets.pw.toml": {
 				"download": {
 					"hash": "16aace9d475d96930d829ca75159425d433b2fcd",
 					"hash-format": "sha1",
@@ -1462,7 +1462,7 @@
 				"name": "Extra Trinkets",
 				"side": "both"
 			},
-			"mods\\trinkets.pw.toml": {
+			"mods/trinkets.pw.toml": {
 				"download": {
 					"hash": "f54756f938c7c273713b9f97d4a987eec551e892",
 					"hash-format": "sha1",
@@ -1789,7 +1789,7 @@
 	},
 	"healing-pretty-good": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -1799,7 +1799,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\healing-pretty-good.pw.toml": {
+			"mods/healing-pretty-good.pw.toml": {
 				"download": {
 					"hash": "2d432754d3140f7d8222a51cbbc47137fdf361eb",
 					"hash-format": "sha1",
@@ -1809,7 +1809,7 @@
 				"name": "Healing Pretty Good",
 				"side": "both"
 			},
-			"mods\\midnightlib.pw.toml": {
+			"mods/midnightlib.pw.toml": {
 				"download": {
 					"hash": "16ebb706ffa9b9e3d5980f523bb3e16c95ecd429",
 					"hash-format": "sha1",
@@ -2012,7 +2012,7 @@
 	},
 	"item-descriptions": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2022,7 +2022,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\item-descriptions.pw.toml": {
+			"mods/item-descriptions.pw.toml": {
 				"download": {
 					"hash": "aad43610fe93443a2779c3f73cbba5b70361a5d3",
 					"hash-format": "sha1",
@@ -2037,7 +2037,7 @@
 	},
 	"its-as-shrimple-as-that": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2047,7 +2047,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\its-as-shrimple-as-that.pw.toml": {
+			"mods/its-as-shrimple-as-that.pw.toml": {
 				"download": {
 					"hash": "39fd9cadfe6a4fb94d9885f3fa873518565c8513",
 					"hash-format": "sha1",
@@ -2077,7 +2077,7 @@
 	},
 	"jsonpatcher": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2087,7 +2087,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\jsonpatcher.pw.toml": {
+			"mods/jsonpatcher.pw.toml": {
 				"download": {
 					"hash": "ead88bbef4901c49beb89a978c4017f11169a535",
 					"hash-format": "sha1",
@@ -2102,7 +2102,7 @@
 	},
 	"klaxon": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2112,7 +2112,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\klaxon.pw.toml": {
+			"mods/klaxon.pw.toml": {
 				"download": {
 					"hash": "9705026204b8e48c290cf371499dce742b837f6b",
 					"hash-format": "sha1",
@@ -2127,7 +2127,7 @@
 	},
 	"krender": {
 		"files": {
-			"mods\\krender.pw.toml": {
+			"mods/krender.pw.toml": {
 				"download": {
 					"hash": "17c0f09b6bf78e54fa3b7e4f1f7d42acce6f5c164ff5985fd2f9990981865485",
 					"hash-format": "sha256",
@@ -2226,7 +2226,7 @@
 	},
 	"mapshot": {
 		"files": {
-			"mods\\mapshot.pw.toml": {
+			"mods/mapshot.pw.toml": {
 				"download": {
 					"hash": "1105c0582a98e11ad9b48d747eab718b505c5feb",
 					"hash-format": "sha1",
@@ -2306,7 +2306,7 @@
 	},
 	"mod-descriptions": {
 		"files": {
-			"mods\\item-descriptions.pw.toml": {
+			"mods/item-descriptions.pw.toml": {
 				"download": {
 					"hash": "aad43610fe93443a2779c3f73cbba5b70361a5d3",
 					"hash-format": "sha1",
@@ -2316,7 +2316,7 @@
 				"name": "Item Descriptions",
 				"side": "client"
 			},
-			"resourcepacks\\mod-descriptions.pw.toml": {
+			"resourcepacks/mod-descriptions.pw.toml": {
 				"download": {
 					"hash": "571e0c0be9ff08d4eeb6bb4b6f62d75f8eb4a55a",
 					"hash-format": "sha1",
@@ -2339,7 +2339,7 @@
 	},
 	"moue-milkshakes": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2349,7 +2349,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\moue-milkshakes.pw.toml": {
+			"mods/moue-milkshakes.pw.toml": {
 				"download": {
 					"hash": "1d0123f22e4193c36e99f098ebe2e627b2dcd7c9",
 					"hash-format": "sha1",
@@ -2539,7 +2539,7 @@
 	},
 	"owo-lib": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2549,7 +2549,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\owo-lib.pw.toml": {
+			"mods/owo-lib.pw.toml": {
 				"download": {
 					"hash": "14781b7426f95b96bf1d677c04af15b8704373d9",
 					"hash-format": "sha1",
@@ -2593,7 +2593,7 @@
 	},
 	"petworks": {
 		"files": {
-			"mods\\petworks.pw.toml": {
+			"mods/petworks.pw.toml": {
 				"download": {
 					"hash": "24b4fda0dd6206ac57c084017ba8364e124dde45",
 					"hash-format": "sha1",
@@ -2603,7 +2603,7 @@
 				"name": "Petworks",
 				"side": "both"
 			},
-			"mods\\trinkets.pw.toml": {
+			"mods/trinkets.pw.toml": {
 				"download": {
 					"hash": "f54756f938c7c273713b9f97d4a987eec551e892",
 					"hash-format": "sha1",
@@ -2658,7 +2658,7 @@
 	},
 	"playercontainers": {
 		"files": {
-			"mods\\area_lib.pw.toml": {
+			"mods/area_lib.pw.toml": {
 				"download": {
 					"hash": "38f74c8dfe698027a172aeb903737c10ca189104",
 					"hash-format": "sha1",
@@ -2668,7 +2668,7 @@
 				"name": "Area Lib",
 				"side": "both"
 			},
-			"mods\\playercontainers.pw.toml": {
+			"mods/playercontainers.pw.toml": {
 				"download": {
 					"hash": "d4642c57348b9b56891a457a1c7aef3805807e63",
 					"hash-format": "sha1",
@@ -2753,7 +2753,7 @@
 	},
 	"polydex-bridge": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -2763,7 +2763,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\polydex-bridge.pw.toml": {
+			"mods/polydex-bridge.pw.toml": {
 				"download": {
 					"hash": "af217d4290d4528fdb9c42351bd53433d46080d5",
 					"hash-format": "sha1",
@@ -2773,7 +2773,7 @@
 				"name": "PolydexBridge",
 				"side": "both"
 			},
-			"mods\\polydex.pw.toml": {
+			"mods/polydex.pw.toml": {
 				"download": {
 					"hash": "688bf417ff7e65bef9729961481b593f422ac910",
 					"hash-format": "sha1",
@@ -2942,7 +2942,7 @@
 	},
 	"primordia": {
 		"files": {
-			"mods\\primordia.pw.toml": {
+			"mods/primordia.pw.toml": {
 				"download": {
 					"hash": "b6f06742e995dc237587b259ef8b1fe9b1c81064",
 					"hash-format": "sha1",
@@ -2957,7 +2957,7 @@
 	},
 	"pulchra-occultorum": {
 		"files": {
-			"mods\\pulchra-occultorum.pw.toml": {
+			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
 					"hash": "110cedcfb3c9742a164ba38fd0777fbff8f2c1e3",
 					"hash-format": "sha1",
@@ -3061,7 +3061,7 @@
 	},
 	"scarves": {
 		"files": {
-			"mods\\scarves.pw.toml": {
+			"mods/scarves.pw.toml": {
 				"download": {
 					"hash": "6f0689e6834046e1982517da19302eaed997b717",
 					"hash-format": "sha1",
@@ -3291,7 +3291,7 @@
 	},
 	"smarthome-appliances": {
 		"files": {
-			"mods\\fabric-language-kotlin.pw.toml": {
+			"mods/fabric-language-kotlin.pw.toml": {
 				"download": {
 					"hash": "b28cc99b01aef86d0d6ca3ea7f468512bd0595c4",
 					"hash-format": "sha1",
@@ -3301,7 +3301,7 @@
 				"name": "Fabric Language Kotlin",
 				"side": "both"
 			},
-			"mods\\smarthome-appliances.pw.toml": {
+			"mods/smarthome-appliances.pw.toml": {
 				"download": {
 					"hash": "f3939cc84fa7ffea11bf0968f4407ec06dd6e3aa",
 					"hash-format": "sha1",
@@ -3481,7 +3481,7 @@
 	},
 	"spirit-vector": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -3491,7 +3491,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\spirit-vector.pw.toml": {
+			"mods/spirit-vector.pw.toml": {
 				"download": {
 					"hash": "7329367b71e3222798ccb889cbbc63adbee83cee",
 					"hash-format": "sha1",
@@ -3581,7 +3581,7 @@
 	},
 	"stellaris": {
 		"files": {
-			"mods\\architectury-api.pw.toml": {
+			"mods/architectury-api.pw.toml": {
 				"download": {
 					"hash": "e71346a43c563e5784580dd096338acfb45f49d4",
 					"hash-format": "sha1",
@@ -3591,7 +3591,7 @@
 				"name": "Architectury API",
 				"side": "both"
 			},
-			"mods\\potentials.pw.toml": {
+			"mods/potentials.pw.toml": {
 				"download": {
 					"hash": "e5fb1307e5c39865e7c6078d48ad57311be77e39",
 					"hash-format": "sha1",
@@ -3601,7 +3601,7 @@
 				"name": "Potentials",
 				"side": "both"
 			},
-			"mods\\stellaris.pw.toml": {
+			"mods/stellaris.pw.toml": {
 				"download": {
 					"hash": "d1e2fc0172786e71eee926d06137ac73d3603cfc",
 					"hash-format": "sha1",
@@ -3616,7 +3616,7 @@
 	},
 	"subete-kowasu-no-nara-kuro-ni-nare-old": {
 		"files": {
-			"mods\\iris.pw.toml": {
+			"mods/iris.pw.toml": {
 				"download": {
 					"hash": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
 					"hash-format": "sha1",
@@ -3626,7 +3626,7 @@
 				"name": "Iris Shaders",
 				"side": "client"
 			},
-			"resourcepacks\\pridepack.pw.toml": {
+			"resourcepacks/pridepack.pw.toml": {
 				"download": {
 					"hash": "0e638d9666c9ac29ce93d847a08d2d731d8241b3",
 					"hash-format": "sha1",
@@ -3636,7 +3636,7 @@
 				"name": "Pride Pack",
 				"side": "client"
 			},
-			"shaderpacks\\subete-kowasu-no-nara-kuro-ni-nare-old.pw.toml": {
+			"shaderpacks/subete-kowasu-no-nara-kuro-ni-nare-old.pw.toml": {
 				"download": {
 					"hash": "c814fa35f743eb7cdd83b77dee719e403b6bc459",
 					"hash-format": "sha1",
@@ -3868,7 +3868,7 @@
 	},
 	"trickster": {
 		"files": {
-			"mods\\accessories.pw.toml": {
+			"mods/accessories.pw.toml": {
 				"download": {
 					"hash": "ad9c4029f69f6bc13fa354a832dcb7a93881e15d",
 					"hash-format": "sha1",
@@ -3878,7 +3878,7 @@
 				"name": "Accessories",
 				"side": "both"
 			},
-			"mods\\cicada.pw.toml": {
+			"mods/cicada.pw.toml": {
 				"download": {
 					"hash": "91fc0f20a4c32a7ca8b8b5e674957cd78dbb208d",
 					"hash-format": "sha1",
@@ -3888,7 +3888,7 @@
 				"name": "CICADA",
 				"side": "both"
 			},
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -3898,7 +3898,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\lavender.pw.toml": {
+			"mods/lavender.pw.toml": {
 				"download": {
 					"hash": "a1ecb564d1cff65e34a5dd60be893bd1d55d93bf",
 					"hash-format": "sha1",
@@ -3908,7 +3908,7 @@
 				"name": "Lavender",
 				"side": "both"
 			},
-			"mods\\owo-lib.pw.toml": {
+			"mods/owo-lib.pw.toml": {
 				"download": {
 					"hash": "14781b7426f95b96bf1d677c04af15b8704373d9",
 					"hash-format": "sha1",
@@ -3918,7 +3918,7 @@
 				"name": "o\u00cf\u2030o (owo-lib)",
 				"side": "both"
 			},
-			"mods\\trickster.pw.toml": {
+			"mods/trickster.pw.toml": {
 				"download": {
 					"hash": "cdfaac46ec2acbb6bd509faf4719aa0642fbaa7c",
 					"hash-format": "sha1",
@@ -4038,7 +4038,7 @@
 	},
 	"unlimitedperipheralworks": {
 		"files": {
-			"mods\\cc-tweaked.pw.toml": {
+			"mods/cc-tweaked.pw.toml": {
 				"download": {
 					"hash": "c560bfc6a2f7a416d21d239625de942f8def46c1",
 					"hash-format": "sha1",
@@ -4048,7 +4048,7 @@
 				"name": "CC: Tweaked",
 				"side": "both"
 			},
-			"mods\\fabric-language-kotlin.pw.toml": {
+			"mods/fabric-language-kotlin.pw.toml": {
 				"download": {
 					"hash": "b28cc99b01aef86d0d6ca3ea7f468512bd0595c4",
 					"hash-format": "sha1",
@@ -4058,7 +4058,7 @@
 				"name": "Fabric Language Kotlin",
 				"side": "both"
 			},
-			"mods\\forge-config-api-port.pw.toml": {
+			"mods/forge-config-api-port.pw.toml": {
 				"download": {
 					"hash": "e26f1b5dcdb1b05abe9c223bcf47057622afd432",
 					"hash-format": "sha1",
@@ -4068,7 +4068,7 @@
 				"name": "Forge Config API Port",
 				"side": "both"
 			},
-			"mods\\unlimitedperipheralworks.pw.toml": {
+			"mods/unlimitedperipheralworks.pw.toml": {
 				"download": {
 					"hash": "936bb49e6d85f615f8b283738828023e9df49a49",
 					"hash-format": "sha1",
@@ -4213,7 +4213,7 @@
 	},
 	"weird-wares": {
 		"files": {
-			"mods\\fabric-api.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "551227e92766a97a76c949cbcd616ece7d603ec7",
 					"hash-format": "sha1",
@@ -4223,7 +4223,7 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods\\weird-wares.pw.toml": {
+			"mods/weird-wares.pw.toml": {
 				"download": {
 					"hash": "46a54fbfc07417b356f7f0369442a8a63dc93db0",
 					"hash-format": "sha1",
@@ -4238,7 +4238,7 @@
 	},
 	"wheel-of-wacky": {
 		"files": {
-			"mods\\wheel-of-wacky.pw.toml": {
+			"mods/wheel-of-wacky.pw.toml": {
 				"download": {
 					"hash": "f57b2740f63351f5711a1b670c0a1f2d1f5a7e2b",
 					"hash-format": "sha1",
