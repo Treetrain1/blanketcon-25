@@ -1,13 +1,7 @@
-name = "Hoofprint"
-filename = "hoofprint-0.7.0+1.21.jar"
-side = "client"
+name = "hoofprint"
+filename = "hoofprint-0.8.0-alpha.1+1.21.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/8O6iJpuJ/versions/7SL16FQr/hoofprint-0.7.0%2B1.21.jar"
-hash-format = "sha1"
-hash = "46f3eaf3239587fe1316faf0521ab69788cb9c2b"
-
-[update]
-[update.modrinth]
-mod-id = "8O6iJpuJ"
-version = "7SL16FQr"
+url = "https://github.com/HestiMae/hoofprint/releases/download/v0.8.0-alpha.1%2B1.20/hoofprint-0.8.0-alpha.1+1.21.jar"
+hash-format = "sha256"
+hash = "5b4dcc1f7532643d6184f231b44d839341b697859fce42e6284a029ddd408793"
