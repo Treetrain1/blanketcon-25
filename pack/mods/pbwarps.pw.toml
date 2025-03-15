@@ -1,0 +1,15 @@
+name = "pbwarps"
+filename = "pbwarps-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Patbox/pbwarps/releases/download/0.1.0%2B1.21.1/pbwarps-0.1.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "942ab31b591bfefd9c2ad51e65ed763d9a1312bf9b261c5c10d9c008e5255d6a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Patbox/pbwarps"
+tag = "0.1.0+1.21.1"

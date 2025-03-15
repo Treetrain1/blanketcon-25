@@ -1,6 +1,6 @@
 name = "modfest-role-sync"
 filename = "modfest-role-sync-0.3.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://github.com/ModFest/modfest-role-sync/releases/download/0.3.1/modfest-role-sync-0.3.1.jar"
