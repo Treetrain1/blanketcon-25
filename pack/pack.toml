@@ -11,7 +11,7 @@ hash-format = "sha256"
 fabric = "0.16.10"
 minecraft = "1.21.1"
 unsup = "1.0.2"
-unsup-experimental = "1.1-pre7"
+unsup-experimental = "1.1-pre8"
 unsup-stable = "1.0.2"
 
 [options]
