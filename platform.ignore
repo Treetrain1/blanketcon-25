@@ -109,3 +109,6 @@ wandering-wizardry
 
 # NoClassDefFoundError: net/minecraft/class_310
 impenduits
+
+# Critical injection failure: @Inject annotation on operation_starcleave$restoreFrom could not find any targets matching 'restoreFrom' in net/minecraft/class_3222
+operation-starcleave
