@@ -104,3 +104,9 @@ smarthome-appliances
 
 # Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
 oceanic-weaponry
+
+# Parsing error loading recipe healpgood:polished_heart_crystal_stairsb_stonecutter | Not a JSON object: "healpgood:polished_heart_crystal_slab"
+healing-pretty-good
+
+# Double reload
+worldinajar
