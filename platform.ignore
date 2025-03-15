@@ -5,6 +5,8 @@
 # References a client class from server :pensive:
 snapshotmc
 boatism
+necessity
+chinese-ime
 
 # Client class error but it also gives a registry error afterwards
 charta
@@ -107,3 +109,6 @@ operation-starcleave
 
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
+
+# lightning potion mixin causes exception in ticking
+rods-from-god
