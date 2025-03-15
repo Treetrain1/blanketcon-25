@@ -1,15 +1,15 @@
 name = "modfest-role-sync"
-filename = "modfest-role-sync-0.3.0.jar"
+filename = "modfest-role-sync-0.3.1.jar"
 side = "server"
 
 [download]
-url = "https://github.com/ModFest/modfest-role-sync/releases/download/0.3.0/modfest-role-sync-0.3.0.jar"
+url = "https://github.com/ModFest/modfest-role-sync/releases/download/0.3.1/modfest-role-sync-0.3.1.jar"
 hash-format = "sha256"
-hash = "23449fae45ff6a1048543ec27f04f7a965e53d648f8028ad9d32eac888651542"
+hash = "3acdde2c75b45aabe9e626df7b9d2b355ab1afff61fe0db04d26a6b0b4a3d8b0"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ModFest/modfest-role-sync"
-tag = "0.3.0"
+tag = "0.3.1"
