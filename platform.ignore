@@ -11,6 +11,7 @@ weird-wares
 # References a client class from server :pensive:
 automobility
 snapshotmc
+boatism
 
 # Client class error but it also gives a registry error afterwards
 charta
@@ -28,3 +29,14 @@ paladins-furniture
 
 # crossbow already has builtin renderer
 omnicrossbow
+
+# Seems to do unsafe blockstate addition, which makes canary unhappy
+wilder-wild
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [dev.kleinbox.dancerizer.common.mixin.AnimationsForPlayerMixin]
+dancerizer
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
+hide-body-parts
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1308] via mixin [net.shirojr.pulchra_occultorum.mixin.MobEntityMixin]
+pulchra-occultorum
+# [Canary]: Tried to register a new EntityDataSerializer!
+affinity
