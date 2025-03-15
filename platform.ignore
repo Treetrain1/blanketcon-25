@@ -78,3 +78,6 @@ ubes-delight
 
 # Caused by: java.net.BindException: Address already in use: bind
 neomtr
+
+# screen flickering when changing screens, likely a conflict
+blur-plus
