@@ -57,6 +57,8 @@ affinity
 stellaris
 # [Canary]: Tried to register a new EntityDataSerializer! | TerraformBoatInitializer
 litavis
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1690] via mixin [net.frozenblock.trailiertales.mixin.common.boat.BoatMixin]
+trailier-tales
 
 # Packet:variant-swap:mapping  being sent is very large size:44110547 bytes (42MB)
 variant-swap
