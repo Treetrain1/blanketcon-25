@@ -81,3 +81,26 @@ neomtr
 
 # screen flickering when changing screens, likely a conflict
 blur-plus
+
+# mipmaps!!!
+
+# Texture crystalline:item/the_divider_handheld with size 45x44 limits mip level from 4 to 0
+crystalline
+
+# Texture armisteel:block/armisteel_bars_edge with size 2x16 limits mip level from 4 to 1
+armisteel
+
+# Texture zeldacraft:item/icon/mystery_icon with size 9x9 limits mip level from 1 to 0
+the-legend-of-steve
+
+# Texture twisted-and-carved:item/twisted_hand_glaive_big with size 36x36 limits mip level from 4 to 2
+twisted-and-carved
+
+# Texture primordia:block/table_texture with size 18x35 limits mip level from 2 to 0
+primordia
+
+# Texture smarthome_appliances:item/template_item with size 200x200 limits mip level from 4 to 3
+smarthome-appliances
+
+# Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
+oceanic-weaponry
