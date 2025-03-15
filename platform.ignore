@@ -59,3 +59,22 @@ affinity
 stellaris
 # [Canary]: Tried to register a new EntityDataSerializer! | TerraformBoatInitializer
 litavis
+
+# Packet:variant-swap:mapping  being sent is very large size:44110547 bytes (42MB)
+variant-swap
+
+# EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
+scarves
+
+#  Non [a-z0-9_.-] character in namespace of location: \u0003\u0000\u001Cbarkeep:blue_raspberry_s
+barkeep
+
+# Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
+cook-it
+
+# Unable to resolve texture due to reference chain inside->inside in ubesdelight:block/template_glass_cup_4
+frights-delight
+ubes-delight
+
+# Caused by: java.net.BindException: Address already in use: bind
+neomtr
