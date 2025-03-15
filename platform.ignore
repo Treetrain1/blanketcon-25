@@ -62,9 +62,6 @@ variant-swap
 # EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
 scarves
 
-#  Non [a-z0-9_.-] character in namespace of location: \u0003\u0000\u001Cbarkeep:blue_raspberry_s
-barkeep
-
 # Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
 cook-it
 
