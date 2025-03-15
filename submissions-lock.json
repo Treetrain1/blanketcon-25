@@ -283,6 +283,21 @@
 		},
 		"key": "8730f0bae65f06f25fbf54ac2e952271eb7888af2a3bff49e44262e5be79ba25"
 	},
+	"atta_v": {
+		"files": {
+			"mods\\atta_v.pw.toml": {
+				"download": {
+					"hash": "ee8daf2ca4deddc9b8aa1a868ad0595ef2bb2b514237905928bc10dfc2de28849b961006187ab2a45a5d56d21b065662ace0c7bec953f66c455a10f5e803a5ce",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/aePcNSjR/versions/tQsxqYmT/atta_v-1.0.1%2B1.21.1.jar"
+				},
+				"filename": "atta_v-1.0.1+1.21.1.jar",
+				"name": "All-Terrain Tripodal Attackers",
+				"side": "both"
+			}
+		},
+		"key": "29c5a32e1d85fb6867c13950095e85dd01774c5b5d0b32907c7840519e1187e4"
+	},
 	"autocut": {
 		"files": {
 			"mods/autocut.pw.toml": {
@@ -829,28 +844,28 @@
 	},
 	"cabbage-glasses": {
 		"files": {
-			"mods/brewery.pw.toml": {
+			"mods\\brewery.pw.toml": {
 				"download": {
-					"hash": "1411099121f39e7f013a5f9c4609fdbdccb382a9",
-					"hash-format": "sha1",
+					"hash": "f9df0247e4a89a4a5ed78ccb5dca01d4b60c5747afd3dc61971db69805a4949b584db5d9005c899a01f3debcf68a9c0549c5ccfd727bec87b99f1312f180c4a3",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/nr7cSJlY/versions/5YUeDUls/brewery-0.8.1%2B1.21.1.jar"
 				},
 				"filename": "brewery-0.8.1+1.21.1.jar",
 				"name": "Patbox's Brewery",
 				"side": "server"
 			},
-			"resourcepacks/cabbage-glasses.pw.toml": {
+			"resourcepacks\\cabbage-glasses.pw.toml": {
 				"download": {
-					"hash": "069a4b859f6840102e3cfa326d883a38d4e8f406",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/N5Z6XD09/versions/AuEKXtbw/%5BPOLYMER%5D%20Cabbage%20Glasses.zip"
+					"hash": "229b507dce17eb0829240c645407d04220b5caaf2bc9c127e57a5c9ac7095d529d14192989762d7ef4ea3dc9d9f10d9b0f1019de2ad558397f9db24bedfdaeb2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/N5Z6XD09/versions/aw5s5KkS/cabbage-glasses.zip"
 				},
-				"filename": "[POLYMER] Cabbage Glasses.zip",
+				"filename": "cabbage-glasses.zip",
 				"name": "Cabbage Glasses",
 				"side": "client"
 			}
 		},
-		"key": "b17cbb2a4868bd388fc6805d6ab002910eb086729800d302b6352bdde92a48d3"
+		"key": "3ab1e94f1c1895c9a6bd59a53fa38c8481bf620462f7936f8051fab20c98d890"
 	},
 	"cabbage-substances": {
 		"files": {
@@ -1057,17 +1072,17 @@
 	},
 	"chitinous_ties": {
 		"files": {
-			"mods/chitinous_ties.pw.toml": {
+			"mods\\chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "6241fbe64df2169099251d163c792a785d1a4bbd8b690fc10892de672a8acc584f2def4d231017763eee6df00b99af0f847151a45982ce9feb2aa7550b978b18",
+					"hash": "af346bd693a530ea84533199fe63f7cc0488975e62cf12a258f8fd4be39140819944397fbf8e0af3a2f5a0ec3f6972b85730e66ca3ca422668846fc3e4d3f4c2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/YbGanYPY/chitinous_ties-1.4.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/jUcYJrjM/chitinous_ties-1.5.0%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-1.4.0+1.21.1.jar",
+				"filename": "chitinous_ties-1.5.0+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
-			"mods/fabric-api.pw.toml": {
+			"mods\\fabric-api.pw.toml": {
 				"download": {
 					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
 					"hash-format": "sha512",
@@ -1077,18 +1092,18 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
-			"mods/owo-lib.pw.toml": {
+			"mods\\owo-lib.pw.toml": {
 				"download": {
-					"hash": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924",
+					"hash": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
 				},
-				"filename": "owo-lib-0.12.15+1.21.jar",
-				"name": "o\u03c9o (owo-lib)",
+				"filename": "owo-lib-0.12.15.1+1.21.jar",
+				"name": "o\u00cf\u2030o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "a953a28549109f623a60da31a8fda9b9874cd8ce562b609fc822e483a088147a"
+		"key": "e2a64636cc3c8134d4cc6b22a09211258f624f9ad09bb6bd3f4dc69b1ea3b132"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -1199,18 +1214,18 @@
 	},
 	"crossbow_scoping": {
 		"files": {
-			"mods/crossbow_scoping.pw.toml": {
+			"mods\\crossbow_scoping.pw.toml": {
 				"download": {
-					"hash": "e2af3d30d68528c4f7ba61784046e48ef506291b4de12a5e3d18e415106fa4fc0f56bb13f7d194227423b0eca3d3a28fa8a88456966c76b69593adb6c4b5a201",
+					"hash": "7b29f2463679baac1d24c3093196141b730e458d5b65a21c9edc577ffbee1262befd4b4957ff34d2ff0d3c63d04e1a1ff89c63fa2a36243efb5561419b48a0e6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/FnccFWhR/versions/BOrPguhU/crossbow_scoping-1.0.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/FnccFWhR/versions/kDSTYQDJ/crossbow_scoping-1.0.2%2B1.21.1.jar"
 				},
-				"filename": "crossbow_scoping-1.0.1+1.21.1.jar",
+				"filename": "crossbow_scoping-1.0.2+1.21.1.jar",
 				"name": "Crossbow Scoping",
 				"side": "both"
 			}
 		},
-		"key": "b0035332b8304bbdff84a75643c7b81082da2ac8ee25cf982641f1b0ba675a2f"
+		"key": "4f92f63ed435efb442de17d8e4fa2112a01403ea7b350420a006ef6ef0bf91ee"
 	},
 	"crystalline": {
 		"files": {
@@ -1301,6 +1316,10 @@
 		},
 		"key": "359a87161d2d4d57fcaf29da0253bbe7a042f9ebd0275cadeac6fd53b3de1bf4"
 	},
+	"desolated_pastels": {
+		"files": {},
+		"key": "2607ef6b9fff2f53492616b39aa9623dc841055339eec6136c4ff0f06849cfe8"
+	},
 	"electromechanics": {
 		"files": {
 			"mods/electromechanics.pw.toml": {
@@ -1372,8 +1391,19 @@
 		"key": "1501149ff01698fd63469e8a8e87b49d611f70589333416b807759f9b9a92e92"
 	},
 	"enchiridion": {
-		"files": {},
-		"key": "7a72d69b5b6bb04189cfdf4c62311bff67cdc75902049552a24f12081a29abf0"
+		"files": {
+			"mods\\enchiridion.pw.toml": {
+				"download": {
+					"hash": "3eaee76aea67c83696f872f5db614ba3d26e98e9a4d4b68b45b93af75afd14ae9e2a0d3972bd6ca717f294a72957b1acd3a66c3d7fd41d4885b168e5709498d3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/BuRVV2kZ/enchiridion-fabric-0.1.0-bc25.3%2B1.21.1.jar"
+				},
+				"filename": "enchiridion-fabric-0.1.0-bc25.3+1.21.1.jar",
+				"name": "Enchiridion",
+				"side": "both"
+			}
+		},
+		"key": "74df1835dfcd2f074c05eb64dde905af831c5d22e17a8cec80ce6675620b8092"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1917,6 +1947,21 @@
 		},
 		"key": "5e97dd671ed7a598da5a33ac6eecd58e3a1da4308a7ac9e8b8abc273556588c1"
 	},
+	"hyphapiracea": {
+		"files": {
+			"mods\\hyphapiracea.pw.toml": {
+				"download": {
+					"hash": "90d3da73aacf205262449254b9461aa21ca133b3b1d02d68df95ee1b305da210f1f94c024e000ee7d5d151c7fa880c544b1a4e1c0cf45bf87ce6158a829ee81c",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/3RLDNmfr/hyphapiracea-fabric-mc1.21.1-0.1.3.jar"
+				},
+				"filename": "hyphapiracea-fabric-mc1.21.1-0.1.3.jar",
+				"name": "HyphaPiracea",
+				"side": "both"
+			}
+		},
+		"key": "e23ebcc53a35a4ac06511094e3d1f2f73d36955bbb98b0851d797d643cf6bc46"
+	},
 	"immersivemc": {
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -2209,21 +2254,6 @@
 		},
 		"key": "fe740389a0b2a319d291524495223416f524bcb11a937a538ccec0e4501be20e"
 	},
-	"map-shirts": {
-		"files": {
-			"mods/map-shirts.pw.toml": {
-				"download": {
-					"hash": "8bcf45bacf2157f83ab29147cd5417a1e67874a9180362b9202f04f91996c6993f18a3ae9114341bb48ae9e4ad3b3fcecc65ca640498b8180d935785ade4640b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qdvOQbm0/versions/z0TfViwH/MapShirts-0.7.0.jar"
-				},
-				"filename": "MapShirts-0.7.0.jar",
-				"name": "Map Shirts",
-				"side": "both"
-			}
-		},
-		"key": "a17ddf2e6b1546d1f0fbdb2d0c00e475a78eb803d82752125162d5aa7fabf378"
-	},
 	"mapshot": {
 		"files": {
 			"mods/mapshot.pw.toml": {
@@ -2278,6 +2308,21 @@
 			}
 		},
 		"key": "e953fe056729af21e85ca747cee6dcfab56a1aac164617dad456c3189b8bb2b4"
+	},
+	"mirthdew-encore": {
+		"files": {
+			"mods\\mirthdew-encore.pw.toml": {
+				"download": {
+					"hash": "77e3f01e9d6951aa3caf9ce9c7c96b81798794025aa24ad721e3d4c77c833bf2b36f5139a23d0ac6f00af3b325079d6acb12d0993ce131629698669140780bc3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/LFMwgWDl/versions/qbta1mO4/mirthdew_encore-fabric-mc1.21.1-0.2.0.jar"
+				},
+				"filename": "mirthdew_encore-fabric-mc1.21.1-0.2.0.jar",
+				"name": "Mirthdew Encore",
+				"side": "both"
+			}
+		},
+		"key": "baa7cf21b13439fd64418cc24517f4cd80337deb6639cbdf5d80864845d4ccc0"
 	},
 	"missing-wilds": {
 		"files": {
@@ -2522,6 +2567,21 @@
 		},
 		"key": "1d241886e0f3ab25f5530b68734afecc338c545a752570b9f094320d6589f219"
 	},
+	"operation-starcleave": {
+		"files": {
+			"mods\\operation-starcleave.pw.toml": {
+				"download": {
+					"hash": "1660eb8f7ab75a0ea886344ec8b0d9071b370b54f67885d37ce6a5284a6254df815c6492092a3b9f4eb3160990d19e3ded45623c5fb399a10940228ad76cc5e2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/6EXJCB46/versions/ohwjWHY1/operation_starcleave-fabric-mc1.21.1-0.2.0.jar"
+				},
+				"filename": "operation_starcleave-fabric-mc1.21.1-0.2.0.jar",
+				"name": "Operation: Starcleave",
+				"side": "both"
+			}
+		},
+		"key": "a3030d830376a4fb6431dc0a90cf778b0dcbd56f9ffa22f115499f210d0f4653"
+	},
 	"ouch": {
 		"files": {
 			"mods/ouch.pw.toml": {
@@ -2561,6 +2621,31 @@
 			}
 		},
 		"key": "5b50cdabd407bcec78419c82f2dda3d13f2da7601110b928f05b3e3a90a53d82"
+	},
+	"oxide": {
+		"files": {
+			"mods\\moonlight.pw.toml": {
+				"download": {
+					"hash": "4efed0048bd2a6fd58fd6015389f7a2cd6053f718a659b45a82a5e23eb7f61ad6fa4c3c4f1ae4ce609af4c18debb1340520786e34d9f1e532386f24675416738",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/a5AjBsRP/moonlight-1.21-2.17.36-fabric.jar"
+				},
+				"filename": "moonlight-1.21-2.17.36-fabric.jar",
+				"name": "Moonlight Lib",
+				"side": "both"
+			},
+			"mods\\oxide.pw.toml": {
+				"download": {
+					"hash": "3910992d21523f217d6a2b3eaa0b688e8786d357c0e983bf7823a5ca939f9dba56a292244da92eb8f558de85a27d1df74a4d10c04a7a16f67d80a973c617474c",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/16FXjwmk/oxide-1.21.1-0.1.1-fabric.jar"
+				},
+				"filename": "oxide-1.21.1-0.1.1-fabric.jar",
+				"name": "Oxide",
+				"side": "both"
+			}
+		},
+		"key": "6ac4f5a843305802fe52bb6e63935aa5ae154246a9922e92e6e8a3989dccf1ac"
 	},
 	"paladins-furniture": {
 		"files": {
@@ -3373,41 +3458,6 @@
 			}
 		},
 		"key": "6c6b4627f35daa257f4b27512a0c274a9a22bffce2d726cb71c3d95621369163"
-	},
-	"softer-pastels": {
-		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
-			"mods/fabric-language-kotlin.pw.toml": {
-				"download": {
-					"hash": "8e3609ef53a731c5509b304397e7fd4e37f2bbb4353b0d6234e74438846f0464743022f3339ba4f5acf21b023c80420ce59c194c1dfb11aeb79caffa6f842fb6",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar"
-				},
-				"filename": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
-				"name": "Fabric Language Kotlin",
-				"side": "both"
-			},
-			"mods/softer-pastels.pw.toml": {
-				"download": {
-					"hash": "ae096629394f26426b6db15cd666a22f05545d81d82c0a9b0dfa6dee6043939f0f1f1f1346f9360ab2208c2bd41b311b3538f0506ab5eef72ee2df086bc881df",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ls8M8ohO/versions/LzQIXe2Z/SofterPastels-0.9.0.jar"
-				},
-				"filename": "SofterPastels-0.9.0.jar",
-				"name": "Softer Pastels",
-				"side": "both"
-			}
-		},
-		"key": "fdf19fd6733aafadf82e7e639e81515b6f210bed254ffa3e681872d0463ab9b0"
 	},
 	"soteria": {
 		"files": {
