@@ -197,6 +197,10 @@ metafile = true
 file = "mods/meret-6.0.0.jar"
 
 [[files]]
+file = "mods/meret.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 metafile = true
 
