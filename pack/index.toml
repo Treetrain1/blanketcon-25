@@ -229,10 +229,6 @@ file = "mods/polymer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/qdwarp.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/quicker-connect-button.pw.toml"
 metafile = true
 
