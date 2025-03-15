@@ -16,35 +16,17 @@ boatism
 # Client class error but it also gives a registry error afterwards
 charta
 
-# Conflict with fireblanket
-accessories
-# Depends on accessories
-hibernal-herbs
-
 # Unknown mixin error
 default-components
 
 # datapack error?
 paladins-furniture
 
-# crossbow already has builtin renderer
+# minecraft:crossbow already has builtin renderer
 omnicrossbow
-
-# Seems to do unsafe blockstate addition, which makes canary unhappy
-wilder-wild
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [dev.kleinbox.dancerizer.common.mixin.AnimationsForPlayerMixin]
-dancerizer
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
-hide-body-parts
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1308] via mixin [net.shirojr.pulchra_occultorum.mixin.MobEntityMixin]
-pulchra-occultorum
-# [Canary]: Tried to register a new EntityDataSerializer!
-affinity
 
 # java.lang.NoClassDefFoundError: net/tslat/smartbrainlib/api/SmartBrainOwner
 chickensaurs
-# I frankly cannot keep up with these errors for now
-canary-safety
 
 # errors, provided by 'veil' | injection failure: @Inject annotation on updateMousePosAndButtons
 superposition
@@ -61,6 +43,22 @@ brewery
 builderdash
 polydecorations
 polydex
-polydexbridge
-polymer
+polydex-bridge
 polysit
+
+# Canary!
+
+# [Canary]: Unsafe vanilla blockstate addition
+wilder-wild
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [dev.kleinbox.dancerizer.common.mixin.AnimationsForPlayerMixin]
+dancerizer
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
+hide-body-parts
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1308] via mixin [net.shirojr.pulchra_occultorum.mixin.MobEntityMixin]
+pulchra-occultorum
+# [Canary]: Tried to register a new EntityDataSerializer!
+affinity
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] from [com.st0x0ef.stellaris.common.registry.EntityData]
+stellaris
+# [Canary]: Tried to register a new EntityDataSerializer! | TerraformBoatInitializer
+litavis

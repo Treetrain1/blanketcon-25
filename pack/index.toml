@@ -83,6 +83,10 @@ file = "config/waila/waila_plugins.json"
 file = "config/wwizardry.json"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
