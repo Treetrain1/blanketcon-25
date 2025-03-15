@@ -2210,15 +2210,15 @@
 		"files": {
 			"mods/krender.pw.toml": {
 				"download": {
-					"hash": "0dd83b57c3c38f4fc12f52c3be868f42fa3e41ea0f0623c95476075deb6a7721",
+					"hash": "17c0f09b6bf78e54fa3b7e4f1f7d42acce6f5c164ff5985fd2f9990981865485",
 					"hash-format": "sha256",
-					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.1.0/krendershowcase-1.1.0.jar"
+					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.0.0/krendershowcase-1.0.0.jar"
 				},
-				"filename": "krendershowcase-1.1.0.jar",
+				"filename": "krendershowcase-1.0.0.jar",
 				"name": "krender"
 			}
 		},
-		"key": "5a6354a440b8edea6bca1e4403e6740485794ec8d202523f3680064140be918f"
+		"key": "ef63df9c314c30afc493cfbe6177aaf909ef63c2ce6828e322c131ec537af98f"
 	},
 	"lilium": {
 		"files": {
