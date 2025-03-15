@@ -53,7 +53,7 @@ affinity
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
 # [Canary]: Unsafe BlockState property addition via mixin [com.bug1312.vortex.mixin.waypoint.sign.SignBlocksMixin]
-bugvortex
+# bugvortex
 
 # EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
 scarves
@@ -108,6 +108,3 @@ impenduits
 
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
-
-# lightning potion mixin causes exception in ticking
-rods-from-god
