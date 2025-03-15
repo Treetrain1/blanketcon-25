@@ -31,15 +31,15 @@ superposition
 # flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul
 flw-vanillin
 
-# IndexOutOfBoundsException: readerIndex(22794) + length(1) exceeds writerIndex(22794) | polymer.core.impl.networking.payloads.s2c.PolymerItemGroupContentAddS2CPayload.read
+# [18:41:56] [Server thread/WARN]: Took more than 5 seconds to generate complete state map for polyfactory:wall_with_cable/extravaganza/magenta_split_festive_rubber_wall. This block is likely improperly using properties. State count: 2048. 5504ms elapsed.
 polyfactory
-cc-polymer
-brewery
-builderdash
-polydecorations
-polydex
-polydex-bridge
-polysit
+# cc-polymer
+# brewery
+# builderdash
+# polydecorations
+# polydex
+# polydex-bridge
+# polysit
 
 # Canary!
 
@@ -115,3 +115,6 @@ operation-starcleave
 
 # t/minecraft/class_1685::enchiridion$setToOffhandIfNecessary with priority 1000 cannot inject into net/minecraft/class_1685::method_34713(Lnet/minecraft/class_1657;)Z merged by net.hollowed.combatamenities.mixin.TridentEntityMixin with priority 1000
 enchiridion
+
+# noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
+scriptor-magicae
