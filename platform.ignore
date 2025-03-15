@@ -51,6 +51,8 @@ affinity
 stellaris
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
+# [Canary]: Unsafe BlockState property addition via mixin [com.bug1312.vortex.mixin.waypoint.sign.SignBlocksMixin]
+bugvortex
 
 # EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
 scarves
