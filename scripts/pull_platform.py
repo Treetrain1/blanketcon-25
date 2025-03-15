@@ -93,7 +93,7 @@ def main():
 					packwiz_data = tomllib.loads(common.read_file(tmpdir / packwiz_meta))
 					if "update" in packwiz_data:
 						del packwiz_data["update"]
-					files[str(packwiz_meta.relative_to(tmpdir))] = packwiz_data
+					files[str(packwiz_meta.relative_to(tmpdir)).replace("\\", "/")] = packwiz_data
 				if len(files) == 0:
 					print(f"{Ansi.WARN}Packwiz didn't generate any mod files for {mod_id}{Ansi.RESET}")
 				lock_info["files"] = files

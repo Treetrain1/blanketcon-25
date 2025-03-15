@@ -337,11 +337,11 @@
 		"files": {
 			"mods/automobility.pw.toml": {
 				"download": {
-					"hash": "c8719fbf1127dd231edab831d7b69f06a399614f5d20ec23fd24bc127939f49dd099638bbfa2f57c9cf3914e87b4cdaf656c9521f518333581fb816f2a46481a",
+					"hash": "c68c4561defdc68e54e5e3811d71db5b7b298da31f7f4e166615abdad4c49183a3c13d6d15f54aa250e6b7023cb036338d290d01b5ccac8740160a7370efcd9d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/aPZ5M4XA/automobility-0.5.0.c%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/RACoEepT/automobility-0.5.0.d%2B1.21.1-fabric.jar"
 				},
-				"filename": "automobility-0.5.0.c+1.21.1-fabric.jar",
+				"filename": "automobility-0.5.0.d+1.21.1-fabric.jar",
 				"name": "Automobility",
 				"side": "both"
 			},
@@ -356,7 +356,7 @@
 				"side": "both"
 			}
 		},
-		"key": "7c3894d8e0bc7ca8325b68a0376a41bc66245e9c040a1d2d99092b05194e0d44"
+		"key": "4a773283bb35bc2139012eca6da794d71dae401e3ee1db950a9e89cf94bd55f1"
 	},
 	"autowhitelist": {
 		"files": {
@@ -1394,16 +1394,26 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "3eaee76aea67c83696f872f5db614ba3d26e98e9a4d4b68b45b93af75afd14ae9e2a0d3972bd6ca717f294a72957b1acd3a66c3d7fd41d4885b168e5709498d3",
+					"hash": "c9f2191f611a76290e234c70fd7cf7af25249baa582fc34a701521fb73fdecde4aa6195983650198481b4c9b0a31a78aaf2de4032dc7fc0634c18b797f46c6fb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/BuRVV2kZ/enchiridion-fabric-0.1.0-bc25.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/vUOZT104/enchiridion-fabric-0.1.0-bc25.4%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.3+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.4+1.21.1.jar",
 				"name": "Enchiridion",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "74df1835dfcd2f074c05eb64dde905af831c5d22e17a8cec80ce6675620b8092"
+		"key": "7378e6a447b5b3c44f7d84e3a9d0bb7f7758ee1032ba50c9410ade412fa6f37b"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1767,31 +1777,6 @@
 		},
 		"key": "5d59e2b88ecbb08b7ffe9d99d7151edc7dc5e211aa8d808fe646065d63ad09b6"
 	},
-	"green-screen": {
-		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
-			"mods/green-screen.pw.toml": {
-				"download": {
-					"hash": "6889826f9e73bf0a4646535fbfb959a5d9378066d7197af25d51751ce7cedc83ca5029968c75d2e6d46acea6ca8f5d3341a797616775c806d3c79d22fc5cde96",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ixqupd0G/versions/cUJwGbuE/green_screen-2.0.0%2Bmc1.21.jar"
-				},
-				"filename": "green_screen-2.0.0+mc1.21.jar",
-				"name": "Green Screen",
-				"side": "both"
-			}
-		},
-		"key": "be4b248ad93ee4c657b45ac838076e69f4408793d82050014f179bc7e11008d9"
-	},
 	"have-another-pretty-particle-yayyyyyyyy": {
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -2001,16 +1986,16 @@
 			},
 			"mods/impenduits.pw.toml": {
 				"download": {
-					"hash": "1902f1e9400265be4c5d234c6619b3efdcf5342372a1d63ff9e9753bdf8d40ada137e4c70fd4627964917370de10b7fa982412a4dbae35ea11e7b30e22e6f4ca",
+					"hash": "8e76e173f24cff4c62428372b59bab2fcce936e0a3cd9ac385375fd8b4534665149c5cad6a06ebc31ed824cdad7befe6c6a51b09b1f3cfd77d7512f41db343e9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iYrQWVBW/versions/KsSqOAEH/impenduits-1.0.3-1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/iYrQWVBW/versions/X60jMWdg/impenduits-1.0.4-1.21.1-fabric.jar"
 				},
-				"filename": "impenduits-1.0.3-1.21.1-fabric.jar",
+				"filename": "impenduits-1.0.4-1.21.1-fabric.jar",
 				"name": "Impenduits",
 				"side": "both"
 			}
 		},
-		"key": "d98c304e83a848f49b53e9d9ca6c4f9306cd2b5ceaa2835b76142de60c96256a"
+		"key": "3b2990685d6600755e6744aec43b03552620049d15a807d11874938e8bc0dcde"
 	},
 	"impillagers": {
 		"files": {
@@ -2203,16 +2188,16 @@
 		"files": {
 			"mods/litavis.pw.toml": {
 				"download": {
-					"hash": "1d72ddcd85471c49e249025b45563de6efd103e58195183787c486f5368f99aba0bff7191415aa79a956c2e2422a57cb9b0b6645bbe9c25a6d9bce04b8a1fe68",
+					"hash": "b3a75205bd58cb479d4be01cae3db82070a6ddfcd9770babca418132b42e054211ce8c381071f8f2f0a7c0f570298c794a4eccf7563b22ce569cc5abcfa16d71",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mhPG3DFs/versions/PSuXCOBS/litavis-1.1rc1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/mhPG3DFs/versions/3fK2e7he/litavis-1.2a-1.21.1.jar"
 				},
-				"filename": "litavis-1.1rc1-1.21.1.jar",
+				"filename": "litavis-1.2a-1.21.1.jar",
 				"name": "Litavis",
 				"side": "both"
 			}
 		},
-		"key": "a723779b51d40e4adc1707c3ece7f5e7d7a7882571d983330bbf8ef47637ea20"
+		"key": "59a5ca49a50f733337ad31267870d3a4c993d5a0b71cb1e6ffbb1dfb726e7097"
 	},
 	"magic-8-ball": {
 		"files": {
@@ -2379,8 +2364,39 @@
 		"key": "7de202390244d95460488362749ad9e6702dcf823e315a4c57551e5429018547"
 	},
 	"monthofswords": {
-		"files": {},
-		"key": "0846d321be45f01fb60dee5862660e94ee5cb24589ea3ad9f83d771ca9683238"
+		"files": {
+			"mods/architectury-api.pw.toml": {
+				"download": {
+					"hash": "7a24a0481732c5504b07347d64a2843c10c29e748018af8e5f5844e5ea2f4517433886231025d823f90eb0b0271d1fa9849c27e7b0c81476c73753f79f19302a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar"
+				},
+				"filename": "architectury-13.0.8-fabric.jar",
+				"name": "Architectury API",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/monthofswords.pw.toml": {
+				"download": {
+					"hash": "8da0d509cc4be190a017913904a9d9b0a7d188617198caeaa50b983ccfab36cc047f7b2e5f4f8c6e485ee386af5ab1bfcf6f6e391b3d836be71a458b380d8779",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/XezKDvhL/versions/oLZgalRX/monthofswords-fabric-1.17.0.jar"
+				},
+				"filename": "monthofswords-fabric-1.17.0.jar",
+				"name": "Month Of Swords",
+				"side": "both"
+			}
+		},
+		"key": "d21b1a691c867a9919d605d02ece0841fc15c0da5f9f83319c4a72feeeae4853"
 	},
 	"moue-milkshakes": {
 		"files": {
@@ -4135,16 +4151,16 @@
 		"files": {
 			"mods/variant-swap.pw.toml": {
 				"download": {
-					"hash": "050edccce5c422a5928f1e3420ff29f548d5536745dbfeeab5c0dd48d371ad6da0c61cec8f2dab1d86be9fb9578c955d2e36b981bff036e5f2b8fc802c64a93b",
+					"hash": "9d30c98e3cd2a43cd5f8104f8d4d2e376655937bf6b40c4e69d810bc65d686898d10659b21922c4ca4e5752edaf8b13984f54ec13975df229fafd46b03498782",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/Jk5ZVvdV/variant-swap-1.21-v0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/15T3KCr3/variant-swap-1.21-v0.1.1.jar"
 				},
-				"filename": "variant-swap-1.21-v0.1.0.jar",
+				"filename": "variant-swap-1.21-v0.1.1.jar",
 				"name": "Variant Swap",
 				"side": "both"
 			}
 		},
-		"key": "af03644c339ac6e85563e0fe99a42e9e473c54017daacba3cc719a7c7c92a04d"
+		"key": "59fbed87e49faab292b4857c79bd2e5afaeb108f25b44b956ff1d8cb62071a9e"
 	},
 	"village-healthcare": {
 		"files": {

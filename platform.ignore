@@ -2,11 +2,7 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# fabric.mod.json isn't marked to support minecraft 1.21.1
-weird-wares
-
 # References a client class from server :pensive:
-automobility
 snapshotmc
 boatism
 
@@ -55,6 +51,8 @@ affinity
 stellaris
 # [Canary]: Tried to register a new EntityDataSerializer! | TerraformBoatInitializer
 litavis
+# [Canary]: Tried to register a new EntityDataSerializer!
+automobility
 
 # Packet:variant-swap:mapping  being sent is very large size:44110547 bytes (42MB)
 variant-swap
@@ -112,9 +110,6 @@ impenduits
 
 # Critical injection failure: @Inject annotation on operation_starcleave$restoreFrom could not find any targets matching 'restoreFrom' in net/minecraft/class_3222
 operation-starcleave
-
-# t/minecraft/class_1685::enchiridion$setToOffhandIfNecessary with priority 1000 cannot inject into net/minecraft/class_1685::method_34713(Lnet/minecraft/class_1657;)Z merged by net.hollowed.combatamenities.mixin.TridentEntityMixin with priority 1000
-enchiridion
 
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
