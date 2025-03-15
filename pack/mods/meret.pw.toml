@@ -1,0 +1,15 @@
+name = "Meret"
+filename = "meret-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ModFest/Meret/releases/download/6.0.1%2Ba/meret-6.0.1.jar"
+hash-format = "sha256"
+hash = "a933b26b54f7f88fe46646effd064d8b0deab455acf4a709b51083cdbd6fe42a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ModFest/Meret"
+tag = "6.0.1+a"
