@@ -85,9 +85,6 @@ twisted-and-carved
 # Texture primordia:block/table_texture with size 18x35 limits mip level from 2 to 0
 primordia
 
-# Texture smarthome_appliances:item/template_item with size 200x200 limits mip level from 4 to 3
-smarthome-appliances
-
 # Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
 oceanic-weaponry
 
