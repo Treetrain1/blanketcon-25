@@ -2,9 +2,6 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# Doesn't have a direct download url at present
-krender
-
 # fabric.mod.json isn't marked to support minecraft 1.21.1
 weird-wares
 
