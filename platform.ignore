@@ -49,8 +49,6 @@ pulchra-occultorum
 affinity
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] from [com.st0x0ef.stellaris.common.registry.EntityData]
 stellaris
-# [Canary]: Tried to register a new EntityDataSerializer! | TerraformBoatInitializer
-litavis
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
 
