@@ -789,7 +789,18 @@
 		"key": "96143c8d06c771d6f0fbff6aaac4f1f4c5255c12f1a6e4087d18ad5819304425"
 	},
 	"bugvortex": {
-		"files": {},
+		"files": {
+			"mods/bugvortex.pw.toml": {
+				"download": {
+					"hash": "2b21b660851510a895229a51d97a5218201a8e652c75756b0729c3b7ad31957f83f51dd558852f38f8ca71d9d3fe5bc1aef86d12b5b196c424ec6baa296e2718",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/orUrVv1n/versions/cVSH006a/vortex-0.1.1-rc.4%2Bbc25.jar"
+				},
+				"filename": "vortex-0.1.1-rc.4+bc25.jar",
+				"name": "Vortex",
+				"side": "both"
+			}
+		},
 		"key": "cc7c272547bdf590ec08a1863cae9dd74c0eab7c2fbcfed05ca3ac29936507dd"
 	},
 	"builderdash": {
