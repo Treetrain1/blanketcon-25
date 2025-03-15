@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwignore"
-
-[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
@@ -412,6 +409,18 @@ file = "resources/common/required/mf_music/pack.png"
 file = "resources/common/required/mf_shards/assets/modfest/lang/en_us.json"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avacado_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avacado_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_front.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_backing.png"
 
 [[files]]
@@ -422,6 +431,12 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/c
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_front.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
