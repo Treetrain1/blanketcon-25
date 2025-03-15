@@ -109,3 +109,6 @@ worldinajar
 
 # Detected setBlock in a far chunk [-33, -16], pos: class_2338{x=-525, y=12, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wwizardry:crystal_shard/large/ceiling/diamond]
 wandering-wizardry
+
+# NoClassDefFoundError: net/minecraft/class_310
+impenduits
