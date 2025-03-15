@@ -54,9 +54,6 @@ litavis
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
 
-# Packet:variant-swap:mapping  being sent is very large size:44110547 bytes (42MB)
-variant-swap
-
 # EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
 scarves
 
