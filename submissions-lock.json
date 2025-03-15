@@ -1151,16 +1151,16 @@
 		"files": {
 			"mods/chinese-ime.pw.toml": {
 				"download": {
-					"hash": "bba92a73653266bdff7c880452f97af4a541ec4ca6ffcf1e8b9a8ad54f4a0161cd1cd0c97873f1161e7145049d12236ef57739ba0260f0cb2261c54c0de9d184",
+					"hash": "8fd589926a19063a06d50a4821d710c99c0322a45f6cb8fa7ac5ad90ed5ac72cf929e49fb09299c0ebe804dfcedba3875b0f7e64cf1faa09cfffce0100cacf03",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hilng8VR/versions/SWuAAJWw/chineseime-1.21-v1.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/hilng8VR/versions/nFhLmLRi/chineseime-1.21-v1.1.4.jar"
 				},
-				"filename": "chineseime-1.21-v1.1.3.jar",
+				"filename": "chineseime-1.21-v1.1.4.jar",
 				"name": "Chinese IME",
 				"side": "client"
 			}
 		},
-		"key": "5a6d2b8eb1a3ac4b1b769f6d0a35875c70e5cf748f4152dbf592134be411c695"
+		"key": "81374efd120b33cfeede0fcb3dbced22c653ce052a50d462b4fa562ebfffd26e"
 	},
 	"chitinous_ties": {
 		"files": {
@@ -1320,16 +1320,16 @@
 		"files": {
 			"mods/cook-it.pw.toml": {
 				"download": {
-					"hash": "62826e13d69d01d486e753ea259e294af0d8616922f2aa291869dcab0f7e2464871b8b6b89bc86415566300d13cde6221dcd6288a587378f2ce4d319a0ac87c1",
+					"hash": "672b64112098cc6fc7b2fe4697cd5291e84b3f14a55b80e09ea5dd7c206388a579a35f52d7241d058c5f00a5f1a6d5bcb745397793960099498eb21c77e42756",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/9VmNgs9E/cook-it-0.0.2-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/PiDgPurr/cook-it-0.0.3%2B1.21.1.jar"
 				},
-				"filename": "cook-it-0.0.2-1.21.1.jar",
+				"filename": "cook-it-0.0.3+1.21.1.jar",
 				"name": "Cook It!",
 				"side": "both"
 			}
 		},
-		"key": "ed0488b4b3ead0964f423679c4829f834b395e8cb6ac6401efabb8671929bfd0"
+		"key": "6fe3d466c0a1b3334d10d2fcde065853db77ea2d098a07bf37713b55aab1a55a"
 	},
 	"coretechs": {
 		"files": {
@@ -1527,11 +1527,11 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "c9f2191f611a76290e234c70fd7cf7af25249baa582fc34a701521fb73fdecde4aa6195983650198481b4c9b0a31a78aaf2de4032dc7fc0634c18b797f46c6fb",
+					"hash": "58a8de75028f264102e8df6e1762f1b6c09b6358f5017037b25f7f9f1419866dc91a5f124c2ae26615470fb06b150eca24f3587b06002791ebdebeefd00d64f0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/vUOZT104/enchiridion-fabric-0.1.0-bc25.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/pjy7wzQJ/enchiridion-fabric-0.1.0-bc25.6%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.4+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.6+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1546,7 +1546,7 @@
 				"side": "both"
 			}
 		},
-		"key": "7378e6a447b5b3c44f7d84e3a9d0bb7f7758ee1032ba50c9410ade412fa6f37b"
+		"key": "3181ea130bb8e2e9ca8e1a3fbf6cc0e3b6388c8775a8e75a3a6556dc915471fa"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -2327,15 +2327,15 @@
 		"files": {
 			"mods/krender.pw.toml": {
 				"download": {
-					"hash": "b467f7bbfc26a4b4e0613ef715efc6a11cce212ce0137e5800900d0d5b88ac1b",
+					"hash": "17c0f09b6bf78e54fa3b7e4f1f7d42acce6f5c164ff5985fd2f9990981865485",
 					"hash-format": "sha256",
-					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.1.1/krendershowcase-1.1.1.jar"
+					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.0.0/krendershowcase-1.0.0.jar"
 				},
-				"filename": "krendershowcase-1.1.1.jar",
+				"filename": "krendershowcase-1.0.0.jar",
 				"name": "krender"
 			}
 		},
-		"key": "d2c944078105e60c3cf9e91f009799b66600deb2a231e67fabdfad9430c28e8a"
+		"key": "ef63df9c314c30afc493cfbe6177aaf909ef63c2ce6828e322c131ec537af98f"
 	},
 	"lilium": {
 		"files": {
@@ -2884,6 +2884,10 @@
 	"partnership": {
 		"files": {},
 		"key": "30c40aa247c0a03ffc6feedeae3e83edd9de2aa1459fe1515c2f28c5be6c6d9d"
+	},
+	"pesky-seagulls": {
+		"files": {},
+		"key": "32dbd5570d72e710e12bf6e1de5b61c7094e20ea91db25f277c6ada205ad0d28"
 	},
 	"petworks": {
 		"files": {
