@@ -42,11 +42,11 @@
 		"files": {
 			"mods/affinity.pw.toml": {
 				"download": {
-					"hash": "aba6de27a9853dc61faa6acbc90f2b1344d9f16ec077f3f94a6a78dcfea4186d9024e9879f05eea5403f076313265ed24b386a0ec9d15c1e3aae248dde2959d4",
+					"hash": "8e37a6b1ed1a9fd2e37f5a92b66648a30a0c10d856e8df3c3725abe3a2dc998cff56a01a1042117efec95b60e454995e2f69f052b4111062ee853b62525ac16c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Y8TA5POy/versions/8E7EHxIv/affinity-0.1.9%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/Y8TA5POy/versions/IZPHYpvz/affinity-0.1.10%2B1.21.1.jar"
 				},
-				"filename": "affinity-0.1.9+1.21.1.jar",
+				"filename": "affinity-0.1.10+1.21.1.jar",
 				"name": "Affinity",
 				"side": "both"
 			},
@@ -77,7 +77,7 @@
 					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
 				},
 				"filename": "owo-lib-0.12.15.1+1.21.jar",
-				"name": "o\u00cf\u2030o (owo-lib)",
+				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			},
 			"mods/terrablender.pw.toml": {
@@ -101,7 +101,7 @@
 				"side": "both"
 			}
 		},
-		"key": "72290e8ed4007f7c348844c18fbdbc3c0c8eee470a5fae409d285b0ca45f5e6b"
+		"key": "cd4b90964da24814955e8a509bfc8ff337b26e54dec507119ae141a07d682f23"
 	},
 	"alchimiae-magicae": {
 		"files": {
@@ -853,6 +853,31 @@
 		},
 		"key": "e6c0de1a4b3517c71eb9b3c6a404ebb1b53e54474e65713f8ddebe61c67affe7"
 	},
+	"buoys": {
+		"files": {
+			"mods/buoys.pw.toml": {
+				"download": {
+					"hash": "e07b514c9adcd9bbbb53f2ba901d84c26232871b9b40755962651ef5d2ce2a4c5a1ae6c199d703c47c3ca27484c635ae9cb797a654d79efe770aa114eb2467cd",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/dFz831HS/versions/dAVfI3Io/buoys-0.1.1%2B1.21.1.jar"
+				},
+				"filename": "buoys-0.1.1+1.21.1.jar",
+				"name": "Buoys",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "b6af947e434b2949febbc19444b60aa680bfd87db9c4e1d437f7434c40dced1b"
+	},
 	"cabbage-glasses": {
 		"files": {
 			"mods/brewery.pw.toml": {
@@ -1091,6 +1116,21 @@
 		},
 		"key": "51207aecfdf9614f79141e8c4cdf4b8429f14bde866f5bc38a7df5b39a8c9825"
 	},
+	"chinese-ime": {
+		"files": {
+			"mods/chinese-ime.pw.toml": {
+				"download": {
+					"hash": "23f104d6a201880c1d7629a47680f4949ef882d068232f000590e2eb9a2b60090007e48504248bd22c129ac07752712ca01764f710ba7e55f1b37d80b1db573d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/hilng8VR/versions/d4PoTCmL/chineseime-1.21-v1.1.2.jar"
+				},
+				"filename": "chineseime-1.21-v1.1.2.jar",
+				"name": "Chinese IME",
+				"side": "client"
+			}
+		},
+		"key": "13367cef8a8fda85583ab08efc3a140d07ea6a2e84ff0cc04cd03b39f8de2a23"
+	},
 	"chitinous_ties": {
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
@@ -1224,11 +1264,11 @@
 			},
 			"mods/confetti-stuff.pw.toml": {
 				"download": {
-					"hash": "8596c932e1c5b1e0c2733c1ffc0a8b1a29f572851b5bfaeb38c56896890060111c4d12a9f0451d1f765c17117c78d3f78719c1dde9e64a507ff2f511a6aa217f",
+					"hash": "f4dcf6b4650562818085980b7f39bc7252815d90251344457afb7af265f21ae6cf5f33ad1df84ec956bf0b789c28ab6716e2862c49ba68b5ffac759a898e3713",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6yBwpkox/versions/VI1IFW8b/confetti_stuff-1.2.0%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/6yBwpkox/versions/tSuk5cnc/confetti_stuff-1.2.1%2B1.21.jar"
 				},
-				"filename": "confetti_stuff-1.2.0+1.21.jar",
+				"filename": "confetti_stuff-1.2.1+1.21.jar",
 				"name": "Confetti Stuff",
 				"side": "both"
 			},
@@ -1243,7 +1283,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5a07e1df478fd67622684ab5ca00b63ac0798957d284cefff6f297e105225199"
+		"key": "fc00c6d87d6c917ce650850fbb9af11d14bf60fae277f79eda763b0f3b2687d9"
 	},
 	"cook-it": {
 		"files": {
@@ -1264,15 +1304,15 @@
 		"files": {
 			"mods/coretechs.pw.toml": {
 				"download": {
-					"hash": "8a53edc296ee630dbe7af653f9c7a47d2aef6401bca1ff5adee37ab80f2f10d9",
+					"hash": "33e8e4774c75d174e661444b0b9c2ee3484dfbcb56784f19cc4c7e296df1f8eb",
 					"hash-format": "sha256",
-					"url": "https://git.ailur.dev/arzumify/coretechs/releases/download/alpha.3/coretechs-0.0.1.alpha.3.jar"
+					"url": "https://git.ailur.dev/arzumify/coretechs/releases/download/alpha.4/coretechs-0.0.1.alpha.4.jar"
 				},
-				"filename": "coretechs-0.0.1.alpha.3.jar",
+				"filename": "coretechs-0.0.1.alpha.4.jar",
 				"name": "coretechs"
 			}
 		},
-		"key": "b475e3ef41d3b6ad6f8ee5a0b5956f5361f7030d629aa280efd3a7e2e34422da"
+		"key": "b1358c7a48146c0f68f46fa7d098e0b089779b997b7cfe0669a31c4097a2167a"
 	},
 	"crossbow_scoping": {
 		"files": {
@@ -1357,11 +1397,11 @@
 		"files": {
 			"mods/default-components.pw.toml": {
 				"download": {
-					"hash": "c256f44cbf035605007d803d00ec22f3ce609c1aa407c5d503094a8ca88ae6b583158f178533d10883cb612e59592534975fbf65ef74495ea780a5b7c60225fc",
+					"hash": "77af8842faf1d25736e1de9e52c86ce991bc4e76d0b5aa329fbee9e3fa942bbc36acdcfbb7e6fbe13e618e33cb0fdb1ff02d5ba1ffc3af379354b37ccbd4df32",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ReIHZWEq/versions/CudvUOFY/default-components-1.0.0-alpha.2%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/ReIHZWEq/versions/nK9lkNOD/default-components-1.0.0-alpha.5%2B1.21.jar"
 				},
-				"filename": "default-components-1.0.0-alpha.2+1.21.jar",
+				"filename": "default-components-1.0.0-alpha.5+1.21.jar",
 				"name": "Default Components",
 				"side": "server"
 			},
@@ -1376,7 +1416,7 @@
 				"side": "both"
 			}
 		},
-		"key": "359a87161d2d4d57fcaf29da0253bbe7a042f9ebd0275cadeac6fd53b3de1bf4"
+		"key": "209833df80a4e3c489b459f3d78fc815445deb75158a9151212aed6f98e29960"
 	},
 	"desolated_pastels": {
 		"files": {},
@@ -2181,16 +2221,16 @@
 			},
 			"mods/jsonpatcher.pw.toml": {
 				"download": {
-					"hash": "338ca5b3f2e7fefa9f7068fc186f8c244fe9014c38b4083def168eead8738ec672110c31fb75c6e6a7ada79cd170f263352ef722d0fe3d2b0d52becc9c4aa3ef",
+					"hash": "07b0ca450be7ec02dcacb481670493748fd1b50cde23fb0240f199e376735dd4c53bcfcf10f3fb67f4671ea52cfbe21e20d3cdb3c57eb877c4216cd5bd872777",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qlXnlZLG/versions/bIouvXYP/JsonPatcher-1.1.1%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/qlXnlZLG/versions/kpB0bECu/JsonPatcher-2.0.0-beta.1%2Bmc.1.21.1.jar"
 				},
-				"filename": "JsonPatcher-1.1.1+mc.1.21.1.jar",
+				"filename": "JsonPatcher-2.0.0-beta.1+mc.1.21.1.jar",
 				"name": "JsonPatcher",
 				"side": "both"
 			}
 		},
-		"key": "8b4daaa472d1d8bfe39a1bd68dd7d6dee488545290642444dd64dfd12e786b4e"
+		"key": "dec6569e7305c0827952cd12b5d59d7646234514ad83075fc3ae267cc1bfdfdf"
 	},
 	"klaxon": {
 		"files": {
@@ -4333,15 +4373,15 @@
 			},
 			"mods/zipline.pw.toml": {
 				"download": {
-					"hash": "20d596e0042867341e4aaa82e078bd974fe1155111ee32c2dfc40129dcc3b0d6c1dbe7a6ff530627bf83b1ce762502eda8ed530cfe7ac24fdf6d91245f4be9e6",
+					"hash": "33215aa0d42e0d9a377c77e49c2efc591719ae14065c743dcd576c1d33d749d8683e18454384fb599c00b7e79710732cad49cdb62c67e78a488042fa0b263d25",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/8N9WGR7Y/zipline-1.0.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/AoYH6o5S/zipline-1.1.0%2B1.21.1.jar"
 				},
-				"filename": "zipline-1.0.1+1.21.1.jar",
+				"filename": "zipline-1.1.0+1.21.1.jar",
 				"name": "Zipline",
 				"side": "both"
 			}
 		},
-		"key": "78e66fb2309ca4edb0e9ecdac66333357e170ee1c93a66b2007c6fc62b61d85d"
+		"key": "5e7487dd9dc3c5d513c04825496dbe75dfc29d8c2039f192a841deaa654654f7"
 	}
 }
