@@ -33,7 +33,8 @@ def naughty_list():
 				users[user_id] = json.loads(requests.get(user_url).text)
 
 	print(f"Naughty list for {event_id}:")
-	for sub_id, submission in submissions.items():
+	for sub_id in sorted(submissions.keys()):
+		submission = submissions[sub_id]
 		print(f"- **{submission["name"]}** by {",".join([f"<@{users[x]["discord_id"]}>" for x in submission["authors"] if users[x]["discord_id"]])} - `{submissions_comments[sub_id]}`")
 
 
