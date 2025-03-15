@@ -40,3 +40,8 @@ hide-body-parts
 pulchra-occultorum
 # [Canary]: Tried to register a new EntityDataSerializer!
 affinity
+
+# java.lang.NoClassDefFoundError: net/tslat/smartbrainlib/api/SmartBrainOwner
+chickensaurs
+# I frankly cannot keep up with these errors for now
+canary-safety
