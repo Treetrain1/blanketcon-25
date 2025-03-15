@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".packwignore"
-
-[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
