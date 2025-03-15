@@ -28,13 +28,11 @@ chickensaurs
 # errors, provided by 'veil' | injection failure: @Inject annotation on updateMousePosAndButtons
 superposition
 
-# fireblanket blockstate limit - wires in walls (investigate later)
-polyfactory
-
 # flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul
 flw-vanillin
 
 # IndexOutOfBoundsException: readerIndex(22794) + length(1) exceeds writerIndex(22794) | polymer.core.impl.networking.payloads.s2c.PolymerItemGroupContentAddS2CPayload.read
+polyfactory
 cc-polymer
 brewery
 builderdash
@@ -110,3 +108,6 @@ healing-pretty-good
 
 # Double reload
 worldinajar
+
+# Detected setBlock in a far chunk [-33, -16], pos: class_2338{x=-525, y=12, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wwizardry:crystal_shard/large/ceiling/diamond]
+wandering-wizardry
