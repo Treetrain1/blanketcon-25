@@ -1,5 +1,5 @@
 version:3955
-darkMojangStudiosBackground:true
+darkMojangStudiosBackground:false
 skipMultiplayerWarning:true
 joinedFirstServer:true
 tutorialStep:none
