@@ -112,3 +112,6 @@ impenduits
 
 # Critical injection failure: @Inject annotation on operation_starcleave$restoreFrom could not find any targets matching 'restoreFrom' in net/minecraft/class_3222
 operation-starcleave
+
+# t/minecraft/class_1685::enchiridion$setToOffhandIfNecessary with priority 1000 cannot inject into net/minecraft/class_1685::method_34713(Lnet/minecraft/class_1657;)Z merged by net.hollowed.combatamenities.mixin.TridentEntityMixin with priority 1000
+enchiridion
