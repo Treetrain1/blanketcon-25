@@ -5,7 +5,6 @@
 # References a client class from server :pensive:
 snapshotmc
 boatism
-necessity
 
 # Client class error but it also gives a registry error afterwards
 charta
@@ -59,11 +58,5 @@ autowhitelist
 # depends on origins, which causes [Canary]: Unsafe tracked data registration for [net.minecraft.class_1297] via mixin [io.github.apace100.apoli.mixin.EntityMixin]
 maddys_origins
 
-# Critical injection failure: @Inject annotation on krendershowcase$transformSuzanne could not find any targets matching 'render(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILnet/minecraft/world/entity/LivingEntity;FFFFFF)V'
-krender
-
 # Failed to encode packet 'clientbound/minecraft:custom_payload' (polydex-bridge:sync_recipes)
 polydex-bridge
-
-# Can't find ID for '[unregistered]' | PolymerItemGroupContentAddS2CPayload
-scarves
