@@ -28,32 +28,14 @@ superposition
 # flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul
 flw-vanillin
 
-# [18:41:56] [Server thread/WARN]: Took more than 5 seconds to generate complete state map for polyfactory:wall_with_cable/extravaganza/magenta_split_festive_rubber_wall. This block is likely improperly using properties. State count: 2048. 5504ms elapsed.
-# polyfactory
-# cc-polymer
-# brewery
-# builderdash
-# polydecorations
-# polydex
-# polydex-bridge
-# polysit
-
 # Canary!
 
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [dev.kleinbox.dancerizer.common.mixin.AnimationsForPlayerMixin]
-# dancerizer
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
 hide-body-parts
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1308] via mixin [net.shirojr.pulchra_occultorum.mixin.MobEntityMixin]
-# pulchra-occultorum
 # [Canary]: Tried to register a new EntityDataSerializer!
 affinity
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] from [com.st0x0ef.stellaris.common.registry.EntityData]
-# stellaris
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
-# [Canary]: Unsafe BlockState property addition via mixin [com.bug1312.vortex.mixin.waypoint.sign.SignBlocksMixin]
-# bugvortex
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1309] via mixin [net.shirojr.illusionable.mixin.LivingEntityMixin]
 illusionable
 # [Canary]: Tried to register a new EntityDataSerializer!
@@ -64,10 +46,6 @@ scarves
 
 # Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
 cook-it
-
-# Unable to resolve texture due to reference chain inside->inside in ubesdelight:block/template_glass_cup_4
-# frights-delight
-# ubes-delight
 
 # Caused by: java.net.BindException: Address already in use: bind
 neomtr
@@ -83,32 +61,17 @@ crystalline
 # Texture armisteel:block/armisteel_bars_edge with size 2x16 limits mip level from 4 to 1
 armisteel
 
-# Texture zeldacraft:item/icon/mystery_icon with size 9x9 limits mip level from 1 to 0
-# the-legend-of-steve
-
 # Texture twisted-and-carved:item/twisted_hand_glaive_big with size 36x36 limits mip level from 4 to 2
 twisted-and-carved
 
-# Texture primordia:block/table_texture with size 18x35 limits mip level from 2 to 0
-# primordia
-
 # Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
 oceanic-weaponry
-
-# Parsing error loading recipe healpgood:polished_heart_crystal_stairsb_stonecutter | Not a JSON object: "healpgood:polished_heart_crystal_slab"
-# healing-pretty-good
-
-# Double reload
-# worldinajar
 
 # Detected setBlock in a far chunk [-33, -16], pos: class_2338{x=-525, y=12, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wwizardry:crystal_shard/large/ceiling/diamond]
 wandering-wizardry
 
 # NoClassDefFoundError: net/minecraft/class_310
 impenduits
-
-# Critical injection failure: @Inject annotation on operation_starcleave$restoreFrom could not find any targets matching 'restoreFrom' in net/minecraft/class_3222
-# operation-starcleave
 
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
