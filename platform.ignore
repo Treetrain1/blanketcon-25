@@ -41,11 +41,11 @@ flw-vanillin
 # Canary!
 
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [dev.kleinbox.dancerizer.common.mixin.AnimationsForPlayerMixin]
-dancerizer
+# dancerizer
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
 hide-body-parts
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1308] via mixin [net.shirojr.pulchra_occultorum.mixin.MobEntityMixin]
-pulchra-occultorum
+# pulchra-occultorum
 # [Canary]: Tried to register a new EntityDataSerializer!
 affinity
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] from [com.st0x0ef.stellaris.common.registry.EntityData]
@@ -54,6 +54,10 @@ affinity
 automobility
 # [Canary]: Unsafe BlockState property addition via mixin [com.bug1312.vortex.mixin.waypoint.sign.SignBlocksMixin]
 # bugvortex
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1309] via mixin [net.shirojr.illusionable.mixin.LivingEntityMixin]
+illusionable
+# [Canary]: Tried to register a new EntityDataSerializer!
+festive_frenzy
 
 # EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
 scarves
@@ -95,7 +99,7 @@ oceanic-weaponry
 # healing-pretty-good
 
 # Double reload
-worldinajar
+# worldinajar
 
 # Detected setBlock in a far chunk [-33, -16], pos: class_2338{x=-525, y=12, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wwizardry:crystal_shard/large/ceiling/diamond]
 wandering-wizardry
@@ -108,3 +112,9 @@ impenduits
 
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
+
+# Not desired to be in pack by creator - "I recommend removing autowhitelist bc else it will complain every startup and it's not client compatible"
+autowhitelist
+
+# depends on origins, which causes [Canary]: Unsafe tracked data registration for [net.minecraft.class_1297] via mixin [io.github.apace100.apoli.mixin.EntityMixin]
+maddys_origins
