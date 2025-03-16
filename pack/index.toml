@@ -5,6 +5,9 @@ file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
 [[files]]
+file = "config/ChineseIME/config.json"
+
+[[files]]
 file = "config/accessories_temp_mixin_disable.txt"
 
 [[files]]
@@ -12,6 +15,9 @@ file = "config/ballotbox.toml"
 
 [[files]]
 file = "config/bobby.conf"
+
+[[files]]
+file = "config/canary.json"
 
 [[files]]
 file = "config/chunksfadein.properties"
@@ -50,6 +56,9 @@ file = "config/simplefog.json"
 file = "config/sodium-options.json"
 
 [[files]]
+file = "config/sounds/chat.json"
+
+[[files]]
 file = "config/styled-chat.json"
 
 [[files]]
@@ -71,10 +80,19 @@ file = "config/surveyor.toml"
 file = "config/teabridge.json"
 
 [[files]]
+file = "config/trailiertales/mixins.json5"
+
+[[files]]
+file = "config/waila/blacklist.json5"
+
+[[files]]
 file = "config/waila/waila.json"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
+
+[[files]]
+file = "config/wilderwild/block.json5"
 
 [[files]]
 file = "config/wwizardry.json"
@@ -160,7 +178,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.6.2+1.21.jar"
+file = "mods/fireblanket-0.6.3+1.21.jar"
 
 [[files]]
 file = "mods/glide-away.pw.toml"
@@ -191,6 +209,10 @@ file = "mods/jamlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lavender.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/map-utils.pw.toml"
 metafile = true
 
@@ -213,11 +235,11 @@ metafile = true
 file = "mods/now-playing-fabric-1.5.13+stereomerge+1.21.jar"
 
 [[files]]
-file = "mods/pbwarps.pw.toml"
+file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
+file = "mods/pbwarps.pw.toml"
 metafile = true
 
 [[files]]
@@ -277,6 +299,10 @@ metafile = true
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sseds.pw.toml"
 metafile = true
 
 [[files]]
@@ -467,6 +493,42 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origin_layers/origin.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/arachnid.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/avian.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/blazeborn.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/elytrian.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/enderian.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/feline.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/human.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/merling.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/phantom.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/data/origins/origins/shulk.json"
+
+[[files]]
+file = "resources/datapack/required/mf_origins/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"

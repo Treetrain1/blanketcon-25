@@ -21,12 +21,8 @@ flw-vanillin
 
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
 hide-body-parts
-# [Canary]: Tried to register a new EntityDataSerializer!
-automobility
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1309] via mixin [net.shirojr.illusionable.mixin.LivingEntityMixin]
 illusionable
-# [Canary]: Tried to register a new EntityDataSerializer!
-festive_frenzy
 
 # Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
 cook-it
