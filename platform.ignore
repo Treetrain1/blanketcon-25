@@ -10,30 +10,18 @@ necessity
 # Client class error but it also gives a registry error afterwards
 charta
 
-# Unknown mixin error
-default-components
-
 # datapack error?
 paladins-furniture
 
-# minecraft:crossbow already has builtin renderer
-omnicrossbow
-
-# java.lang.NoClassDefFoundError: net/tslat/smartbrainlib/api/SmartBrainOwner
-chickensaurs
-
-# errors, provided by 'veil' | injection failure: @Inject annotation on updateMousePosAndButtons
+# A render call was made off the render thread! This is likely to lead to race conditions! | veil.impl.client.render.dynamicbuffer.VanillaShaderCompiler.compileShader
 superposition
+mirror_mod
 
-# flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul
+# flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul | visualization.VisualizationManagerImpl.<init>(VisualizationManagerImpl.java:81)
 flw-vanillin
-
-# Canary!
 
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
 hide-body-parts
-# [Canary]: Tried to register a new EntityDataSerializer!
-affinity
 # [Canary]: Tried to register a new EntityDataSerializer!
 automobility
 # [Canary]: Unsafe tracked data registration for [net.minecraft.class_1309] via mixin [net.shirojr.illusionable.mixin.LivingEntityMixin]
@@ -41,19 +29,11 @@ illusionable
 # [Canary]: Tried to register a new EntityDataSerializer!
 festive_frenzy
 
-# EMI caught an exception while baking search for scarves:scarf_stapler x1 | scarves$getPreferredEquipmentSlot | accessories.menu.ArmorSlotTypes.isValid | EmiSearch.bake
-scarves
-
 # Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
 cook-it
 
-# Caused by: java.net.BindException: Address already in use: bind
-neomtr
-
-# screen flickering when changing screens, likely a conflict
-blur-plus
-
-# mipmaps!!!
+# screen flickering when changing screens, conflict with blur plus
+amarong
 
 # Texture crystalline:item/the_divider_handheld with size 45x44 limits mip level from 4 to 0
 crystalline
@@ -70,9 +50,6 @@ oceanic-weaponry
 # Detected setBlock in a far chunk [-33, -16], pos: class_2338{x=-525, y=12, z=-241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wwizardry:crystal_shard/large/ceiling/diamond]
 wandering-wizardry
 
-# NoClassDefFoundError: net/minecraft/class_310
-impenduits
-
 # noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
 scriptor-magicae
 
@@ -81,3 +58,12 @@ autowhitelist
 
 # depends on origins, which causes [Canary]: Unsafe tracked data registration for [net.minecraft.class_1297] via mixin [io.github.apace100.apoli.mixin.EntityMixin]
 maddys_origins
+
+# Critical injection failure: @Inject annotation on krendershowcase$transformSuzanne could not find any targets matching 'render(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ILnet/minecraft/world/entity/LivingEntity;FFFFFF)V'
+krender
+
+# Failed to encode packet 'clientbound/minecraft:custom_payload' (polydex-bridge:sync_recipes)
+polydex-bridge
+
+# Can't find ID for '[unregistered]' | PolymerItemGroupContentAddS2CPayload
+scarves

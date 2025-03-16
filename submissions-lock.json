@@ -1129,6 +1129,16 @@
 				"filename": "chickensaurs-fabric-1.21.1-1.0.7.jar",
 				"name": "Chickensaurs",
 				"side": "both"
+			},
+			"mods/smartbrainlib.pw.toml": {
+				"download": {
+					"hash": "5ce5b997c9469d2a5fae3c500c47d37b91b0d60183ee82b60111b446558f6053e6f7218f95d3c8320b40cc8c18d30177225d1921f70d6418c51870200a780fce",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/PuyPazRT/versions/eB6ORhH9/SmartBrainLib-fabric-1.21.1-1.16.7.jar"
+				},
+				"filename": "SmartBrainLib-fabric-1.21.1-1.16.7.jar",
+				"name": "SmartBrainLib",
+				"side": "server"
 			}
 		},
 		"key": "51207aecfdf9614f79141e8c4cdf4b8429f14bde866f5bc38a7df5b39a8c9825"
@@ -1437,7 +1447,7 @@
 	},
 	"desolated_pastels": {
 		"files": {},
-		"key": "2607ef6b9fff2f53492616b39aa9623dc841055339eec6136c4ff0f06849cfe8"
+		"key": "a94a80d0b5ccea2ebfa70989a35b4eb0d2d2f4f568e800603eb2f953046a97cd"
 	},
 	"dont-do-that": {
 		"files": {
@@ -2386,15 +2396,15 @@
 		"files": {
 			"mods/krender.pw.toml": {
 				"download": {
-					"hash": "17c0f09b6bf78e54fa3b7e4f1f7d42acce6f5c164ff5985fd2f9990981865485",
+					"hash": "b467f7bbfc26a4b4e0613ef715efc6a11cce212ce0137e5800900d0d5b88ac1b",
 					"hash-format": "sha256",
-					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.0.0/krendershowcase-1.0.0.jar"
+					"url": "https://github.com/MerchantPug/KRenderBC25Showcase/releases/download/1.1.1/krendershowcase-1.1.1.jar"
 				},
-				"filename": "krendershowcase-1.0.0.jar",
+				"filename": "krendershowcase-1.1.1.jar",
 				"name": "krender"
 			}
 		},
-		"key": "ef63df9c314c30afc493cfbe6177aaf909ef63c2ce6828e322c131ec537af98f"
+		"key": "d2c944078105e60c3cf9e91f009799b66600deb2a231e67fabdfad9430c28e8a"
 	},
 	"life-size-bdubs": {
 		"files": {
@@ -2574,15 +2584,15 @@
 		"files": {
 			"mods/mirror-mod.pw.toml": {
 				"download": {
-					"hash": "e8011282d62858c41f4df4e16f6e0a08b05f30338cfe4d8e44748295d7fefd88",
+					"hash": "01f31a83e7e576f9e735c3b6e31a742c240ff6c8cea881ebb723133257d3edf9",
 					"hash-format": "sha256",
-					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.1/mirror-fabric-1.21.1-0.2.1.jar"
+					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.2/mirror-fabric-1.21.1-0.2.2.jar"
 				},
-				"filename": "mirror-fabric-1.21.1-0.2.1.jar",
+				"filename": "mirror-fabric-1.21.1-0.2.2.jar",
 				"name": "mirror_mod"
 			}
 		},
-		"key": "78a57a9114eb88b92425350678d9136f95f92a1b743481f5660348e8e46baba0"
+		"key": "c55f2822f2cceab6777ada6f4e37ed4e52319c8f32a9fbcf98f49a73317f8c7e"
 	},
 	"mirthdew-encore": {
 		"files": {
@@ -2687,6 +2697,21 @@
 			}
 		},
 		"key": "d21b1a691c867a9919d605d02ece0841fc15c0da5f9f83319c4a72feeeae4853"
+	},
+	"more-paths": {
+		"files": {
+			"mods/more-paths.pw.toml": {
+				"download": {
+					"hash": "4212514313325fec47ca163e71dd264b01a11259fada9f62ab5833aa49087d436dffbbd34bb535a3d32cb4e2b665adc1ae7c1e211dd0ffcb23aa1e45b7ba6b4c",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/o9BYIzF3/versions/KGPEGWPa/more_paths-0.1.0%2B1.21.1.jar"
+				},
+				"filename": "more_paths-0.1.0+1.21.1.jar",
+				"name": "More Paths",
+				"side": "both"
+			}
+		},
+		"key": "574ab9079e0c3806292b36156ad5d12c7d3b1cfcd6919f40a80f55ce4e6d70cb"
 	},
 	"moue-milkshakes": {
 		"files": {
@@ -4231,16 +4256,16 @@
 			},
 			"mods/thoroughfabric.pw.toml": {
 				"download": {
-					"hash": "f208b44016a087e305d82dbf1dab287cbd2a0b1201932aa300031086432326c39026d8dd99f7e8fa608ce686e9dd688e8736c17e4e5c4afa675aaf629f5a4e9e",
+					"hash": "6a7d05d35e6c6203d1b475b15e08aa417673252c6f47e545f4c90d46d6d68ac10744b1ed2402fe49160dcf288490ebd3dca6c1d647e83ce12a5a4dce8c421fbb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/98yN1fkj/versions/Y90GAjiE/Thoroughfabric-1.2.3%2B1.21.1-1.21.4.jar"
+					"url": "https://cdn.modrinth.com/data/98yN1fkj/versions/FJlZLWFb/Thoroughfabric-1.2.4%2B1.21.1-1.21.4.jar"
 				},
-				"filename": "Thoroughfabric-1.2.3+1.21.1-1.21.4.jar",
+				"filename": "Thoroughfabric-1.2.4+1.21.1-1.21.4.jar",
 				"name": "Thoroughfabric",
 				"side": "server"
 			}
 		},
-		"key": "972a7a228cf382b086b7cb84dbd9dd446fd747ced690df4301962c034cf7663b"
+		"key": "8c0ecaadd8a605e9e1781f14d80ec708a357aeb05e557a295e305513b6c8ae34"
 	},
 	"thwackinator": {
 		"files": {
@@ -4266,6 +4291,31 @@
 			}
 		},
 		"key": "0f0c4534814f7d07992279caa12894ead4033052c4da9d61da8739afbaa5dbb7"
+	},
+	"tidal-waves": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/tidal-waves.pw.toml": {
+				"download": {
+					"hash": "068960a824ee8416e0f539bec3705fb49cf98b38a9bf4df37d3da2b9b2eb9ade685817ee9678bb6bf1f035ff81e550bcdd6118778fb39f3eb0f8ffb085886eb8",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/QsiPPta0/versions/uN4AKtrF/tidal-0.0.1-alpha.jar"
+				},
+				"filename": "tidal-0.0.1-alpha.jar",
+				"name": "Tidal",
+				"side": "client"
+			}
+		},
+		"key": "edee0f94e9d5821a2664a27becaacff46257322c99ac87219a354a367cb8ecdb"
 	},
 	"tmyk": {
 		"files": {
@@ -4321,15 +4371,15 @@
 		"files": {
 			"mods/trickster.pw.toml": {
 				"download": {
-					"hash": "3dec30b36e31c02a463ec42b5eb701cac4246047b4e8dae664ff81b87c3101e7",
+					"hash": "a3f648923f85ff819372a9b19ec4b73e01953a5a38c207762886c8416007d296",
 					"hash-format": "sha256",
-					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.16-blanketcon.1/trickster-2.0.0-beta.16-blanketcon.1.jar"
+					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.1/trickster-2.0.0-beta.17-blanketcon.1.jar"
 				},
-				"filename": "trickster-2.0.0-beta.16-blanketcon.1.jar",
+				"filename": "trickster-2.0.0-beta.17-blanketcon.1.jar",
 				"name": "trickster"
 			}
 		},
-		"key": "f3d6f3d0df6f1759a4646371361c282aaa2353e1f622579152a0666813957e72"
+		"key": "0080c638837cbb4231a23590360f9a7c908d2a95e7b704fc514171970e21fea1"
 	},
 	"twisted-and-carved": {
 		"files": {
@@ -4625,16 +4675,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "f29978abce1c4a0962f8ceced6f88962b8cf25d4a63e08b1a91e1bcc583a17fb1b48d4c8f3578e579e6e9a4a6e61544e63e3855523b01f1b841e2f7443aedec0",
+					"hash": "9160923d21b0f69d440d160a3bc72bcf4032b7d0a7d2943512ad70385dca081d3a060e630353079d5129e91cd23e448416f252b1f9a43c78f309d1b9a916afc6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/3Pn5ck1O/worldinajar-1.0.0-beta.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/LVE4p0V6/worldinajar-1.0.0-beta.2%2B1.21.1.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.1+1.21.1.jar",
+				"filename": "worldinajar-1.0.0-beta.2+1.21.1.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "810efb7c0403845e17e0bde1e4b9ead67b946368ba1d6808c82fd01d1a6a8403"
+		"key": "480b5e98243bcee1f99c22657732923645a79e1f792183dee0c93d2345984e14"
 	},
 	"yeet": {
 		"files": {
