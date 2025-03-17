@@ -1172,26 +1172,26 @@
 		"files": {
 			"mods/charta.pw.toml": {
 				"download": {
-					"hash": "7f70a8fde3bb495efe38d3a60bbe3ad951dae131b2924ade8e6084601c06f198841e67b3018e3ab653e0acad466e49480df697dc9d7d19a71630bd803e84e1df",
+					"hash": "db133a9dc62ef96f2fe54aeceab0ccd5986017a04e95cad337167ea194266ed8a15035090f5a5e21366f39c198b8284ec1497577f626bd27eca4276cea4dfbd8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sFamPxlk/versions/FcOrAk50/charta-1.0.3-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/sFamPxlk/versions/LlJ1Wk7Q/charta-1.0.4-fabric.jar"
 				},
-				"filename": "charta-1.0.3-fabric.jar",
+				"filename": "charta-1.0.4-fabric.jar",
 				"name": "Charta",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "de4ef8305f490be58c4f17a7df52f56638485b68c060ceeba4fae2a3db0b4107"
+		"key": "d9ae14e60dc8bbedda8046209990f1a4b405cad7015ed23fece637085ac4ad1b"
 	},
 	"chickensaurs": {
 		"files": {
@@ -2604,16 +2604,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "52beca68e6f7a12b0f26bbf65a07058ae76677b3693431e194ec2b6e11d56b31b03fac19b49d121937989eb32cba4d1beb5152f36af16939b96d9ba6e6154859",
+					"hash": "6d577a6d554de58ddc21164bae9437eb643d10ad27d60fe40a8f042fddc86fa73ff1c82bbf7db75f955fd55873116d7bd9f31a02c4434e0227ba256f7de73d6f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/YnsGQS7v/kawaii-dishes-1.13-beta7.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Ts6umME8/kawaii-dishes-1.13-beta8.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta7.jar",
+				"filename": "kawaii-dishes-1.13-beta8.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "2223ece85b1116e154f4737598a718b81eb141b24768629fb310ff62786e006b"
+		"key": "66d154718dec6c3d2ddbf94d8208ff7ab893bf23301c77f3dded9ea047515ed3"
 	},
 	"klaxon": {
 		"files": {
@@ -4602,15 +4602,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "4c46e0cb6dee65e4ccc2279b011a7b707801b782e1a52a1d90401c7e482040ac",
+					"hash": "4caab69dfff7a1edbb7d16a7a7295ae7954cd96567e7b6c2e2de784766701ca7",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.8/superposition-fabric-1.21.1-0.2.8.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.9/superposition-fabric-1.21.1-0.2.9.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.8.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.9.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "fa88de30d8e935dea855ca562ea8f9194239c278dd14eb8402303f6b8ebdffa2"
+		"key": "b81bfcde9399ec0d22ef3678b3400ad1dd6b622c9a50ed0db78a40cd773d4329"
 	},
 	"surveyor": {
 		"files": {
