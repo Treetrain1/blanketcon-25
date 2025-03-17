@@ -63,3 +63,5 @@ hoofprint
 # crash involving waila reading nulls
 hollow
 
+# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1690] via mixin [net.frozenblock.wilderwild.mixin.entity.penguin.BoatMixin]
+wilder-wild

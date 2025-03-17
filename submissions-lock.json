@@ -73,11 +73,11 @@
 		"files": {
 			"mods/affinity.pw.toml": {
 				"download": {
-					"hash": "8e37a6b1ed1a9fd2e37f5a92b66648a30a0c10d856e8df3c3725abe3a2dc998cff56a01a1042117efec95b60e454995e2f69f052b4111062ee853b62525ac16c",
+					"hash": "3121f545f02cf057ffa8f5d4a7dcb647a4b97b02a8a5e77781727149f405428c4178c6dc7c8cf74124be1c7b6456f5bab8719a8b97d521c686722bc503424c99",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Y8TA5POy/versions/IZPHYpvz/affinity-0.1.10%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/Y8TA5POy/versions/tMq5wrUP/affinity-0.1.11%2B1.21.1.jar"
 				},
-				"filename": "affinity-0.1.10+1.21.1.jar",
+				"filename": "affinity-0.1.11+1.21.1.jar",
 				"name": "Affinity",
 				"side": "both"
 			},
@@ -132,7 +132,7 @@
 				"side": "both"
 			}
 		},
-		"key": "cd4b90964da24814955e8a509bfc8ff337b26e54dec507119ae141a07d682f23"
+		"key": "695f15ac63bf785950fc0dffec37e49ad6bd096c65282d0e15039589ee9e08e2"
 	},
 	"alchimiae-magicae": {
 		"files": {
@@ -2604,16 +2604,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "e78a3d5d4320ae73ec274e1c03b17f675430aa58bdfe3cf8cc200cea0862b95615f5ce81f8b17fe8fc331908805e9c091fe042fcfb9e00890dbc90e34af4611f",
+					"hash": "52beca68e6f7a12b0f26bbf65a07058ae76677b3693431e194ec2b6e11d56b31b03fac19b49d121937989eb32cba4d1beb5152f36af16939b96d9ba6e6154859",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Vl3cH5Vt/kawaii-dishes-1.13.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/YnsGQS7v/kawaii-dishes-1.13-beta7.jar"
 				},
-				"filename": "kawaii-dishes-1.13.jar",
+				"filename": "kawaii-dishes-1.13-beta7.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "767b19c2a5b5de6746118a9f66b7f5304ccb4f32b4debc4c8f03564b9b1a673b"
+		"key": "2223ece85b1116e154f4737598a718b81eb141b24768629fb310ff62786e006b"
 	},
 	"klaxon": {
 		"files": {
