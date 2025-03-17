@@ -1555,15 +1555,15 @@
 		"files": {
 			"mods/desolated-pastels.pw.toml": {
 				"download": {
-					"hash": "dd793f3c47ecb76fe88c913873e166b9c45ef073a7d70f489103b9956f957aae",
+					"hash": "98835954daa69d76302499ced500a62afe3749f22328b3f4f8b1ede3aa27c0dd",
 					"hash-format": "sha256",
-					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.1/demo.1.jar"
+					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.2/demo.2.jar"
 				},
-				"filename": "demo.1.jar",
+				"filename": "demo.2.jar",
 				"name": "desolated_pastels"
 			}
 		},
-		"key": "65dbba355b8f8afe7f93a2bb8727b861bdc980c594a3e6c783fbc75c29056091"
+		"key": "bd0934d3d6f480f1811b76ed42d4fad488f5d366bb77e516297da623d74ad565"
 	},
 	"dont-do-that": {
 		"files": {
@@ -2754,16 +2754,16 @@
 		"files": {
 			"mods/minopp.pw.toml": {
 				"download": {
-					"hash": "c6fbf8d3e3ce398ea3e55fdccdb98c825eb1e40635d4b7854e4dcf38da34ad9d437409c8c5888eb3bbe69a44cbb7e95cceb2dfcdbe06d9913f349d86cb4abcd4",
+					"hash": "b06c5542d0a2492125cdf1dce5b97dd6d428e15b4be3f2aaac4d71c2e60c71c209d12c7f7a91708c8180bbb8752daface4b66eee62bd5e98c2d59dda39ce2c19",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4QitwNm0/versions/UQHj4foR/minopp-1.1.0%2B1.21.1%2Bfabric.jar"
+					"url": "https://cdn.modrinth.com/data/4QitwNm0/versions/phTCgYow/minopp-1.2.0%2B1.21.1%2Bfabric.jar"
 				},
-				"filename": "minopp-1.1.0+1.21.1+fabric.jar",
+				"filename": "minopp-1.2.0+1.21.1+fabric.jar",
 				"name": "Mino++",
 				"side": "both"
 			}
 		},
-		"key": "e953fe056729af21e85ca747cee6dcfab56a1aac164617dad456c3189b8bb2b4"
+		"key": "94ab6d37f3fb6efb059ed892cebfdcc5ebd86a5dec644d1c4bfccd0991ee1f50"
 	},
 	"mirror_mod": {
 		"files": {
@@ -3813,6 +3813,41 @@
 			}
 		},
 		"key": "c9cb370d1cb2313ec6a8858533a8a72cc6d68b3702499f2aa300c56f25e8cf28"
+	},
+	"pumpkin-pie-delight": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/farmers-delight-refabricated.pw.toml": {
+				"download": {
+					"hash": "df00ad6fb93b5d38504f4523a3c6f693b8e113a0df988af98832eb3603fa634a0f5f43c8d5e13d9973a15a076735aaf67f775d83aeb9bc72d262940aa7001977",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/5XtFbOaE/FarmersDelight-1.21.1-2.3.0%2Brefabricated.jar"
+				},
+				"filename": "FarmersDelight-1.21.1-2.3.0+refabricated.jar",
+				"name": "Farmer's Delight Refabricated",
+				"side": "both"
+			},
+			"mods/pumpkin-pie-delight.pw.toml": {
+				"download": {
+					"hash": "04c3aa5b0b575fa65f58c6fd331b6c67f44b8c939c220b71f51b0f8dd5faddefb9ca1e733f15cabc9678c88b5b0580aadff3e2d306b492ab42159a35d9c68de9",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/AhcCiL7x/versions/wjyGbltR/pumpkin_pie_delight-1.0.1%2B1.21.jar"
+				},
+				"filename": "pumpkin_pie_delight-1.0.1+1.21.jar",
+				"name": "Pumpkin Pie Delight",
+				"side": "both"
+			}
+		},
+		"key": "f108b8861e7adde40ac953ee3bf1221b79bc9aa34e86b089af8f493b31f12647"
 	},
 	"raccoons-rabies": {
 		"files": {
@@ -4965,16 +5000,16 @@
 			},
 			"mods/wandering-wizardry.pw.toml": {
 				"download": {
-					"hash": "7b2494411f816af4709b6446f35070ce6abf5468226c30e04dd18c2d9523cc0834f7e7e135910f12ec82e97d113dc5d876ca09c8e760d7aa5ecf5de643ced504",
+					"hash": "0537bb059964ad116fda40bee8e75bc3b89f08c2e13fcd94916243ba0ec458ebe33fd72b8aac8da42617c17395fa9c4c2979e9ea32451cd4ff9e0b7e9cfbb107",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/YEUrr52B/wwizardry-1.1.13%2Bmc.1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/WJrdQtCK/wwizardry-1.1.14%2Bmc.1.21.1-fabric.jar"
 				},
-				"filename": "wwizardry-1.1.13+mc.1.21.1-fabric.jar",
+				"filename": "wwizardry-1.1.14+mc.1.21.1-fabric.jar",
 				"name": "Wandering Wizardry",
 				"side": "both"
 			}
 		},
-		"key": "b555a9351f63aafa1d197a57cf147ce162cacedc63509ddce766b88f892873e1"
+		"key": "ed17a66285d06ffa46101c96ee25248ec133c0033a3894357ff0df30cfc95772"
 	},
 	"wearthat": {
 		"files": {

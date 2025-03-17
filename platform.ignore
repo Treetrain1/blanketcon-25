@@ -56,3 +56,10 @@ neomtr
 
 # Texture primordia:block/decoration/functional/furniture/wooden_table with size 35x35 limits mip level from 1 to 0
 primordia
+
+# per Sisby Folks requiest
+hoofprint
+
+# crash involving waila reading nulls
+hollow
+
