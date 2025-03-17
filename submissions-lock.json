@@ -188,16 +188,16 @@
 		"files": {
 			"mods/amarong.pw.toml": {
 				"download": {
-					"hash": "b1bacff06ee0bbbd7fe3604299b746b0abdf12770cfa55dedaa9a82a182c47101a09a34eeed4a1282fd64821a8c5efd4879aaa71d161a309b06ba3813e83a697",
+					"hash": "7813e17b96f4e128e3e2f597826cc7ceab2bd042a8f822adaa01e1df55284ab7e23fca82955a6829c6fc884c30816c840db94e05f5e7ff4ae7d1f9450c0a76f0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Pkud4ZgC/versions/gsG3h5MR/amarong-1.2.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/Pkud4ZgC/versions/ruX6OLiF/amarong-1.2.4%2B1.21.1.jar"
 				},
-				"filename": "amarong-1.2.3+1.21.1.jar",
+				"filename": "amarong-1.2.4+1.21.1.jar",
 				"name": "Amarong",
 				"side": "both"
 			}
 		},
-		"key": "902467342f2fbba8150f17accafe5c670337dcc818a6439dd17d770db82f662d"
+		"key": "14913fc61fa100baad48af8339b26301efda855b54420fe613465499151d9715"
 	},
 	"animated-loading-screen": {
 		"files": {
@@ -228,21 +228,21 @@
 		"files": {
 			"mods/anshar.pw.toml": {
 				"download": {
-					"hash": "c0bc511e44e2a7e67da84b2d0c738b0eb5c0c20114c77028e6ac2382c93865bee5bde18289d6cae4b1e8800878f712b6e32afc5aa4b5dfb8b18be171e73a3ec3",
+					"hash": "47991b3707a7ba9f555a13585c68238084f551d993432d9ddc47841a7150cca931f2570c5349ecc936b55aa6f70042671cd88109861c123eabc74c8921b39f9f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/adcai9DE/versions/jB3NYQhd/anshar-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/adcai9DE/versions/NS4dJUDC/anshar-1.0.1.jar"
 				},
-				"filename": "anshar-1.0.0.jar",
+				"filename": "anshar-1.0.1.jar",
 				"name": "Anshar",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -257,7 +257,7 @@
 				"side": "both"
 			}
 		},
-		"key": "638ee5ab98b835b164571a03d3ded35adb0330307f30d954131b3e75b7778262"
+		"key": "f01cb9c32b92303b9b43e80f87e81f6f920b1cb8044fc347440316d309e81b86"
 	},
 	"armisteel": {
 		"files": {
@@ -613,16 +613,16 @@
 		"files": {
 			"mods/boatism.pw.toml": {
 				"download": {
-					"hash": "bd1dc171f3f58fc643a006fdcd985eae52eb579115b10874914be12ad6aee9f7fdcc2738b647f200e2a5644dc9f88ea0074bab71a01ac2c2a34dcd01f636fac1",
+					"hash": "35910bac08e5a030772e02f3e2ad515be5acae940872f582991eab1e0d455bdbb4fbb042d82f74eacabdec28338c8a737f35c0e4e5d234298c352d21de3f754b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XA2EooAt/versions/LWPzxo9b/boatism-0.2.0-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/XA2EooAt/versions/VEHvRrPX/boatism-0.2.1-1.21.1.jar"
 				},
-				"filename": "boatism-0.2.0-1.21.1.jar",
+				"filename": "boatism-0.2.1-1.21.1.jar",
 				"name": "Boatism",
 				"side": "both"
 			}
 		},
-		"key": "d59240f28304b6338c6e7efd56b4fdb7beb7bbebe902c40ddaae5fa580a3d479"
+		"key": "89ca30f52d5e662a98ebecac07df8da26753578b6a4839a6dd332cfa3ce76c6f"
 	},
 	"boids": {
 		"files": {
@@ -1654,26 +1654,16 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "58a8de75028f264102e8df6e1762f1b6c09b6358f5017037b25f7f9f1419866dc91a5f124c2ae26615470fb06b150eca24f3587b06002791ebdebeefd00d64f0",
+					"hash": "976bf227da4dc7876ef695d8f8fdd7fce169204cca0e3e312bcf194f1a5fe895d6db13f1b515032fbc196669e0341bd2588f12c4301961cd930404aa061a3628",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/pjy7wzQJ/enchiridion-fabric-0.1.0-bc25.6%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/MbTKepIt/enchiridion-fabric-0.1.0-bc25.7%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.6+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.7+1.21.1.jar",
 				"name": "Enchiridion",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
-				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "3181ea130bb8e2e9ca8e1a3fbf6cc0e3b6388c8775a8e75a3a6556dc915471fa"
+		"key": "1bface877f82bf107235b0dfc79e76b1058bbdc56a261803f5f2d75d713e5ade"
 	},
 	"etched": {
 		"files": {},
@@ -2197,16 +2187,6 @@
 				"name": "Accessories",
 				"side": "both"
 			},
-			"mods/emi.pw.toml": {
-				"download": {
-					"hash": "b55a6a245b5947b91f1332f6131fd475dd37303d634246be3c45720f9e2316bd74310399722b31a8c99c5e7f5af13ece3a07bd0a2648760fbfcbc7c6be159122",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/WjqfEAwF/emi-1.1.20%2B1.21.1%2Bfabric.jar"
-				},
-				"filename": "emi-1.1.20+1.21.1+fabric.jar",
-				"name": "EMI",
-				"side": "both"
-			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
@@ -2219,11 +2199,11 @@
 			},
 			"mods/hibernal-herbs.pw.toml": {
 				"download": {
-					"hash": "d905890a61a6193a8073b878edf9c33f13dd251199207ef7599ae9316f59c6f3629b3350a339b86cb2ea9081c1ddf613808e79ee42e1b32e68d1714f4e32b2dc",
+					"hash": "7df40f857ea9acbd285e5c1ebbd2600b29c6a4a0a47efa3cfa526ec54d0a26453f59741ab27f2040e1e1b484bbed4d43340e8921170f98f53fac5881e3de0fc6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8fBUTFL3/versions/Oq2igXo6/hibernalherbs-1.4.1.3%2Bfabric-1.21.jar"
+					"url": "https://cdn.modrinth.com/data/8fBUTFL3/versions/XbHaISPu/hibernalherbs-1.4.1.5%2Bfabric-1.21.jar"
 				},
-				"filename": "hibernalherbs-1.4.1.3+fabric-1.21.jar",
+				"filename": "hibernalherbs-1.4.1.5+fabric-1.21.jar",
 				"name": "Hibernal Herbs",
 				"side": "both"
 			},
@@ -2238,7 +2218,7 @@
 				"side": "both"
 			}
 		},
-		"key": "9958721bb324a08e54a43d15d886fa4e144b9feecee0635080ceb2af6fea4e96"
+		"key": "1afd4be165300887cc1dbea342e5a981799efef9f021ee59236176b7e40c2de4"
 	},
 	"hide-body-parts": {
 		"files": {
@@ -2259,26 +2239,61 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/hollow.pw.toml": {
 				"download": {
-					"hash": "651c4aa426628c7a5aab3a18f5e91e9033d58e5d425495a83022e75d262efaa573c1f98673d13b38060c4d7350766115aedaabc845d2e706cc002a9469641cd5",
+					"hash": "3013393629af316f1aaf30936a62c7a6aa202cee36dccef8a5d0b338c382d3818a346e66cabebea46e08005eea2e728e8a907b209568f08ebc15cdec11406239",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/1xGUVRz9/hollow-1.3.1-1.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/r34rvShz/hollow-1.3.2-bc-1.3.2-bc.jar"
 				},
-				"filename": "hollow-1.3.1-1.3.1.jar",
+				"filename": "hollow-1.3.2-bc-1.3.2-bc.jar",
 				"name": "Hollow",
 				"side": "both"
 			}
 		},
-		"key": "5e97dd671ed7a598da5a33ac6eecd58e3a1da4308a7ac9e8b8abc273556588c1"
+		"key": "80025f20c0df7f5e44078728f48ee4582e13a0df177a2f4ff0d2986e2c721bfb"
+	},
+	"hoofprint": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/hoofprint.pw.toml": {
+				"download": {
+					"hash": "9e9fe68014f0ba299b304fe1de1474724946bae1cc7cf4095a2538a19ea036dd13f07cb9732c97a71531643bdecea6a5224ec6c6c22cb7ae0520248228ab6062",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8O6iJpuJ/versions/7SL16FQr/hoofprint-0.7.0%2B1.21.jar"
+				},
+				"filename": "hoofprint-0.7.0+1.21.jar",
+				"name": "Hoofprint",
+				"side": "client"
+			},
+			"mods/surveyor.pw.toml": {
+				"download": {
+					"hash": "d98d45206fd86c215d1e0aee4d63c49c33dd46ee45b58d9df373cd1a5c61f6747ed9651b5a42553ad5bccd313f1cbcd04d2aba0fff9f3114f6af34c31ab7a8a5",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/O3tZIYTa/surveyor-0.6.26%2B1.21.jar"
+				},
+				"filename": "surveyor-0.6.26+1.21.jar",
+				"name": "Surveyor Map Framework",
+				"side": "both"
+			}
+		},
+		"key": "564505190059099b1c3ffccdf095c323d9e244762b904c7cf9dacf1fc7b5df3f"
 	},
 	"hyphapiracea": {
 		"files": {
@@ -2299,16 +2314,16 @@
 		"files": {
 			"mods/illusionable.pw.toml": {
 				"download": {
-					"hash": "82a1a9c219f80c0673607755359531c18aee8dbd7a84f3da6956dcb922ec645e147c8108f9efe2f04e3a9a4cfa6a9514a762b3c94fd223fad91f269e0285d091",
+					"hash": "36a6d66ff6c4f62ae9754d5d66a452822e206268c8953873704ad464ea86273a691ebc5a5a679f101bf63ca40dad4f402473371ab5ce5dee4cb948f432cc6ddf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/7k0RN5n4/illusionable-0.0.2-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/duuHXV9S/illusionable-0.0.3-1.21.1.jar"
 				},
-				"filename": "illusionable-0.0.2-1.21.1.jar",
+				"filename": "illusionable-0.0.3-1.21.1.jar",
 				"name": "Illusionable",
 				"side": "both"
 			}
 		},
-		"key": "3548cccb796e2e0afe6f44b5b6b26cd69407c2e7fbfa204a00bca3648c0049a4"
+		"key": "93f472ea78c30b9f603a64c736f0cd3996b875d1a0d0e1d1afd4a9e8fd036d63"
 	},
 	"immersivemc": {
 		"files": {
@@ -3188,6 +3203,41 @@
 		},
 		"key": "bf8bb2dbb0d6fcbf4bc11f87d075489c59d70d2f9ed9c73559592b8e6a8ecf6b"
 	},
+	"particular": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/owo-lib.pw.toml": {
+				"download": {
+					"hash": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
+				},
+				"filename": "owo-lib-0.12.15.1+1.21.jar",
+				"name": "o\u03c9o (owo-lib)",
+				"side": "both"
+			},
+			"mods/particular.pw.toml": {
+				"download": {
+					"hash": "66d0aa88093879d344caae6e83edbe6c848fcdffd2b8595568c8dbcaeef8975c663ce1f2606ecae8807c766f8cc70ee8ee7476995f50f45d5c8a68a6877dfefd",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/B1CcCd9h/versions/WFcZYoYh/particular-1.1.1%2B1.21.jar"
+				},
+				"filename": "particular-1.1.1+1.21.jar",
+				"name": "Particular \u2728",
+				"side": "client"
+			}
+		},
+		"key": "3670e9013f66dcead161e90fa65fc3b9669b85382ae516946eff683414586da8"
+	},
 	"partnership": {
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -3246,11 +3296,11 @@
 		"files": {
 			"mods/petworks.pw.toml": {
 				"download": {
-					"hash": "8dd5624bbee36c4901143f7805f04b3646576539db7b0f1dbaa95716426ffc530470a41fbc06f5e392ea9a2e3d556214532138430587d05beab357d0b61c4d02",
+					"hash": "cb7ce7f078ae444e4ec95417e928c9ed590ba3c65d6f8076b2e54ebf93a5d44f7508993854ac991faa30ac232ce6ce8623c9a330e161d11904dbdd037f3867ac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/q0RknMmb/petworks-fabric-0.2.0-alpha.1%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/WzEiIIdV/petworks-fabric-0.2.0-alpha.2%2Bmc.1.21.1.jar"
 				},
-				"filename": "petworks-fabric-0.2.0-alpha.1+mc.1.21.1.jar",
+				"filename": "petworks-fabric-0.2.0-alpha.2+mc.1.21.1.jar",
 				"name": "Petworks",
 				"side": "both"
 			},
@@ -3265,7 +3315,7 @@
 				"side": "both"
 			}
 		},
-		"key": "e650ec6c8879c5f5b58977f8c32c501371eeb280b4b13dc3533d127dee684668"
+		"key": "b51b2ca125912ab531bfc401bd56434a0ac99e8de352b8ca0a2bc0cfff1a880f"
 	},
 	"pierced": {
 		"files": {
@@ -3285,6 +3335,41 @@
 	"pinit": {
 		"files": {},
 		"key": "631d27567631d6ec1589445f263028bd0c92ac05486b0b4c619fb61ce8555217"
+	},
+	"pirate-radio": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/fabric-language-kotlin.pw.toml": {
+				"download": {
+					"hash": "8e3609ef53a731c5509b304397e7fd4e37f2bbb4353b0d6234e74438846f0464743022f3339ba4f5acf21b023c80420ce59c194c1dfb11aeb79caffa6f842fb6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar"
+				},
+				"filename": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+				"name": "Fabric Language Kotlin",
+				"side": "both"
+			},
+			"mods/pirate-radio.pw.toml": {
+				"download": {
+					"hash": "50e021cb5bd9a804b3df2e9e4b6fc27eb0305f2c9e23d1338b4e25538443bf95fedf0f05cb14eeacb36ca8bfef123a513cf0926e6e6728d96920ca4ec34dd84e",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/3Z6GEVX4/pirate-radio-1.0.0.jar"
+				},
+				"filename": "pirate-radio-1.0.0.jar",
+				"name": "Pirate Radio",
+				"side": "both"
+			}
+		},
+		"key": "7064b8a6dff35ff40fce9453366ccf373ec8736a6694747cfa6a9167ffcff825"
 	},
 	"planetarium": {
 		"files": {
@@ -3570,6 +3655,10 @@
 		},
 		"key": "2d52880d971b534a4a8c84b49c4c73d197a3598da2c5f3f6c4ab7ccbed279ed7"
 	},
+	"powerchord": {
+		"files": {},
+		"key": "94dc84fc403a93065476937f0daca12bfd5ee4cf1943eeb12c5b09e1f9aeae14"
+	},
 	"ppetp": {
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -3714,16 +3803,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "c90b529d1cf264e27a312b27bc67ca070c52a96eeadaee9f4dd8f36af77e315ad98a9184de1214119e300a3f67f887e3a3ef1dce3e6f52904787080c57d818b6",
+					"hash": "dce81c4e1eb5594022fdea8bbf64836be49e7a6f87a20d00c165edc7395f0ff25994c921f4d9768182765170238e3cd4e009190527b359545802eb37996cea3b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/Oy4DbG9W/pulchra-occultorum-0.0.10-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/L4fsSrDA/pulchra-occultorum-0.0.11-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.10-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.11-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "405b5d6dd7f6ec782c7790cf7d0da0eb30c236de576d720c9418932ec867cf3e"
+		"key": "c9cb370d1cb2313ec6a8858533a8a72cc6d68b3702499f2aa300c56f25e8cf28"
 	},
 	"raccoons-rabies": {
 		"files": {
@@ -4394,41 +4483,6 @@
 		},
 		"key": "f55bc113a3fcb104f0a2d79f106e2253e88c3b70dea78dc9a1709933f884e754"
 	},
-	"super_mod": {
-		"files": {
-			"mods/area_lib.pw.toml": {
-				"download": {
-					"hash": "4c96b65d35994711d493bf8137d85e5a5cc910d704fcc440779f51e9a93912002bde5bb1b343361455daeef2ff2bdd07165f80b8ee6a21e798524afa4850944f",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/IBuXDbma/versions/QLIUGQ59/area_lib-0.2.6.jar"
-				},
-				"filename": "area_lib-0.2.6.jar",
-				"name": "Area Lib",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
-			"mods/super_mod.pw.toml": {
-				"download": {
-					"hash": "44b87a8844616955cc2a33ea249aea537aad50653d343ac2bed1a867ce2bbc05159267e96a7be8bd80b564e7ff57a60286ae95fb17c2a765f525f5009ca160e8",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/Ii5bQUmD/super_mod-2.0.0%2B1.21.1.jar"
-				},
-				"filename": "super_mod-2.0.0+1.21.1.jar",
-				"name": "Super Mod",
-				"side": "both"
-			}
-		},
-		"key": "c769061924c421853e630dd30c5b223054a0cb9f252482971d37c96bf2889595"
-	},
 	"superposition": {
 		"files": {
 			"mods/superposition.pw.toml": {
@@ -4527,11 +4581,11 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -4557,11 +4611,11 @@
 			},
 			"mods/the-legend-of-steve.pw.toml": {
 				"download": {
-					"hash": "fcd3afa87459cdcd6ae65dc7e1d0ec0c01a46a42e3ba99adce7a106d146a50d4ed5f30fcce16c0922ea23ac5bd99cb7222c04ef784f7be4cde5bd05948907f85",
+					"hash": "a86cfcbe75b17b3b05cc47c7e97fc46ce4a5f1e0c4baa09be5e4a4e675d610b28da8ffed1e7028e9a8d795373e4549a8f59db91d7e38b509e3fcffc42279e896",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/upQSEDw5/zeldacraft-1.0.3.6.jar"
+					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/VvGrp2dp/zeldacraft-1.0.3.7.jar"
 				},
-				"filename": "zeldacraft-1.0.3.6.jar",
+				"filename": "zeldacraft-1.0.3.7.jar",
 				"name": "The Legend of Steve",
 				"side": "both"
 			},
@@ -4576,7 +4630,7 @@
 				"side": "both"
 			}
 		},
-		"key": "57b645d9992a99fa5bf4b52c16b227bc02e2e1d1cda1b47204e131cce36ad1aa"
+		"key": "f8e1ded1de5424705c06f34ffee341d2b55f9c463a6147209fde546b197d5efe"
 	},
 	"this-rocks": {
 		"files": {
@@ -4737,15 +4791,15 @@
 		"files": {
 			"mods/trickster.pw.toml": {
 				"download": {
-					"hash": "a3f648923f85ff819372a9b19ec4b73e01953a5a38c207762886c8416007d296",
+					"hash": "bc8f3e4b472cfdcf6eac3241968a4874d74c8ea89cbd333da89e238595280323",
 					"hash-format": "sha256",
-					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.1/trickster-2.0.0-beta.17-blanketcon.1.jar"
+					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.2/trickster-2.0.0-beta.17-blanketcon.2.jar"
 				},
-				"filename": "trickster-2.0.0-beta.17-blanketcon.1.jar",
+				"filename": "trickster-2.0.0-beta.17-blanketcon.2.jar",
 				"name": "trickster"
 			}
 		},
-		"key": "0080c638837cbb4231a23590360f9a7c908d2a95e7b704fc514171970e21fea1"
+		"key": "0b496a0f99bac364a67b4a7e25e309d095b852be027dd0d19e1dcb76e41fdee5"
 	},
 	"twisted-and-carved": {
 		"files": {
@@ -4911,16 +4965,16 @@
 			},
 			"mods/wandering-wizardry.pw.toml": {
 				"download": {
-					"hash": "fb712e9e94cb677c31f015c3167e9769c77b7d3c3a34dd3f7328b9401dcc8deaba22ba848c1044aa30158670c3fce79069fb1388c76da5d8b3865bff097155c8",
+					"hash": "7b2494411f816af4709b6446f35070ce6abf5468226c30e04dd18c2d9523cc0834f7e7e135910f12ec82e97d113dc5d876ca09c8e760d7aa5ecf5de643ced504",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/eH2E2jw8/wwizardry-1.1.12%2Bmc.1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/YEUrr52B/wwizardry-1.1.13%2Bmc.1.21.1-fabric.jar"
 				},
-				"filename": "wwizardry-1.1.12+mc.1.21.1-fabric.jar",
+				"filename": "wwizardry-1.1.13+mc.1.21.1-fabric.jar",
 				"name": "Wandering Wizardry",
 				"side": "both"
 			}
 		},
-		"key": "3f0d1e2bf624e0633d591df5858ed63582104bdfc59ec55ec8e8ef21b397339e"
+		"key": "b555a9351f63aafa1d197a57cf147ce162cacedc63509ddce766b88f892873e1"
 	},
 	"wearthat": {
 		"files": {
