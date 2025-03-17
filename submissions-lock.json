@@ -2594,8 +2594,8 @@
 		"files": {
 			"mods/geckolib.pw.toml": {
 				"download": {
-					"hash": "04f89794373ef193df4285818760db002413f5c6",
-					"hash-format": "sha1",
+					"hash": "8f2f95c8801c609c96834d06f14046cde2877dc18aa351e35b957d3d123688f61b673f8c9f1cf8fbffe345d2ada61c61d5dea0864595422d82351dcfca49090c",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/PEvrTvgj/geckolib-fabric-1.21.1-4.7.5.1.jar"
 				},
 				"filename": "geckolib-fabric-1.21.1-4.7.5.1.jar",
@@ -2604,16 +2604,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "fae4ddd8c6fbbf97825eab5b9b3960edeeea0925",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/ww49xGMg/kawaii-dishes-1.13-beta6.jar"
+					"hash": "e78a3d5d4320ae73ec274e1c03b17f675430aa58bdfe3cf8cc200cea0862b95615f5ce81f8b17fe8fc331908805e9c091fe042fcfb9e00890dbc90e34af4611f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Vl3cH5Vt/kawaii-dishes-1.13.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta6.jar",
+				"filename": "kawaii-dishes-1.13.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "0bb2ea9272142920047f25c48420639c478437b7d7b49372b2531ccfe88660f1"
+		"key": "767b19c2a5b5de6746118a9f66b7f5304ccb4f32b4debc4c8f03564b9b1a673b"
 	},
 	"klaxon": {
 		"files": {
