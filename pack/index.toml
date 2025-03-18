@@ -369,6 +369,24 @@ metafile = true
 file = "options.txt"
 
 [[files]]
+file = "resources/common/required/bovines_cow_variants/assets/blanketcon25/textures/entity/cow/cold_cow.png"
+
+[[files]]
+file = "resources/common/required/bovines_cow_variants/assets/blanketcon25/textures/entity/cow/warm_cow.png"
+
+[[files]]
+file = "resources/common/required/bovines_cow_variants/data/blanketcon25/bovinesandbuttercups/cow_variant/cold_cow.json"
+
+[[files]]
+file = "resources/common/required/bovines_cow_variants/data/blanketcon25/bovinesandbuttercups/cow_variant/warm_cow.json"
+
+[[files]]
+file = "resources/common/required/bovines_cow_variants/pack.mcmeta"
+
+[[files]]
+file = "resources/common/required/bovines_cow_variants/pack.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
