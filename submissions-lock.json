@@ -288,26 +288,26 @@
 		"files": {
 			"mods/armisteel.pw.toml": {
 				"download": {
-					"hash": "d42f241824644b0cc57b905e9ae281ab8cb919e855407ceab08d477884af5e7e20a65974da5e8980cee36257b344c361146fdbd0a65b81474e3dba8665a7745a",
+					"hash": "14094c534cf9dcc8e4d8443d74a8ff115b21133130f5be9a86a11b29349c820b1df140967dcd0c92c2e726d6328dfc12f4853220a2ccf429ac033cfe4711930f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/cgmj8JQR/armisteel-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/K0942pM3/armisteel-1.0.1.jar"
 				},
-				"filename": "armisteel-1.0.0.jar",
+				"filename": "armisteel-1.0.1.jar",
 				"name": "Armisteel",
 				"side": "both"
 			},
-			"mods/fusion-connected-textures.pw.toml": {
+			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "01a21fb0799c915b9b421c5ae1a4c3179d18c0b327c7463b29ff99aac7bedd5a89569da475af47d2ffa3e668eb0f4ca60aa1a6e1439fcf9700f76789dd53c6c9",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/soW0rHhB/fusion-1.2.4-fabric-mc1.21.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fusion-1.2.4-fabric-mc1.21.jar",
-				"name": "Fusion (Connected Textures)",
-				"side": "client"
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
 			}
 		},
-		"key": "f8d3911589197577bd810eb2cc712c48820535f55910033f5b5209300eb9220d"
+		"key": "b6f86f4d6e3b314c578f32ebd5c44ecfbb0da44fc7ff132f9ab7e8d07cc952f6"
 	},
 	"armorstandeditor": {
 		"files": {
@@ -1262,21 +1262,21 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "8bf7f27e6d32f1bca69c069b66a7f21ce83494ac50d8b6f6100e3cd54c87e94abfc2c2db13ea56565a1ce991f3daad780fa089e77a99e52914b5c15005f196ad",
+					"hash": "abe65d10563e585378f2f5c55818288658e5d3a010a569af096fd6f1b21056fba52fb16142a913a0a6766f725d34ffb398fbdaf8a07e7129a01d214b7edabcf1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/ZesY6YfT/chitinous_ties-1.5.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/oEFB2LXx/chitinous_ties-2.0.1%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-1.5.1+1.21.1.jar",
+				"filename": "chitinous_ties-2.0.1+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -1291,7 +1291,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c361e5cdc578284d6de0f1901a6a19f566824cccf6ee811d4e54dc32500ed4de"
+		"key": "25f91af87b006322e9364a7c1f5635fd1ee7a6c9495e97b1079f1239160d1413"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -3249,8 +3249,8 @@
 		"files": {
 			"mods/moonlight.pw.toml": {
 				"download": {
-					"hash": "1e41d45aaeb11d7b0940d9aba493e4dd73add26f",
-					"hash-format": "sha1",
+					"hash": "4efed0048bd2a6fd58fd6015389f7a2cd6053f718a659b45a82a5e23eb7f61ad6fa4c3c4f1ae4ce609af4c18debb1340520786e34d9f1e532386f24675416738",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/a5AjBsRP/moonlight-1.21-2.17.36-fabric.jar"
 				},
 				"filename": "moonlight-1.21-2.17.36-fabric.jar",
@@ -3259,16 +3259,16 @@
 			},
 			"mods/oxide.pw.toml": {
 				"download": {
-					"hash": "2abb67b3ad9f917c24b2f601978f63d0bd495270",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/I9kcCfIH/oxide-1.21.1-0.1.2-fabric.jar"
+					"hash": "fb117ef01f0905e05ca7ae00b53b66a5b7bd974d2c3a7bf9cc5a5496681040e9c83303c8e8b5a9cfc43e2e4b642e4ea694407e17c911a0743da2f3061f584638",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/JOotl6Za/oxide-1.21.1-0.1.2b-fabric.jar"
 				},
-				"filename": "oxide-1.21.1-0.1.2-fabric.jar",
+				"filename": "oxide-1.21.1-0.1.2b-fabric.jar",
 				"name": "Oxide",
 				"side": "both"
 			}
 		},
-		"key": "582f6c6288bf8e074642579553feaedccf3703690e5fe94b574beeb69f2c834f"
+		"key": "1917c60c6b7b2839565dbe2f436b85d6cb2f943688fc5843c88ea50f5807c076"
 	},
 	"paladins-furniture": {
 		"files": {
