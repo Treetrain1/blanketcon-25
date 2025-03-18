@@ -338,6 +338,10 @@ file = "mods/teabridge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/timelock.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 metafile = true
 
@@ -355,6 +359,10 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
 metafile = true
 
 [[files]]
