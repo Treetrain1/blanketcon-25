@@ -138,11 +138,11 @@
 		"files": {
 			"mods/alchimiae-magicae.pw.toml": {
 				"download": {
-					"hash": "3f1b42292c1029cbef0c068e5b3d9393262f781df2f2a57903fce6bc3eff4300056d5a53aa80e50f1a0fdb0deb2e39f2dec820a42e23fba882987fef42825cef",
+					"hash": "b0ab2eaa8bf67ac5cc7139530c93d7bd7748448b6f3a7304a285fe6d7798506d1364f450eee1063d5df92ea43c26755744c3c207a81ddd4adbccc0c22a077d27",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qUKJfi7E/versions/r7sN4TH6/alchimiae-fabric-0.3.1-1.21-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/qUKJfi7E/versions/dTZ29Xxm/alchimiae-fabric-0.3.3-1.21-sgd.jar"
 				},
-				"filename": "alchimiae-fabric-0.3.1-1.21-sgd.jar",
+				"filename": "alchimiae-fabric-0.3.3-1.21-sgd.jar",
 				"name": "Alchimiae Magicae",
 				"side": "both"
 			},
@@ -158,16 +158,16 @@
 			},
 			"mods/unfocused.pw.toml": {
 				"download": {
-					"hash": "b00e21a60ce99617212cb300553990869fae186810777f1b06ca8c9745066a34d0d58535e2294c0a398a9aef8afd7fe2bf0fd606d15b235ebeec634928e1bba8",
+					"hash": "ec2d2f7429e96e62a17f0eccde67811f50346dd1063deff9ee2cc9a0cf0297982a617260c3164c8bf681d88ae6fb5c30a55e98cf62e3383a7f611c6d994f10be",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BvsO32QY/versions/ntSMynKt/unfocused-fabric-0.1.66-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/BvsO32QY/versions/tiJddhfP/unfocused-fabric-0.1.67-sgd.jar"
 				},
-				"filename": "unfocused-fabric-0.1.66-sgd.jar",
+				"filename": "unfocused-fabric-0.1.67-sgd.jar",
 				"name": "Unfocused",
 				"side": "both"
 			}
 		},
-		"key": "37472c2811c18e353916c97a299525c70f92f02c7ecace881a3a6e49b5521053"
+		"key": "99e5abec19525c1b5a890e8cebc3db2af25e3b84804f95e65f8244ef0cd4df3b"
 	},
 	"allium": {
 		"files": {
@@ -198,6 +198,31 @@
 			}
 		},
 		"key": "14913fc61fa100baad48af8339b26301efda855b54420fe613465499151d9715"
+	},
+	"amys-industrious-mod": {
+		"files": {
+			"mods/amys-industrious-mod.pw.toml": {
+				"download": {
+					"hash": "372edf2b3b972b03c124cfc36e181060e2009c13b52ee83ab95fbfc8b7d1e470f49e2f5ead85b182220d094185407bcb9c0380743fa87b86a4e07a5d5f2b4984",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/DdLs31aI/industrious-1.0.3%2B1.21.jar"
+				},
+				"filename": "industrious-1.0.3+1.21.jar",
+				"name": "Amy's Industrious Mod",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "907e316fffcb9197873e9370c48a6f313f3c9a0352e7e117ea5fe16d130b163a"
 	},
 	"animated-loading-screen": {
 		"files": {
@@ -1426,16 +1451,16 @@
 		"files": {
 			"mods/cook-it.pw.toml": {
 				"download": {
-					"hash": "672b64112098cc6fc7b2fe4697cd5291e84b3f14a55b80e09ea5dd7c206388a579a35f52d7241d058c5f00a5f1a6d5bcb745397793960099498eb21c77e42756",
+					"hash": "c06b2ddc91262e2e26784fbf17c1231283ab8dfbef77cac6d5906c9144962cafe3362e5469fa38ac63cca45463407920fe8aa7decc4c3836c31a47a4418a1b2e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/PiDgPurr/cook-it-0.0.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/m9audLVJ/cook-it-0.0.3%2B1.21.1.jar"
 				},
 				"filename": "cook-it-0.0.3+1.21.1.jar",
 				"name": "Cook It!",
 				"side": "both"
 			}
 		},
-		"key": "6fe3d466c0a1b3334d10d2fcde065853db77ea2d098a07bf37713b55aab1a55a"
+		"key": "efa46a0143d5fb633d381eb79c09a3c1320378823fd909ec8b6b562b62b94836"
 	},
 	"coretechs": {
 		"files": {
@@ -2792,26 +2817,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/marksman.pw.toml": {
 				"download": {
-					"hash": "35877fea4a0671985173c4ffe5887114e521f449f45781cd717e2d2b4d5af21a3c69f5ccc095ac876869b7a2933e53044273beedf521bde3b8673000fa8340b4",
+					"hash": "f0004b7c2c16482730f9a86e0687d0d952221b36cc0263b3a8c43f77e8e9f352c6fe988740710ef626a8b62d15de36ae0e5027a651da1a379b3d72566b138b55",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/joN0iKRG/versions/1CW5yzY6/marksman-1.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/joN0iKRG/versions/FbQftZR3/marksman-1.2.1.jar"
 				},
-				"filename": "marksman-1.2.0.jar",
+				"filename": "marksman-1.2.1.jar",
 				"name": "Marksman",
 				"side": "both"
 			}
 		},
-		"key": "54982c30a1df314d97d2e9b34f993bda3c2a40cc325397b5d5c9ce852c08c237"
+		"key": "f7e148ab55cb776d472cd67401204e6f150e3a43eec174dc09492bdbcbf80602"
 	},
 	"minegrapht": {
 		"files": {},
@@ -2836,15 +2861,15 @@
 		"files": {
 			"mods/mirror-mod.pw.toml": {
 				"download": {
-					"hash": "146d843e1e87336f98fa2cde03e99e640967f147e0fa8ef53d22958e5653ec6d",
+					"hash": "afef0d5b3bcfd7cd48c88051264f15db88b90b7e76faa2228ed61a100c6a8e73",
 					"hash-format": "sha256",
-					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.3/mirror-fabric-1.21.1-0.2.3.jar"
+					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.4/mirror-fabric-1.21.1-0.2.4.jar"
 				},
-				"filename": "mirror-fabric-1.21.1-0.2.3.jar",
+				"filename": "mirror-fabric-1.21.1-0.2.4.jar",
 				"name": "mirror_mod"
 			}
 		},
-		"key": "eb26a493d46b841322decebf0ae2a15eb4829f31bdfbb28bbcd01ef8cac32a28"
+		"key": "ef95969e80d8394256081582bd7fcc3373929bc9d3a2e12064597383ada0419c"
 	},
 	"mirthdew-encore": {
 		"files": {
@@ -3377,11 +3402,11 @@
 		"files": {
 			"mods/petworks.pw.toml": {
 				"download": {
-					"hash": "cb7ce7f078ae444e4ec95417e928c9ed590ba3c65d6f8076b2e54ebf93a5d44f7508993854ac991faa30ac232ce6ce8623c9a330e161d11904dbdd037f3867ac",
+					"hash": "2fca7bbf84982746bd01cdfb9f5726ea09892c79144c0d8fc7d2658a9574204892a015fb6b96cf8c122ec59d013cf6e737bfd7597cdda0cf7ab348dbd630ccef",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/WzEiIIdV/petworks-fabric-0.2.0-alpha.2%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/tglB7DEe/petworks-fabric-0.2.0-alpha.3%2Bmc.1.21.1.jar"
 				},
-				"filename": "petworks-fabric-0.2.0-alpha.2+mc.1.21.1.jar",
+				"filename": "petworks-fabric-0.2.0-alpha.3+mc.1.21.1.jar",
 				"name": "Petworks",
 				"side": "both"
 			},
@@ -3396,7 +3421,7 @@
 				"side": "both"
 			}
 		},
-		"key": "b51b2ca125912ab531bfc401bd56434a0ac99e8de352b8ca0a2bc0cfff1a880f"
+		"key": "5c395b3557974766718a5758cd9aefc64d25291711906c324efbb2fb41ff7d8d"
 	},
 	"phonos": {
 		"files": {
@@ -3505,16 +3530,16 @@
 			},
 			"mods/playercontainers.pw.toml": {
 				"download": {
-					"hash": "a7b65620b250ec05b8d3ba43e9cf658b1faecac076626e1ee0ebe022f267ba60800d7090a89cfed17410d6e94baa9ee779a2241eaf90736929f3fa7502343a8e",
+					"hash": "2353302f5d78d28ba5346f4bd8013c7b130fac9e9d01e0d6d974edf8a1a9813732275265ad3d32b04a9d1c6810365cdae9b59ad70bbda150e3dab72e34d26914",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/LRXlK7HK/playercontainer-0.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/9vKPDMn1/playercontainer-0.2.2.jar"
 				},
-				"filename": "playercontainer-0.2.1.jar",
+				"filename": "playercontainer-0.2.2.jar",
 				"name": "Player Containers",
 				"side": "both"
 			}
 		},
-		"key": "8382779e1758c92bec131e16ef86fcb68bb425699e7f4206a9c0b0ed9365febe"
+		"key": "d42114cf142cc06eb994d43719b67c29e9b7129326c4565888556b2a34848779"
 	},
 	"plushables": {
 		"files": {
@@ -3980,8 +4005,19 @@
 		"key": "d1261bea69be332db0df047f1e22706470bd0605a6cd21b2d4d390ffa794f627"
 	},
 	"rapscallions-and-rockhoppers": {
-		"files": {},
-		"key": "ac541c77e93f5ddcca76f28b7d5225b1f3feea8f7de73a24067f4fa3e04fd6fe"
+		"files": {
+			"mods/rapscallions-and-rockhoppers.pw.toml": {
+				"download": {
+					"hash": "d854faa128bcc19fba8fea0aa05f9e9c3bbcd2c411031e48da8b7805ae67bec38e181555235f000f7828264ede412f51c984202c4da17d632ebc28dfa123bbea",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/9pGITjpO/versions/J0SDZoVj/rapscallionsandrockhoppers-fabric-2.0.3%2B1.21.1.jar"
+				},
+				"filename": "rapscallionsandrockhoppers-fabric-2.0.3+1.21.1.jar",
+				"name": "Rapscallions and Rockhoppers (Penguins)",
+				"side": "both"
+			}
+		},
+		"key": "7197475a69339204d7d73cb000964176d6db54517c3bcd13f7163556bb0ada6e"
 	},
 	"rods-from-god": {
 		"files": {
@@ -4552,36 +4588,36 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.2+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/fzzy-config.pw.toml": {
 				"download": {
-					"hash": "5893f6084be3270f3a06728757841da76cbdfa9e42070c61b14a8118f5d69fe49069bb11a1831149b1edcc9f81818709e1616e4d9640575a0f363345e9537b05",
+					"hash": "1db3bed9c477c99e28ff83128b9269f5b6a0455a1232e521e022828d015ae0aee40c798065bd18a874f63b3475abc1713ba1ef502904eded57843cd93b51696d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hYykXjDp/versions/GQFqFMcK/fzzy_config-0.6.5%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/hYykXjDp/versions/Nw1btPC1/fzzy_config-0.6.6%2B1.21.jar"
 				},
-				"filename": "fzzy_config-0.6.5+1.21.jar",
+				"filename": "fzzy_config-0.6.6+1.21.jar",
 				"name": "Fzzy Config",
 				"side": "both"
 			},
 			"mods/subtle-effects.pw.toml": {
 				"download": {
-					"hash": "7daf9bc4a2575bfc7964b479bb7d99ee07d72d25a0c7743a3d97c3c816e5ace268334d80071ea8ab43d565f5207bb7ccfdf0e446da13bf82fc98d0c92bd3506e",
+					"hash": "7ce05d5e0a31724ac377ced7885bcce3d81673a021d84c127dc5b87b41a2746069115cd3f8e6b45980827b822e35afea3f9014993e5156a4dd012043d78c7f3b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/3IlIh0M8/SubtleEffects-fabric-1.21.1-1.9.0.jar"
+					"url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/t3JPAcvc/SubtleEffects-fabric-1.21.1-1.9.3.jar"
 				},
-				"filename": "SubtleEffects-fabric-1.21.1-1.9.0.jar",
+				"filename": "SubtleEffects-fabric-1.21.1-1.9.3.jar",
 				"name": "Subtle Effects",
 				"side": "client"
 			}
 		},
-		"key": "f55bc113a3fcb104f0a2d79f106e2253e88c3b70dea78dc9a1709933f884e754"
+		"key": "514b7efa6b91e774ebc0b7e96b41294de90a79aec6be1f18f42918b810a00ecb"
 	},
 	"sunglasses": {
 		"files": {
@@ -4602,15 +4638,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "4caab69dfff7a1edbb7d16a7a7295ae7954cd96567e7b6c2e2de784766701ca7",
+					"hash": "f0d62b3846ef9b44d712f5f73605ef1a39dfe5a89f7696c6157956e8854cf04b",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.9/superposition-fabric-1.21.1-0.2.9.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.10/superposition-fabric-1.21.1-0.2.10.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.9.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.10.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "b81bfcde9399ec0d22ef3678b3400ad1dd6b622c9a50ed0db78a40cd773d4329"
+		"key": "ab5e60beb4e93dcc6f298d79b0a801333550a67819f0c0e01757ed8fbd8b9fbb"
 	},
 	"surveyor": {
 		"files": {
