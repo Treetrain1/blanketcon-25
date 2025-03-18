@@ -294,6 +294,10 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/softer-pastels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 metafile = true
 

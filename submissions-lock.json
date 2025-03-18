@@ -1595,15 +1595,15 @@
 		"files": {
 			"mods/desolated-pastels.pw.toml": {
 				"download": {
-					"hash": "5763560c04db1c6371a12d4dea3ec2093c2e1b5bec5a7685a1e40ba8fe2246bd",
+					"hash": "bb592a29eb57fc07e549fb8da62dafda832416d587af61bb9c65b15afd49ab46",
 					"hash-format": "sha256",
-					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.4/demo.4.jar"
+					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.5/demo.5.jar"
 				},
-				"filename": "demo.4.jar",
+				"filename": "demo.5.jar",
 				"name": "desolated_pastels"
 			}
 		},
-		"key": "4194223a06938ffcb86a5335851576534b523a49cf2c8e1ff7a423b9ee0a947f"
+		"key": "42c1f372dcb809fe2c253582419a93da2c45a2e2c5271fe2090cae37d730e7ef"
 	},
 	"dont-do-that": {
 		"files": {
