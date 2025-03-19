@@ -35,6 +35,9 @@ file = "config/familiar_friends.json"
 file = "config/fireblanket/fireblanket.txt"
 
 [[files]]
+file = "config/glowcase.toml"
+
+[[files]]
 file = "config/hoofprint.toml"
 
 [[files]]
@@ -42,6 +45,9 @@ file = "config/modernfix-mixins.properties"
 
 [[files]]
 file = "config/modfest_sync/behaviour.properties"
+
+[[files]]
+file = "config/modmenu.json"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
@@ -275,7 +281,8 @@ file = "mods/scattered-shards.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/shrimpsicle-0.0.2-1.21.1.jar"
+file = "mods/shrimpsicle.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/sidekick.pw.toml"
