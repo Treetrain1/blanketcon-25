@@ -2,70 +2,19 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# References a client class from server :pensive:
-snapshotmc
-boatism
-
-# Client class error but it also gives a registry error afterwards
-#charta
-
-# datapack error?
-#paladins-furniture
-
-# flywheel NoSuchMethod org.apache.commons.lang3.function.FailableSupplier#nul | visualization.VisualizationManagerImpl.<init>(VisualizationManagerImpl.java:81)
-#flw-vanillin
-
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1657] via mixin [net.shirojr.hidebodyparts.mixin.PlayerEntityDataMixin]
-hide-body-parts
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1309] via mixin [net.shirojr.illusionable.mixin.LivingEntityMixin]
-illusionable
-
-# Model breakages | Unknown property 'north' on 'Block{cook-it:vanilla_vine}'
-cook-it
-
-# Texture armisteel:block/armisteel_bars_edge with size 2x16 limits mip level from 4 to 1
-armisteel
-
-# Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
-oceanic-weaponry
-
-# noSuchMethodError on unfocused - needs to be rebuilt with updated unfocused?
-#scriptor-magicae
-
 # Not desired to be in pack by creator - "I recommend removing autowhitelist bc else it will complain every startup and it's not client compatible"
 autowhitelist
 
 # depends on origins, which causes [Canary]: Unsafe tracked data registration for [net.minecraft.class_1297] via mixin [io.github.apace100.apoli.mixin.EntityMixin]
 maddys_origins
 
-# Failed to encode packet 'clientbound/minecraft:custom_payload' (polydex-bridge:sync_recipes)
-polydex-bridge
-
-# java.lang.NoSuchMethodError: 'void imgui.ImFontAtlas.setFreeTypeRenderer(boolean)' at knot//gay.asoji.innerpastels.client.imgui.InnerPastelsImGuiImpl.imGuiFontsInitialization(InnerPastelsImGuiImpl.kt:172)
-#desolated_pastels
-
 # Texture mtr:block/sign/door_overlay_a_train_tcl_right with size 380x320 limits mip level from 3 to 2
 # Texture mtr:block/sign/door_overlay_sp1900_top with size 240x30 limits mip level from 2 to 1
 # crashes on mac + mip issues
 neomtr
 
-# Texture primordia:block/decoration/functional/furniture/wooden_table with size 35x35 limits mip level from 1 to 0
-#primordia
-
 # per Sisby Folks requiest
 hoofprint
-
-# crash involving waila reading nulls
-# hollow
-
-# [Canary]: Unsafe tracked data registration for [net.minecraft.class_1690] via mixin [net.frozenblock.wilderwild.mixin.entity.penguin.BoatMixin]
-wilder-wild
-
-# wet cement client =/= server
-oxide
-
-# Texture festive_frenzy:item/black_sharpened_candy_cane_model with size 200x20 limits mip level from 4 to 2
-festive_frenzy
 
 # crash on disconnect
 # autocut
