@@ -253,21 +253,21 @@
 		"files": {
 			"mods/anshar.pw.toml": {
 				"download": {
-					"hash": "47991b3707a7ba9f555a13585c68238084f551d993432d9ddc47841a7150cca931f2570c5349ecc936b55aa6f70042671cd88109861c123eabc74c8921b39f9f",
+					"hash": "e950f37cddde6f91be4aed553cdbced9baeb170cc732fd869c768afa0f20753b758bfea0459193fafa14b09c35e5b91accd3e7e9e6d313bab3c0334266be7b46",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/adcai9DE/versions/NS4dJUDC/anshar-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/adcai9DE/versions/DY4BndvK/anshar-1.0.2.jar"
 				},
-				"filename": "anshar-1.0.1.jar",
+				"filename": "anshar-1.0.2.jar",
 				"name": "Anshar",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -282,7 +282,7 @@
 				"side": "both"
 			}
 		},
-		"key": "f01cb9c32b92303b9b43e80f87e81f6f920b1cb8044fc347440316d309e81b86"
+		"key": "f2c2c80b15ce0a6c25cbb68090aaa4d639489ca72f8322b1ade428f8228ac646"
 	},
 	"armisteel": {
 		"files": {
@@ -393,26 +393,26 @@
 		"files": {
 			"mods/automobility.pw.toml": {
 				"download": {
-					"hash": "c68c4561defdc68e54e5e3811d71db5b7b298da31f7f4e166615abdad4c49183a3c13d6d15f54aa250e6b7023cb036338d290d01b5ccac8740160a7370efcd9d",
+					"hash": "9af005a49f06e3231b4a6d68395865d6118c86e9691b6f9e1be7b905b75d4fa624b9ebde5f0c65da4d0d530c7e08842d225675d99a9ca28811e94141cfef66a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/RACoEepT/automobility-0.5.0.d%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/A3iqH32h/automobility-0.5.0.e%2B1.21.1-fabric.jar"
 				},
-				"filename": "automobility-0.5.0.d+1.21.1-fabric.jar",
+				"filename": "automobility-0.5.0.e+1.21.1-fabric.jar",
 				"name": "Automobility",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "4a773283bb35bc2139012eca6da794d71dae401e3ee1db950a9e89cf94bd55f1"
+		"key": "a83a1eb6754a9723f8ce78cab092e34c4a244f82d054e8a2912b61d1fc77f2e2"
 	},
 	"autowhitelist": {
 		"files": {
@@ -1930,18 +1930,18 @@
 		"files": {
 			"mods/friendship-bracelets.pw.toml": {
 				"download": {
-					"hash": "4c9cbfad6d25820f37f3da4c4d05738386018f4a",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/WmRJaxMn/versions/hjnwZH7o/friendship-bracelets-0.2.2.jar"
+					"hash": "4300e13dd8cda0a2e72682c6ffbb78474b6f3092ff1dca9b47819153002bf647ad0aa95420c1f91d28d0dd4fda503e31956f429ddf953e9e07caa2b883ba33f4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/WmRJaxMn/versions/JdcwLyF9/friendship-bracelets-0.2.3.jar"
 				},
-				"filename": "friendship-bracelets-0.2.2.jar",
+				"filename": "friendship-bracelets-0.2.3.jar",
 				"name": "Friendship Bracelets",
 				"side": "both"
 			},
 			"mods/trinkets.pw.toml": {
 				"download": {
-					"hash": "f54756f938c7c273713b9f97d4a987eec551e892",
-					"hash-format": "sha1",
+					"hash": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
 				},
 				"filename": "trinkets-3.10.0.jar",
@@ -1949,7 +1949,7 @@
 				"side": "both"
 			}
 		},
-		"key": "380cb01ef1266f57acd756cea8019cfb9b78f51cf3588c9a087d8824914fc850"
+		"key": "e17c1a6b4dccb9c7d7faec7b3471456d02e577255c5dac5def0e7014b7990062"
 	},
 	"frights-delight": {
 		"files": {
@@ -2374,26 +2374,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "7141d70bff539dc873376d09371972714995d046",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/impillagers.pw.toml": {
 				"download": {
-					"hash": "9d0b2b4316994a3f59e02d5be02dbc4eda7ac9e2",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/qTL0SYMP/versions/XkIKo5zv/impillagers-1.2.2.jar"
+					"hash": "095ad80d402d912fbcbbdbdee4e92358c0d992571627e177bd791605e94eea885c498bfbd3265ca45c0e78f4918b640ef6f75e378053e7900ca7d4c5b28f2f07",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/qTL0SYMP/versions/Yb0Ayn8v/impillagers-1.2.3.jar"
 				},
-				"filename": "impillagers-1.2.2.jar",
+				"filename": "impillagers-1.2.3.jar",
 				"name": "Impillagers",
 				"side": "both"
 			}
 		},
-		"key": "ec8b376a6f58b95265a5f4d0acaa7625fbbe188eaad981e9dbdad64d2848c48d"
+		"key": "ff1673111c88ea64c5781e1dff25d470f063573d1c12ef5b020c683a5d963e34"
 	},
 	"inline": {
 		"files": {
@@ -2652,16 +2652,16 @@
 		"files": {
 			"mods/lilium.pw.toml": {
 				"download": {
-					"hash": "28dcefd47058dfd1e11ca09926384fd2275ee774a441dd64854488260e8e88ded95d193cf261281f602abf1957fcaa92b20b6c1da920ebc76abafb8ec2fc63c2",
+					"hash": "9345d91175f6c79269cefa555366e92a9726fdea52430babf0d08997bb3e47d7e9bef871efa88e2a8de82a9da6b4ec3fe4a30fcadfa5177b0ea1a6b1e960f341",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/q4jB8zeZ/lilium-1.6.4.jar"
+					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/8qxoceSI/lilium-1.6.5.jar"
 				},
-				"filename": "lilium-1.6.4.jar",
+				"filename": "lilium-1.6.5.jar",
 				"name": "Lilium",
 				"side": "both"
 			}
 		},
-		"key": "49e003ca30345843dc78ceda82f7f95e1c9e9834e7715cf15da979410caf2d9e"
+		"key": "6df21201766d7c7e29d4093773e5fc76d3a361a32b8e4ff00d7431271141c339"
 	},
 	"litavis": {
 		"files": {
@@ -2751,26 +2751,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/marksman.pw.toml": {
 				"download": {
-					"hash": "f0004b7c2c16482730f9a86e0687d0d952221b36cc0263b3a8c43f77e8e9f352c6fe988740710ef626a8b62d15de36ae0e5027a651da1a379b3d72566b138b55",
+					"hash": "0c5a7aaf9a2b92bce9a8467515e01ec8df1cdaa588db6c1241ef7e749c1d2dfb4ba10a5182adb51708b70eb592c9dd1ff7bf4684899fd281779a4d3ed81bc682",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/joN0iKRG/versions/FbQftZR3/marksman-1.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/joN0iKRG/versions/7e95kDjl/marksman-1.2.2.jar"
 				},
-				"filename": "marksman-1.2.1.jar",
+				"filename": "marksman-1.2.2.jar",
 				"name": "Marksman",
 				"side": "both"
 			}
 		},
-		"key": "f7e148ab55cb776d472cd67401204e6f150e3a43eec174dc09492bdbcbf80602"
+		"key": "4c38b863cda316f3326d6250cd3c62eba7bb0f4a0ddd590a3cf1fca6225e612f"
 	},
 	"minegrapht": {
 		"files": {},
@@ -4392,26 +4392,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/starcaller.pw.toml": {
 				"download": {
-					"hash": "90c99a00087bf3515181998503d8de62b79c626dcc68e6d015256dc422e1546ff88741a9d767fdb48842b5905fa422ca35593985c4be0d495337445412eda854",
+					"hash": "7106c2c6824877cd8a58b83aef22de32610fa90d298deac200033a8a39067d8291e0450bd1cde6338f38f8a2bfcd15cc9adebb522405e188e3e966a584ce7d1b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z7IRTW7F/versions/SVCRRblq/starcaller-0.4.4%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z7IRTW7F/versions/qYSsNyDW/starcaller-0.4.5%2B1.21.jar"
 				},
-				"filename": "starcaller-0.4.4+1.21.jar",
+				"filename": "starcaller-0.4.5+1.21.jar",
 				"name": "Starcaller",
 				"side": "both"
 			}
 		},
-		"key": "eb55e20303c98fd791e6e5f18b5b5cd597d3aabf5e5e21e54acf7c9ea3c4d4f6"
+		"key": "3f233237d55ef24312f676b65155e9405f5a492f908f777f804efe55b142b915"
 	},
 	"stellaris": {
 		"files": {

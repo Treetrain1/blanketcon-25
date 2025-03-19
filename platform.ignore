@@ -16,6 +16,9 @@ neomtr
 # per Sisby Folks requiest
 hoofprint
 
+# one.devos.nautical.canary.CanaryException: [Canary]: Unsafe tracked data registration for [net.minecraft.class_1690] via mixin [net.frozenblock.wilderwild.mixin.entity.penguin.BoatMixin]
+wilder-wild
+
 # crash on disconnect
 # autocut
 # monthofswords
