@@ -244,6 +244,10 @@ metafile = true
 file = "mods/shrimpsicle-0.0.2-1.21.1.jar"
 
 [[files]]
+file = "mods/shrimpsicle.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sidekick.pw.toml"
 metafile = true
 
