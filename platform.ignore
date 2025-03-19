@@ -26,9 +26,6 @@ cook-it
 # Texture armisteel:block/armisteel_bars_edge with size 2x16 limits mip level from 4 to 1
 armisteel
 
-# Texture twisted-and-carved:item/twisted_hand_glaive_big with size 36x36 limits mip level from 4 to 2
-twisted-and-carved
-
 # Texture oc:item/folly_turner_3d with size 34x34 limits mip level from 3 to 1
 oceanic-weaponry
 
@@ -67,5 +64,10 @@ wilder-wild
 # wet cement client =/= server
 oxide
 
-
+# i forgor
 festive_frenzy
+
+# crash on disconnect
+# autocut
+# monthofswords
+# emi? plugins crash related to level being set to nnull

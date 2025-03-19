@@ -1,13 +1,13 @@
 name = "Softer Pastels"
-filename = "SofterPastels-0.9.2.jar"
+filename = "SofterPastels-0.9.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ls8M8ohO/versions/2YMO4ete/SofterPastels-0.9.2.jar"
+url = "https://cdn.modrinth.com/data/Ls8M8ohO/versions/QEbMeHoU/SofterPastels-0.9.3.jar"
 hash-format = "sha512"
-hash = "d7eb580f816998cd8796a6fdb3adbf6ebccc4950a13080d83dca35ea83a7cf892a2df178dc136698a0623de6455d49eca6cfad25b6eef443e5c13ccdd28cfe9e"
+hash = "2b7fb362da3690e39df71284d8c22951d5277ab017ed102006e149241d5967bead8d32217e27bd40b7f6ed23695b100ae8a13aaae8ac3db8334bf5b15a7c0a2f"
 
 [update]
 [update.modrinth]
 mod-id = "Ls8M8ohO"
-version = "2YMO4ete"
+version = "QEbMeHoU"
