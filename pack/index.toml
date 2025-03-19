@@ -181,6 +181,10 @@ metafile = true
 file = "mods/fireblanket-0.6.3+1.21.jar"
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/glide-away.pw.toml"
 metafile = true
 
