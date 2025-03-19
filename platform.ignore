@@ -46,11 +46,11 @@ polydex-bridge
 
 # Texture mtr:block/sign/door_overlay_a_train_tcl_right with size 380x320 limits mip level from 3 to 2
 # Texture mtr:block/sign/door_overlay_sp1900_top with size 240x30 limits mip level from 2 to 1
-# crashes on mac
+# crashes on mac + mip issues
 neomtr
 
 # Texture primordia:block/decoration/functional/furniture/wooden_table with size 35x35 limits mip level from 1 to 0
-primordia
+#primordia
 
 # per Sisby Folks requiest
 hoofprint
@@ -64,7 +64,7 @@ wilder-wild
 # wet cement client =/= server
 oxide
 
-# i forgor
+# Texture festive_frenzy:item/black_sharpened_candy_cane_model with size 200x20 limits mip level from 4 to 2
 festive_frenzy
 
 # crash on disconnect
