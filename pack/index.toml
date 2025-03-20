@@ -20,6 +20,9 @@ file = "config/bobby.conf"
 file = "config/canary.json"
 
 [[files]]
+file = "config/chitinous_ties.json5"
+
+[[files]]
 file = "config/chunksfadein.properties"
 
 [[files]]
@@ -39,6 +42,9 @@ file = "config/glowcase.toml"
 
 [[files]]
 file = "config/hoofprint.toml"
+
+[[files]]
+file = "config/magiclib.json"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -99,6 +105,9 @@ file = "config/waila/waila_plugins.json"
 
 [[files]]
 file = "config/wilderwild/block.json5"
+
+[[files]]
+file = "config/wilderwild/mixins.json5"
 
 [[files]]
 file = "config/wwizardry.json"
@@ -188,7 +197,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.6.3+1.21.jar"
+file = "mods/fireblanket-0.7.1+1.21.jar"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
