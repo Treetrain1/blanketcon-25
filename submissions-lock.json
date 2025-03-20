@@ -4905,16 +4905,16 @@
 		"files": {
 			"mods/variant-swap.pw.toml": {
 				"download": {
-					"hash": "2b505f297bb89cc630ee29551ad0541913f1c2169b3bb6a99fc30fb57fcd5767049a1b440715704d73a3aa3e08676b63cc8a01479ae1db6e2608217a14f73dec",
+					"hash": "c3f42f843789a6fc6736ab47bf338bf298b37d3f79198172c4b6619ef765e8182226212cd2d50d8ac82f54127da37f441c4d87a9cb0e96e9580dfceddc05e7a3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/4jjwweQl/variant-swap-1.21-v0.1.4.jar"
+					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/g8Ve7rld/variant-swap-1.21-v0.1.5.jar"
 				},
-				"filename": "variant-swap-1.21-v0.1.4.jar",
+				"filename": "variant-swap-1.21-v0.1.5.jar",
 				"name": "Variant Swap",
 				"side": "both"
 			}
 		},
-		"key": "a24310d1899b12c3451d9a716048e9e54f6a56a924d3145cac53c252007ed4b3"
+		"key": "05db260e69af131e0bcf643c965ec0d89e426192430b2843b6cb9201ae9fd302"
 	},
 	"village-healthcare": {
 		"files": {
