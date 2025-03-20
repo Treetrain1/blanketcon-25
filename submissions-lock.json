@@ -1443,18 +1443,8 @@
 		"key": "f8bac8e32a5cb537f9b973f62cb74c11d75b1f2e68ddc1625605a5644824301c"
 	},
 	"coretechs": {
-		"files": {
-			"mods/coretechs.pw.toml": {
-				"download": {
-					"hash": "7fe4445bfcad3da82234542f5f334de60daf72731c19fa2086ce1c6fcb1e14a2",
-					"hash-format": "sha256",
-					"url": "https://git.ailur.dev/arzumify/coretechs/releases/download/alpha.5/coretechs-0.0.1.alpha.5.jar"
-				},
-				"filename": "coretechs-0.0.1.alpha.5.jar",
-				"name": "coretechs"
-			}
-		},
-		"key": "ab9a28e503a5b884839916009d6758adf421ca14a4fdf6fa15226a09c17a3bde"
+		"files": {},
+		"key": "554658e0bf5fdd8721bb576eb95041e10fe1e44f6bf9c54d16a0f085f8f819f0"
 	},
 	"crag": {
 		"files": {
@@ -1565,26 +1555,26 @@
 		"files": {
 			"mods/default-components.pw.toml": {
 				"download": {
-					"hash": "77af8842faf1d25736e1de9e52c86ce991bc4e76d0b5aa329fbee9e3fa942bbc36acdcfbb7e6fbe13e618e33cb0fdb1ff02d5ba1ffc3af379354b37ccbd4df32",
+					"hash": "4ac103c02e5c04379ae5b6f4644fb629dd72c99908b12ccf7615f9d8ea6a4f480a36be7a170eda85dc7b019ab39d8fec194bd617aa7dc851153ae07d7e88aaa0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ReIHZWEq/versions/nK9lkNOD/default-components-1.0.0-alpha.5%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/ReIHZWEq/versions/LN7frPPW/default-components-1.0.0-alpha.6%2B1.21.jar"
 				},
-				"filename": "default-components-1.0.0-alpha.5+1.21.jar",
+				"filename": "default-components-1.0.0-alpha.6+1.21.jar",
 				"name": "Default Components",
 				"side": "server"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "209833df80a4e3c489b459f3d78fc815445deb75158a9151212aed6f98e29960"
+		"key": "c5d1eb76495f1306506b83bd751ff9bdd6164e2f67c7006dae4a1e273dd9883a"
 	},
 	"desolated_pastels": {
 		"files": {
@@ -2389,16 +2379,16 @@
 			},
 			"mods/impillagers.pw.toml": {
 				"download": {
-					"hash": "095ad80d402d912fbcbbdbdee4e92358c0d992571627e177bd791605e94eea885c498bfbd3265ca45c0e78f4918b640ef6f75e378053e7900ca7d4c5b28f2f07",
+					"hash": "e31412ed4e1ecd6194c9461a4eee20c516f8fcca25cc2fcf14f9feb7ebbb0bc2c2cd60e2f93914e5ea88a461a4d7c1e038813c070a5fdc7a9ed0624cd630a579",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qTL0SYMP/versions/Yb0Ayn8v/impillagers-1.2.3.jar"
+					"url": "https://cdn.modrinth.com/data/qTL0SYMP/versions/dXQJwqlV/impillagers-1.3.0.jar"
 				},
-				"filename": "impillagers-1.2.3.jar",
+				"filename": "impillagers-1.3.0.jar",
 				"name": "Impillagers",
 				"side": "both"
 			}
 		},
-		"key": "ff1673111c88ea64c5781e1dff25d470f063573d1c12ef5b020c683a5d963e34"
+		"key": "519b81135a6714bfc3a085518b3bd314ca38bd6c73d189426f3382438d869d92"
 	},
 	"inline": {
 		"files": {
@@ -2814,16 +2804,16 @@
 		"files": {
 			"mods/mirthdew-encore.pw.toml": {
 				"download": {
-					"hash": "51164bcdece9099b01795f682047cd33102f52b179ab37b9ca94f00e01ab3629a278af2f0a169d17bf8a82c0ba84984052342b133b1f5f67efa48dbf5aa2d394",
+					"hash": "03bb7213ca4ea8b007ce285c949c5248f15cd6f16d56759af7b24945fff8308d65f15a3a586ca138e4b423e1806038a33812a03cbf23592620449c359f7d14ed",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LFMwgWDl/versions/VyMpuD4C/mirthdew_encore-fabric-mc1.21.1-0.2.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/LFMwgWDl/versions/Vxe0fIcf/mirthdew_encore-fabric-mc1.21.1-0.2.0.2.jar"
 				},
-				"filename": "mirthdew_encore-fabric-mc1.21.1-0.2.0.1.jar",
+				"filename": "mirthdew_encore-fabric-mc1.21.1-0.2.0.2.jar",
 				"name": "Mirthdew Encore",
 				"side": "both"
 			}
 		},
-		"key": "7ad77ff4d0efc549a70b094b4810da7daaefb1671e5df0e0c5a1d173121df167"
+		"key": "94e1d608bd7f2331ebcb390f60b8f3173f3a2f900f69b7eb53bdeaced2a58356"
 	},
 	"missing-wilds": {
 		"files": {
@@ -3419,16 +3409,16 @@
 			},
 			"mods/pirate-radio.pw.toml": {
 				"download": {
-					"hash": "baadb38b25edeeaad4124a85e3793b353d9b5f12d8b3def990df0fba8e2de820e836e3ffbedb1bebc45ccdeb1253304e5fdc99e174a0196eb9715785d615ca88",
+					"hash": "a8b565e08a50e3a3b1fb04c137c906e317bc845b27e8eec5e8ee1b39edcf61190da8aaa2e94f918047c4e0291bff71161ac548c321b7b04162bcb3a292561de5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/4nDEmmIH/pirate-radio-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/ZF6tyt0y/pirate-radio-1.0.4.jar"
 				},
-				"filename": "pirate-radio-1.0.3.jar",
+				"filename": "pirate-radio-1.0.4.jar",
 				"name": "Pirate Radio",
 				"side": "both"
 			}
 		},
-		"key": "89868ae0ba38716006e34a787b428a9510ffedf60c1f9311a8517d9d19167225"
+		"key": "4a2ae98dede87a3421467432cfa0efd4ed5e475d98c6800ff63c5dfc4a7f7485"
 	},
 	"planetarium": {
 		"files": {
@@ -4452,16 +4442,16 @@
 			},
 			"mods/stellaris.pw.toml": {
 				"download": {
-					"hash": "efd0d38a3c3aba541046d020fcd70e65d09ad9152f10f984f98e08bd9873581adf889c0ceddb15a60d634286d48291ae635c67f5472c087fc23d5c8f14e78144",
+					"hash": "0b73dd70e48ab1bc51aeafe883b15071d3874662446ffebda95fec44a999df2e1c26a6992e7b27ad95a9a2aa73374d81719a9abf8c72ba7daafd57ab73297c46",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/w84zTpVG/stellaris-1.21-fabric-1.3.5.jar"
+					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/HBO0ea9r/stellaris-1.21-fabric-1.3.6.jar"
 				},
-				"filename": "stellaris-1.21-fabric-1.3.5.jar",
+				"filename": "stellaris-1.21-fabric-1.3.6.jar",
 				"name": "Stellaris",
 				"side": "both"
 			}
 		},
-		"key": "e3ce41f905a3e6d6b05421b80318d24bed10eadb98725c5279cba49781a4e0e8"
+		"key": "23f78824d2a6c5770a1ea70fa16aa417d66a86b1f2ce4bad1a5b59d5d62777b7"
 	},
 	"subete-kowasu-no-nara-kuro-ni-nare-old": {
 		"files": {
