@@ -2185,11 +2185,11 @@
 			},
 			"mods/hibernal-herbs.pw.toml": {
 				"download": {
-					"hash": "a9d561b3cb8dd252d90e96f5ab9fd08e82af8bd2b39e2328ecb5470e7f425baf83100f96a4b4ed71bdaf4a8384734efab1855da268c2470df2981a8ca1b0d95d",
+					"hash": "acb5ec9c5c3aea95fdc867116f66332249ed2bdf212262bb2a4aa9244ab0b56d9ae23e968de8b935430d251abb5089d5290d98420eec68d353de72a16a77c5af",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8fBUTFL3/versions/EtsnK5DS/hibernalherbs-1.4.1.7%2Bfabric-1.21.jar"
+					"url": "https://cdn.modrinth.com/data/8fBUTFL3/versions/wyI5oytp/hibernalherbs-1.4.1.9%2Bfabric-1.21.jar"
 				},
-				"filename": "hibernalherbs-1.4.1.7+fabric-1.21.jar",
+				"filename": "hibernalherbs-1.4.1.9+fabric-1.21.jar",
 				"name": "Hibernal Herbs",
 				"side": "both"
 			},
@@ -2204,7 +2204,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c31406f0afb511fe390352ef23fcf6981cd10db571e759a4d7ae2625d1e881d1"
+		"key": "0016d43454356434089501d75e88e4f1519cac87a922018ea563504d9faf64d5"
 	},
 	"hide-body-parts": {
 		"files": {
@@ -4636,11 +4636,11 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -4666,11 +4666,11 @@
 			},
 			"mods/the-legend-of-steve.pw.toml": {
 				"download": {
-					"hash": "a86cfcbe75b17b3b05cc47c7e97fc46ce4a5f1e0c4baa09be5e4a4e675d610b28da8ffed1e7028e9a8d795373e4549a8f59db91d7e38b509e3fcffc42279e896",
+					"hash": "8769ec506df983f264811f04278f9153fa6fce48a76e8026f79d600cd0f98b8754892693cbe34825606b5da08deacb5dee8458fd44d61a6dc5a1410a5118c242",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/VvGrp2dp/zeldacraft-1.0.3.7.jar"
+					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/hHCPcE5z/zeldacraft-1.0.3.8.jar"
 				},
-				"filename": "zeldacraft-1.0.3.7.jar",
+				"filename": "zeldacraft-1.0.3.8.jar",
 				"name": "The Legend of Steve",
 				"side": "both"
 			},
@@ -4685,7 +4685,7 @@
 				"side": "both"
 			}
 		},
-		"key": "f8e1ded1de5424705c06f34ffee341d2b55f9c463a6147209fde546b197d5efe"
+		"key": "f765448a3ecc5cd0ac92bd0ae707ee544b60540c367513c2409aa8973e46f760"
 	},
 	"this-rocks": {
 		"files": {
