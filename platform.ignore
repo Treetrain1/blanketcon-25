@@ -35,3 +35,6 @@ oxide
 # conflicts with other backslots mod
 nicos-backslots
 
+# reflection error
+lilium
+
