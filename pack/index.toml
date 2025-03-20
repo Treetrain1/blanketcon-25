@@ -236,6 +236,10 @@ file = "mods/lavender.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/liby.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/map-utils.pw.toml"
 metafile = true
 
