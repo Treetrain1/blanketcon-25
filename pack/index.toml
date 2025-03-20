@@ -152,6 +152,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
@@ -278,6 +282,10 @@ metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
