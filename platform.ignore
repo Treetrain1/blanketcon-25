@@ -32,3 +32,6 @@ stellaris
 # crashes on dedi
 oxide
 
+# conflicts with other backslots mod
+nicos-backslots
+
