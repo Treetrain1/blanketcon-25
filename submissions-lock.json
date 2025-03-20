@@ -1431,16 +1431,16 @@
 		"files": {
 			"mods/cook-it.pw.toml": {
 				"download": {
-					"hash": "ea95a6df995d544d8a767f2b4826019b9637e2303ce9e24bfaa8f26b4e730bf85d1bef2030e6d2c1aa54334d217a7c93cbd4cc038a724a38d8d6ac9f787c1152",
+					"hash": "bac6920362cf69c730dcb85e066e35dee3f3ce89a73e0fd0770c13cbf0c3cbecf6b4b0a818be480123d3015edd35faa719ece0167068d2f998992a7b86a85ad4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/ACxaDme9/cook-it-0.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/8Kt0BCMj/cook-it-0.0.3.jar"
 				},
 				"filename": "cook-it-0.0.3.jar",
 				"name": "Cook It!",
 				"side": "both"
 			}
 		},
-		"key": "f8bac8e32a5cb537f9b973f62cb74c11d75b1f2e68ddc1625605a5644824301c"
+		"key": "28849d059e3d39d5e845f51e09b62b42ee0803a693c3f7e4d727b315a1bb67ba"
 	},
 	"coretechs": {
 		"files": {},
@@ -2647,16 +2647,16 @@
 		"files": {
 			"mods/lilium.pw.toml": {
 				"download": {
-					"hash": "4b51934228a3949ef89087bee056589bfc77f0d83f3b767a03cecd4f7934e002a1e809497e06269aca8a29852464b7b64eca61f268a91b9c3f099eec219d9e42",
+					"hash": "c6387f008a17495110dba6b0ecf0428b576e220bbd299fea274554e424a25a041507c3e96a2e5df27c7b7ecc50c7fc65f3afaba9c11b94c4cbc1fe55b6a730a4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/10MiMMcM/lilium-1.6.10.jar"
+					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/sFHA0wM4/lilium-1.6.11.jar"
 				},
-				"filename": "lilium-1.6.10.jar",
+				"filename": "lilium-1.6.11.jar",
 				"name": "Lilium",
 				"side": "both"
 			}
 		},
-		"key": "646d8a969d31458c9db93dfd314fe973801a16d36af8fc383b9ff71938705892"
+		"key": "74f621001117a341440aaecdc5648d227240c7c72ab2f8b76c2a097a7edac2a2"
 	},
 	"litavis": {
 		"files": {
@@ -4542,15 +4542,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "0b846d92039fb9bc686ba8f96fbd9b2d7aae6f3fb0b1b565febd98a0f8bf49c1",
+					"hash": "2977b6361985a2ecc25d63e6cbf7ad00106f32f7978c4e514935822206ae01c3",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.12/superposition-fabric-1.21.1-0.2.12.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.13/superposition-fabric-1.21.1-0.2.13.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.12.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.13.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "01c6b38ee68d1a70e7c6c9b42e563fe3702c39b269a0ddda6dd9e25c31438e5f"
+		"key": "a133d96229388252405e75258f22799a70f117ddca06c287007d85468c98eac9"
 	},
 	"surveyor": {
 		"files": {

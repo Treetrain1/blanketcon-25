@@ -7,10 +7,10 @@ autowhitelist
 hoofprint
 surveyor
 
-# Excluded for feature conflict
+# Feature conflict
 nicos-backslots
 
-# Switchy needs to be updated for origins
+# Pending switchy update
 maddys_origins
 
 # Texture mtr:block/sign/door_overlay_a_train_tcl_right with size 380x320 limits mip level from 3 to 2
