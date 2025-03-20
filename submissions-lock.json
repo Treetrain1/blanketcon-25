@@ -4322,26 +4322,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "7141d70bff539dc873376d09371972714995d046",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "d6056e9a6a6106c8297ced3994829120b63de5cd",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/Jxq0rdYJ/spirit-vector-1.10.2%2B1.21.1.jar"
+					"hash": "d922eba2b0146fc56bf2a3eff46991d89df02162525fbfd837450b98e07d2502079975c4bf83a3f929cf6385217b3c5c02a487b1630db078d36161d956abefb2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/XUGwqX3Y/spirit-vector-1.10.3%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.2+1.21.1.jar",
+				"filename": "spirit-vector-1.10.3+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "424a5854edb048f1f99816942d1e230ee044e516c0ddcfe3f4178e34dd648caf"
+		"key": "6725d8258fa220868571708fcf2640baa3931109f7a5e01217e7226f8d27bd0a"
 	},
 	"splashfox": {
 		"files": {
