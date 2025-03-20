@@ -18,11 +18,5 @@ maddys_origins
 # crashes on mac + mip issues
 neomtr
 
-# null registry
-stellaris
-
-# reflection error
-lilium
-
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 snapshotmc
