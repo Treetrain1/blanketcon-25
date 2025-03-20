@@ -290,6 +290,10 @@ file = "mods/polymer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/quicker-connect-button.pw.toml"
 metafile = true
 
