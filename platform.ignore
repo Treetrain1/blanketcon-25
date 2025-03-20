@@ -2,10 +2,15 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# Not desired to be in pack by creator - "I recommend removing autowhitelist bc else it will complain every startup and it's not client compatible"
+# Per request
 autowhitelist
+hoofprint
+surveyor
 
-# depends on origins, which causes [Canary]: Unsafe tracked data registration for [net.minecraft.class_1297] via mixin [io.github.apace100.apoli.mixin.EntityMixin]
+# Excluded for feature conflict
+nicos-backslots
+
+# Switchy needs to be updated for origins
 maddys_origins
 
 # Texture mtr:block/sign/door_overlay_a_train_tcl_right with size 380x320 limits mip level from 3 to 2
@@ -13,28 +18,11 @@ maddys_origins
 # crashes on mac + mip issues
 neomtr
 
-# per Sisby Folks requiest
-hoofprint
-# netty crash
-surveyor
-
-# one.devos.nautical.canary.CanaryException: [Canary]: Unsafe tracked data registration for [net.minecraft.class_1690] via mixin [net.frozenblock.wilderwild.mixin.entity.penguin.BoatMixin]
-# wilder-wild
-
 # null registry
 stellaris
-
-# crash on disconnect
-# autocut
-# monthofswords
-# emi? plugins crash related to level being set to nnull
-
-# crashes on dedi
-#oxide
-
-# conflicts with other backslots mod
-nicos-backslots
 
 # reflection error
 lilium
 
+# Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
+snapshotmc

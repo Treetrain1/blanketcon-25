@@ -113,6 +113,10 @@ file = "config/wilderwild/mixins.json5"
 file = "config/wwizardry.json"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 metafile = true
 
@@ -371,10 +375,6 @@ metafile = true
 
 [[files]]
 file = "mods/timelock.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
