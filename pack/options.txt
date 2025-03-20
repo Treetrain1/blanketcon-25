@@ -3,7 +3,7 @@ darkMojangStudiosBackground:false
 skipMultiplayerWarning:true
 joinedFirstServer:true
 tutorialStep:none
-renderDistance:32
+renderDistance:16
 realmsNotifications:false
 key_key.advancements:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.right.alt

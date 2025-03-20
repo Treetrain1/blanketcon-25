@@ -868,26 +868,16 @@
 		"files": {
 			"mods/brewin-and-chewin.pw.toml": {
 				"download": {
-					"hash": "42ba13ab90f27bbe8adc19b6b7254c5c19e41fea4faf80f70797031dd85181402196d3ddc0abe3b0c6b8ad6d5781ef59cfb58e74157d7cedaf16849472276951",
+					"hash": "2e4049b54d750f306c0f04f5aeb6094f5e226d5589617b3a86a5fe9df150ffbf85f165f92634d0655bffc9f43675580474de55cba5c71f5825ec564c61f6df08",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/RZGHuuZe/BrewinAndChewin-fabric-4.0.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/SCKdc6MA/BrewinAndChewin-fabric-4.1.0%2B1.21.1.jar"
 				},
-				"filename": "BrewinAndChewin-fabric-4.0.0+1.21.1.jar",
+				"filename": "BrewinAndChewin-fabric-4.1.0+1.21.1.jar",
 				"name": "Brewin' And Chewin'",
-				"side": "both"
-			},
-			"mods/farmers-delight-refabricated.pw.toml": {
-				"download": {
-					"hash": "df00ad6fb93b5d38504f4523a3c6f693b8e113a0df988af98832eb3603fa634a0f5f43c8d5e13d9973a15a076735aaf67f775d83aeb9bc72d262940aa7001977",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/5XtFbOaE/FarmersDelight-1.21.1-2.3.0%2Brefabricated.jar"
-				},
-				"filename": "FarmersDelight-1.21.1-2.3.0+refabricated.jar",
-				"name": "Farmer's Delight Refabricated",
 				"side": "both"
 			}
 		},
-		"key": "f89f785290c4795aeb80bcc6ad55f3d2b8ff4624b62e4af2e1af1a268c9615e9"
+		"key": "314e1c27710a9c6e98972b719f540e574039439df4e987d45e6d81492a8d77b2"
 	},
 	"bronze": {
 		"files": {
@@ -1862,26 +1852,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/farmers-delight-refabricated.pw.toml": {
 				"download": {
-					"hash": "df00ad6fb93b5d38504f4523a3c6f693b8e113a0df988af98832eb3603fa634a0f5f43c8d5e13d9973a15a076735aaf67f775d83aeb9bc72d262940aa7001977",
+					"hash": "422f7d617a81395e4338894b519b1318458f435a74e9972ba89b2ac0b11764681733abbd0ace54b6c0ee07d18bf185d43a6b6cd6b7a08bca366f9a73b2766819",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/5XtFbOaE/FarmersDelight-1.21.1-2.3.0%2Brefabricated.jar"
+					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/9IKQwpOG/FarmersDelight-1.21.1-3.0.1%2Brefabricated.jar"
 				},
-				"filename": "FarmersDelight-1.21.1-2.3.0+refabricated.jar",
+				"filename": "FarmersDelight-1.21.1-3.0.1+refabricated.jar",
 				"name": "Farmer's Delight Refabricated",
 				"side": "both"
 			}
 		},
-		"key": "ebe542ebd3468e981cfd75102da6290a97daa38f0e2020ebd9032a79c116451f"
+		"key": "58750de30ad83b8fc7d23792c837ceb3456ca362ba85e5165ec23309240eecaa"
 	},
 	"festive_frenzy": {
 		"files": {
@@ -2667,16 +2657,16 @@
 		"files": {
 			"mods/lilium.pw.toml": {
 				"download": {
-					"hash": "369231dd0d477f807a9efd326f65f13d29612e899520e8342d531f805cec4d00d6c7fd24e455eb105ec27d6dfc3b4fd1c669d09ce26d64ffd7f5ec263e133903",
+					"hash": "4b51934228a3949ef89087bee056589bfc77f0d83f3b767a03cecd4f7934e002a1e809497e06269aca8a29852464b7b64eca61f268a91b9c3f099eec219d9e42",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/HnBKocgX/lilium-1.6.8.jar"
+					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/10MiMMcM/lilium-1.6.10.jar"
 				},
-				"filename": "lilium-1.6.8.jar",
+				"filename": "lilium-1.6.10.jar",
 				"name": "Lilium",
 				"side": "both"
 			}
 		},
-		"key": "d3b6d52f0c4a11c69d6c99d949f87d34c757de6d36741522bb658148fb061710"
+		"key": "646d8a969d31458c9db93dfd314fe973801a16d36af8fc383b9ff71938705892"
 	},
 	"litavis": {
 		"files": {
@@ -2991,36 +2981,36 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/farmers-delight-refabricated.pw.toml": {
 				"download": {
-					"hash": "df00ad6fb93b5d38504f4523a3c6f693b8e113a0df988af98832eb3603fa634a0f5f43c8d5e13d9973a15a076735aaf67f775d83aeb9bc72d262940aa7001977",
+					"hash": "422f7d617a81395e4338894b519b1318458f435a74e9972ba89b2ac0b11764681733abbd0ace54b6c0ee07d18bf185d43a6b6cd6b7a08bca366f9a73b2766819",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/5XtFbOaE/FarmersDelight-1.21.1-2.3.0%2Brefabricated.jar"
+					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/9IKQwpOG/FarmersDelight-1.21.1-3.0.1%2Brefabricated.jar"
 				},
-				"filename": "FarmersDelight-1.21.1-2.3.0+refabricated.jar",
+				"filename": "FarmersDelight-1.21.1-3.0.1+refabricated.jar",
 				"name": "Farmer's Delight Refabricated",
 				"side": "both"
 			},
 			"mods/my-nethers-delight-refabricated.pw.toml": {
 				"download": {
-					"hash": "04f8d6e401e2dfd7db8ea51accc580e54025eb1360b9fa41ddc039d394bb67ea08706fb7dadaadb12e2960508ce2e1a65917ef0493e025bce4821dcafbfb022a",
+					"hash": "11e69a04910eaf91c423513f5ce63bf19968ea7f11207829915c0f6ae8c139c0e493b8036934ae7ff358ec39c8aae1d0b7c4e1456c6e6a5e9fea07fad0a6bd15",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uIOfYdnw/versions/rkwjWfoa/MyNethersDelight-1.21.1-1.1.2%2B1.7.7.refabricated.jar"
+					"url": "https://cdn.modrinth.com/data/uIOfYdnw/versions/ECzemYRY/MyNethersDelight-1.21.1-2.0.0%2B1.7.8.refabricated.jar"
 				},
-				"filename": "MyNethersDelight-1.21.1-1.1.2+1.7.7.refabricated.jar",
+				"filename": "MyNethersDelight-1.21.1-2.0.0+1.7.8.refabricated.jar",
 				"name": "My Nether's Delight Refabricated",
 				"side": "both"
 			}
 		},
-		"key": "2bb308de7a8a0f01acdbf7d73fd44c1cc0086d6f4414a51324214a59506fa72d"
+		"key": "2a5424326dbe948ec9a50102be3e295d1ee809d51c63cc7d9fdfbecd4982c604"
 	},
 	"necessity": {
 		"files": {
@@ -4085,18 +4075,28 @@
 	},
 	"server-cosmetics": {
 		"files": {
+			"mods/polymer.pw.toml": {
+				"download": {
+					"hash": "643ffa43335900821551970d3ba89dd878550441eb2b1b2c03f7e3fb79190dfae4ccd39b0ebff9c3f7c724e75c5352231112bc897d11a7b8219b0573053dd630",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/t55Wk2zK/polymer-bundled-0.9.18%2B1.21.1.jar"
+				},
+				"filename": "polymer-bundled-0.9.18+1.21.1.jar",
+				"name": "Polymer",
+				"side": "server"
+			},
 			"mods/server-cosmetics.pw.toml": {
 				"download": {
-					"hash": "752132ba5d6a973dacdd47206dea2cf6f26332647f8052e736476e77d65856106d1ccca7dd1bb8c024664d3d5b01de04cf94ecde7b618ea8b356ee5b8c933701",
+					"hash": "31982cb9c0750aa6f4c84c556d6c6814fc101eee0373016a3e1fbef0f18000870ea5ba96b782c6667801b104fb594ce64a69d245a7bebac4dce272833a93e02b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rpTNWjZH/versions/31Y33mfz/servercosmetics-0.1.7%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/rpTNWjZH/versions/qFRA23Y8/servercosmetics-0.1.8%2B1.21.1-blanketcon.jar"
 				},
-				"filename": "servercosmetics-0.1.7+1.21.1.jar",
+				"filename": "servercosmetics-0.1.8+1.21.1-blanketcon.jar",
 				"name": "Server Cosmetics",
 				"side": "server"
 			}
 		},
-		"key": "5494e2800adcbc0cc985def70af80ea2cd0b93b44bfeedd96a84bf5efb76d7a8"
+		"key": "358582cdf284114cff8f77f5228357daf3ee7d0e2519f53c7080231d60fe2f14"
 	},
 	"shattered-stopwatch": {
 		"files": {
@@ -4297,28 +4297,28 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "7141d70bff539dc873376d09371972714995d046",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "3f7c7e3c4f62dd599b6fdba19daf8edf6b6ad98c",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/JVurY2iz/soteria-0.2.0.jar"
+					"hash": "39ba2ccd04d5d92fab64c74ed8142416da6f21243b1e5df2ea8ada84a1e14e3e1fc46da7f4c56d4ee06b59055a5c0607ce84fc2630c0abf4dfc23d2fbc7603f6",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/SkNZOgVX/soteria-0.2.1.jar"
 				},
-				"filename": "soteria-0.2.0.jar",
+				"filename": "soteria-0.2.1.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "d6056e9a6a6106c8297ced3994829120b63de5cd",
-					"hash-format": "sha1",
+					"hash": "3342eeec794bf0206bb230db87dd6a5fc5b6a4018978a44df6167008c7267354d69ef64b5ee9033c5f7a07b2859a3e556cf5d6dbfb088298d012363a7c00bd89",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/Jxq0rdYJ/spirit-vector-1.10.2%2B1.21.1.jar"
 				},
 				"filename": "spirit-vector-1.10.2+1.21.1.jar",
@@ -4326,7 +4326,7 @@
 				"side": "both"
 			}
 		},
-		"key": "1422fc8718b46927b02773682ddeb1cc63407cadbde9365c31c967b5473dd82e"
+		"key": "ac83a83fbe9c1fa01d2ad14efeca455174aae887f03730738eba633f122ce5d1"
 	},
 	"spirit-vector": {
 		"files": {
@@ -4382,26 +4382,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/splinecart.pw.toml": {
 				"download": {
-					"hash": "f7b903bf4da04406fcdf17cd01786f045c46fc40f3727a3f856664b7ef988209f66b08277c3562e2106b97a0d81467e3265b436473cb69bee1ff569418e478ac",
+					"hash": "66c68dc01b05dac94cfa28f278c449fa046377a1ddae5abee699718a90770eb657a7989e768a2c0f18f13bcae4ea47c57067a4bc1b01bcfe7a10ddd5a1b6d5c5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/vTGfJ0mg/splinecart-0.1%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/SARGHFuC/splinecart-0.2%2B1.21.1.jar"
 				},
-				"filename": "splinecart-0.1+1.21.jar",
+				"filename": "splinecart-0.2+1.21.1.jar",
 				"name": "Splinecart",
 				"side": "both"
 			}
 		},
-		"key": "425043a2a484ec903a6345e576822aaafd1b28e0ff8f0fc4c0c79c969eac582c"
+		"key": "e7f4c28063f6227823a8a91997450129ad2cb301e5f4b1dbc8c2ed9e54d3c111"
 	},
 	"starcaller": {
 		"files": {
@@ -4552,15 +4552,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "bc00042769def517fae7b6f2afd022939872c3a43aa27da861afb6d71a0b477a",
+					"hash": "0b846d92039fb9bc686ba8f96fbd9b2d7aae6f3fb0b1b565febd98a0f8bf49c1",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.11/superposition-fabric-1.21.1-0.2.11.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.12/superposition-fabric-1.21.1-0.2.12.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.11.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.12.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "2faac604b53edf100505ae5d422d148dd60665de3553a27c5a9899896500f73a"
+		"key": "01c6b38ee68d1a70e7c6c9b42e563fe3702c39b269a0ddda6dd9e25c31438e5f"
 	},
 	"surveyor": {
 		"files": {
@@ -4870,51 +4870,51 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/farmers-delight-refabricated.pw.toml": {
 				"download": {
-					"hash": "df00ad6fb93b5d38504f4523a3c6f693b8e113a0df988af98832eb3603fa634a0f5f43c8d5e13d9973a15a076735aaf67f775d83aeb9bc72d262940aa7001977",
+					"hash": "422f7d617a81395e4338894b519b1318458f435a74e9972ba89b2ac0b11764681733abbd0ace54b6c0ee07d18bf185d43a6b6cd6b7a08bca366f9a73b2766819",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/5XtFbOaE/FarmersDelight-1.21.1-2.3.0%2Brefabricated.jar"
+					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/9IKQwpOG/FarmersDelight-1.21.1-3.0.1%2Brefabricated.jar"
 				},
-				"filename": "FarmersDelight-1.21.1-2.3.0+refabricated.jar",
+				"filename": "FarmersDelight-1.21.1-3.0.1+refabricated.jar",
 				"name": "Farmer's Delight Refabricated",
 				"side": "both"
 			},
 			"mods/ubes-delight.pw.toml": {
 				"download": {
-					"hash": "56f25a8598d9e805861c4a6a5b2a2bf0874396fef3377a26b5d585857785e12752f9f6aea737eeeeb50e710ff8ef4f0f93a519e2206b63bdd153373b87f630cc",
+					"hash": "b2828997d84b1619861a2de5b1c4622a878a3e53cdbfc5de0452b142706463c88cfab615d4bfb8c56006519ada5039996d5f35c0c1cc53c9575c311d92c2a10c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/PYjpoAys/versions/7fFZ7Umr/ubesdelight-fabric-1.21.1-0.3.4.jar"
+					"url": "https://cdn.modrinth.com/data/PYjpoAys/versions/OmzeaunP/ubesdelight-fabric-1.21.1-0.4.0-3.0.0%2Brefab.jar"
 				},
-				"filename": "ubesdelight-fabric-1.21.1-0.3.4.jar",
+				"filename": "ubesdelight-fabric-1.21.1-0.4.0-3.0.0+refab.jar",
 				"name": "Ube's Delight",
 				"side": "both"
 			}
 		},
-		"key": "ab90921df95e18ba336cd4d8944aa22b1e1fe5038d92071e6a221e6048f16525"
+		"key": "ead91d6eee816099390509ed07addc53453d09b6dab67ac6e97ba8a107960247"
 	},
 	"variant-swap": {
 		"files": {
 			"mods/variant-swap.pw.toml": {
 				"download": {
-					"hash": "4bc1a2e7ba1fe3eaba4add89b64a2ab14d7775bdac2ba3cc1bee88a496715dda19b73a03c1abeb93022768fd2ac95f203ea1f55b8ac1000ac384cf6458b7045a",
+					"hash": "2b505f297bb89cc630ee29551ad0541913f1c2169b3bb6a99fc30fb57fcd5767049a1b440715704d73a3aa3e08676b63cc8a01479ae1db6e2608217a14f73dec",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/RBTGkFe9/variant-swap-1.21-v0.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/4jjwweQl/variant-swap-1.21-v0.1.4.jar"
 				},
-				"filename": "variant-swap-1.21-v0.1.3.jar",
+				"filename": "variant-swap-1.21-v0.1.4.jar",
 				"name": "Variant Swap",
 				"side": "both"
 			}
 		},
-		"key": "15ebc075cc102751a285bff65904082644c093b11b7ce4bd981b1ee89bbbfa48"
+		"key": "a24310d1899b12c3451d9a716048e9e54f6a56a924d3145cac53c252007ed4b3"
 	},
 	"village-healthcare": {
 		"files": {
@@ -5035,26 +5035,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/weird-wares.pw.toml": {
 				"download": {
-					"hash": "91339d3f336e8d34c6ede91a49f41506fa95e7a3a6f02faf1cb4939fb16239fac214d6eaf7a9fcd3635c2f741ec4d88f8b2f15cd5050b8ba2f8fd7aedbd2d388",
+					"hash": "36adf2c183097d91a33d42b2e5d3b54f21ae300675d3d898f5aca291a4c815e9ef89b43c7d030218a7f0a03e2733f543c92d54844f25b599291b7938c59db106",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8YhM0jrV/versions/5EAMBKdG/weird-wares-0.2.2%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/8YhM0jrV/versions/peHmJ347/weird-wares-0.3.0%2B1.21.jar"
 				},
-				"filename": "weird-wares-0.2.2+1.21.jar",
+				"filename": "weird-wares-0.3.0+1.21.jar",
 				"name": "Weird Wares",
 				"side": "both"
 			}
 		},
-		"key": "20f08cf03366672dd83ecb32d0c817d80748e8d6198274d8ee25179bf2ddbf8a"
+		"key": "6b7181fe2e5ac8703b09d41cceda79359368ea24583c2a422834556fedf77329"
 	},
 	"wheel-of-wacky": {
 		"files": {
