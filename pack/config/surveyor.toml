@@ -24,7 +24,7 @@ debugCommands = false
 # Ignores chunk changes that don't affect the amount of air in the chunk
 # Saves on performance, a little inaccurate sometimes.
 # default: true
-lazyClientUpdating = false
+lazyClientUpdating = true # flip me when updating surveyor past alpha 6, i'm dumb
 
 [networking]
 	# [Server] Whether to place every player in a single share group
