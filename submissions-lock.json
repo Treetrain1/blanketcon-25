@@ -1252,26 +1252,36 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "848b0d27640775e71e3032f98b553f5efde54c9df6ea744d39678bd3a5461167314cfb0645d78fa5382ec68058e36febfc5977d2e9aa357a74886171d8893e50",
+					"hash": "4f5e3b83bd3831051a69756de758bfdca32e85f2c366a87389bcc09c6dbef95ba5c7457c50a4220a1e978986a2ce746dbf9d7c087aa5b35bac6019229cdec8c6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/fqFqqpve/chitinous_ties-2.0.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/8P7R3kwR/chitinous_ties-2.1.0%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.0.2+1.21.1.jar",
+				"filename": "chitinous_ties-2.1.0+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/owo-lib.pw.toml": {
+				"download": {
+					"hash": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
+				},
+				"filename": "owo-lib-0.12.15.1+1.21.jar",
+				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "4b99787c222ac65142f58b1da4f7ea8a25d333bac9b1d797034ebbf5ed506485"
+		"key": "caeae70e817c1bf0a4c9018aecdc518e92d5728c5798b866a25c45c778d1e6f3"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -2662,16 +2672,16 @@
 		"files": {
 			"mods/litavis.pw.toml": {
 				"download": {
-					"hash": "b3a75205bd58cb479d4be01cae3db82070a6ddfcd9770babca418132b42e054211ce8c381071f8f2f0a7c0f570298c794a4eccf7563b22ce569cc5abcfa16d71",
+					"hash": "cc044665b477437dff0ad26816aac96989268f0918d184407c18f860e0c01a3c618fb2a59fc69cc963df94674fff2bae9a9d2753e751bed4c3a1823af7ccf022",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mhPG3DFs/versions/3fK2e7he/litavis-1.2a-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/mhPG3DFs/versions/t13qJPCV/litavis-1.2b-1.21.1.jar"
 				},
-				"filename": "litavis-1.2a-1.21.1.jar",
+				"filename": "litavis-1.2b-1.21.1.jar",
 				"name": "Litavis",
 				"side": "both"
 			}
 		},
-		"key": "59a5ca49a50f733337ad31267870d3a4c993d5a0b71cb1e6ffbb1dfb726e7097"
+		"key": "482470d4602b9abb24d3228d646c94f219cb291e84fef839438a222a1435e1c5"
 	},
 	"maddys_origins": {
 		"files": {
@@ -2991,16 +3001,16 @@
 			},
 			"mods/my-nethers-delight-refabricated.pw.toml": {
 				"download": {
-					"hash": "11e69a04910eaf91c423513f5ce63bf19968ea7f11207829915c0f6ae8c139c0e493b8036934ae7ff358ec39c8aae1d0b7c4e1456c6e6a5e9fea07fad0a6bd15",
+					"hash": "0fc699d77c55c304efeac22551c48fcd8812f8f33e937113c24ec76af203dc1be1eb193d5f3cb484360bf3f81e1c787410762a493cc771d6aeb3f448e94b5daa",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uIOfYdnw/versions/ECzemYRY/MyNethersDelight-1.21.1-2.0.0%2B1.7.8.refabricated.jar"
+					"url": "https://cdn.modrinth.com/data/uIOfYdnw/versions/qZgRKAaW/MyNethersDelight-1.21.1-2.0.2%2B1.7.8.refabricated.jar"
 				},
-				"filename": "MyNethersDelight-1.21.1-2.0.0+1.7.8.refabricated.jar",
+				"filename": "MyNethersDelight-1.21.1-2.0.2+1.7.8.refabricated.jar",
 				"name": "My Nether's Delight Refabricated",
 				"side": "both"
 			}
 		},
-		"key": "2a5424326dbe948ec9a50102be3e295d1ee809d51c63cc7d9fdfbecd4982c604"
+		"key": "41677075fffaca835cff4648a6bd57c63256a6e444ccda7343c04d193ccbed32"
 	},
 	"necessity": {
 		"files": {
@@ -4297,26 +4307,26 @@
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "0fc3a9ef1bd77bcd4ec3216b834313d8dd8b4709416d090fa28d5789ac055105fd022ed215789a40d2e827fccbac2a99e251dd27b9234294fe6374642910d0b9",
+					"hash": "9bc730695572fc5a6e694468e4dc7731241d8391e7162b7db14d9c5c07428104ca6b495144bc9a836fb8b50420586d7c1c8ef44d66f87e86426084a2240d2b96",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/xciGitTV/soteria-0.2.2.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/10XXgB9e/soteria-0.2.4.jar"
 				},
-				"filename": "soteria-0.2.2.jar",
+				"filename": "soteria-0.2.4.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "d922eba2b0146fc56bf2a3eff46991d89df02162525fbfd837450b98e07d2502079975c4bf83a3f929cf6385217b3c5c02a487b1630db078d36161d956abefb2",
+					"hash": "af7cf873cf5f1caabf7e0fddb1c1fe21317aadb1fea35ca24f9d55325360f26c8ceccf56fb795fe8cb2305cd722bfa141b2bb1f62d57087802d3ee5e2aef69ac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/XUGwqX3Y/spirit-vector-1.10.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/xqsJrnwk/spirit-vector-1.10.5%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.3+1.21.1.jar",
+				"filename": "spirit-vector-1.10.5+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "08f5bb80da23d16a5365a839dc39ec30aec61e39039df3868db9917c9f979393"
+		"key": "570e9a4fe34367e82cd217f7c0aa60b2bf6cc332ffd8f1f9bad75d870b85490d"
 	},
 	"spirit-vector": {
 		"files": {
@@ -4332,16 +4342,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "d922eba2b0146fc56bf2a3eff46991d89df02162525fbfd837450b98e07d2502079975c4bf83a3f929cf6385217b3c5c02a487b1630db078d36161d956abefb2",
+					"hash": "af7cf873cf5f1caabf7e0fddb1c1fe21317aadb1fea35ca24f9d55325360f26c8ceccf56fb795fe8cb2305cd722bfa141b2bb1f62d57087802d3ee5e2aef69ac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/XUGwqX3Y/spirit-vector-1.10.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/xqsJrnwk/spirit-vector-1.10.5%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.3+1.21.1.jar",
+				"filename": "spirit-vector-1.10.5+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "6725d8258fa220868571708fcf2640baa3931109f7a5e01217e7226f8d27bd0a"
+		"key": "1e7eaaf5e119d0cab0f344ee9252cf3da91d4e3cb7892ff5fbd139d6b31fc3d9"
 	},
 	"splashfox": {
 		"files": {
@@ -4666,11 +4676,11 @@
 			},
 			"mods/the-legend-of-steve.pw.toml": {
 				"download": {
-					"hash": "8769ec506df983f264811f04278f9153fa6fce48a76e8026f79d600cd0f98b8754892693cbe34825606b5da08deacb5dee8458fd44d61a6dc5a1410a5118c242",
+					"hash": "1eba1d1c613ee4723b567f6c6646b27d76299e43088ac136f08d58ee7dd13269aa5acc63b0717ce06c02a4acd2da35b5b5b2d38d3912d8f0b5aa07253e3c883c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/hHCPcE5z/zeldacraft-1.0.3.8.jar"
+					"url": "https://cdn.modrinth.com/data/T95oH9Gx/versions/m99p8HLm/zeldacraft-1.0.3.9.jar"
 				},
-				"filename": "zeldacraft-1.0.3.8.jar",
+				"filename": "zeldacraft-1.0.3.9.jar",
 				"name": "The Legend of Steve",
 				"side": "both"
 			},
@@ -4685,7 +4695,7 @@
 				"side": "both"
 			}
 		},
-		"key": "f765448a3ecc5cd0ac92bd0ae707ee544b60540c367513c2409aa8973e46f760"
+		"key": "6e9fa5df2bfeba1d0f217b7b8cb9c7cf45b2b9278af0b6b2b54110e203c5b6c8"
 	},
 	"this-rocks": {
 		"files": {
