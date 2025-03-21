@@ -4297,26 +4297,26 @@
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "39ba2ccd04d5d92fab64c74ed8142416da6f21243b1e5df2ea8ada84a1e14e3e1fc46da7f4c56d4ee06b59055a5c0607ce84fc2630c0abf4dfc23d2fbc7603f6",
+					"hash": "0fc3a9ef1bd77bcd4ec3216b834313d8dd8b4709416d090fa28d5789ac055105fd022ed215789a40d2e827fccbac2a99e251dd27b9234294fe6374642910d0b9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/SkNZOgVX/soteria-0.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/xciGitTV/soteria-0.2.2.jar"
 				},
-				"filename": "soteria-0.2.1.jar",
+				"filename": "soteria-0.2.2.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "3342eeec794bf0206bb230db87dd6a5fc5b6a4018978a44df6167008c7267354d69ef64b5ee9033c5f7a07b2859a3e556cf5d6dbfb088298d012363a7c00bd89",
+					"hash": "d922eba2b0146fc56bf2a3eff46991d89df02162525fbfd837450b98e07d2502079975c4bf83a3f929cf6385217b3c5c02a487b1630db078d36161d956abefb2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/Jxq0rdYJ/spirit-vector-1.10.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/XUGwqX3Y/spirit-vector-1.10.3%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.2+1.21.1.jar",
+				"filename": "spirit-vector-1.10.3+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "ac83a83fbe9c1fa01d2ad14efeca455174aae887f03730738eba633f122ce5d1"
+		"key": "08f5bb80da23d16a5365a839dc39ec30aec61e39039df3868db9917c9f979393"
 	},
 	"spirit-vector": {
 		"files": {
