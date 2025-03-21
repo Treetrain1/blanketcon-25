@@ -266,6 +266,10 @@ file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moreaxolotlvariantsapi-common.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/now-playing-fabric-1.5.13+stereomerge+1.21.jar"
 
 [[files]]
