@@ -1,11 +1,11 @@
 {
-	"name": "None",
 	"powers": [
 	],
 	 "icon": {
 		"id": "minecraft:glass"
 	},
-	"description": "No origin is selected. Visit an origins-related booth to try some out.",
+	"order": 1,
+	"impact": 0,
 	"loading_priority": 100,
 	"unchoosable": false
 }
