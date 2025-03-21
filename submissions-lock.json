@@ -2573,26 +2573,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/klaxon.pw.toml": {
 				"download": {
-					"hash": "bee8b8464d9ab897c7fce480fcc8f1fbc383c8e10eab78156361a9c410cd84b81efbff8ea82e0b22283ba8ca7bfb1047919d83b1c4ae7f1b7e113547a65ce1f7",
+					"hash": "358c880c341309c69db8803633472cff5f64f6c25a1d086f996367c460975aa74d72524265cda64c836ac4389dbf3a9b307d25fb8cca4b929906769533a35a90",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3d6VT9PT/versions/KF0pSkse/klaxon-0.3.1-1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/3d6VT9PT/versions/WtxuSUWO/klaxon-0.3.11%2B1.21.1-fabric.jar"
 				},
-				"filename": "klaxon-0.3.1-1.21.1-fabric.jar",
+				"filename": "klaxon-0.3.11+1.21.1-fabric.jar",
 				"name": "KLAXON",
 				"side": "both"
 			}
 		},
-		"key": "475dff333d950b934c3c38febd67fb39f0e4e3d347b483ce0be2f30481cb5c00"
+		"key": "f0810760dc31c0697a8771a45e038ac28196972ca5ce427d2c18b7453b0a0dcd"
 	},
 	"krender": {
 		"files": {
