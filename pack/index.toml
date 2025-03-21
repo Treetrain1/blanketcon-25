@@ -120,10 +120,6 @@ file = "mods/accessories-tc-layer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/apoli.pw.toml"
 metafile = true
 

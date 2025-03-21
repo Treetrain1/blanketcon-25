@@ -3,21 +3,21 @@
 		"files": {
 			"mods/accessories.pw.toml": {
 				"download": {
-					"hash": "fb7f5dce0cb482858289ff78a15e3edd05160009719b1f6da159f34bddaec5debe2daf95a65b114a8a1a518e604c24d7ea10bd0f7cca48b7f440d65b6f569169",
+					"hash": "f481747c002a02f77c27dce606dbe07c13c203c55620ab40ba47f0ad3d80dc2c65f9bf658d9189c09b934acffb844729c5fcf3ac1e4aa82083d951a8c77972c1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/J2DCUCN6/accessories-fabric-1.1.0-beta.28%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xe7f8q7s/accessories-fabric-1.1.0-beta.34%2B1.21.1.jar"
 				},
-				"filename": "accessories-fabric-1.1.0-beta.28+1.21.1.jar",
+				"filename": "accessories-fabric-1.1.0-beta.34+1.21.1.jar",
 				"name": "Accessories",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -28,11 +28,11 @@
 					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
 				},
 				"filename": "owo-lib-0.12.15.1+1.21.jar",
-				"name": "o\u00cf\u2030o (owo-lib)",
+				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "5da15dc1699e31332ea4feb282605341c544b76b0b88fee2a78c1826f2cbf097"
+		"key": "e1a21a28822a5e9c5c6ae88687c9c4543a5a17f147be3dee9bff93f5907fc3ec"
 	},
 	"advanced-networking": {
 		"files": {
@@ -1301,21 +1301,21 @@
 		"files": {
 			"mods/colorful-lanterns.pw.toml": {
 				"download": {
-					"hash": "5c6ffad36d7a7fd7f1faa8c2315d87f7ee482956309239bb6abb43c47f20d892111d7150ae2f58619e1ee0789ccbb4f7b810b083eda6a21d2c957e5c002e168b",
+					"hash": "1a64e610d4fc37e8e24c00eb111def726cb075e7088150340b9d8e7a6714dc892142b5dd7b6662513e62867c0fb5ecfee18befc6487c20ed0a0309f12c8dd53d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZOLn67wl/versions/5U9jbk7a/colorful-lanterns-0.0.3-dev.jar"
+					"url": "https://cdn.modrinth.com/data/ZOLn67wl/versions/n6MywJyj/colorful-lanterns-0.0.4-1.21.1.jar"
 				},
-				"filename": "colorful-lanterns-0.0.3-dev.jar",
+				"filename": "colorful-lanterns-0.0.4-1.21.1.jar",
 				"name": "Colorful Lanterns",
 				"side": "server"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -1330,7 +1330,7 @@
 				"side": "server"
 			}
 		},
-		"key": "42fe4a493df3ab80bcd73c1c428c3315303e78627d18c8df59e613dbe60ef20f"
+		"key": "5ba268d710938f08a5250e53447e3965429c97d719765ab26c8ec06780849319"
 	},
 	"colourful-clocks": {
 		"files": {
@@ -1515,36 +1515,36 @@
 		"files": {
 			"mods/dancerizer.pw.toml": {
 				"download": {
-					"hash": "848829b5265e3777bacdbd7b80cab8c04e7f54db7f221ba9e43d8e222181623e9606264abf7f4279c1e84cb867945d8db10c0540faf92a8adecdd35efb60881e",
+					"hash": "94f428cd0674e7b8574290b007c06b03dfcd576297e22be527f082b614e98b896668a2b4ebf02aa0a5d88f1c6b6e9393f04fe4b30a78f61e15a0a9870bbd0dda",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hZ4lZ6jX/versions/KrXE936T/dancerizer-1.4.0.jar"
+					"url": "https://cdn.modrinth.com/data/hZ4lZ6jX/versions/nZTi8Pqd/dancerizer-1.4.1.jar"
 				},
-				"filename": "dancerizer-1.4.0.jar",
+				"filename": "dancerizer-1.4.1.jar",
 				"name": "Dancerizer",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/fabric-language-kotlin.pw.toml": {
 				"download": {
-					"hash": "8e3609ef53a731c5509b304397e7fd4e37f2bbb4353b0d6234e74438846f0464743022f3339ba4f5acf21b023c80420ce59c194c1dfb11aeb79caffa6f842fb6",
+					"hash": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar"
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar"
 				},
-				"filename": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+				"filename": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
 				"name": "Fabric Language Kotlin",
 				"side": "both"
 			}
 		},
-		"key": "f8e8b536268566bb490c91ba30abda667626de80e6de6647f1bc5132cf8323cf"
+		"key": "73bf2736c8d5dd1d32ac244e012fd4318646cff43495f4a7e61e3fbcf9af3c01"
 	},
 	"decorative": {
 		"files": {
