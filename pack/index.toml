@@ -265,6 +265,10 @@ metafile = true
 file = "mods/now-playing-fabric-1.5.13+stereomerge+1.21.jar"
 
 [[files]]
+file = "mods/origins.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 metafile = true
 
