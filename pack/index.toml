@@ -124,6 +124,10 @@ file = "mods/accessories.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/apoli.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 metafile = true
 
