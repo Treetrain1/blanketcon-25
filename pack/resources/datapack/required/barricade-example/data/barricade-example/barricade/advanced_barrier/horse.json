@@ -1,6 +1,6 @@
 {
 	"name": "Horse Barrier",
-	"icon": "barricade-example:horse",
+	"icon": "barricade:horse",
 	"condition": {
 		"type": "silicate:entity_type",
 		"param_type": "silicate:this_entity",
