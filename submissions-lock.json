@@ -984,31 +984,6 @@
 		},
 		"key": "b6af947e434b2949febbc19444b60aa680bfd87db9c4e1d437f7434c40dced1b"
 	},
-	"cabbage-glasses": {
-		"files": {
-			"mods/brewery.pw.toml": {
-				"download": {
-					"hash": "f9df0247e4a89a4a5ed78ccb5dca01d4b60c5747afd3dc61971db69805a4949b584db5d9005c899a01f3debcf68a9c0549c5ccfd727bec87b99f1312f180c4a3",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/nr7cSJlY/versions/5YUeDUls/brewery-0.8.1%2B1.21.1.jar"
-				},
-				"filename": "brewery-0.8.1+1.21.1.jar",
-				"name": "Patbox's Brewery",
-				"side": "server"
-			},
-			"resourcepacks/cabbage-glasses.pw.toml": {
-				"download": {
-					"hash": "229b507dce17eb0829240c645407d04220b5caaf2bc9c127e57a5c9ac7095d529d14192989762d7ef4ea3dc9d9f10d9b0f1019de2ad558397f9db24bedfdaeb2",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/N5Z6XD09/versions/aw5s5KkS/cabbage-glasses.zip"
-				},
-				"filename": "cabbage-glasses.zip",
-				"name": "Cabbage Glasses",
-				"side": "client"
-			}
-		},
-		"key": "3ab1e94f1c1895c9a6bd59a53fa38c8481bf620462f7936f8051fab20c98d890"
-	},
 	"cabbage-substances": {
 		"files": {
 			"mods/brewery.pw.toml": {
@@ -1252,11 +1227,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "4f5e3b83bd3831051a69756de758bfdca32e85f2c366a87389bcc09c6dbef95ba5c7457c50a4220a1e978986a2ce746dbf9d7c087aa5b35bac6019229cdec8c6",
+					"hash": "8510f3544cd7a4c28b3a0d0b3a57c8536238c9e68111bd048888b558c7dc04738409635363beff65de8054e38536e52c889aa4b84f961a6be694a2bb41fcb80b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/8P7R3kwR/chitinous_ties-2.1.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/E9f5WLkV/chitinous_ties-2.1.1%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.1.0+1.21.1.jar",
+				"filename": "chitinous_ties-2.1.1+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1281,7 +1256,7 @@
 				"side": "both"
 			}
 		},
-		"key": "caeae70e817c1bf0a4c9018aecdc518e92d5728c5798b866a25c45c778d1e6f3"
+		"key": "f2576d18249f7d93e9b2a1cf27e365e19a4e5a55c892cda8bb61b896b310cb99"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -1945,11 +1920,11 @@
 		"files": {
 			"mods/friendship-bracelets.pw.toml": {
 				"download": {
-					"hash": "4300e13dd8cda0a2e72682c6ffbb78474b6f3092ff1dca9b47819153002bf647ad0aa95420c1f91d28d0dd4fda503e31956f429ddf953e9e07caa2b883ba33f4",
+					"hash": "e0b01bca3ca14630c9c0014167e2a1f010f68022aca7920833df03713acb353ce23b6f14d3408cc0a6e590c4546b5edfaf7f6d0977ec6820fc04cc5476360948",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WmRJaxMn/versions/JdcwLyF9/friendship-bracelets-0.2.3.jar"
+					"url": "https://cdn.modrinth.com/data/WmRJaxMn/versions/a1mc9xRh/friendship-bracelets-0.2.4.jar"
 				},
-				"filename": "friendship-bracelets-0.2.3.jar",
+				"filename": "friendship-bracelets-0.2.4.jar",
 				"name": "Friendship Bracelets",
 				"side": "both"
 			},
@@ -1964,7 +1939,7 @@
 				"side": "both"
 			}
 		},
-		"key": "e17c1a6b4dccb9c7d7faec7b3471456d02e577255c5dac5def0e7014b7990062"
+		"key": "eb47201ecc02c96bb09f891b36170ec51fd569ad4b2db523b234e2892fc67908"
 	},
 	"frights-delight": {
 		"files": {
@@ -2577,28 +2552,18 @@
 	},
 	"kawaii-dishes": {
 		"files": {
-			"mods/geckolib.pw.toml": {
-				"download": {
-					"hash": "8f2f95c8801c609c96834d06f14046cde2877dc18aa351e35b957d3d123688f61b673f8c9f1cf8fbffe345d2ada61c61d5dea0864595422d82351dcfca49090c",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/PEvrTvgj/geckolib-fabric-1.21.1-4.7.5.1.jar"
-				},
-				"filename": "geckolib-fabric-1.21.1-4.7.5.1.jar",
-				"name": "Geckolib",
-				"side": "both"
-			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "6d577a6d554de58ddc21164bae9437eb643d10ad27d60fe40a8f042fddc86fa73ff1c82bbf7db75f955fd55873116d7bd9f31a02c4434e0227ba256f7de73d6f",
+					"hash": "901a4b875ffb4f244a6ecaef72e7b64fd8286aa43a5b0d223a2f18e07177c62e43bccf5e08347f1adbb79072c8f47be1592674db96556106ab2bd57024f6d5ff",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Ts6umME8/kawaii-dishes-1.13-beta8.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/MQCo2FGN/kawaii-dishes-1.13-beta9.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta8.jar",
+				"filename": "kawaii-dishes-1.13-beta9.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "66d154718dec6c3d2ddbf94d8208ff7ab893bf23301c77f3dded9ea047515ed3"
+		"key": "7d43fed48ab47195f7f0f1057d01748076a80891e0f97bb6ae61754403eb643a"
 	},
 	"klaxon": {
 		"files": {
@@ -3073,31 +3038,6 @@
 		},
 		"key": "b08afa063b7aff8b78ac1e93156cf23a4c3905ec409d10943d30f88de9a018e6"
 	},
-	"nicos-backslots": {
-		"files": {
-			"mods/liby.pw.toml": {
-				"download": {
-					"hash": "c7e45ad8e50eccabbdca5e1d9bf072882e1ffeef452bb77b9b8ffcf31bdd817b1624e850e75fa7a9cb7fe2f1dac9aef9859bd536c5b6822c359ca4adda6e1505",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UsIxG2yq/versions/qhrphS96/liby-1.21.1-build-2.1.jar"
-				},
-				"filename": "liby-1.21.1-build-2.1.jar",
-				"name": "Liby",
-				"side": "both"
-			},
-			"mods/trinkets.pw.toml": {
-				"download": {
-					"hash": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-				},
-				"filename": "trinkets-3.10.0.jar",
-				"name": "Trinkets",
-				"side": "both"
-			}
-		},
-		"key": "451efec022023862d7cfdb34e7d0efa9d927ba0b708eafa981214faab059e181"
-	},
 	"nix-minecraft": {
 		"files": {},
 		"key": "a592824921fcde1446c6867ea529173ac222a4140bf328a89a1cb01b4780736a"
@@ -3430,26 +3370,26 @@
 			},
 			"mods/fabric-language-kotlin.pw.toml": {
 				"download": {
-					"hash": "8e3609ef53a731c5509b304397e7fd4e37f2bbb4353b0d6234e74438846f0464743022f3339ba4f5acf21b023c80420ce59c194c1dfb11aeb79caffa6f842fb6",
+					"hash": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/476dzMG5/fabric-language-kotlin-1.13.1%2Bkotlin.2.1.10.jar"
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar"
 				},
-				"filename": "fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar",
+				"filename": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
 				"name": "Fabric Language Kotlin",
 				"side": "both"
 			},
 			"mods/pirate-radio.pw.toml": {
 				"download": {
-					"hash": "a8b565e08a50e3a3b1fb04c137c906e317bc845b27e8eec5e8ee1b39edcf61190da8aaa2e94f918047c4e0291bff71161ac548c321b7b04162bcb3a292561de5",
+					"hash": "1ba266a0cc9314632015b9010069e942d4b4b84f864765f91d7508d8df3962e4021ff002b887b59e3d0dd2aeb22fd4975a041675875440cbc137ca331fc034cf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/ZF6tyt0y/pirate-radio-1.0.4.jar"
+					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/23U06cVt/pirate-radio-1.0.5%2Bbc25.jar"
 				},
-				"filename": "pirate-radio-1.0.4.jar",
+				"filename": "pirate-radio-1.0.5+bc25.jar",
 				"name": "Pirate Radio",
 				"side": "both"
 			}
 		},
-		"key": "4a2ae98dede87a3421467432cfa0efd4ed5e475d98c6800ff63c5dfc4a7f7485"
+		"key": "31889e359df940424ac6b9038530de705423a3f0eb21dd29293cb4372bc7313c"
 	},
 	"planetarium": {
 		"files": {
@@ -3883,16 +3823,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "43c6c812250b612d2759da8cd0bb1d5aa5547fa9",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/SJDTnvcR/pulchra-occultorum-0.0.12-1.21.1.jar"
+					"hash": "1396c13b9fd7d5a6e5f4a8fe4945b59aebf6dd7fe0f9210c6595a68c57f132141f1b701352b54c9561a34e33ac17d54dd36cbfec848b36ed951a6e99efd8b61a",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/wPBxwQ3s/pulchra-occultorum-0.0.13-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.12-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.13-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "b45e5c75527790fc4a0e3b5f252bdf0fbfbb5080776140931a2f1fe06f5d16b6"
+		"key": "e2b5a37414e2419b2e33d1106cb1e1f2f3e51aa26b97073cfd2ffb3b37c01cc1"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4926,16 +4866,16 @@
 		"files": {
 			"mods/variant-swap.pw.toml": {
 				"download": {
-					"hash": "c3f42f843789a6fc6736ab47bf338bf298b37d3f79198172c4b6619ef765e8182226212cd2d50d8ac82f54127da37f441c4d87a9cb0e96e9580dfceddc05e7a3",
+					"hash": "d0b65aa6690cd06b7fa676af412d4a54d1afece231fee0436555799a10176e240c2fb9fa4f638cc9aced3d21f40188f244c45f67de56c743cad126839e6fac48",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/g8Ve7rld/variant-swap-1.21-v0.1.5.jar"
+					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/10KNZJEF/variant-swap-1.21-v0.1.6.jar"
 				},
-				"filename": "variant-swap-1.21-v0.1.5.jar",
+				"filename": "variant-swap-1.21-v0.1.6.jar",
 				"name": "Variant Swap",
 				"side": "both"
 			}
 		},
-		"key": "05db260e69af131e0bcf643c965ec0d89e426192430b2843b6cb9201ae9fd302"
+		"key": "bb8cadbcd0eeea40331a2b0186cb65673a9f4b673b6933df38f34c749a853437"
 	},
 	"village-healthcare": {
 		"files": {
