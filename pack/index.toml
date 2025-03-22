@@ -56,6 +56,9 @@ file = "config/glowcase.toml"
 file = "config/hoofprint.toml"
 
 [[files]]
+file = "config/immersive_mc-server.json"
+
+[[files]]
 file = "config/magiclib.json"
 
 [[files]]
@@ -128,11 +131,10 @@ file = "config/wilderwild/mixins.json5"
 file = "config/wwizardry.json"
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-metafile = true
+file = "mods/Apoli-2.12.0-alpha.17+mc.1.21.1-blanketcon2.jar"
 
 [[files]]
-file = "mods/apoli.pw.toml"
+file = "mods/accessories-tc-layer.pw.toml"
 metafile = true
 
 [[files]]
@@ -438,6 +440,9 @@ metafile = true
 
 [[files]]
 file = "options.txt"
+
+[[files]]
+file = "resourcepacks/badradio.zip"
 
 [[files]]
 file = "resources/common/required/bovines_cow_variants/assets/blanketcon25/textures/entity/cow/cold_cow.png"
