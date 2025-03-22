@@ -1654,16 +1654,26 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "976bf227da4dc7876ef695d8f8fdd7fce169204cca0e3e312bcf194f1a5fe895d6db13f1b515032fbc196669e0341bd2588f12c4301961cd930404aa061a3628",
+					"hash": "7bda1f00235a76eee76433ec8377e72658ceeb6c7302bdc4564c3dd2ba7c007c79a7a70ab19ea26560ac3f678b6b48682f580db8d54373245045609ab037c5d3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/MbTKepIt/enchiridion-fabric-0.1.0-bc25.7%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/eMAGW9dU/enchiridion-fabric-0.1.0-bc25.8%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.7+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.8+1.21.1.jar",
 				"name": "Enchiridion",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "1bface877f82bf107235b0dfc79e76b1058bbdc56a261803f5f2d75d713e5ade"
+		"key": "69f10e705da69d0a11c568f66e694545a99967458c48966642b936201152a8ed"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -2257,8 +2267,19 @@
 		"key": "f2d1b5200877f01e74c11ac28b6675e4bf2ec42d9a7d5ddb79ef08c4c53aefba"
 	},
 	"honque": {
-		"files": {},
-		"key": "0097c79733fa5b1ca613b1d69048daad5f336bf888087fc5e8dbc90a7a25e94f"
+		"files": {
+			"mods/honque.pw.toml": {
+				"download": {
+					"hash": "80ec63c143bfd071503fa3c7ee2f6dd57cea6576f21fbc913b895278521f50c05442202016ce748fd049a09a31c0e887001dac75d4abfd5671b1c1ea62d5df96",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/xqSLPzRa/versions/856EM88M/honque-3.4.jar"
+				},
+				"filename": "honque-3.4.jar",
+				"name": "Honque",
+				"side": "both"
+			}
+		},
+		"key": "3ac6a294e70095b52d28abf6e6b32280bf43ab3055f9cd3fd1ddcf277a9ef355"
 	},
 	"hoofprint": {
 		"files": {
@@ -2657,16 +2678,16 @@
 		"files": {
 			"mods/lilium.pw.toml": {
 				"download": {
-					"hash": "c6387f008a17495110dba6b0ecf0428b576e220bbd299fea274554e424a25a041507c3e96a2e5df27c7b7ecc50c7fc65f3afaba9c11b94c4cbc1fe55b6a730a4",
+					"hash": "4c2bf505210a08eddd5c654cb2b08a794f7fe4b2ec62241ef87626a8108ed4a5abc9e5ec1ee845fce616a13870e58fc7da7344aa536dbbb3b858558fe22808fd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/sFHA0wM4/lilium-1.6.11.jar"
+					"url": "https://cdn.modrinth.com/data/PnKLjkNP/versions/aGeLaqqG/lilium-1.6.12.jar"
 				},
-				"filename": "lilium-1.6.11.jar",
+				"filename": "lilium-1.6.12.jar",
 				"name": "Lilium",
 				"side": "both"
 			}
 		},
-		"key": "74f621001117a341440aaecdc5648d227240c7c72ab2f8b76c2a097a7edac2a2"
+		"key": "be456cebdfd3bd3e386b65dcf1535784ee66f299c87861844cfb053d8fa56ff4"
 	},
 	"litavis": {
 		"files": {
@@ -3118,16 +3139,16 @@
 			},
 			"mods/omnicrossbow.pw.toml": {
 				"download": {
-					"hash": "ba67671afc5a4f57d5879e56e1d3ea1684edee0233c524690244c8a088f045a0bea4e197010bd80df7a6c3a536f72a30ae61023ecd6a8ff6f8cda817552dd1de",
+					"hash": "b6b484db43ec4be1a3117ca15fcba20a981493e4dfc35e496e5fd2f123827ed6e1b54d817616c65505f329f9a35337d4c9559e5c3d8df8bc9d798597f8daf7e8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/zUAEmkff/omnicrossbow-0.3.2%2Bmc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/UGIi3NEP/omnicrossbow-0.4.0%2Bmc1.21.1.jar"
 				},
-				"filename": "omnicrossbow-0.3.2+mc1.21.1.jar",
+				"filename": "omnicrossbow-0.4.0+mc1.21.1.jar",
 				"name": "OmniCrossbow",
 				"side": "both"
 			}
 		},
-		"key": "aff907ea58d5553bd63807f68e378b91778eaf7b082c03fb7dd26f73d6d4493e"
+		"key": "29c4b80b54ee71f395330d7f13bccbb8200e686d80a2e64602e30b61dc0b911d"
 	},
 	"operation-starcleave": {
 		"files": {
