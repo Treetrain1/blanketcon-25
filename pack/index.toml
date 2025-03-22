@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allium/hangman/main.lua"
+
+[[files]]
+file = "allium/hangman/manifest.json"
+
+[[files]]
+file = "allium/hangman/words.lua"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
@@ -208,7 +217,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.7.1+1.21.jar"
+file = "mods/fireblanket-0.7.3+1.21.1.jar"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
