@@ -188,16 +188,16 @@
 		"files": {
 			"mods/amarong.pw.toml": {
 				"download": {
-					"hash": "7813e17b96f4e128e3e2f597826cc7ceab2bd042a8f822adaa01e1df55284ab7e23fca82955a6829c6fc884c30816c840db94e05f5e7ff4ae7d1f9450c0a76f0",
+					"hash": "a9fbd2e50f6eb52def696a8e87141d21f2bdb749f9a3afbbe435b02f0c6cd1b728175a1c39c32855277f8693ac8d84505e8e78beaeda2ad1afa707b44815c8c3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Pkud4ZgC/versions/ruX6OLiF/amarong-1.2.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/Pkud4ZgC/versions/IK7oZ3eO/amarong-1.2.5%2B1.21.1.jar"
 				},
-				"filename": "amarong-1.2.4+1.21.1.jar",
+				"filename": "amarong-1.2.5+1.21.1.jar",
 				"name": "Amarong",
 				"side": "both"
 			}
 		},
-		"key": "14913fc61fa100baad48af8339b26301efda855b54420fe613465499151d9715"
+		"key": "642da8c88248ca8c0129972de65092bb3d16fb30b98a2a6339582ee8661b8e9a"
 	},
 	"amys-industrious-mod": {
 		"files": {
@@ -2435,26 +2435,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/inventory-tabs.pw.toml": {
 				"download": {
-					"hash": "a1004aff86c91c91cbaf0374c958423f65532132cd0dcdbc0c23ae6d9785a45570917432702ed432012eea0d1975a27f52edd3eaf54c15be8daf862b69e5fddf",
+					"hash": "87403c2005ae51e9ae55cd0a2a839f81161bc8874bf9984e163a998e4d3effaf24d5f2094c468760103a4f6800352f406bcd27f0446a0f5a23172c4bc5077475",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/VD1aynYU/versions/kC6I6OEh/inventory-tabs-1.4.0%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/VD1aynYU/versions/ozZZbuGi/inventory-tabs-1.4.1%2B1.21.jar"
 				},
-				"filename": "inventory-tabs-1.4.0+1.21.jar",
+				"filename": "inventory-tabs-1.4.1+1.21.jar",
 				"name": "Inventory Tabs",
 				"side": "client"
 			}
 		},
-		"key": "097aaff27099a0888b56ca7fe58aec743bfee78377670c5e091012b8effd23dc"
+		"key": "0fe89d7ffa7238d22082bc5cdc41e9258a592b31ac1562ebec6fffff47b56d52"
 	},
 	"item-descriptions": {
 		"files": {
@@ -3341,16 +3341,16 @@
 		"files": {
 			"mods/pierced.pw.toml": {
 				"download": {
-					"hash": "4b4245efdaff205d2eb5ccd3a12df8d93b0e55c902a4b4bfb4cb1c27222298305b9f76494ba1a93dabf2b7ab9ff162aef7de08547c53e3dc5787be66543359d4",
+					"hash": "3c7be178a98558bd9b8441cd25bc5d5e9329f82a137b4635808c4d1f8599d9a8e79a1c928a803f4f7d42ed584ea6f569d798fabfe2f56752762bb6424d8fa534",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/pHsXR1YM/versions/jrvJZsYH/pierced-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/pHsXR1YM/versions/KyJ5HNyZ/pierced-1.1.0.jar"
 				},
-				"filename": "pierced-1.0.0.jar",
+				"filename": "pierced-1.1.0.jar",
 				"name": "Pierced",
 				"side": "both"
 			}
 		},
-		"key": "1f85ab2c920dd756f65982c956e7020e7566d34bd62dcc21a7a4f69b9e536bb9"
+		"key": "fcdb75b01dd6142473da58907d5b64d50600debae4df16795236e2a2c54e0e96"
 	},
 	"pinit": {
 		"files": {},
@@ -3708,11 +3708,11 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -3728,16 +3728,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "231f76062307c597b06a4bbe2720bb7786d6d4e064ec829fa462ec92019424616a2bf6231a86a7a79c50271632991215725bca96b906e48b98bf3d8b27737581",
+					"hash": "5dcb3515855feee433efccff31c824a4791cf764ad985a94977c705b5b461edfba0845bfcfb136d7e5ef5087a673534b67b946d590b34d76b1957836b9eda462",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/LMHCHqDi/pride-moths-1.8.6.1%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/I4NhGF7E/pride-moths-1.8.6.2%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.6.1+1.21.jar",
+				"filename": "pride-moths-1.8.6.2+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "8552c38105835a8c90bab25cae7323747104f67000b2e26072e4a83cfba01019"
+		"key": "96ed1b867698a5d379ea455cc1b4717682128cc1ea5edc271df91fa7ac6436ab"
 	},
 	"pridegui": {
 		"files": {
@@ -3923,16 +3923,16 @@
 		"files": {
 			"mods/rods-from-god.pw.toml": {
 				"download": {
-					"hash": "eefaff876075b936be35921beaef496f544076d9b5eae27ac2f65e4d954d3d66703ec5e63dbb3f1793ff9415473f4647187396e07e5ce5837ac65b593523006d",
+					"hash": "a8944d2ba122cb09aa06ad62697a27ebbe1312d70a0809054c75ab46ed2ef2abe53139c75893456c0f0910ed2a80ab549d7b6881f6126502d22ad10db6b93fd8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/1nGPWgfP/rods_from_god-2.0.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/AEmb2P2H/rods_from_god-2.0.2%2B1.21.1.jar"
 				},
-				"filename": "rods_from_god-2.0.1+1.21.1.jar",
+				"filename": "rods_from_god-2.0.2+1.21.1.jar",
 				"name": "Rods from God",
 				"side": "both"
 			}
 		},
-		"key": "d53cc2f3d6662fbba86e702efb4f28e58c3e50f0e17abbc26ee0c994924e669b"
+		"key": "51ccb74d8bc1b68398a9cb9272017db2205436a4e57cd0870ba62549a3ece814"
 	},
 	"rounded_mod": {
 		"files": {
