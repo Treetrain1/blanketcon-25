@@ -1594,21 +1594,21 @@
 		"files": {
 			"mods/electromechanics.pw.toml": {
 				"download": {
-					"hash": "3325aa0dfc93dff7d587c3c80c6df5afb027c50b2a6d0cb54c42e89c3660ea826082416cc3a0174f5c7df62cc70047d9892ea1bb5d1055662b117b512cbfcb26",
+					"hash": "2b6e21c21f02717f882f169f5663ee519372c28f7a0bbaba59fd318cd005b6b389fd5e79540d39921f84bc5bf01415b4d8e132f122288218eac2b2676b610923",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/jbDc5KcS/electromechanics-1.2.0%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/8m9jm0VA/electromechanics-1.2.1%2B1.21.jar"
 				},
-				"filename": "electromechanics-1.2.0+1.21.jar",
+				"filename": "electromechanics-1.2.1+1.21.jar",
 				"name": "Electromechanics",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -1619,21 +1619,21 @@
 					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
 				},
 				"filename": "owo-lib-0.12.15.1+1.21.jar",
-				"name": "o\u00cf\u2030o (owo-lib)",
+				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "c29e2f35fdf0f51eacc0f90475ab41c59d7a0f4f93c4713fa1d46e8d53ea6fd3"
+		"key": "f714cae346912ac0006ca4bbb89023605f170c1506c22f4aa64a039ec95918c0"
 	},
 	"enchiridion": {
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "7bda1f00235a76eee76433ec8377e72658ceeb6c7302bdc4564c3dd2ba7c007c79a7a70ab19ea26560ac3f678b6b48682f580db8d54373245045609ab037c5d3",
+					"hash": "eb16088e54425ed22b454e0e26cc336489d99a8d37f05fa7f864f467259ac35bdc2cdd1a5c2c692988add024a7d69b706e73970116182d0bdafe045ab77676db",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/eMAGW9dU/enchiridion-fabric-0.1.0-bc25.8%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/6guK7fDN/enchiridion-fabric-0.1.0-bc25.9%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.8+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.9+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1648,7 +1648,7 @@
 				"side": "both"
 			}
 		},
-		"key": "69f10e705da69d0a11c568f66e694545a99967458c48966642b936201152a8ed"
+		"key": "6254fc70c62991dd7f530e6275879a948dbf320cc07db65accf07be7efccb029"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -2350,26 +2350,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/impenduits.pw.toml": {
 				"download": {
-					"hash": "8e76e173f24cff4c62428372b59bab2fcce936e0a3cd9ac385375fd8b4534665149c5cad6a06ebc31ed824cdad7befe6c6a51b09b1f3cfd77d7512f41db343e9",
+					"hash": "a33424a9764bb5b869387b6eb3817168b841ef9da4d31e8d7d2de72ee09910d4ca430b4539990f194eda1eef6e82833212cf6e6c4705a79c140d1e25a6923022",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iYrQWVBW/versions/X60jMWdg/impenduits-1.0.4-1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/iYrQWVBW/versions/PpzrbrfH/impenduits-1.0.5-1.21.1-fabric.jar"
 				},
-				"filename": "impenduits-1.0.4-1.21.1-fabric.jar",
+				"filename": "impenduits-1.0.5-1.21.1-fabric.jar",
 				"name": "Impenduits",
 				"side": "both"
 			}
 		},
-		"key": "3b2990685d6600755e6744aec43b03552620049d15a807d11874938e8bc0dcde"
+		"key": "c09deb5626ebff6d9fcaeaf2866eba54fcaa86bb59113ca25859435dec919999"
 	},
 	"impillagers": {
 		"files": {
@@ -3728,16 +3728,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "5dcb3515855feee433efccff31c824a4791cf764ad985a94977c705b5b461edfba0845bfcfb136d7e5ef5087a673534b67b946d590b34d76b1957836b9eda462",
+					"hash": "d43dcba86172c50c3259a608774200be600790032477d68899eccf3415c6662636f2eb645e7b98eb2452b7d4b0dc902245167f0c56de536d40125544e80e1a5e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/I4NhGF7E/pride-moths-1.8.6.2%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/1b8WQoWg/pride-moths-1.8.6.3%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.6.2+1.21.jar",
+				"filename": "pride-moths-1.8.6.3+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "96ed1b867698a5d379ea455cc1b4717682128cc1ea5edc271df91fa7ac6436ab"
+		"key": "280b535233d5f54c9abc9d99964aa4f07db9a43fd4327a2bcdeeab2e095fc876"
 	},
 	"pridegui": {
 		"files": {
@@ -3823,16 +3823,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "1396c13b9fd7d5a6e5f4a8fe4945b59aebf6dd7fe0f9210c6595a68c57f132141f1b701352b54c9561a34e33ac17d54dd36cbfec848b36ed951a6e99efd8b61a",
+					"hash": "5d0d48bb28a6fdd4b8008c633e9a20c9fe2fe10c3dc17e2023d1bb2cb657f31d5d79645a016c4343ab67563eacd000732705b6bf006b101e9108257b8c2bd586",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/wPBxwQ3s/pulchra-occultorum-0.0.13-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/NbySaLhC/pulchra-occultorum-0.0.14-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.13-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.14-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "e2b5a37414e2419b2e33d1106cb1e1f2f3e51aa26b97073cfd2ffb3b37c01cc1"
+		"key": "f2eeef8dc64a2901b7b01c374bcb095480c1dcb83b9999fc97319d99c62c5b6b"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4866,16 +4866,16 @@
 		"files": {
 			"mods/variant-swap.pw.toml": {
 				"download": {
-					"hash": "d0b65aa6690cd06b7fa676af412d4a54d1afece231fee0436555799a10176e240c2fb9fa4f638cc9aced3d21f40188f244c45f67de56c743cad126839e6fac48",
+					"hash": "81a8822d3dc72be6ab52c13f7f82bd3da8e54ad196f74b12ed4cca8fd97322bf196897bb1c05f0001b2ec43a4539c2ed8b014e85fcd3d5fa7b05053d2714e524",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/10KNZJEF/variant-swap-1.21-v0.1.6.jar"
+					"url": "https://cdn.modrinth.com/data/kZa4oOL0/versions/d8whks7R/variant-swap-1.21-v0.1.7.jar"
 				},
-				"filename": "variant-swap-1.21-v0.1.6.jar",
+				"filename": "variant-swap-1.21-v0.1.7.jar",
 				"name": "Variant Swap",
 				"side": "both"
 			}
 		},
-		"key": "bb8cadbcd0eeea40331a2b0186cb65673a9f4b673b6933df38f34c749a853437"
+		"key": "1af924e1c8016609fa7569bfd19d21e75b57beaf80b2f9442162ed0d092b5e37"
 	},
 	"village-healthcare": {
 		"files": {
