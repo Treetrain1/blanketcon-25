@@ -703,11 +703,11 @@
 		"files": {
 			"mods/borukva-food-exotic.pw.toml": {
 				"download": {
-					"hash": "4583d4f67ccce91eaf56bffbc339024b3e8c0b53677870b4f22949e5adf625ca0988aa91c5d174be76685232054cecfe26b4233dbf7300b8a237bf1405bac35e",
+					"hash": "3cebc421664c8ed6a91d7a30f53774cf2677287de8a30824908b733d66327b53cc25d063ba1611d07f3ca76c1b965192bdf450b5a2bd16d133414998ac316ca2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/odwLjifj/versions/87xSCkby/borukva-food-exotic-3.6.0.jar"
+					"url": "https://cdn.modrinth.com/data/odwLjifj/versions/ugcb1Bbo/borukva-food-exotic-3.6.1.jar"
 				},
-				"filename": "borukva-food-exotic-3.6.0.jar",
+				"filename": "borukva-food-exotic-3.6.1.jar",
 				"name": "Borukva Food Exotic",
 				"side": "server"
 			},
@@ -721,6 +721,16 @@
 				"name": "Borukva Food",
 				"side": "server"
 			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/polymer.pw.toml": {
 				"download": {
 					"hash": "643ffa43335900821551970d3ba89dd878550441eb2b1b2c03f7e3fb79190dfae4ccd39b0ebff9c3f7c724e75c5352231112bc897d11a7b8219b0573053dd630",
@@ -732,7 +742,7 @@
 				"side": "server"
 			}
 		},
-		"key": "f70003bda29303a149947b8a6736f1cdbcdb85134fb9eaf467171c190a3f940b"
+		"key": "f36c2bc4a3fd398fb5ae8c2bc6f02290b1d222666e1a4b355f3e0a7094fc87ba"
 	},
 	"bouquet": {
 		"files": {
@@ -983,6 +993,31 @@
 			}
 		},
 		"key": "b6af947e434b2949febbc19444b60aa680bfd87db9c4e1d437f7434c40dced1b"
+	},
+	"cabbage-glasses": {
+		"files": {
+			"mods/brewery.pw.toml": {
+				"download": {
+					"hash": "f9df0247e4a89a4a5ed78ccb5dca01d4b60c5747afd3dc61971db69805a4949b584db5d9005c899a01f3debcf68a9c0549c5ccfd727bec87b99f1312f180c4a3",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/nr7cSJlY/versions/5YUeDUls/brewery-0.8.1%2B1.21.1.jar"
+				},
+				"filename": "brewery-0.8.1+1.21.1.jar",
+				"name": "Patbox's Brewery",
+				"side": "server"
+			},
+			"resourcepacks/cabbage-glasses.pw.toml": {
+				"download": {
+					"hash": "229b507dce17eb0829240c645407d04220b5caaf2bc9c127e57a5c9ac7095d529d14192989762d7ef4ea3dc9d9f10d9b0f1019de2ad558397f9db24bedfdaeb2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/N5Z6XD09/versions/aw5s5KkS/cabbage-glasses.zip"
+				},
+				"filename": "cabbage-glasses.zip",
+				"name": "Cabbage Glasses",
+				"side": "client"
+			}
+		},
+		"key": "3ab1e94f1c1895c9a6bd59a53fa38c8481bf620462f7936f8051fab20c98d890"
 	},
 	"cabbage-substances": {
 		"files": {
@@ -1629,26 +1664,16 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "eb16088e54425ed22b454e0e26cc336489d99a8d37f05fa7f864f467259ac35bdc2cdd1a5c2c692988add024a7d69b706e73970116182d0bdafe045ab77676db",
+					"hash": "94e5c8922aa19c349865fc79b496dd7bb4041852098804714780c0f8df303c0606c0f89bb585169808d23fcbef9fc43758c594f3ab88186674c81c5b5a044a2e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/6guK7fDN/enchiridion-fabric-0.1.0-bc25.9%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/LGXlPE1A/enchiridion-fabric-0.1.0-bc25.10%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.9+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.10+1.21.1.jar",
 				"name": "Enchiridion",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.3+1.21.1.jar",
-				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "6254fc70c62991dd7f530e6275879a948dbf320cc07db65accf07be7efccb029"
+		"key": "c8f72b95ae228c9b3a5397e712f2e2230c81b2547bbc01958908b0ecc863fa04"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1862,15 +1887,15 @@
 		"files": {
 			"mods/festive-frenzy.pw.toml": {
 				"download": {
-					"hash": "8fe69e459155c9f50047460411041cb3b39cfb00b46036310377998813470708",
+					"hash": "4becf7ab486199dc8086c1f80d13dc6fd4491ad353a35eb41df836c5856c7239",
 					"hash-format": "sha256",
-					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.1-blanketcon.jar"
+					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.2-blanketcon.jar"
 				},
-				"filename": "festive_frenzy-v7.1-blanketcon.jar",
+				"filename": "festive_frenzy-v7.2-blanketcon.jar",
 				"name": "festive_frenzy"
 			}
 		},
-		"key": "c041a6d06fb055cf6c56cf653fd0e24147a8e73eec30505487572738b63c1019"
+		"key": "1385818ef217b36dc415233940a0a4c1e7b801cbebdf387bfb9544e599df7b0e"
 	},
 	"flamingo": {
 		"files": {
@@ -3728,16 +3753,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "d43dcba86172c50c3259a608774200be600790032477d68899eccf3415c6662636f2eb645e7b98eb2452b7d4b0dc902245167f0c56de536d40125544e80e1a5e",
+					"hash": "ca4fc2f52a37aecc1c241029d5c19ddb7d8ec30d45bafe85f4567d096c0712b7925c1160c286bafcd3b6204cc1637a7bd3959feb8c5896b77578222ba5fa7c35",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/1b8WQoWg/pride-moths-1.8.6.3%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/QUOEEkdJ/pride-moths-1.8.6.4%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.6.3+1.21.jar",
+				"filename": "pride-moths-1.8.6.4+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "280b535233d5f54c9abc9d99964aa4f07db9a43fd4327a2bcdeeab2e095fc876"
+		"key": "f9c086243475c31bcecb263b063ce94ef14aec8db4c700544ecc96ee243a8fb6"
 	},
 	"pridegui": {
 		"files": {
@@ -4513,15 +4538,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "2977b6361985a2ecc25d63e6cbf7ad00106f32f7978c4e514935822206ae01c3",
+					"hash": "0aa716fb848f8f93995268e689f09653d8292fe39e3fd12cb66e402502ff59c3",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.13/superposition-fabric-1.21.1-0.2.13.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.14/superposition-fabric-1.21.1-0.2.14.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.13.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.14.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "a133d96229388252405e75258f22799a70f117ddca06c287007d85468c98eac9"
+		"key": "f1a8dca70cbc0696a5123156d4749df49a0bf2fb68e2e8c812fbf0beef742b71"
 	},
 	"surveyor": {
 		"files": {
@@ -4906,11 +4931,11 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -4926,16 +4951,16 @@
 			},
 			"mods/vivatech.pw.toml": {
 				"download": {
-					"hash": "3d36373b0e7aebf1f73cf4efda0e3c432e641eb33189a13d36d124de17c402c0df796a5cdb85e3f288af1c23afba161a6faa4d9f74ba897b834d9c075500fc53",
+					"hash": "9809dc2db8de325e24689b0f8c03f3a03f3f4725e37bb9d1c39add337be4e7625a5c8b9aeacb25b199c6d12544d8370c4daa676c81352e4a7a04fca28cf514f2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/VY9RIIEH/vivatech-1.0.0-alpha.22.jar"
+					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/a3Uo8u3k/vivatech-1.0.0-alpha.24.jar"
 				},
-				"filename": "vivatech-1.0.0-alpha.22.jar",
+				"filename": "vivatech-1.0.0-alpha.24.jar",
 				"name": "Vivatech",
 				"side": "both"
 			}
 		},
-		"key": "2db1cce73a8e82f220e721349ebcdf25402393b29e6906475250c245912f9d16"
+		"key": "5937fa934c7db12fc7a0076055f6921f14bc94a9fa2cadc109c1d8cb9317fa94"
 	},
 	"wandering-rana": {
 		"files": {
