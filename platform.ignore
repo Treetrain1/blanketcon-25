@@ -15,3 +15,7 @@ neomtr
 
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 snapshotmc
+
+
+# lithium mixin conflict
+electromechanics
