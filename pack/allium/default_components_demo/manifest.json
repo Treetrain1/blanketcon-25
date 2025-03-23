@@ -1,9 +1,0 @@
-{
-  "id": "default_components_demo",
-  "version": "1.0.0",
-  "name": "Default Components Demo",
-  "entrypoints": {
-    "dynamic": "demo.lua"
-  },
-  "mappings": "yarn"
-}
