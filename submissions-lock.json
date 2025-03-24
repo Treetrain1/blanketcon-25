@@ -1033,16 +1033,16 @@
 			},
 			"resources/datapack/required/cabbage-substances.pw.toml": {
 				"download": {
-					"hash": "389b8ce6fd4221a149ea25ffb42e4f3cc44d0f56b59541bfae03f0f65dcea9eaf4485546817fbc768324037af5e27962ac8f81f4dda9904a6b69ab0df62774be",
+					"hash": "3d695aa54ac123d1ddeec8e49754551a534b29b2e2185cf00bd36d12ec39e484bdb41e8c6b3cbd62f9d4c42a849ab1bd9bb6b3ce6245aaab45ae8064278d1f10",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/izSO2Rn2/versions/8bQbvjqF/cabbage-substances-1.3.0.1-0.8.1.zip"
+					"url": "https://cdn.modrinth.com/data/izSO2Rn2/versions/vyOBicNJ/cabbage-substances-1.3.0.1.1-0.8.1.zip"
 				},
-				"filename": "cabbage-substances-1.3.0.1-0.8.1.zip",
+				"filename": "cabbage-substances-1.3.0.1.1-0.8.1.zip",
 				"name": "Cabbage Substances",
 				"side": "both"
 			}
 		},
-		"key": "b18e9837d65e899882630cc000b38f1550d3b129fbaae251331b2741b82866ef"
+		"key": "fb436ef77619633bf234201a8e56e216007a728b54428b77fb960a481d46c02f"
 	},
 	"cameratweaks": {
 		"files": {
@@ -2230,16 +2230,16 @@
 		"files": {
 			"mods/hide-body-parts.pw.toml": {
 				"download": {
-					"hash": "f573d316b4d12b4ee958cc9f0dc6a4dac4bbecfc657024c155327a2f0ccd00c08789f8f5931d5f8c0397009702fbfb91e37730969fd761f39d6744555140303c",
+					"hash": "ca3565d0049ba7f93fa1225c6446d386364eec1d2dbf07511ac32243b3ce7616d2b744fb8fbc57036f12eb3feb0904b415dff4dff61ff831975bc48bb8da2e3a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/soaGz3MF/versions/i8KgaaWZ/hide-body-parts-0.0.5-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/soaGz3MF/versions/F08Eloyf/hide-body-parts-0.0.6-1.21.1.jar"
 				},
-				"filename": "hide-body-parts-0.0.5-1.21.1.jar",
+				"filename": "hide-body-parts-0.0.6-1.21.1.jar",
 				"name": "Hide Body Parts",
 				"side": "both"
 			}
 		},
-		"key": "6ee1975db08b6f67f62944c2267bf266e552e07f67a35b08f8f8f31998a7eb3b"
+		"key": "a39e304b07beb57141393fd208b0778058038aa69bed65ae973098b23ec56b25"
 	},
 	"hollow": {
 		"files": {
@@ -2550,26 +2550,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/jsonpatcher.pw.toml": {
 				"download": {
-					"hash": "14a77a58e90f68f2325fed42242b7cb6326236f60e0a1a0459be6a41170809ca3703f11a6ee38b3513927d6713b7f3daae83fee56f6c244e9e85a6e08fae6b8d",
+					"hash": "80caf5de1c6b273df47c917818bf5c968b782cc91b8b1636d9352a1571901a8fc41a13d53742be278d2f1304de1f78341a53a2e37a9aabbee4e9102a37e1df0c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qlXnlZLG/versions/xSRA1e6F/JsonPatcher-2.0.0-beta.2%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/qlXnlZLG/versions/FI0xJhxO/JsonPatcher-2.0.0-beta.3%2Bmc.1.21.1.jar"
 				},
-				"filename": "JsonPatcher-2.0.0-beta.2+mc.1.21.1.jar",
+				"filename": "JsonPatcher-2.0.0-beta.3+mc.1.21.1.jar",
 				"name": "JsonPatcher",
 				"side": "both"
 			}
 		},
-		"key": "cd962acbc534200e98b75874d73dd2d83513ab1080fe5bfe74fa999881badf16"
+		"key": "7f774ba381f01db3c6b5f8d499169f7803c56c0c071a1d8bdb6c5101582d309d"
 	},
 	"just_enough_opinions_podcast": {
 		"files": {},
@@ -3104,16 +3104,16 @@
 			},
 			"mods/omnicrossbow.pw.toml": {
 				"download": {
-					"hash": "b6b484db43ec4be1a3117ca15fcba20a981493e4dfc35e496e5fd2f123827ed6e1b54d817616c65505f329f9a35337d4c9559e5c3d8df8bc9d798597f8daf7e8",
+					"hash": "8f68a213a8baa562a0eb729b1e6811fc9a52bbeb082d81236d6393b6a93e345f690163282a0bbedf300a40bbec66f77c1c6e1fc3caa4ae4a5fbe7c86e9c3c38b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/UGIi3NEP/omnicrossbow-0.4.0%2Bmc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/h26vunYA/omnicrossbow-0.4.2%2Bmc1.21.1.jar"
 				},
-				"filename": "omnicrossbow-0.4.0+mc1.21.1.jar",
+				"filename": "omnicrossbow-0.4.2+mc1.21.1.jar",
 				"name": "OmniCrossbow",
 				"side": "both"
 			}
 		},
-		"key": "29c4b80b54ee71f395330d7f13bccbb8200e686d80a2e64602e30b61dc0b911d"
+		"key": "97705bf337dd9a8ba561d09839da30028ca4688b15aa39b8706c5f790e6b70ca"
 	},
 	"operation-starcleave": {
 		"files": {
@@ -3753,16 +3753,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "ca4fc2f52a37aecc1c241029d5c19ddb7d8ec30d45bafe85f4567d096c0712b7925c1160c286bafcd3b6204cc1637a7bd3959feb8c5896b77578222ba5fa7c35",
+					"hash": "745c6fc8cc524377590d397d4e2399dca0cff23819857df6107493b32c0a39b080029b53a07315da2ace4b8a17b714e6128883c703fa75311088f069259efa23",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/QUOEEkdJ/pride-moths-1.8.6.4%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/BERGwud2/pride-moths-1.8.7%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.6.4+1.21.jar",
+				"filename": "pride-moths-1.8.7+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "f9c086243475c31bcecb263b063ce94ef14aec8db4c700544ecc96ee243a8fb6"
+		"key": "9ffe4fcae1429251459825cc1d910a8681577f42c683173b8be8e88af6cd98c1"
 	},
 	"pridegui": {
 		"files": {
@@ -4328,16 +4328,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "eae286d26f27e57abc91b1818617db03f100aa24f94ba303dc8c5e08dc6e458b47ac77c9862d09471354d64ebf6a7f5ba939053642c6702fb63dab712de2f4c1",
+					"hash": "a94e493f14dd47fcf4c1fdc82db4d7dbdbd95f49de7ff04a8f0d555058e7a8763203afbd656bfc244049fdaed13700b6138529351f849c5485b814f25d478ec0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/GFDNXIaC/spirit-vector-1.10.8%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/DgIn5gGv/spirit-vector-1.10.10%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.8+1.21.1.jar",
+				"filename": "spirit-vector-1.10.10+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "99bf5195a46fc72180f335be134760881a69a9ef345998a74f9845ed16c3d68f"
+		"key": "8075a2c68c90be2d37162024cad455938c8ae44729482a4f53278c9235bce5f7"
 	},
 	"splashfox": {
 		"files": {
@@ -4378,16 +4378,16 @@
 			},
 			"mods/splinecart.pw.toml": {
 				"download": {
-					"hash": "66c68dc01b05dac94cfa28f278c449fa046377a1ddae5abee699718a90770eb657a7989e768a2c0f18f13bcae4ea47c57067a4bc1b01bcfe7a10ddd5a1b6d5c5",
+					"hash": "00d464429920c92a38d5a62d440183cc239269e3e6b558a8417468c0f3f01f9570fe5e3e151eaa6f8d5d02cdcbb2556c27e77aa35c38947f8f3ed6ef91851cb3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/SARGHFuC/splinecart-0.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/se4KawDf/splinecart-0.3%2B1.21.1.jar"
 				},
-				"filename": "splinecart-0.2+1.21.1.jar",
+				"filename": "splinecart-0.3+1.21.1.jar",
 				"name": "Splinecart",
 				"side": "both"
 			}
 		},
-		"key": "e7f4c28063f6227823a8a91997450129ad2cb301e5f4b1dbc8c2ed9e54d3c111"
+		"key": "0f6eb5af9269e7446ccb92101b65d7e91d562892d2342036489d924010765540"
 	},
 	"starcaller": {
 		"files": {
