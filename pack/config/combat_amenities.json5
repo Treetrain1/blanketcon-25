@@ -12,7 +12,7 @@
 	"swingThrough": true,
 	"correctTridentReturn": true,
 	"riptideFix": true,
-	"builtInLoyalty": true,
+	"builtInLoyalty": false,
 	"throwableFirecharge": false,
 	"shieldTweaks": true,
 	"shieldParryTime": 5,
