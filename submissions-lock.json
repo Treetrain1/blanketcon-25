@@ -138,21 +138,21 @@
 		"files": {
 			"mods/alchimiae-magicae.pw.toml": {
 				"download": {
-					"hash": "b0ab2eaa8bf67ac5cc7139530c93d7bd7748448b6f3a7304a285fe6d7798506d1364f450eee1063d5df92ea43c26755744c3c207a81ddd4adbccc0c22a077d27",
+					"hash": "3459817fad8b7bd302d2d58bf295a9fb4869c818893864da0440a0a198d415412bf7b9e706b6b351978b9f33cdd434a8b17196840a4fc0d5f93e96bc76c77b10",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qUKJfi7E/versions/dTZ29Xxm/alchimiae-fabric-0.3.3-1.21-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/qUKJfi7E/versions/47UZHFCS/alchimiae-fabric-0.3.5-1.21-sgd.jar"
 				},
-				"filename": "alchimiae-fabric-0.3.3-1.21-sgd.jar",
+				"filename": "alchimiae-fabric-0.3.5-1.21-sgd.jar",
 				"name": "Alchimiae Magicae",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -167,7 +167,7 @@
 				"side": "both"
 			}
 		},
-		"key": "99e5abec19525c1b5a890e8cebc3db2af25e3b84804f95e65f8244ef0cd4df3b"
+		"key": "fdc0020637986b28dca5708fbe4b621632d98f663660e01edb6b395a9b512fe4"
 	},
 	"allium": {
 		"files": {
@@ -478,16 +478,16 @@
 		"files": {
 			"mods/barricade.pw.toml": {
 				"download": {
-					"hash": "a99a6542268a46b0a6d15035720e1f68ef086f4acebdfff6af3a2fe227ab4ae01111167c502d1997ac8262c8d44f57c0766c587d8531b882de859d080a6114c1",
+					"hash": "c20abddcf773855a5ed5c2478b2c306b74667f0868bf37630e77bfc08e0df02ca4d14f24672b06c7600ccedaae84ad36d423d0a78648f0336c425dda840e12f0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kRSR7ZEj/versions/qZLfjW6S/barricade-fabric-2.0.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/kRSR7ZEj/versions/53MeR0P9/barricade-fabric-2.0.4%2B1.21.1.jar"
 				},
-				"filename": "barricade-fabric-2.0.2+1.21.1.jar",
+				"filename": "barricade-fabric-2.0.4+1.21.1.jar",
 				"name": "Barricade",
 				"side": "client"
 			}
 		},
-		"key": "507fff5b7abc554b251755f663f1992ac094dcfd10c515060f3468004f229f76"
+		"key": "8cae8053cb4d90d036c9ffedb494d0c0d6bf161c466067f871193b42e8a4e472"
 	},
 	"basic-storage": {
 		"files": {
@@ -1629,11 +1629,11 @@
 		"files": {
 			"mods/electromechanics.pw.toml": {
 				"download": {
-					"hash": "2b6e21c21f02717f882f169f5663ee519372c28f7a0bbaba59fd318cd005b6b389fd5e79540d39921f84bc5bf01415b4d8e132f122288218eac2b2676b610923",
+					"hash": "e91471d9e8de73ba28d782411c7483ca22c4cd90aab275e9aab14a87e6698c0bfe080702dcce143fe829eb408f58ce2dc387a3a0bb63c6f97174dd8b5175004c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/8m9jm0VA/electromechanics-1.2.1%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/1TB8n3my/electromechanics-1.2.3%2B1.21.jar"
 				},
-				"filename": "electromechanics-1.2.1+1.21.jar",
+				"filename": "electromechanics-1.2.3+1.21.jar",
 				"name": "Electromechanics",
 				"side": "both"
 			},
@@ -1658,7 +1658,7 @@
 				"side": "both"
 			}
 		},
-		"key": "f714cae346912ac0006ca4bbb89023605f170c1506c22f4aa64a039ec95918c0"
+		"key": "5663b5144a61ace46da1aa8c38f9d36fcb7382b29fb1aa41fa7e41bc47a72b1e"
 	},
 	"enchiridion": {
 		"files": {
@@ -3119,16 +3119,16 @@
 		"files": {
 			"mods/operation-starcleave.pw.toml": {
 				"download": {
-					"hash": "2cbb0b3959152acae3c347e46eac39471a6d82fd995dcb1360548bd9f714a7427e616135aad122f876192bbfd38c2c9edece5e37726258293c0eaa3d5280839b",
+					"hash": "9ae3dc30b05c106e508780cb4f22c11538ad6d4111967f0820f6773e7b6dc6bbcf0b86c03ff9bf652bea5a24b29777cff25e47266a9d92f09ab4bc99bec683a0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EXJCB46/versions/vmrU6Tm6/operation_starcleave-fabric-mc1.21.1-0.2.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/6EXJCB46/versions/rQXA8EYh/operation_starcleave-fabric-mc1.21.1-0.2.0.2.jar"
 				},
-				"filename": "operation_starcleave-fabric-mc1.21.1-0.2.0.1.jar",
+				"filename": "operation_starcleave-fabric-mc1.21.1-0.2.0.2.jar",
 				"name": "Operation: Starcleave",
 				"side": "both"
 			}
 		},
-		"key": "e8a398effed2196449eeb7fef7faba82820447f9d7c9901880b216e9b88dd743"
+		"key": "08b60480fbfda6a8eaabe6dde7dc85db889c67e5d9541166dec721e26a93d10a"
 	},
 	"ouch": {
 		"files": {
@@ -4293,11 +4293,11 @@
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "9bc730695572fc5a6e694468e4dc7731241d8391e7162b7db14d9c5c07428104ca6b495144bc9a836fb8b50420586d7c1c8ef44d66f87e86426084a2240d2b96",
+					"hash": "e1a479e46da26a72bb57260e3e6eaecc627d006b01360ec1ce5b7b6ddc9e17d2a719b4d932a95404fab9b0b466ee53bdae06a5d57d165a1caa94284db4578944",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/10XXgB9e/soteria-0.2.4.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/rMcBqcMD/soteria-0.3.0%2B1.21.1.jar"
 				},
-				"filename": "soteria-0.2.4.jar",
+				"filename": "soteria-0.3.0+1.21.1.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
@@ -4312,7 +4312,7 @@
 				"side": "both"
 			}
 		},
-		"key": "570e9a4fe34367e82cd217f7c0aa60b2bf6cc332ffd8f1f9bad75d870b85490d"
+		"key": "502fe54454f789df8fa65d26fc6627698b02f8bc16191e339254803fd4c5e79c"
 	},
 	"spirit-vector": {
 		"files": {
@@ -5161,25 +5161,25 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/zipline.pw.toml": {
 				"download": {
-					"hash": "33215aa0d42e0d9a377c77e49c2efc591719ae14065c743dcd576c1d33d749d8683e18454384fb599c00b7e79710732cad49cdb62c67e78a488042fa0b263d25",
+					"hash": "6f3c05ee51b4a034669338dde130a53e4e758323b5c34f620826520123ddc4af8b7daa319e6cdb0f5ea2e3cc68da6ae80678a9f3e4899a01056d8f0a84841e06",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/AoYH6o5S/zipline-1.1.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/byyd20XN/zipline-1.2.0%2B1.21.1.jar"
 				},
-				"filename": "zipline-1.1.0+1.21.1.jar",
+				"filename": "zipline-1.2.0+1.21.1.jar",
 				"name": "Zipline",
 				"side": "both"
 			}
 		},
-		"key": "5e7487dd9dc3c5d513c04825496dbe75dfc29d8c2039f192a841deaa654654f7"
+		"key": "f3660608ee991cf9ed3e141b4b081c6ee8ca183fde6a4771ca47dd563d3ca772"
 	}
 }
