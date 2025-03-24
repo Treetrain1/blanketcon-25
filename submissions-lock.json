@@ -4328,16 +4328,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "3d63c555464904da1e1446ef3ebd66653b111ee6113431fe37787341181ba1971e3582759aac980e74be40ca6be4054e162a3a88089d202918bd8a48ae3cd4a8",
+					"hash": "eae286d26f27e57abc91b1818617db03f100aa24f94ba303dc8c5e08dc6e458b47ac77c9862d09471354d64ebf6a7f5ba939053642c6702fb63dab712de2f4c1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/bKvSEhyo/spirit-vector-1.10.7%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/GFDNXIaC/spirit-vector-1.10.8%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.7+1.21.1.jar",
+				"filename": "spirit-vector-1.10.8+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "7c21018f87b0c07c5dae6b9f20ae0f54bb33820d4f57c4afd17be065da815fdf"
+		"key": "99bf5195a46fc72180f335be134760881a69a9ef345998a74f9845ed16c3d68f"
 	},
 	"splashfox": {
 		"files": {
