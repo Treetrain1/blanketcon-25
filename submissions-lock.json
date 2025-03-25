@@ -878,16 +878,16 @@
 		"files": {
 			"mods/brewin-and-chewin.pw.toml": {
 				"download": {
-					"hash": "8c533c9b44ef78ac7fdad43552741265a31f4847",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/uuFxQJFx/BrewinAndChewin-fabric-4.2.2%2B1.21.1.jar"
+					"hash": "3b08bd755df7f480409d3fa11a77e7aa169c36f0fe8c2b30f1798908354514f2a01bfe8ee1a02bb949efd3826bace0ba16b94caeedd609afde0aa73e59f53381",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/bqLfk08J/BrewinAndChewin-fabric-4.2.3%2B1.21.1.jar"
 				},
-				"filename": "BrewinAndChewin-fabric-4.2.2+1.21.1.jar",
+				"filename": "BrewinAndChewin-fabric-4.2.3+1.21.1.jar",
 				"name": "Brewin' And Chewin'",
 				"side": "both"
 			}
 		},
-		"key": "9891eefe36ba6c93c244a2eb4d9904e76c17bd2f94361971b50d70eb0fd089b8"
+		"key": "29f4b089da2ed0bc69870ad166684e93ea4399b7c8ae1a5b030237b49ffbedec"
 	},
 	"bronze": {
 		"files": {
@@ -1262,11 +1262,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "8510f3544cd7a4c28b3a0d0b3a57c8536238c9e68111bd048888b558c7dc04738409635363beff65de8054e38536e52c889aa4b84f961a6be694a2bb41fcb80b",
+					"hash": "6b3758633a9dfbca5b808325bd68e0297b64ae4a97a64a78a7be5270ee3369c3754704252ef67e9d3faed15aea3e39d4642faa96242c8111ad55ad3a26a306ee",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/E9f5WLkV/chitinous_ties-2.1.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/fu638o1f/chitinous_ties-2.2.0%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.1.1+1.21.1.jar",
+				"filename": "chitinous_ties-2.2.0+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1291,7 +1291,7 @@
 				"side": "both"
 			}
 		},
-		"key": "f2576d18249f7d93e9b2a1cf27e365e19a4e5a55c892cda8bb61b896b310cb99"
+		"key": "c3b8410eebac8102fbf32af53f7b112d7687c469b3409fa246ebcb414bb061cb"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -2335,16 +2335,16 @@
 		"files": {
 			"mods/illusionable.pw.toml": {
 				"download": {
-					"hash": "36a6d66ff6c4f62ae9754d5d66a452822e206268c8953873704ad464ea86273a691ebc5a5a679f101bf63ca40dad4f402473371ab5ce5dee4cb948f432cc6ddf",
+					"hash": "5b1fc648bbad68dfabb562c9d4f9a9f5da211b231a79755645693579a3a6cfd66dafcca598ebfe47842807f1539adee34e7f044271f3e82c5caf2910fc3591b0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/duuHXV9S/illusionable-0.0.3-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/e56jGDgr/illusionable-0.0.4-1.21.1.jar"
 				},
-				"filename": "illusionable-0.0.3-1.21.1.jar",
+				"filename": "illusionable-0.0.4-1.21.1.jar",
 				"name": "Illusionable",
 				"side": "both"
 			}
 		},
-		"key": "93f472ea78c30b9f603a64c736f0cd3996b875d1a0d0e1d1afd4a9e8fd036d63"
+		"key": "cd4a37033bbf314fb3c5eedf3eb562e0f1d235620503d1cdf49e3dfd5d615ab4"
 	},
 	"immersivemc": {
 		"files": {
@@ -2633,11 +2633,11 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -2653,16 +2653,16 @@
 			},
 			"mods/life-size-bdubs.pw.toml": {
 				"download": {
-					"hash": "81ec0a2a06121fa592b942d2a0734016caa25debc4958fb023c9f1fd5d76fac1fd6cae11d5196c25188a9acceae17d4c962b7564a32ed0d764672b13d4ab12ec",
+					"hash": "f640048da4b95b76af9e5590b273e87e7a41da503627200b430e4429253b0a50ede64e8c6ad2fda15bc830b3dd2672b8ca8a4c04f8fe5c6636cc796d128a98cb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/rKP85OVX/lifesizebdubs-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/Dx2sPtGa/lifesizebdubs-1.1.1.jar"
 				},
-				"filename": "lifesizebdubs-1.1.0.jar",
+				"filename": "lifesizebdubs-1.1.1.jar",
 				"name": "Life-Size Bdubs",
 				"side": "both"
 			}
 		},
-		"key": "5b6880c9b06da823e42ec868d8ebfafc98122fd5298f2664dceea0b292c1354f"
+		"key": "6a406db3c0a13abcc9278f2f53e47d009160d52e940a3213fe65139e8c305462"
 	},
 	"lilium": {
 		"files": {
@@ -3352,15 +3352,15 @@
 		"files": {
 			"mods/phonos.pw.toml": {
 				"download": {
-					"hash": "2e9af91ad2f10aeb7cbb3e1871655b57df51c3952c328d1e1a76cd585d237a54",
+					"hash": "0bb5951bf6271c37cc56e59b9fe9bcd5a156ed088338e47f80830d717164e29d",
 					"hash-format": "sha256",
-					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.20%2B1.21.1/phonos-1.0.0-beta.20+fabric-1.21.1.jar"
+					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.22%2B1.21.1/phonos-1.0.0-beta.22+fabric-1.21.1.jar"
 				},
-				"filename": "phonos-1.0.0-beta.20+fabric-1.21.1.jar",
+				"filename": "phonos-1.0.0-beta.22+fabric-1.21.1.jar",
 				"name": "phonos"
 			}
 		},
-		"key": "538d9e580103f6eeacc62c9df0b498cd204fee8c3a21e4ebc9c50b42c4840582"
+		"key": "29be1bf70a70dd39af26e8e9370dbfc41fe80f38f88c1a97c2d56c5bf8c8b345"
 	},
 	"pierced": {
 		"files": {
@@ -3948,16 +3948,16 @@
 		"files": {
 			"mods/rods-from-god.pw.toml": {
 				"download": {
-					"hash": "a8944d2ba122cb09aa06ad62697a27ebbe1312d70a0809054c75ab46ed2ef2abe53139c75893456c0f0910ed2a80ab549d7b6881f6126502d22ad10db6b93fd8",
+					"hash": "489227f23ae90e5c35ea79972eabb6c38d4d48dc23681bb2c1e0b1df10c8f049863d19af047bf6626c53a0059043bca2e15d2c97d17e05940b9a799a9d51e507",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/AEmb2P2H/rods_from_god-2.0.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/1kSFmHuh/rods_from_god-2.0.3%2B1.21.1.jar"
 				},
-				"filename": "rods_from_god-2.0.2+1.21.1.jar",
+				"filename": "rods_from_god-2.0.3+1.21.1.jar",
 				"name": "Rods from God",
 				"side": "both"
 			}
 		},
-		"key": "51ccb74d8bc1b68398a9cb9272017db2205436a4e57cd0870ba62549a3ece814"
+		"key": "8a5fd4e4013a6001721e3a031680dda66228675f2e824a7171768d4376cf5143"
 	},
 	"rounded_mod": {
 		"files": {
@@ -5136,26 +5136,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/yeet.pw.toml": {
 				"download": {
-					"hash": "a15f6eb87192c68d482c84c7ffe08ed0b95e1b1481514d1257381462d87ce19482c93469452608f1acf127b62344af33b788f9b38a038d586d4c6b51d85a5c20",
+					"hash": "a225c689603052954ef914c44abeb0beff48cafc5bd42f101fcda988b5afd42b92c4e35cc3072f39c1ea104667cce250e626d207a054ea4d3afc8dc55b7744ca",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oJBq6bNW/versions/h4xJgiG6/yeet-1.1.0%2Bbuild.29-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/oJBq6bNW/versions/jy9id5FF/yeet-1.1.1%2Bbuild.30-mc1.21.1.jar"
 				},
-				"filename": "yeet-1.1.0+build.29-mc1.21.1.jar",
+				"filename": "yeet-1.1.1+build.30-mc1.21.1.jar",
 				"name": "Yeet",
 				"side": "both"
 			}
 		},
-		"key": "fef19600df1690ecf5b8844f2bc3edf039d874ce9fd547f67821f4a7bf1ff235"
+		"key": "a9ecdaca59f58890cb20dd4fa4a33dbdbd28867099c8c4f7ceedcf051cbad9ba"
 	},
 	"zipline": {
 		"files": {
