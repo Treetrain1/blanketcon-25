@@ -3455,16 +3455,16 @@
 			},
 			"mods/playercontainers.pw.toml": {
 				"download": {
-					"hash": "2353302f5d78d28ba5346f4bd8013c7b130fac9e9d01e0d6d974edf8a1a9813732275265ad3d32b04a9d1c6810365cdae9b59ad70bbda150e3dab72e34d26914",
+					"hash": "6e0607fb0e5956c610035dce3a014e6fea618251529c24d15cca5ef3989f4bab2141ea3d6bdf12ee3f77a022a44b614eecc66c21ac167c9fbf732e9aeb71a7f1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/9vKPDMn1/playercontainer-0.2.2.jar"
+					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/u1rrlL9g/playercontainer-0.2.3.jar"
 				},
-				"filename": "playercontainer-0.2.2.jar",
+				"filename": "playercontainer-0.2.3.jar",
 				"name": "Player Containers",
 				"side": "both"
 			}
 		},
-		"key": "d42114cf142cc06eb994d43719b67c29e9b7129326c4565888556b2a34848779"
+		"key": "6697885935fd20b5bec7112919da7429f4f0fa947af6b77391be3b99f52d67ab"
 	},
 	"plushables": {
 		"files": {
