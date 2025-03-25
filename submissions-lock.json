@@ -2320,16 +2320,16 @@
 		"files": {
 			"mods/hyphapiracea.pw.toml": {
 				"download": {
-					"hash": "90d3da73aacf205262449254b9461aa21ca133b3b1d02d68df95ee1b305da210f1f94c024e000ee7d5d151c7fa880c544b1a4e1c0cf45bf87ce6158a829ee81c",
+					"hash": "508eb1c2fdad1e744f800443026fe311efcd8aca7c5949e2db9d236e2994ca46d4f2f436495a1aab7b89433ed643026d8463ea8225890a719d52af0338bd7cf9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/3RLDNmfr/hyphapiracea-fabric-mc1.21.1-0.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/dWAD8I2h/hyphapiracea-fabric-mc1.21.1-0.1.3.1.jar"
 				},
-				"filename": "hyphapiracea-fabric-mc1.21.1-0.1.3.jar",
+				"filename": "hyphapiracea-fabric-mc1.21.1-0.1.3.1.jar",
 				"name": "HyphaPiracea",
 				"side": "both"
 			}
 		},
-		"key": "e23ebcc53a35a4ac06511094e3d1f2f73d36955bbb98b0851d797d643cf6bc46"
+		"key": "873dadc6f5707dd08455a6ba8be258c7caf4408272215e87eb91d38c666e963b"
 	},
 	"illusionable": {
 		"files": {
