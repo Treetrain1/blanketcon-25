@@ -343,16 +343,16 @@
 		"files": {
 			"mods/atta_v.pw.toml": {
 				"download": {
-					"hash": "8fc589dbac23f7e830efeafb50a2f002004ee684eb50550ab968c693f0f70fb9b58c06896df1430cc8ff25e7b8f8b683ce972c67495c653201da3271a865f3d3",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aePcNSjR/versions/Bu9iGDjo/atta_v-1.0.2%2B1.21.1.jar"
+					"hash": "84a247e7a956cda3ee8133d9e5d78cba0c75266c",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/aePcNSjR/versions/qErzn7YP/atta_v-1.0.3%2B1.21.1.jar"
 				},
-				"filename": "atta_v-1.0.2+1.21.1.jar",
+				"filename": "atta_v-1.0.3+1.21.1.jar",
 				"name": "All-Terrain Tripodal Attackers",
 				"side": "both"
 			}
 		},
-		"key": "b06b2de0d4c740d6d5dc20758f300d59d06cdbc778d8d0ad9b354272f28e5cd9"
+		"key": "4311db99d9fc4bccc9d6f4f3a16dc78ada337b2c2a9ab595519bc1e9422d893b"
 	},
 	"autocut": {
 		"files": {
@@ -878,16 +878,16 @@
 		"files": {
 			"mods/brewin-and-chewin.pw.toml": {
 				"download": {
-					"hash": "fa6a23d8fc3d4a410f3ac00800057843a32cff0aea63a923080cca4b821dadbca83fbf789cd3f38f79a98cd98f69160ab1e8e9c2ed8576ca56afdeb1ac8f6eb7",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/GzokJYFt/BrewinAndChewin-fabric-4.2.0%2B1.21.1.jar"
+					"hash": "8c533c9b44ef78ac7fdad43552741265a31f4847",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/uuFxQJFx/BrewinAndChewin-fabric-4.2.2%2B1.21.1.jar"
 				},
-				"filename": "BrewinAndChewin-fabric-4.2.0+1.21.1.jar",
+				"filename": "BrewinAndChewin-fabric-4.2.2+1.21.1.jar",
 				"name": "Brewin' And Chewin'",
 				"side": "both"
 			}
 		},
-		"key": "6bc8ff0118c03cb29b5e0385ad537fb4c1bd69d731effe1de3d5c3e83c038229"
+		"key": "9891eefe36ba6c93c244a2eb4d9904e76c17bd2f94361971b50d70eb0fd089b8"
 	},
 	"bronze": {
 		"files": {
@@ -923,28 +923,28 @@
 		"files": {
 			"mods/builderdash.pw.toml": {
 				"download": {
-					"hash": "85c312cd281d0388debac8ea22966844973b13d8593c94f312a7764721b337b21c9cbf492fca09fe7bece0e7c0e6af81310252691c87fe7fff10e61999f173d8",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oIYIZBDT/versions/LYftB8eA/builderdash-0.1%2B1.21.1.jar"
+					"hash": "9b466b85a673b8e2dfdc37cc0255d98ec5bb3c42",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/oIYIZBDT/versions/7ddUI1UE/builderdash-0.1.1a%2B1.21.1.jar"
 				},
-				"filename": "builderdash-0.1+1.21.1.jar",
+				"filename": "builderdash-0.1.1a+1.21.1.jar",
 				"name": "Builderdash",
 				"side": "server"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"hash": "2d183fa5f3af2078c31dc651d3ea5d560a58f2c0",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/polymer.pw.toml": {
 				"download": {
-					"hash": "643ffa43335900821551970d3ba89dd878550441eb2b1b2c03f7e3fb79190dfae4ccd39b0ebff9c3f7c724e75c5352231112bc897d11a7b8219b0573053dd630",
-					"hash-format": "sha512",
+					"hash": "e41949296d4c51e5cbfae1c9a395eb4b97270f8b",
+					"hash-format": "sha1",
 					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/t55Wk2zK/polymer-bundled-0.9.18%2B1.21.1.jar"
 				},
 				"filename": "polymer-bundled-0.9.18+1.21.1.jar",
@@ -952,7 +952,7 @@
 				"side": "server"
 			}
 		},
-		"key": "a85703fc2fba79f3623b5b8050b2f0d4e4c6ff065c71c11aeb0d56c6882005b0"
+		"key": "1116d7fdd76be243be45045b1e81199d24613935c11bb1ae154b307a9a88d1d5"
 	},
 	"bundled_": {
 		"files": {
@@ -3470,16 +3470,16 @@
 		"files": {
 			"mods/plushables.pw.toml": {
 				"download": {
-					"hash": "c390b63d05f3c0b18b05d827bfd97df554c485c7",
+					"hash": "c6dc272b4eb7afdd7b93cd345eafb01f502710a7",
 					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/bpUgmHBo/versions/a1Q4pR4z/plushables-fabric-2.0.5%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/bpUgmHBo/versions/qws6gNYG/plushables-fabric-2.0.6%2B1.21.1.jar"
 				},
-				"filename": "plushables-fabric-2.0.5+1.21.1.jar",
+				"filename": "plushables-fabric-2.0.6+1.21.1.jar",
 				"name": "Plushables",
 				"side": "both"
 			}
 		},
-		"key": "2ac265bcfe141e3decee326e01f2d0fc494c2703e2d897400f287c7f40b8399b"
+		"key": "9a96b899bd7a53bdb00aa36e6a78f7ca81f85bc697840e91ad758aa380cab126"
 	},
 	"plushiez": {
 		"files": {
