@@ -258,6 +258,10 @@ file = "mods/fusion-connected-textures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/glide-away.pw.toml"
 metafile = true
 
