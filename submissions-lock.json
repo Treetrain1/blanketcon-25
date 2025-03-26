@@ -2535,16 +2535,16 @@
 		"files": {
 			"mods/joy.pw.toml": {
 				"download": {
-					"hash": "2207ee97815073c5535aae5cdcaed331169e642f",
+					"hash": "9fa49a9aa99f5a2aa51cd42351cc3af74bc96bf4",
 					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/qwgCXyzw/versions/f5AwVA3e/joy-fabric-1.0.0-alpha.8%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/qwgCXyzw/versions/xxSm84gP/joy-fabric-1.0.0-alpha.9%2Bmc.1.21.1.jar"
 				},
-				"filename": "joy-fabric-1.0.0-alpha.8+mc.1.21.1.jar",
-				"name": "Joy",
+				"filename": "joy-fabric-1.0.0-alpha.9+mc.1.21.1.jar",
+				"name": "Joy mod",
 				"side": "both"
 			}
 		},
-		"key": "194d8bc7e311f7fd03fdfac24623acfeb1d06eeb3099e53e2ee3870597697ed5"
+		"key": "e524442ac07fb45e57fdeedea6c4319d8c0419c5be57f85f28993be97bab685d"
 	},
 	"jsonpatcher": {
 		"files": {
@@ -2594,8 +2594,8 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
-					"hash-format": "sha512",
+					"hash": "2d183fa5f3af2078c31dc651d3ea5d560a58f2c0",
+					"hash-format": "sha1",
 					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
 				"filename": "fabric-api-0.115.3+1.21.1.jar",
@@ -2604,16 +2604,16 @@
 			},
 			"mods/klaxon.pw.toml": {
 				"download": {
-					"hash": "358c880c341309c69db8803633472cff5f64f6c25a1d086f996367c460975aa74d72524265cda64c836ac4389dbf3a9b307d25fb8cca4b929906769533a35a90",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3d6VT9PT/versions/WtxuSUWO/klaxon-0.3.11%2B1.21.1-fabric.jar"
+					"hash": "0b2949d9256b0b5c050fe8ccb6b132d3a0ae0c80",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/3d6VT9PT/versions/kzA1eczf/klaxon-0.3.12%2B1.21.1-fabric.jar"
 				},
-				"filename": "klaxon-0.3.11+1.21.1-fabric.jar",
+				"filename": "klaxon-0.3.12+1.21.1-fabric.jar",
 				"name": "KLAXON",
 				"side": "both"
 			}
 		},
-		"key": "f0810760dc31c0697a8771a45e038ac28196972ca5ce427d2c18b7453b0a0dcd"
+		"key": "c9a7cf72029357ec9096dfcc880e9367732ecc3d67e7861a9da377b4cc8e6db2"
 	},
 	"krender": {
 		"files": {
@@ -3042,26 +3042,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"hash": "2d183fa5f3af2078c31dc651d3ea5d560a58f2c0",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/neomtr.pw.toml": {
 				"download": {
-					"hash": "eee08e2e589c3d85d1c70266571d9b60cce42721bddce913e00eb66c202063766b75bd9589c1644b7db3d103da37c93d801f2d01c243c116e8c75e10d0527357",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/Bb5TsSq9/NeoMTR-fabric-300.5.1%2B1.21.1.jar"
+					"hash": "b74b2319b015b95154ffb239cca416194460fa95",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/ZJvO1wvJ/NeoMTR-fabric-300.5.2%2B1.21.1.jar"
 				},
-				"filename": "NeoMTR-fabric-300.5.1+1.21.1.jar",
+				"filename": "NeoMTR-fabric-300.5.2+1.21.1.jar",
 				"name": "NeoMTR",
 				"side": "both"
 			}
 		},
-		"key": "b08afa063b7aff8b78ac1e93156cf23a4c3905ec409d10943d30f88de9a018e6"
+		"key": "df7d464033eb5f5464ffde689e1299d99047ffa48c28f76e6befe95b3e12cab6"
 	},
 	"nix-minecraft": {
 		"files": {},
@@ -3327,18 +3327,18 @@
 		"files": {
 			"mods/petworks.pw.toml": {
 				"download": {
-					"hash": "2fca7bbf84982746bd01cdfb9f5726ea09892c79144c0d8fc7d2658a9574204892a015fb6b96cf8c122ec59d013cf6e737bfd7597cdda0cf7ab348dbd630ccef",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/tglB7DEe/petworks-fabric-0.2.0-alpha.3%2Bmc.1.21.1.jar"
+					"hash": "354c4bf71cd4ae77d5d35324af261a9dcd77a88e",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/5QMjPEDN/petworks-fabric-0.2.0-beta.1%2Bmc.1.21.1.jar"
 				},
-				"filename": "petworks-fabric-0.2.0-alpha.3+mc.1.21.1.jar",
+				"filename": "petworks-fabric-0.2.0-beta.1+mc.1.21.1.jar",
 				"name": "Petworks",
 				"side": "both"
 			},
 			"mods/trinkets.pw.toml": {
 				"download": {
-					"hash": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
-					"hash-format": "sha512",
+					"hash": "f54756f938c7c273713b9f97d4a987eec551e892",
+					"hash-format": "sha1",
 					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
 				},
 				"filename": "trinkets-3.10.0.jar",
@@ -3346,7 +3346,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5c395b3557974766718a5758cd9aefc64d25291711906c324efbb2fb41ff7d8d"
+		"key": "caa25c48515a2645bdc1a5c449d0bf6fc695ae222ea764b81da3a0443ae2c5f2"
 	},
 	"phonos": {
 		"files": {
@@ -4368,8 +4368,8 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
-					"hash-format": "sha512",
+					"hash": "2d183fa5f3af2078c31dc651d3ea5d560a58f2c0",
+					"hash-format": "sha1",
 					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
 				"filename": "fabric-api-0.115.3+1.21.1.jar",
@@ -4378,16 +4378,16 @@
 			},
 			"mods/splinecart.pw.toml": {
 				"download": {
-					"hash": "00d464429920c92a38d5a62d440183cc239269e3e6b558a8417468c0f3f01f9570fe5e3e151eaa6f8d5d02cdcbb2556c27e77aa35c38947f8f3ed6ef91851cb3",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/se4KawDf/splinecart-0.3%2B1.21.1.jar"
+					"hash": "ef1e08535f0f00c683dffb18064cc59890756269",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/mAHz905I/versions/PC6u9xFB/splinecart-0.3.1%2B1.21.1.jar"
 				},
-				"filename": "splinecart-0.3+1.21.1.jar",
+				"filename": "splinecart-0.3.1+1.21.1.jar",
 				"name": "Splinecart",
 				"side": "both"
 			}
 		},
-		"key": "0f6eb5af9269e7446ccb92101b65d7e91d562892d2342036489d924010765540"
+		"key": "d41853ca91b46016888d5b52651b73f81d5f257f82626691f09739fb062fc63d"
 	},
 	"starcaller": {
 		"files": {

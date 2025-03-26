@@ -248,7 +248,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.7.3+1.21.1.jar"
+file = "mods/fireblanket-0.7.4+1.21.1.jar"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
