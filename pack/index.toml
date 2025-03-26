@@ -858,6 +858,15 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension/spell_dimension.json"
+
+[[files]]
+file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension_type/spell_dimension.json"
+
+[[files]]
+file = "resources/datapack/required/mf_spell_dimension/pack.mcmeta"
+
+[[files]]
 file = "resources/resourcepack/optional/Semi-realistic Planet Scaling.zip"
 
 [[files]]
