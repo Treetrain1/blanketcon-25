@@ -1197,26 +1197,26 @@
 		"files": {
 			"mods/charta.pw.toml": {
 				"download": {
-					"hash": "db133a9dc62ef96f2fe54aeceab0ccd5986017a04e95cad337167ea194266ed8a15035090f5a5e21366f39c198b8284ec1497577f626bd27eca4276cea4dfbd8",
+					"hash": "ef4ea689ad0e4602c83cfdc03bccf4907df671ca2f4e882e49d3b39728cd82fa30af121bdf8f7bae2729e7acc04566084cce6d6b28a6863f10db4fb952b18164",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sFamPxlk/versions/LlJ1Wk7Q/charta-1.0.4-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/sFamPxlk/versions/niTzlG78/charta-1.0.5-fabric.jar"
 				},
-				"filename": "charta-1.0.4-fabric.jar",
+				"filename": "charta-1.0.5-fabric.jar",
 				"name": "Charta",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "d9ae14e60dc8bbedda8046209990f1a4b405cad7015ed23fece637085ac4ad1b"
+		"key": "1fe010f8b38080b5890cc0b74f2e46d59955d4999cb186eb08ef0df2c3f711c9"
 	},
 	"chickensaurs": {
 		"files": {
@@ -3848,16 +3848,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "5d0d48bb28a6fdd4b8008c633e9a20c9fe2fe10c3dc17e2023d1bb2cb657f31d5d79645a016c4343ab67563eacd000732705b6bf006b101e9108257b8c2bd586",
+					"hash": "5e54cd1a311249b876bba7770de83536f6a981dfca31e71913943f0f64e241ae28d106cea7ace22d8adc985706a56c8b9d9d44cee132e18a0847c8a5c6532ab3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/NbySaLhC/pulchra-occultorum-0.0.14-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/OC7ts1UU/pulchra-occultorum-0.0.15-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.14-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.15-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "f2eeef8dc64a2901b7b01c374bcb095480c1dcb83b9999fc97319d99c62c5b6b"
+		"key": "f887bde83008eba331fac58e0d4ebd28652955c671381c06f5739ec97084ea89"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4328,16 +4328,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "a94e493f14dd47fcf4c1fdc82db4d7dbdbd95f49de7ff04a8f0d555058e7a8763203afbd656bfc244049fdaed13700b6138529351f849c5485b814f25d478ec0",
+					"hash": "27d9a6608018982b760db148ce1de1a746822e1f665738f3a9d1f451f9a5b6ef15ad07ec0e633e6be7d5837d1bf69161242c9f6c459a5086df6364d10343251a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/DgIn5gGv/spirit-vector-1.10.10%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/OoF1BUYd/spirit-vector-1.10.11%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.10+1.21.1.jar",
+				"filename": "spirit-vector-1.10.11+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "8075a2c68c90be2d37162024cad455938c8ae44729482a4f53278c9235bce5f7"
+		"key": "7fa895d916e9b050a24460ef7250f331101e1923e16c048cd658293280b452ac"
 	},
 	"splashfox": {
 		"files": {
