@@ -3352,15 +3352,15 @@
 		"files": {
 			"mods/phonos.pw.toml": {
 				"download": {
-					"hash": "0bb5951bf6271c37cc56e59b9fe9bcd5a156ed088338e47f80830d717164e29d",
+					"hash": "0118194f07020ab02469ede95a3ebc197630e469fe9ad716ed41b01458637393",
 					"hash-format": "sha256",
-					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.22%2B1.21.1/phonos-1.0.0-beta.22+fabric-1.21.1.jar"
+					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.23%2B1.21.1/phonos-1.0.0-beta.23+fabric-1.21.1.jar"
 				},
-				"filename": "phonos-1.0.0-beta.22+fabric-1.21.1.jar",
+				"filename": "phonos-1.0.0-beta.23+fabric-1.21.1.jar",
 				"name": "phonos"
 			}
 		},
-		"key": "29be1bf70a70dd39af26e8e9370dbfc41fe80f38f88c1a97c2d56c5bf8c8b345"
+		"key": "60990f8bcbfef8e6e774d0961f7fcba14576c285cee2e5c0e07389a00f8739d1"
 	},
 	"pierced": {
 		"files": {
@@ -4048,16 +4048,16 @@
 		"files": {
 			"mods/sentient_pants.pw.toml": {
 				"download": {
-					"hash": "2cad585fd8466ceca137c36b485842366d92b99078efbcdc8f0e38262713e86ee9d3943c38503486e750213d8466a241b9eb69aeb5a588eee5cd8fb7bf4ea6cb",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5I3BEJRO/versions/3NbuNbxr/sentient_pants-1.0.2%2B1.21.1.jar"
+					"hash": "9dd705565bc94e751298eb321c2226aded37b077",
+					"hash-format": "sha1",
+					"url": "https://cdn.modrinth.com/data/5I3BEJRO/versions/KKVI7nBn/sentient_pants-1.0.3%2B1.21.1.jar"
 				},
-				"filename": "sentient_pants-1.0.2+1.21.1.jar",
+				"filename": "sentient_pants-1.0.3+1.21.1.jar",
 				"name": "Sentient Pants",
 				"side": "both"
 			}
 		},
-		"key": "bddfd83688b920750acab19c61e8d62b1b25978684388e28b6ccce63e181e2bc"
+		"key": "6d2dfad053707b769887d6ae8dbe35e69aca43c91bb17ebf25584452f3931d86"
 	},
 	"server-cosmetics": {
 		"files": {
