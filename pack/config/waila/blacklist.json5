@@ -23,6 +23,7 @@
   blocks: [
     "minecraft:barrier",
     "minecraft:structure_void",
+	"#barricade:barriers",
     "#waila:blacklist"
   ],
   blockEntityTypes: [
