@@ -783,26 +783,26 @@
 		"files": {
 			"mods/bovines-and-buttercups.pw.toml": {
 				"download": {
-					"hash": "0e322a56bf8837a0318f36ad41b6829b2821bf156e67283be2e54a642051301fc5d9c15340e289c08f46d0a8bc227a9ebc577a05f829a15c01027fe5b9f2b9cc",
+					"hash": "0463b2878fd0bffe593990fa38937e56c52ce8697ee50014139476783dd7046618ed220f356df5b0f3310e32a081c66926d1fee0379e4e588f58b47ded4309cd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/TmGqXsIC/bovinesandbuttercups-2.2.4%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/Yds8B6py/bovinesandbuttercups-2.2.5%2B1.21.1-fabric.jar"
 				},
-				"filename": "bovinesandbuttercups-2.2.4+1.21.1-fabric.jar",
+				"filename": "bovinesandbuttercups-2.2.5+1.21.1-fabric.jar",
 				"name": "Bovines and Buttercups (Mooblooms)",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "475fb700bba6ce4b2ae098ea1a5c6eb6e1a5942fc766382f6fd66aea6d867cb9c537110d6840777dfddcef3ce0cd3f5d2e7e35c37825c9ada32d807caf404fd3",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yygmVw1U/fabric-api-0.115.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.2+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "95e1650d0b9d57697b8718a898bf164832712daa1a884e5b8da64cd9f520e549"
+		"key": "59cf549cc34870b8a561b342625356d6bae684550c08048803fa79e52d1220e9"
 	},
 	"breakerplacer": {
 		"files": {
@@ -4013,36 +4013,36 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
+					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
+				"filename": "fabric-api-0.115.3+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/scriptor-magicae.pw.toml": {
 				"download": {
-					"hash": "9f09f7c95f6ff101e5fbd4b007254de663186cfec97fea0089b9092a89dbe0ee1f9e9d2fdf78c983fed3b3033fdddbfb7643f375ae1a81100a2b2cde7975753f",
+					"hash": "27b338462da0dd892d4ce493d5597a1aa56b166e12a5272daf5e4057b35ab9bf66810945f200bc9f52e940c31aca89174016786128ea79926224df9909345b90",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/JyJgaOrk/versions/8z887Bv0/scriptor-fabric-1.4.3-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/JyJgaOrk/versions/kmSvt6tO/scriptor-fabric-1.4.5-sgd.jar"
 				},
-				"filename": "scriptor-fabric-1.4.3-sgd.jar",
+				"filename": "scriptor-fabric-1.4.5-sgd.jar",
 				"name": "Scriptor Magicae",
 				"side": "both"
 			},
 			"mods/unfocused.pw.toml": {
 				"download": {
-					"hash": "b00e21a60ce99617212cb300553990869fae186810777f1b06ca8c9745066a34d0d58535e2294c0a398a9aef8afd7fe2bf0fd606d15b235ebeec634928e1bba8",
+					"hash": "ec2d2f7429e96e62a17f0eccde67811f50346dd1063deff9ee2cc9a0cf0297982a617260c3164c8bf681d88ae6fb5c30a55e98cf62e3383a7f611c6d994f10be",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BvsO32QY/versions/ntSMynKt/unfocused-fabric-0.1.66-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/BvsO32QY/versions/tiJddhfP/unfocused-fabric-0.1.67-sgd.jar"
 				},
-				"filename": "unfocused-fabric-0.1.66-sgd.jar",
+				"filename": "unfocused-fabric-0.1.67-sgd.jar",
 				"name": "Unfocused",
 				"side": "both"
 			}
 		},
-		"key": "e1aab15d2d7c3f112d0236e12fab8ed4aa19aa37de9502acbb645e18036edfde"
+		"key": "d383073fa8f0098fff42475414408aa127252732c9e698ad331b63b44181f35c"
 	},
 	"sentient_pants": {
 		"files": {
@@ -4328,16 +4328,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "27d9a6608018982b760db148ce1de1a746822e1f665738f3a9d1f451f9a5b6ef15ad07ec0e633e6be7d5837d1bf69161242c9f6c459a5086df6364d10343251a",
+					"hash": "6aefcefd2fc966d5d87c4db09daf2aca10e21fbe37603f30f221f81d50b1ea8b7c090cd562ddc1f36d76ecd2d732b227ce3fe9b58ccba6b4fd237b878bdc1922",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/OoF1BUYd/spirit-vector-1.10.11%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/5BwnbmWu/spirit-vector-1.11.0%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.10.11+1.21.1.jar",
+				"filename": "spirit-vector-1.11.0+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "7fa895d916e9b050a24460ef7250f331101e1923e16c048cd658293280b452ac"
+		"key": "fde0ac74453f41c9f058fbb7dc6a52602d57840ea355f7360a6774ea1557f241"
 	},
 	"splashfox": {
 		"files": {
