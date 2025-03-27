@@ -3,11 +3,11 @@
 		"files": {
 			"mods/accessories.pw.toml": {
 				"download": {
-					"hash": "f481747c002a02f77c27dce606dbe07c13c203c55620ab40ba47f0ad3d80dc2c65f9bf658d9189c09b934acffb844729c5fcf3ac1e4aa82083d951a8c77972c1",
+					"hash": "8e20b2d0348328a1f0266d2234232da1657c2a9f2404661e8f5e6fe2daf34300be310218bd40e657f754c9f9b7d1c7efe8284be75c6bcf83708828bb11e3ec6e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xe7f8q7s/accessories-fabric-1.1.0-beta.34%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/9HPe0p25/accessories-fabric-1.1.0-beta.35%2B1.21.1.jar"
 				},
-				"filename": "accessories-fabric-1.1.0-beta.34+1.21.1.jar",
+				"filename": "accessories-fabric-1.1.0-beta.35+1.21.1.jar",
 				"name": "Accessories",
 				"side": "both"
 			},
@@ -32,7 +32,7 @@
 				"side": "both"
 			}
 		},
-		"key": "e1a21a28822a5e9c5c6ae88687c9c4543a5a17f147be3dee9bff93f5907fc3ec"
+		"key": "a2ae2b87c4709286b3c7e47a6016cf477bb423594c71a12fc4da0eb5f86bc626"
 	},
 	"advanced-networking": {
 		"files": {
@@ -638,16 +638,16 @@
 		"files": {
 			"mods/boatism.pw.toml": {
 				"download": {
-					"hash": "35910bac08e5a030772e02f3e2ad515be5acae940872f582991eab1e0d455bdbb4fbb042d82f74eacabdec28338c8a737f35c0e4e5d234298c352d21de3f754b",
+					"hash": "743dd5719ba50005d7dd7db6a4d9805d5a480f74a8cc05b677fd4628ed4775b30328dd0a549ab5b18c68e5882a3fd66c3a4a86e08dc8547f60f779175075ab97",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XA2EooAt/versions/VEHvRrPX/boatism-0.2.1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/XA2EooAt/versions/beXdwN8j/boatism-0.2.3-1.21.1.jar"
 				},
-				"filename": "boatism-0.2.1-1.21.1.jar",
+				"filename": "boatism-0.2.3-1.21.1.jar",
 				"name": "Boatism",
 				"side": "both"
 			}
 		},
-		"key": "89ca30f52d5e662a98ebecac07df8da26753578b6a4839a6dd332cfa3ce76c6f"
+		"key": "29297d68a8d4feff7e5292a2224342c1287f4c35b82425a4d1c37b312ba88c5b"
 	},
 	"boids": {
 		"files": {
@@ -2752,16 +2752,16 @@
 		"files": {
 			"mods/mapshot.pw.toml": {
 				"download": {
-					"hash": "19e8596c77b21a6491f71c088f59aaade0cd6b9baf2ad6d3742ca2095f721c25448abb066405d3fe62fe1b86bc9a2f442b78962d12d62dc0fcff419e49b68b2c",
+					"hash": "07444be8dab3c5d027383701b596abe3bdac3912a6c12614be7320d57971eb84bc662570c6544673620a6231876fb0c7767412fb10aec0e5c849b3dcbe43146f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/E01gJWdQ/versions/nilqI6x9/map_shot-fabric-1.21.1-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/E01gJWdQ/versions/OWrvvAje/map_shot-fabric-1.21.1-1.0.4.jar"
 				},
-				"filename": "map_shot-fabric-1.21.1-1.0.3.jar",
+				"filename": "map_shot-fabric-1.21.1-1.0.4.jar",
 				"name": "MapShot",
 				"side": "client"
 			}
 		},
-		"key": "f1f0183add1e32d2878f7bb528698a4bec845c6766f3d50828fb01a34b116e4a"
+		"key": "1d8af33a37e2e4080e850faeb268d0fcc9f590bd7c491d85f3a229545df4a9b0"
 	},
 	"marksman": {
 		"files": {
@@ -3405,16 +3405,16 @@
 			},
 			"mods/pirate-radio.pw.toml": {
 				"download": {
-					"hash": "1ba266a0cc9314632015b9010069e942d4b4b84f864765f91d7508d8df3962e4021ff002b887b59e3d0dd2aeb22fd4975a041675875440cbc137ca331fc034cf",
+					"hash": "69f280feed736a6d3edfea796eac53e6796aead26597820276e9cec1a61a6a16501e3931f73e4f073988ab030cc53db62e1afea9866db1dffc696d19b6966742",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/23U06cVt/pirate-radio-1.0.5%2Bbc25.jar"
+					"url": "https://cdn.modrinth.com/data/EXRJRBon/versions/9thRejlF/pirate-radio-1.0.6%2Bbc25.jar"
 				},
-				"filename": "pirate-radio-1.0.5+bc25.jar",
+				"filename": "pirate-radio-1.0.6+bc25.jar",
 				"name": "Pirate Radio",
 				"side": "both"
 			}
 		},
-		"key": "31889e359df940424ac6b9038530de705423a3f0eb21dd29293cb4372bc7313c"
+		"key": "02738f5827af43ce8b2664f9058f30ed8ef44605b6ffc79871a7664a61ed6d56"
 	},
 	"planetarium": {
 		"files": {
