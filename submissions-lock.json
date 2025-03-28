@@ -4926,11 +4926,11 @@
 			},
 			"mods/vivatech.pw.toml": {
 				"download": {
-					"hash": "36f80a4697928db54e2c50550cbc783bb31588df267218eb8f1caa6d78c75ba937516d7ecd0a5ba1e1afb66111289f084481215b676848a638cc39a0b70d0f1b",
+					"hash": "9809dc2db8de325e24689b0f8c03f3a03f3f4725e37bb9d1c39add337be4e7625a5c8b9aeacb25b199c6d12544d8370c4daa676c81352e4a7a04fca28cf514f2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/Tg6KisO9/vivatech-1.0.0-alpha.25.jar"
+					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/a3Uo8u3k/vivatech-1.0.0-alpha.24.jar"
 				},
-				"filename": "vivatech-1.0.0-alpha.25.jar",
+				"filename": "vivatech-1.0.0-alpha.24.jar",
 				"name": "Vivatech",
 				"side": "both"
 			}
