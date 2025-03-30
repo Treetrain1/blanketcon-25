@@ -16,8 +16,14 @@ neomtr
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 snapshotmc
 
+# Currently broken
+jsonpatcher
+
 # lithium mixin conflict
 electromechanics
+
+# custom jar
+world-comment
 
 ## test -> main
 #accessories
@@ -101,7 +107,6 @@ familiar-friends
 #familiar-magic
 #farmers-delight-refabricated
 festive_frenzy
-flamingo
 fletching-expanded
 flw-vanillin
 friendship-bracelets

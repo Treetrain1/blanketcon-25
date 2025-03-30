@@ -107,6 +107,9 @@ file = "config/sodium-options.json"
 file = "config/sounds/chat.json"
 
 [[files]]
+file = "config/stfu.json5"
+
+[[files]]
 file = "config/styled-chat.json"
 
 [[files]]
@@ -150,6 +153,12 @@ file = "config/wilderwild/mixins.json5"
 
 [[files]]
 file = "config/wwizardry.json"
+
+[[files]]
+file = "jsonpatcher/global_patches/assets/gen_assets.jsonpatch"
+
+[[files]]
+file = "jsonpatcher/scripts/make_items.jsonpatch"
 
 [[files]]
 file = "mods/Apoli-2.12.0-alpha.17+mc.1.21.1-blanketcon3.jar"
@@ -251,14 +260,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.7.3+1.21.1.jar"
+file = "mods/fireblanket-0.7.5+1.21.1.jar"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
@@ -829,6 +834,9 @@ file = "resources/datapack/required/default_components_demo/data/fancy_items_mod
 file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/baked_potato.json"
 
 [[files]]
+file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/enchanted_golden_apple.json"
+
+[[files]]
 file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/netherite_scrap.json"
 
 [[files]]
@@ -872,6 +880,12 @@ file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension_type/
 
 [[files]]
 file = "resources/datapack/required/mf_spell_dimension/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/thwackinator_extra/data/thwackinator/tags/block/bouncy_blocks.json"
+
+[[files]]
+file = "resources/datapack/required/thwackinator_extra/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/optional/Semi-realistic Planet Scaling.zip"
@@ -1400,6 +1414,12 @@ file = "resources/resourcepack/required/default_components_demo/assets/fancy_ite
 
 [[files]]
 file = "resources/resourcepack/required/default_components_demo/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/jsonpatcher-demo/assets/jsonpatcher_demo/textures/item/demo_item.png"
+
+[[files]]
+file = "resources/resourcepack/required/jsonpatcher-demo/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
