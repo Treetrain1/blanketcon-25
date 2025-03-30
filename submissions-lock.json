@@ -783,26 +783,26 @@
 		"files": {
 			"mods/bovines-and-buttercups.pw.toml": {
 				"download": {
-					"hash": "407ad46b6c07f382df02534d42909fbfde53a3628b18e413289049bffb7d8941855cbba901153c46ff30bb1b4dc27363e243f851f3c81587b02c9c43a187f3bc",
+					"hash": "f82196fb855d0a63a81927493fb24d6a4ba20319c15602dd624731603ac45c1539a5992aecebc92782385560dc7406f01d65f1b2f3857b89058026d4ccaa3e22",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/M7Kjn8HI/bovinesandbuttercups-2.2.6%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/NGOSNqdb/bovinesandbuttercups-2.2.7%2B1.21.1-fabric.jar"
 				},
-				"filename": "bovinesandbuttercups-2.2.6+1.21.1-fabric.jar",
+				"filename": "bovinesandbuttercups-2.2.7+1.21.1-fabric.jar",
 				"name": "Bovines and Buttercups (Mooblooms)",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.3+1.21.1.jar",
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "c7f65d537ad0c542882e1d866aa4b479d2c4fb8207d4624988dea3f4a2beaffc"
+		"key": "e8b605d3413b6cf62da3ce52943a6a96f58041a60c567ba24f7c70586fbeeda2"
 	},
 	"breakerplacer": {
 		"files": {
