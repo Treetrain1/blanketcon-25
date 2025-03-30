@@ -4268,11 +4268,11 @@
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "71606aa578000b7bd851d45d06d418a83c470c1d40fc35500197f041ebd701d8d7503e2e5f09efd7939096c12471c1d9dc5b7e8a705ab6cc62bf13a5e5b9b6a4",
+					"hash": "67af0c573847d0ff3bf26a539fd4762bbb49973fd11eb5f06070fd7d3d2010025c90b4811136c4f95e2453c90d0b878e4679fd2b9eafc5619f994af81cdd31b0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/zmtzSRdZ/soteria-0.3.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/ulhJAsDe/soteria-0.3.5%2B1.21.1.jar"
 				},
-				"filename": "soteria-0.3.4+1.21.1.jar",
+				"filename": "soteria-0.3.5+1.21.1.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
@@ -4287,7 +4287,7 @@
 				"side": "both"
 			}
 		},
-		"key": "3aea8b5ca52c126c5a5e0bf783d2c2e6bb5513194e1b9dfb4ef56fbb65c0e167"
+		"key": "e6b2f1a74c77eeea568fefcb90b9a02597c8e5e7a207d7e49d10855eaaea7fdd"
 	},
 	"spirit-vector": {
 		"files": {
