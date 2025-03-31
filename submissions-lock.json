@@ -5096,16 +5096,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "f306bcf3d5a0f945d02466cb5f45e1fcd398971363826c3e34de3dcd40e65c51e8c00c1558406d122bb14e6e8502034c5598fc2e2fe54e08e8df8a364ccbd9ab",
+					"hash": "501bd1b1622b81b8eaa1226b50739b3b8b5006099e2e79cd705f1366e4af6cb8d20527d1a8364d52f4634850bc5df2ecb3f04e5b816e0505239cf778acebaac9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/TJBFEnSL/worldinajar-1.0.0-beta.6%2B1.21.1.blanketcon.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/4brxRdYS/worldinajar-1.0.0-beta.7%2B1.21.1.blanketcon.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.6+1.21.1.blanketcon.jar",
+				"filename": "worldinajar-1.0.0-beta.7+1.21.1.blanketcon.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "98873ad8861fc8051cf13916a83f0247f08dcf8a256872b36d2619c488fdbcbc"
+		"key": "9c005435a669f5841677411b078fe34528bc2b3abe06c512f3e6517cc49d48d2"
 	},
 	"yeet": {
 		"files": {
