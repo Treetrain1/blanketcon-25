@@ -463,11 +463,11 @@
 		"files": {
 			"mods/barkeep.pw.toml": {
 				"download": {
-					"hash": "74007da26eda4715988d84c5ca82a57829b419aaefb81818a775738a6224b5628dfbdb32e871e80abb13ff78e5e2a952b26b349611b9ab21eedc97ad23e74558",
+					"hash": "72f6eafa235ba475b344db36689b692a4aa512a3f1c3620da454fe857d502084f23c4181809a02303fd40b411d27e51b83861da24489fc451466dac9b4921766",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TFwl8Z4h/versions/B8eDPjZj/barkeep-0.0.2-bc25.jar"
+					"url": "https://cdn.modrinth.com/data/TFwl8Z4h/versions/brixicsQ/barkeep-0.0.3-bc25.jar"
 				},
-				"filename": "barkeep-0.0.2-bc25.jar",
+				"filename": "barkeep-0.0.3-bc25.jar",
 				"name": "Barkeep",
 				"side": "both"
 			},
@@ -482,7 +482,7 @@
 				"side": "both"
 			}
 		},
-		"key": "faab76b91e1b9a89ad092eb1af6e3b1594abf00c392cd2c35bcbe1e14c28142f"
+		"key": "47ab400c4c50ac94f72c6b827487a86100c9be8134258ac4a76e76c008efa7a6"
 	},
 	"barricade": {
 		"files": {
@@ -2820,16 +2820,16 @@
 		"files": {
 			"mods/mirthdew-encore.pw.toml": {
 				"download": {
-					"hash": "03bb7213ca4ea8b007ce285c949c5248f15cd6f16d56759af7b24945fff8308d65f15a3a586ca138e4b423e1806038a33812a03cbf23592620449c359f7d14ed",
+					"hash": "527341c3f1b1939e4671b9246bebfd070241bb074fff3518b5c92971515fb74d1494b44f345c45d8462c42e3d92c562da919891032c73e9612daf9226209f125",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LFMwgWDl/versions/Vxe0fIcf/mirthdew_encore-fabric-mc1.21.1-0.2.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/LFMwgWDl/versions/9q7FZj9N/mirthdew_encore-fabric-mc1.21.1-0.2.0.3.jar"
 				},
-				"filename": "mirthdew_encore-fabric-mc1.21.1-0.2.0.2.jar",
+				"filename": "mirthdew_encore-fabric-mc1.21.1-0.2.0.3.jar",
 				"name": "Mirthdew Encore",
 				"side": "both"
 			}
 		},
-		"key": "94e1d608bd7f2331ebcb390f60b8f3173f3a2f900f69b7eb53bdeaced2a58356"
+		"key": "450c4f40bb180b6ed5a2d10cf256ef861a95e3de876f52cd1652b7b6f95c0430"
 	},
 	"missing-wilds": {
 		"files": {
@@ -3169,11 +3169,11 @@
 		"files": {
 			"mods/moonlight.pw.toml": {
 				"download": {
-					"hash": "24ca5815dbc9ee70c646765a35405525a6fccb2330e9724c4bdc613e989b00639a5516ccc0bfb9284678b5123f106ae13b4fc4ff3bb2e5c7fc35b0ce75180d03",
+					"hash": "9a4eeb9a91f9a55e3457c55585813d342e284afb0a1f855a833bd3872a209bf597efb1be9c6a716c3fece60f2b885c61703061ae18317567f4c94dc6316b8b23",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/AW2xA1HZ/moonlight-1.21-2.17.37-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/Xh2B5dE7/moonlight-1.21-2.18.0-fabric.jar"
 				},
-				"filename": "moonlight-1.21-2.17.37-fabric.jar",
+				"filename": "moonlight-1.21-2.18.0-fabric.jar",
 				"name": "Moonlight Lib",
 				"side": "both"
 			},
@@ -3361,16 +3361,16 @@
 		"files": {
 			"mods/pierced.pw.toml": {
 				"download": {
-					"hash": "3c7be178a98558bd9b8441cd25bc5d5e9329f82a137b4635808c4d1f8599d9a8e79a1c928a803f4f7d42ed584ea6f569d798fabfe2f56752762bb6424d8fa534",
+					"hash": "66c0fde5eaa14bf55ab5a20f2aaba5d32ebbf0e125d10e9845d5df1775047a079b82320f9ed33b6dcedb3bbdf214bd255b76560dd562aa70d2bf07caf7e59db1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/pHsXR1YM/versions/KyJ5HNyZ/pierced-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/pHsXR1YM/versions/UJrQhZIT/pierced-1.2.0.jar"
 				},
-				"filename": "pierced-1.1.0.jar",
+				"filename": "pierced-1.2.0.jar",
 				"name": "Pierced",
 				"side": "both"
 			}
 		},
-		"key": "fcdb75b01dd6142473da58907d5b64d50600debae4df16795236e2a2c54e0e96"
+		"key": "41c2e375ed8a82ea2f71fbf26ffaeafaabcc88939ed3269f5363fbfd75e8d0a7"
 	},
 	"pinit": {
 		"files": {},
@@ -4318,11 +4318,11 @@
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "cddb36bf7767e42e171254a531e841d68ce4a9567ce9ce5831ffe31d1ef9016ba426ed69cf8da47e55a5cb4a04f83794c22356ff9ccb8533ab7d197958e7666e",
+					"hash": "d01b4bd54bb73c6589d0bee7d8de519a3b701848bb272ac353b25b9f033843e39017a02bb894a88448ad00d7d3837f17c4b08ac13fd92355b3196c6c4eead030",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/KqAtzKHE/soteria-0.3.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/vz45IHCV/soteria-0.3.6%2B1.21.1.jar"
 				},
-				"filename": "soteria-0.3.3+1.21.1.jar",
+				"filename": "soteria-0.3.6+1.21.1.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
@@ -4337,7 +4337,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c12b8cdb4ef74cef723aa2f4ffb0d080b6d8c4cda73d07d54e63949b053ce9b7"
+		"key": "e20971710e8eb08758ab711ba24d13c2102adc3421e6a111ce1bd7ee1a799d2e"
 	},
 	"spirit-vector": {
 		"files": {
@@ -5016,16 +5016,16 @@
 			},
 			"mods/wandering-wizardry.pw.toml": {
 				"download": {
-					"hash": "0537bb059964ad116fda40bee8e75bc3b89f08c2e13fcd94916243ba0ec458ebe33fd72b8aac8da42617c17395fa9c4c2979e9ea32451cd4ff9e0b7e9cfbb107",
+					"hash": "4f4f50c7dacfe1820d2b72d6b50d114ccf8e8971de23ec67479f31cbc349f8aacb84e09d715e092e12ea0191fcc3f885d5211b653453376829a0c7f06cf240e1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/WJrdQtCK/wwizardry-1.1.14%2Bmc.1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/yFv5eBUV/wwizardry-1.1.15%2Bmc.1.21.1-fabric.jar"
 				},
-				"filename": "wwizardry-1.1.14+mc.1.21.1-fabric.jar",
+				"filename": "wwizardry-1.1.15+mc.1.21.1-fabric.jar",
 				"name": "Wandering Wizardry",
 				"side": "both"
 			}
 		},
-		"key": "ed17a66285d06ffa46101c96ee25248ec133c0033a3894357ff0df30cfc95772"
+		"key": "6900495a65830cfa560d75cad2911e1e2a71df5766bd997f2e2b44b16035d66d"
 	},
 	"wearthat": {
 		"files": {
@@ -5146,16 +5146,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "0fbfd70b6b60ea5e7f22a8097564511aae88939bc6f8b15d38e45b1bcd886262ae6e8ed8427c131878f28240d778fea4ab739f6d92df9b3720d187a0903a076c",
+					"hash": "501bd1b1622b81b8eaa1226b50739b3b8b5006099e2e79cd705f1366e4af6cb8d20527d1a8364d52f4634850bc5df2ecb3f04e5b816e0505239cf778acebaac9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/iZ0YTZnK/worldinajar-1.0.0-beta.5%2B1.21.1.blanketcon.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/4brxRdYS/worldinajar-1.0.0-beta.7%2B1.21.1.blanketcon.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.5+1.21.1.blanketcon.jar",
+				"filename": "worldinajar-1.0.0-beta.7+1.21.1.blanketcon.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "90cc5541ff2efe1dfb5fb7bc2e1d43e07f86bd09a8c0f540722a064822fa7694"
+		"key": "9c005435a669f5841677411b078fe34528bc2b3abe06c512f3e6517cc49d48d2"
 	},
 	"yeet": {
 		"files": {

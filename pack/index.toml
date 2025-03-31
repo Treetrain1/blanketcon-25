@@ -74,9 +74,6 @@ file = "config/inventory_tabs.toml"
 file = "config/magiclib.json"
 
 [[files]]
-file = "config/meret.toml"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 
 [[files]]
@@ -105,9 +102,6 @@ file = "config/sodium-options.json"
 
 [[files]]
 file = "config/sounds/chat.json"
-
-[[files]]
-file = "config/stfu.json5"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -832,9 +826,6 @@ file = "resources/datapack/required/default_components_demo/data/fancy_items_mod
 
 [[files]]
 file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/baked_potato.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/enchanted_golden_apple.json"
 
 [[files]]
 file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/netherite_scrap.json"
