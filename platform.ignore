@@ -11,7 +11,7 @@ surveyor
 # Texture mtr:block/sign/door_overlay_sp1900_top with size 240x30 limits mip level from 2 to 1
 # mip issues
 # 17 seat watchdog crash
-neomtr
+#neomtr
 
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 snapshotmc
