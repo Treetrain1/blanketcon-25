@@ -190,6 +190,10 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ballotbox.pw.toml"
 metafile = true
 
