@@ -336,6 +336,10 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pbwarps.pw.toml"
 metafile = true
 
