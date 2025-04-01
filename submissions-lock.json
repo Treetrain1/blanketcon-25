@@ -1664,16 +1664,26 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "94e5c8922aa19c349865fc79b496dd7bb4041852098804714780c0f8df303c0606c0f89bb585169808d23fcbef9fc43758c594f3ab88186674c81c5b5a044a2e",
+					"hash": "dbd4a92ad71c8f98241d5e240c2771b698e2ecbd483dcaac408f72465febfe1b82d98c0d14886178aeae3f39f7063f91c25f8a648dc94a4da7d6332d080234bc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/LGXlPE1A/enchiridion-fabric-0.1.0-bc25.10%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/gHmeFgiw/enchiridion-fabric-0.1.0-bc25.11%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.10+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.11+1.21.1.jar",
 				"name": "Enchiridion",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "c8f72b95ae228c9b3a5397e712f2e2230c81b2547bbc01958908b0ecc863fa04"
+		"key": "5ec1fc442f7dcf8b9712dfcac1b8afbe5d85be555ab8c29de0169d197afb4513"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -3317,15 +3327,15 @@
 		"files": {
 			"mods/phonos.pw.toml": {
 				"download": {
-					"hash": "08b2d336351d175377c7b79ec65e41c8fcdb47c662705a0ef1619474f936ae53",
+					"hash": "baa07493b70ad5da2613f7f08747ad620a6c7b895012195ec5533c6ecc224402",
 					"hash-format": "sha256",
-					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.24%2B1.21.1/phonos-1.0.0-beta.24+fabric-1.21.1.jar"
+					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.25%2B1.21.1/phonos-1.0.0-beta.25+fabric-1.21.1.jar"
 				},
-				"filename": "phonos-1.0.0-beta.24+fabric-1.21.1.jar",
+				"filename": "phonos-1.0.0-beta.25+fabric-1.21.1.jar",
 				"name": "phonos"
 			}
 		},
-		"key": "bddd0b846cbd75f1f88104fe53ec93abc8ac956578b3e7743a5d5e3e9ea2eb70"
+		"key": "d83c8d41b8609c8815cb71ab44472daad91e8ed106b71f841236327827e528d7"
 	},
 	"pierced": {
 		"files": {
@@ -4792,16 +4802,16 @@
 			},
 			"mods/trailier-tales.pw.toml": {
 				"download": {
-					"hash": "dab9b100c2a9ee5645e8b168bf35511e58895d5ab69eaf84c2483ff6ad3c0d70979c2552f2be5067ef85176f8ae1db1ea70c68029f280d0aa1d5e347f4eb3bf0",
+					"hash": "cbb1225f32fc8cbfe1384e5e131344f313b9b0906b86387f2d7d119e25f9b72ae812be5dc7adbe79321f36cdf541bb9567ff82fe04d7a7b27a9ccd583efc6ca3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9xTQM0ci/versions/u2xHFOSZ/TrailierTales-1.1.3-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/9xTQM0ci/versions/f4mdUYxG/TrailierTales-1.1.4-mc1.21.1.jar"
 				},
-				"filename": "TrailierTales-1.1.3-mc1.21.1.jar",
+				"filename": "TrailierTales-1.1.4-mc1.21.1.jar",
 				"name": "Trailier Tales",
 				"side": "both"
 			}
 		},
-		"key": "000590bcd5198fafc76780963466c28f804c68f8d09785f52a6895a22b858082"
+		"key": "3182cb6bb5003a1619585b07cbf94a3f754c262ccde407fa966b59bc9c93760d"
 	},
 	"trickster": {
 		"files": {
