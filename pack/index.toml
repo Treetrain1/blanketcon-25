@@ -887,6 +887,15 @@ file = "resources/datapack/required/thwackinator_extra/data/thwackinator/tags/bl
 file = "resources/datapack/required/thwackinator_extra/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/worldinajar_tweaks/data/worldinajar/recipe/bedrock_pickaxe.json"
+
+[[files]]
+file = "resources/datapack/required/worldinajar_tweaks/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/worldinajar_tweaks/pack.png"
+
+[[files]]
 file = "resources/resourcepack/optional/Semi-realistic Planet Scaling.zip"
 
 [[files]]
