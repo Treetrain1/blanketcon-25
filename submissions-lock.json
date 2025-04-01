@@ -4513,15 +4513,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "0aa716fb848f8f93995268e689f09653d8292fe39e3fd12cb66e402502ff59c3",
+					"hash": "294cbd422bb2bf828d7a953033e591933a85492120fd195728ae87c59515aa9a",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.14/superposition-fabric-1.21.1-0.2.14.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.15/superposition-fabric-1.21.1-0.2.15.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.14.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.15.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "f1a8dca70cbc0696a5123156d4749df49a0bf2fb68e2e8c812fbf0beef742b71"
+		"key": "a2cd295b4eb970c127e2f3422d9ff5b9a04f59b385e18f7e6e980a4684cbb2f1"
 	},
 	"surveyor": {
 		"files": {
