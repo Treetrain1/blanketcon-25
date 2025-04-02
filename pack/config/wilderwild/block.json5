@@ -25,8 +25,8 @@
 	},
 	"termite": {
 		"onlyEatNaturalBlocks": false,
-		"maxDistance": 32,
-		"maxNaturalDistance": 10,
+		"maxDistance": -1,
+		"maxNaturalDistance": -1,
 	},
 	"mesoglea": {
 		"mesogleaLiquid": false,
