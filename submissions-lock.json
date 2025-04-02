@@ -1664,11 +1664,11 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "dbd4a92ad71c8f98241d5e240c2771b698e2ecbd483dcaac408f72465febfe1b82d98c0d14886178aeae3f39f7063f91c25f8a648dc94a4da7d6332d080234bc",
+					"hash": "405a6a1a94874ce67a00e3562ecfece5ac2e0a13c9c9a1863d06303479d9dac3f4de95cfc3b256412fb5acd5fd031071cf09326e97c31858179ef9b25a3dcbab",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/gHmeFgiw/enchiridion-fabric-0.1.0-bc25.11%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/lcbRuPWQ/enchiridion-fabric-0.1.0-bc25.15%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.11+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.15+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1683,7 +1683,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5ec1fc442f7dcf8b9712dfcac1b8afbe5d85be555ab8c29de0169d197afb4513"
+		"key": "07eea1d4aec84e344b4d6c3a7fb41296213b25584b3532dc90cd43bdd83d7c3b"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -2410,26 +2410,26 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6c30c7c9b70cbb1275e7a63bf2921678ad5664056bd62539dbb6a811dddef3fa831f55e44e94c062198a6a78edfebcb6b818acb9365a4369b5a0ed0722cfff20",
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hZxPzoO7/fabric-api-0.115.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.3+1.21.1.jar",
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/inline.pw.toml": {
 				"download": {
-					"hash": "ad6356b906dbcdb2519ee1acc0a29f24f39e4b65c18d19bb7cad51602138a17befa7b9eaeee0ed36061473de5b63d47a662d89a4d814821ec8cba59b6ceadb50",
+					"hash": "3911f6366a3231250d914910787ab48844f92d91ad61503b76a87c8f7f6f85ad48005574e26f386553b322748e3161f9726197373b3d1eed8de581132aa99a5f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/fin1PX4m/versions/XlluQUr6/inline-fabric-1.21.1-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/fin1PX4m/versions/8jBT4C2k/inline-fabric-1.21.1-1.1.1.jar"
 				},
-				"filename": "inline-fabric-1.21.1-1.1.0.jar",
+				"filename": "inline-fabric-1.21.1-1.1.1.jar",
 				"name": "Inline",
 				"side": "client"
 			}
 		},
-		"key": "109cad39f4a92cab506fd9ef1f90ce3e1f941b1a029f050ccedbe4c6d5f10534"
+		"key": "6fa797c232af7aa88a860ae094f677eb7463b7b0d434645639bcc092efabb26e"
 	},
 	"inventory-tabs": {
 		"files": {
@@ -2673,15 +2673,15 @@
 		"files": {
 			"mods/maddys-origins.pw.toml": {
 				"download": {
-					"hash": "5132db0d14f07e7816d21114d0308df150d048aa1235722285d9e761fca5254f",
+					"hash": "1b2f5d7fa9d53c9b3483f12f4dab94c7bbbf82367c5ef07c673fcc3231db0bc4",
 					"hash-format": "sha256",
-					"url": "https://github.com/Noobulus/Maddy-Origins/releases/download/v1.0.0/maddy-origins-1.0.0.jar"
+					"url": "https://github.com/Noobulus/Maddy-Origins/releases/download/v1.0.1/maddy-origins-1.0.1.jar"
 				},
-				"filename": "maddy-origins-1.0.0.jar",
+				"filename": "maddy-origins-1.0.1.jar",
 				"name": "maddys_origins"
 			}
 		},
-		"key": "321315cee0631c7eff848fe486c8c10a8b55798b010f7b81c4413355b377fe48"
+		"key": "59d9a0531ee02ca2424dc3741f087a276c0bb2281a96a8950716336a1dcb808a"
 	},
 	"magic-8-ball": {
 		"files": {
