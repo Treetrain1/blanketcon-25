@@ -190,11 +190,19 @@ file = "mods/badpackets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/badstdout.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ballotbox.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/barricade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-narrator-error.pw.toml"
 metafile = true
 
 [[files]]
@@ -329,6 +337,10 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
@@ -877,6 +889,15 @@ file = "resources/datapack/required/thwackinator_extra/data/thwackinator/tags/bl
 
 [[files]]
 file = "resources/datapack/required/thwackinator_extra/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/worldinajar_tweaks/data/worldinajar/recipe/bedrock_pickaxe.json"
+
+[[files]]
+file = "resources/datapack/required/worldinajar_tweaks/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/worldinajar_tweaks/pack.png"
 
 [[files]]
 file = "resources/resourcepack/optional/Semi-realistic Planet Scaling.zip"
