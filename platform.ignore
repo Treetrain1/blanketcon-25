@@ -25,8 +25,12 @@ jsonpatcher
 # custom jar
 world-comment
 
-# class format error
-#wilder-wild
+# wrong dep listed
+pesky-seagulls
 
-subtle-effects
+# registry crash
+#subtle-effects
+
+# client on server
+vivatech
 
