@@ -403,11 +403,11 @@
 		"files": {
 			"mods/automobility.pw.toml": {
 				"download": {
-					"hash": "9af005a49f06e3231b4a6d68395865d6118c86e9691b6f9e1be7b905b75d4fa624b9ebde5f0c65da4d0d530c7e08842d225675d99a9ca28811e94141cfef66a5",
+					"hash": "cf303c4b9e662caf7e53ae6cff79766a9c7bcd5a44a7321e3a682bc251824c4bb01e1604a41a8f799264f8cf5b42eb79953d55b919e8c3fc7c2f7eaf5192dc63",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/A3iqH32h/automobility-0.5.0.e%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/KjBmrTyE/automobility-0.5.0.f%2B1.21.1-fabric.jar"
 				},
-				"filename": "automobility-0.5.0.e+1.21.1-fabric.jar",
+				"filename": "automobility-0.5.0.f+1.21.1-fabric.jar",
 				"name": "Automobility",
 				"side": "both"
 			},
@@ -422,7 +422,7 @@
 				"side": "both"
 			}
 		},
-		"key": "a83a1eb6754a9723f8ce78cab092e34c4a244f82d054e8a2912b61d1fc77f2e2"
+		"key": "29415a4d3ad9580a8ae74f66429e9f0610024130d4069df7970bf347695af7a7"
 	},
 	"autowhitelist": {
 		"files": {
@@ -1461,16 +1461,16 @@
 		"files": {
 			"mods/cook-it.pw.toml": {
 				"download": {
-					"hash": "252462a62d14c65b5fbe086dd25dc8165866782264d877a3fcf6d13656ee9c58e19e0dbb26f489347316e47074f1f3ad439117a8fb35067d929f60f143a5abcb",
+					"hash": "1df2a7e68c7c5db917b3e63f250c45a644ae59aab69ce194d87bdae964d6c115acc64686e8e5dbae23b97c599f33ebcbddd4b65bb0b8c65cd65ca0995912a94b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/tc39iFjb/cook-it-0.0.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/QI3Zw2um/versions/Ze4YRs0k/cook-it-0.0.4%2B1.21.1.jar"
 				},
 				"filename": "cook-it-0.0.4+1.21.1.jar",
 				"name": "Cook It!",
 				"side": "both"
 			}
 		},
-		"key": "58e722414aa6bebcae9bf1e1087dbea7b097b7a8e34377e6dfd3932eb0734ce4"
+		"key": "4f8788f6019114a599d151ef7b0cd76266fb7699deb0595d7186002f2f079352"
 	},
 	"coretechs": {
 		"files": {
@@ -3190,26 +3190,26 @@
 		"files": {
 			"mods/moonlight.pw.toml": {
 				"download": {
-					"hash": "e28a96f67b697314e8dd542a545c50dbb4c041eb66155a6596754ef5b20368754390ceb97d87045f60c4ba0ed1861ff9954bbbd7cf1c451a52876b67e46930d8",
+					"hash": "a362d82a11a82cecae30485e372de1ac5306dd2cd0cf94bf1819ce330085ad722c71ff9bec61a5757e8c9aae2385448455eefde25a69a65071b73328000f0c3e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/fHnDuS0y/moonlight-1.21-2.18.2-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/WGUxPaDX/moonlight-1.21-2.18.4-fabric.jar"
 				},
-				"filename": "moonlight-1.21-2.18.2-fabric.jar",
+				"filename": "moonlight-1.21-2.18.4-fabric.jar",
 				"name": "Moonlight Lib",
 				"side": "both"
 			},
 			"mods/oxide.pw.toml": {
 				"download": {
-					"hash": "acd6b82576533a3b23f48ebf03903d0e8d1a77795543ddfa4f42e1942a099ac78b02ee6aed3c4447fa2f4c4330a78b2b5bf01fc71df0d70404f2cd45d30844d6",
+					"hash": "3e8d1af01fe8e1a185695ec639ba1752c5e6ad76ef7313408ed87666f286795b3b51da9b3e73bcff9628c7a23e41461da4d23b73c889cbb272097b3db0e6e94d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/iGE1VVyo/oxide-1.21.1-0.1.4-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/Er4sRvcS/oxide-1.21.1-0.1.5-fabric.jar"
 				},
-				"filename": "oxide-1.21.1-0.1.4-fabric.jar",
+				"filename": "oxide-1.21.1-0.1.5-fabric.jar",
 				"name": "Oxide",
 				"side": "both"
 			}
 		},
-		"key": "64dee945f69fc027504b89eb99e9fbb3457a4a74dba6626717e65a382399bd88"
+		"key": "7c62fa13d1f2b86d5491044c92fe31bba77a43807d7db48d8cf4f47342588f2d"
 	},
 	"paladins-furniture": {
 		"files": {
@@ -4595,15 +4595,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "2a1a4a0e0671cf3d62d09253766274cdc4e4277854a5b5054d743796d7137192",
+					"hash": "ce24f9ed00a9a0290381e9bfdc6203c77bd89516d3a417ddc3df3e98d0add826",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.17/superposition-fabric-1.21.1-0.2.17.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.18/superposition-fabric-1.21.1-0.2.18.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.17.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.18.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "3b48c68aee51fc1145a003abd2ffaf7f455278d480981ef1a06b53e5878ff3a1"
+		"key": "ee2440c256ed8cd726b499b6d89aeda30a8654b81c3a8f040a6b651991981395"
 	},
 	"surveyor": {
 		"files": {
@@ -5018,16 +5018,16 @@
 			},
 			"mods/vivatech.pw.toml": {
 				"download": {
-					"hash": "36f80a4697928db54e2c50550cbc783bb31588df267218eb8f1caa6d78c75ba937516d7ecd0a5ba1e1afb66111289f084481215b676848a638cc39a0b70d0f1b",
+					"hash": "9809dc2db8de325e24689b0f8c03f3a03f3f4725e37bb9d1c39add337be4e7625a5c8b9aeacb25b199c6d12544d8370c4daa676c81352e4a7a04fca28cf514f2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/Tg6KisO9/vivatech-1.0.0-alpha.25.jar"
+					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/a3Uo8u3k/vivatech-1.0.0-alpha.24.jar"
 				},
-				"filename": "vivatech-1.0.0-alpha.25.jar",
+				"filename": "vivatech-1.0.0-alpha.24.jar",
 				"name": "Vivatech",
 				"side": "both"
 			}
 		},
-		"key": "27d34de503b69a4b59789a800ff1bcc8b8231c3a1b27cdc1bb5fb202893e94e4"
+		"key": "5937fa934c7db12fc7a0076055f6921f14bc94a9fa2cadc109c1d8cb9317fa94"
 	},
 	"wandering-rana": {
 		"files": {

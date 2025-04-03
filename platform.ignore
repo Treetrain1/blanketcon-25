@@ -26,11 +26,11 @@ jsonpatcher
 world-comment
 
 # wrong dep listed
-pesky-seagulls
+#pesky-seagulls
 
 # registry crash
 #subtle-effects
 
-# client on server
-vivatech
+# client on server in version alphah 25
+#vivatech
 
