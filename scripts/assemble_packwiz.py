@@ -32,6 +32,8 @@ def main():
 	priorities: dict[str, int] = defaultdict(lambda: -1)
 	files: dict[str, Any] = {}
 	locked_data: SubmissionLockfileFormat = json.loads(common.read_file(submission_lock_file))
+	print("Processing lockdata: ")
+	print(locked_data)
 	for platformid, moddata in locked_data.items():
 		if not "files" in moddata:
 			raise RuntimeError(f"lock data for {platformid} is invalid. Does not contain file key")
@@ -58,11 +60,14 @@ def main():
 	for filename, filedata in files.items():
 		dst_file = dest_pack / filename
 		if not dst_file.exists():
+			print(f"Creating {dst_file}")
 			dst_file.parent.mkdir(parents=True, exist_ok=True)
 			# We want all mods to be on both sides for singleplayer compat
 			filedata["side"] = "both"
 			with open(dst_file, "w", encoding="utf8") as f:
 				f.write(tomli_w.dumps(filedata))
+		else:
+			print(f"{dst_file} already exists")
 
 	for e in exclusions:
 		if not e in used_exclusions:
