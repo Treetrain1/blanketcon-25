@@ -1257,16 +1257,16 @@
 		"files": {
 			"mods/chinese-ime.pw.toml": {
 				"download": {
-					"hash": "088b5e81d3d8ebc8a51ff0642c6c7c989aeed0afba979635ed295cde59a557c7998977a57c0926cb14c38d08d6cdb1ed0c2aa0f05de6bb30f66764da99e0b99c",
+					"hash": "cd892375a32b6556292a5ca11510990b35f7ebf5702a752e707f48cd810e1b03528ce7fc6c44b3a6adc71bf4db00f4057b5d4c44246c6d84bf8e85ba5fd9c811",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hilng8VR/versions/2vKGoXrs/chineseime-1.21-v1.1.7.jar"
+					"url": "https://cdn.modrinth.com/data/hilng8VR/versions/XyhpanUE/chineseime-1.21-v1.1.8.jar"
 				},
-				"filename": "chineseime-1.21-v1.1.7.jar",
+				"filename": "chineseime-1.21-v1.1.8.jar",
 				"name": "Chinese IME",
 				"side": "client"
 			}
 		},
-		"key": "1e394c3c8e67a7642e6dc0745cfbea42da8399c466cad652230c9e2627f4ba84"
+		"key": "8f399464f8dace7d2382d91594e837e0b24160b53522dbc5bec2c97447b1d668"
 	},
 	"chitinous_ties": {
 		"files": {
@@ -2367,15 +2367,15 @@
 		"files": {
 			"mods/immersivemc.pw.toml": {
 				"download": {
-					"hash": "9ebb52b873e6ae824c11f746839b41794c57a0c927c10d6c4c9be7f2176d32c4",
+					"hash": "070b80f13a1c3048e74b74f30305693c77f8ef2e9af946a3e52e8f99ddba15dc",
 					"hash-format": "sha256",
-					"url": "https://github.com/hammy275/immersive-mc/releases/download/v1.5.6-modfest/immersivemc-1.5.6-modfest-1.21.1-fabric.jar"
+					"url": "https://github.com/hammy275/immersive-mc/releases/download/v1.5.7-modfest/immersivemc-1.5.7-modfest-1.21.1-fabric.jar"
 				},
-				"filename": "immersivemc-1.5.6-modfest-1.21.1-fabric.jar",
+				"filename": "immersivemc-1.5.7-modfest-1.21.1-fabric.jar",
 				"name": "immersivemc"
 			}
 		},
-		"key": "c0c3f85b70d9457ee147c19e593698359a86147f837021aeff8e6e5f701cd049"
+		"key": "e9fa7b83e48e89317d4c77d28664cae308d86a1156e7bcca6f8702545d56a15b"
 	},
 	"impenduits": {
 		"files": {
