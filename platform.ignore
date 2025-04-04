@@ -12,3 +12,6 @@ snapshotmc
 
 # Currently broken
 jsonpatcher
+
+# Currently breaks chunkloading
+colorful-lanterns
