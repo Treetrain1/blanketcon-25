@@ -2127,16 +2127,16 @@
 			},
 			"mods/have-another-pretty-particle-yayyyyyyyy.pw.toml": {
 				"download": {
-					"hash": "efd6b3d9acaff2da524b4e70ca10797623237d66d76ff57c91d869b21149461d810211649a3290fb7da3efa9971dec8966649fef07236cf4d56f5c17a5386f91",
+					"hash": "8800731f104256587d61c037ca9840779d9d496dce9e6d7bf57abdcbafe39824d9b431c0fc43e54b13128004d45f156690ae00e4b02a5949894955b2b52a2502",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/KVSwjhVT/versions/kJMq3fqu/happy-0.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/KVSwjhVT/versions/86RBG5eq/happy-0.0.4.jar"
 				},
-				"filename": "happy-0.0.1.jar",
+				"filename": "happy-0.0.4.jar",
 				"name": "Have Another Pretty Particle. Yayyyyyyyy",
 				"side": "both"
 			}
 		},
-		"key": "586a1e20b7aa08a1b0594f1818b1c8acf48d470e1313314e7900a0fff5cbfdd5"
+		"key": "fd4636a7e3db2a86c0f7eb95c024f7b63eceed7708ad65d33538d3a4c8dd1ba8"
 	},
 	"headpat": {
 		"files": {
@@ -2827,15 +2827,15 @@
 		"files": {
 			"mods/mirror-mod.pw.toml": {
 				"download": {
-					"hash": "c50292e48afd3e10ba6b0563416725aca81d608845fb16a98925b5c891cb8cb3",
+					"hash": "049f74dc40516a19d11d5e0dacb246f3b0abc620c2d4ae0e0649e37cc5de1cd4",
 					"hash-format": "sha256",
-					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.7/mirror-fabric-1.21.1-0.2.7.jar"
+					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.8/mirror-fabric-1.21.1-0.2.8.jar"
 				},
-				"filename": "mirror-fabric-1.21.1-0.2.7.jar",
+				"filename": "mirror-fabric-1.21.1-0.2.8.jar",
 				"name": "mirror_mod"
 			}
 		},
-		"key": "bd92464d9e03f19301356465ca7320702ebd01e4b7f2cd88e31129cba26c570b"
+		"key": "d980aed6013ebe5531a35bd8a71fe01df9a9ab59dc1a3c625d2e90bc560ff515"
 	},
 	"mirthdew-encore": {
 		"files": {
@@ -3310,16 +3310,16 @@
 		"files": {
 			"mods/pbwarps.pw.toml": {
 				"download": {
-					"hash": "ba763bca37c4b08b88451960223a9b5800404b3afd2c32e7cf993672c0fa63d255d9e4751d8438740638addd9dae618adb063caf23865bf03cd5329353953f9a",
+					"hash": "7f75d2f8b9f0b48a2fa88cac6b3d48286b6206d4d90b503d4910915ea6a52df3df1a9ddf3fd0f718128d19be2c82dccb749a7d9a56a45d61b49ad63781d785b8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/DZ2XMKfr/versions/SVvLEQ4l/pbwarps-0.1.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/DZ2XMKfr/versions/fV0xWDQJ/pbwarps-0.2.0%2B1.21.1.jar"
 				},
-				"filename": "pbwarps-0.1.0+1.21.1.jar",
+				"filename": "pbwarps-0.2.0+1.21.1.jar",
 				"name": "pbwarps",
 				"side": "server"
 			}
 		},
-		"key": "c601448ff411b170dc7c095c7df19bf4ac22681c8a49d4bf08064a9142832b33"
+		"key": "aa0401be1ab7152817f03b870e9cd7e00023d4f89e50205c0cd8d5487179dc51"
 	},
 	"peaceful_forager": {
 		"files": {
@@ -4325,16 +4325,16 @@
 			},
 			"mods/sooperdooperscooper.pw.toml": {
 				"download": {
-					"hash": "ec67ebf1017ed1ae3a4aaf1cc42addb9b078d80afac261135c200c02c68e48faafb40df5911d64f6a56c75447db83f0576010a0aee885cb3605b0e5586a55db6",
+					"hash": "2919d001640cd84555d59885e5d9e701fa421b355e24e9ddf313bc28304dc402d415bb9c820b04ff21846860cd0ee76776d4d4eda2db559953cad0735da5e6ce",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QmqUXexw/versions/nL6XQFkR/sds_fabric-1.1.jar"
+					"url": "https://cdn.modrinth.com/data/QmqUXexw/versions/dGhSMFry/sds_fabric-1.1.2.jar"
 				},
-				"filename": "sds_fabric-1.1.jar",
+				"filename": "sds_fabric-1.1.2.jar",
 				"name": "SooperDooperScooper",
 				"side": "server"
 			}
 		},
-		"key": "a25d4da7476a603b725afba2a7651ff562a4f8ed935715315ccdf617c6a72db2"
+		"key": "ad76540db65da1a7e5fa1d16768bfd9333dde5855f65c291e27ca65377cbf454"
 	},
 	"soteria": {
 		"files": {
