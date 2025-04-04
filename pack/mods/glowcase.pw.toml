@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://github.com/ModFest/glowcase/releases/download/2.0.0-alpha.2/glowcase-2.0.0-alpha.2%2B1.21.jar"
-hash-format = "sha256"
-hash = "fb6f5a0a5d74c0728ad7904ca68d7e6b5403d11b53e8e837af14cce9c71446fe"
+hash-format = "sha512"
+hash = "e8693d736d75aa60028505349a2c746c7b09aff28f8e43708f3d87e5faabcb7f8a7f92316b32cbed3cc726008af071b8fa0d0c078e7816ab880f985f450d18a0"
 
 [update]
 [update.github]

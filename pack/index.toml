@@ -466,7 +466,8 @@ file = "mods/timelock.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tmyk.toml"
+file = "mods/tmyk.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/worldedit-client.pw.toml"
