@@ -5,6 +5,11 @@
 			"-depends": {
 				"fabricloader": ""
 			}
+		},
+		"pesky_seagulls": {
+			"-depends": {
+				"smartbrainlib": ""
+			}
 		}
 	}
 }
