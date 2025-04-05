@@ -9,14 +9,26 @@
 	"modfest:coconut": {
 		"text_color": "#ffffff",
 		"glow_color": "#ffc849",
-		"icon_offsets": {
-			"normal": {
-				"top": 13,
-				"left": 3
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 4
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
 			},
-			"mini": {
-				"top": 6,
-				"left": 1
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:glow",
@@ -28,14 +40,26 @@
 	"modfest:avocado": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 14,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 7
+				},
+				"mini": {
+					"top": 2,
+					"left": 3
+				}
 			},
-			"mini": {
-				"top": 7,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -47,14 +71,26 @@
 	"modfest:banana": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 14,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 13,
+					"left": 3
+				},
+				"mini": {
+					"top": 3,
+					"left": 3
+				}
 			},
-			"mini": {
-				"top": 7,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -66,14 +102,26 @@
 	"modfest:durian": {
 		"text_color": "#b56a2a",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 8,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 13,
+					"left": 3
+				},
+				"mini": {
+					"top": 6,
+					"left": 1
+				}
 			},
-			"mini": {
-				"top": 4,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -85,14 +133,26 @@
 	"modfest:dragonfruit": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 8,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 13,
+					"left": 3
+				},
+				"mini": {
+					"top": 6,
+					"left": 1
+				}
 			},
-			"mini": {
-				"top": 4,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -104,14 +164,26 @@
 	"modfest:lychee": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 9,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 13,
+					"left": 3
+				},
+				"mini": {
+					"top": 6,
+					"left": 1
+				}
 			},
-			"mini": {
-				"top": 4,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -123,14 +195,26 @@
 	"modfest:mango": {
 		"text_color": "#fcd64c",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 14,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 9,
+					"left": 3
+				},
+				"mini": {
+					"top": 2,
+					"left": 2
+				}
 			},
-			"mini": {
-				"top": 7,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:enchanted_hit",
@@ -142,14 +226,26 @@
 	"modfest:passionfruit": {
 		"text_color": "#ca295c",
 		"glow_color": "#fff596",
-		"icon_offsets": {
-			"normal": {
-				"top": 14,
-				"left": 4
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 13,
+					"left": 3
+				},
+				"mini": {
+					"top": 6,
+					"left": 1
+				}
 			},
-			"mini": {
-				"top": 7,
-				"left": 2
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 12,
+					"height": 12
+				}
 			}
 		},
 		"collect_particle": "minecraft:wax_off",
