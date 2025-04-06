@@ -918,16 +918,16 @@
 		"files": {
 			"mods/bugvortex.pw.toml": {
 				"download": {
-					"hash": "42d3bd4ca7d34b45ea411b4ae19b73c7bc440550711631dcbd180e19f72bd3e43f761a4cbd19d936efb22680a6f1ce679c52166de015b4d9928d01ed03f74862",
+					"hash": "6f55c1c32a41a55b446bd90e0836bca9c15f73e62be602c1a53cda348004c3206d8626d7689bbb74845570a7ddc4f086af1a7b82281b1184612c48b6f3b0348e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/orUrVv1n/versions/F5BPZ9rt/vortex-0.1.1%2Bbc25.jar"
+					"url": "https://cdn.modrinth.com/data/orUrVv1n/versions/oqACoGgV/vortex-0.1.2-rc.1%2Bbc25.jar"
 				},
-				"filename": "vortex-0.1.1+bc25.jar",
+				"filename": "vortex-0.1.2-rc.1+bc25.jar",
 				"name": "Vortex",
 				"side": "both"
 			}
 		},
-		"key": "2aa5eccff1879ef105f85cb025babfd2ae85e361fcc1bf7078a3c5f52d555830"
+		"key": "a173dce3aaba6b29ac78f288d433818c79345e54a21f0f827a5120d1664ce6c6"
 	},
 	"builderdash": {
 		"files": {
@@ -2270,18 +2270,28 @@
 	},
 	"hollow": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/hollow.pw.toml": {
 				"download": {
-					"hash": "73563085535b23c7960c6a5d5bda0942e35904a05841a5ce979212bf660d4fbfe00fbe9dcc5725f7eb22f94c116b3a8e71e656f0f0199c5d7d14b4eef379b226",
+					"hash": "4d121049f9742582720777379d1221f49fb377b7f028556baf81801dd4b571cc1e4a7d15703e6ae8e489490f6bde3107c14ca5e81277f8c121734efd7e6df7e7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/iFpnWXJo/hollow-1.3.2-bc3-1.3.2-bc3.jar"
+					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/TNGb0TFr/hollow-1.3.2-bc5-1.3.2-bc5.jar"
 				},
-				"filename": "hollow-1.3.2-bc3-1.3.2-bc3.jar",
+				"filename": "hollow-1.3.2-bc5-1.3.2-bc5.jar",
 				"name": "Hollow",
 				"side": "both"
 			}
 		},
-		"key": "6c284e4f7fad1c9a06a5e857ce93f93680ad742dbf5c0d836172ecfca31c9fe7"
+		"key": "eee11d9d4771eb05ad882831b490642cea9e52a38c305517fc2edfb6de2d5040"
 	},
 	"honque": {
 		"files": {
@@ -5018,16 +5028,16 @@
 			},
 			"mods/vivatech.pw.toml": {
 				"download": {
-					"hash": "9809dc2db8de325e24689b0f8c03f3a03f3f4725e37bb9d1c39add337be4e7625a5c8b9aeacb25b199c6d12544d8370c4daa676c81352e4a7a04fca28cf514f2",
+					"hash": "6a59fd97b18cc99eb9b97b62afedaf419983dc2a375b862313aebf08bf93435c0c0a4a0116005b295665783cb9b4a2795c4277b9c95013404ff4700aee91b501",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/a3Uo8u3k/vivatech-1.0.0-alpha.24.jar"
+					"url": "https://cdn.modrinth.com/data/Z7LQgxZt/versions/ZGxJ3GPf/vivatech-1.0.0-alpha.26.jar"
 				},
-				"filename": "vivatech-1.0.0-alpha.24.jar",
+				"filename": "vivatech-1.0.0-alpha.26.jar",
 				"name": "Vivatech",
 				"side": "both"
 			}
 		},
-		"key": "5937fa934c7db12fc7a0076055f6921f14bc94a9fa2cadc109c1d8cb9317fa94"
+		"key": "18e3253aea7d6ef8f2cab7b17dac2b5121a675ceeb12ed84ee6f4f027b9192b0"
 	},
 	"wandering-rana": {
 		"files": {
@@ -5113,16 +5123,16 @@
 		"files": {
 			"mods/wheel-of-wacky.pw.toml": {
 				"download": {
-					"hash": "63e6010909b8bb540ad075558c30663fe226c58b84fc9a62a58e4424d13a773a79e61b3af083db42427f1d608b962f53901920e03571c2a769eb4e78ba474528",
+					"hash": "dba70f83dc924e53694bf568f156a0fb4e4b34aaab762c98e270a3dfd021b8dcc95ace5f55a84427352df14845cf0a3ef5568e2132a95bb19b36eee6ea176d79",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/JwRk761J/versions/XGs1NQR3/wacky_wheel-0.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/JwRk761J/versions/Y1nSSFIq/wacky_wheel-0.2.2.jar"
 				},
-				"filename": "wacky_wheel-0.2.1.jar",
+				"filename": "wacky_wheel-0.2.2.jar",
 				"name": "Wheel of Wacky",
 				"side": "both"
 			}
 		},
-		"key": "c149256ab7dc5d16f1cd314866fdd19ff56b1bd619cc2681144dab699dc0dd13"
+		"key": "34a45697d272f04210ad7886cf96f75ae63d46aebe64ac8e0aecd7c89b192850"
 	},
 	"wilder-wild": {
 		"files": {
