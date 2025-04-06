@@ -1928,15 +1928,15 @@
 		"files": {
 			"mods/festive-frenzy.pw.toml": {
 				"download": {
-					"hash": "5d0625e21432b12775eece0e21381c91a87875e3d57d66978543d233c8cf5c7f",
+					"hash": "062b1811d066a1e6bb5f7cfea1ddf2b2126a6e5a69d6a921bbe411c3c797c16e",
 					"hash-format": "sha256",
-					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.3-blanketcon.jar"
+					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.4-blanketcon.jar"
 				},
-				"filename": "festive_frenzy-v7.3-blanketcon.jar",
+				"filename": "festive_frenzy-v7.4-blanketcon.jar",
 				"name": "festive_frenzy"
 			}
 		},
-		"key": "aa80b21b531924b027c05e50c2b919a3993af2c043e52e931f66660bf82d5a2d"
+		"key": "5293eff30a88c643c1d656a662fab0f19341dd371d6fe74879966581416578db"
 	},
 	"fletching-expanded": {
 		"files": {
@@ -2282,16 +2282,16 @@
 			},
 			"mods/hollow.pw.toml": {
 				"download": {
-					"hash": "4d121049f9742582720777379d1221f49fb377b7f028556baf81801dd4b571cc1e4a7d15703e6ae8e489490f6bde3107c14ca5e81277f8c121734efd7e6df7e7",
+					"hash": "5921720331a25dd6f36f1b3a7cf0d20863c202f1cfdf570f3c4220e17ed7291c6cfcbe59089ddb53adfc7eafd9ae1ab8b871da46fb35fa2681e9595e38b07b49",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/TNGb0TFr/hollow-1.3.2-bc5-1.3.2-bc5.jar"
+					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/EsOAuvBQ/hollow-1.3.2-bc8-1.3.2-bc8.jar"
 				},
-				"filename": "hollow-1.3.2-bc5-1.3.2-bc5.jar",
+				"filename": "hollow-1.3.2-bc8-1.3.2-bc8.jar",
 				"name": "Hollow",
 				"side": "both"
 			}
 		},
-		"key": "eee11d9d4771eb05ad882831b490642cea9e52a38c305517fc2edfb6de2d5040"
+		"key": "98640414cc60d5771982ac749ad3218f9f856a43ce9c149acff1e7f4fd8448da"
 	},
 	"honque": {
 		"files": {
@@ -2605,16 +2605,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "901a4b875ffb4f244a6ecaef72e7b64fd8286aa43a5b0d223a2f18e07177c62e43bccf5e08347f1adbb79072c8f47be1592674db96556106ab2bd57024f6d5ff",
+					"hash": "fb41cfa6b9bae6ea1e75c882b628aaed1fb1ad97d8bf44f2e7a1894558dd24306f69a9a8375c849bfbf5509b33208496344172ad3f72b6bb5462f7dd57bf077c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/MQCo2FGN/kawaii-dishes-1.13-beta9.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Id7Vx0aH/kawaii-dishes-1.13-beta10.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta9.jar",
+				"filename": "kawaii-dishes-1.13-beta10.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "7d43fed48ab47195f7f0f1057d01748076a80891e0f97bb6ae61754403eb643a"
+		"key": "377c6d9531e05f2b1c77c44eb9e13a98e21292e88aff1b72a49e5f7320ea38d6"
 	},
 	"klaxon": {
 		"files": {
@@ -3389,15 +3389,15 @@
 		"files": {
 			"mods/phonos.pw.toml": {
 				"download": {
-					"hash": "9a049c296756934577d81ba96706faff779f21dd89ff7f651f64241c36a0f18a",
+					"hash": "3e636d41c3ae2eeac8335ec346c32fd324e2cffff0a035aa845e852e54b638c8",
 					"hash-format": "sha256",
-					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.26%2B1.21.1/phonos-1.0.0-beta.26+fabric-1.21.1.jar"
+					"url": "https://github.com/Layers-of-Railways/Phonos/releases/download/v1.0.0-beta.27%2B1.21.1/phonos-1.0.0-beta.27+fabric-1.21.1.jar"
 				},
-				"filename": "phonos-1.0.0-beta.26+fabric-1.21.1.jar",
+				"filename": "phonos-1.0.0-beta.27+fabric-1.21.1.jar",
 				"name": "phonos"
 			}
 		},
-		"key": "e8ba5551c4a958228b652488dea2fb69ae5372e32329ff0ab8d1afa1c9c0b583"
+		"key": "23229c946d3cb8904c0e1a4f800a5515f125b4fde197b9708472887a308cf55d"
 	},
 	"pierced": {
 		"files": {
@@ -4395,16 +4395,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "4951bf19bde73826b13423540902ba75cabc6190163aa0d60e43cafa0bfa9ddb6a710af9e8b6d177fae1b529bf09ef859e408200e788ffe49834b431e591dcee",
+					"hash": "eb8ee14dfe7b5caf37b26f113963b8977073c33a1662469890c021218d5d0e296809cd0b29c9708ff03df87ffd15790fb02cb1c7bee39223bfdd2e300ca00b7e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/903OFjcp/spirit-vector-1.11.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/RaS1NbUp/spirit-vector-1.11.3%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.11.2+1.21.1.jar",
+				"filename": "spirit-vector-1.11.3+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "9dac644e857e19f9deb1d8f7671db806ce39eac6afaa3589eda1a8b989c2db68"
+		"key": "70cb98eeed98ffe490b403e23b88102d02f65baf2897e24119d7051856392876"
 	},
 	"splashfox": {
 		"files": {
@@ -4605,15 +4605,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "ce24f9ed00a9a0290381e9bfdc6203c77bd89516d3a417ddc3df3e98d0add826",
+					"hash": "918b1a509075044b678c52fc4c01cd2fd79d4330177251f059b07b5897c470b8",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.18/superposition-fabric-1.21.1-0.2.18.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.19/superposition-fabric-1.21.1-0.2.19.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.18.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.19.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "ee2440c256ed8cd726b499b6d89aeda30a8654b81c3a8f040a6b651991981395"
+		"key": "41502029e180cafd09bc8f469423194afd4b1a1d62468cdb76b47c43e1197753"
 	},
 	"surveyor": {
 		"files": {
