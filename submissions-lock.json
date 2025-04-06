@@ -2282,16 +2282,16 @@
 			},
 			"mods/hollow.pw.toml": {
 				"download": {
-					"hash": "a73082f38ed671e0548810362ca8288750a6e6ea0761a84a7142255baf4a90b67793f04fef1e78a7906a117bd7d67ca537cea91572c667af4ff5e32e74147d86",
+					"hash": "464822b036115810fe2ae7bb49122cdffc1d80135dee4f7107004bc252d6541559368adccd8198c747086661d192fd5a3ec10db4bff546bc51e72f0a8c958e78",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/6BJic3KO/hollow-1.3.2-bc6-1.3.2-bc6.jar"
+					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/DRn1NI88/hollow-1.3.2-bc7-1.3.2-bc7.jar"
 				},
-				"filename": "hollow-1.3.2-bc6-1.3.2-bc6.jar",
+				"filename": "hollow-1.3.2-bc7-1.3.2-bc7.jar",
 				"name": "Hollow",
 				"side": "both"
 			}
 		},
-		"key": "c9351d70766a94a65e8a7eccc575321dfb39047f9e0ac9cc6d917a4c86b93e51"
+		"key": "4bd117f7c7a10d981ff83a63b519a21b1f76b5500d0ac946ea43c4928d7e24bc"
 	},
 	"honque": {
 		"files": {
@@ -2605,16 +2605,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "901a4b875ffb4f244a6ecaef72e7b64fd8286aa43a5b0d223a2f18e07177c62e43bccf5e08347f1adbb79072c8f47be1592674db96556106ab2bd57024f6d5ff",
+					"hash": "fb41cfa6b9bae6ea1e75c882b628aaed1fb1ad97d8bf44f2e7a1894558dd24306f69a9a8375c849bfbf5509b33208496344172ad3f72b6bb5462f7dd57bf077c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/MQCo2FGN/kawaii-dishes-1.13-beta9.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Id7Vx0aH/kawaii-dishes-1.13-beta10.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta9.jar",
+				"filename": "kawaii-dishes-1.13-beta10.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "7d43fed48ab47195f7f0f1057d01748076a80891e0f97bb6ae61754403eb643a"
+		"key": "377c6d9531e05f2b1c77c44eb9e13a98e21292e88aff1b72a49e5f7320ea38d6"
 	},
 	"klaxon": {
 		"files": {
