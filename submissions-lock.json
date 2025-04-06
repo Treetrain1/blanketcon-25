@@ -2282,16 +2282,16 @@
 			},
 			"mods/hollow.pw.toml": {
 				"download": {
-					"hash": "4d121049f9742582720777379d1221f49fb377b7f028556baf81801dd4b571cc1e4a7d15703e6ae8e489490f6bde3107c14ca5e81277f8c121734efd7e6df7e7",
+					"hash": "a73082f38ed671e0548810362ca8288750a6e6ea0761a84a7142255baf4a90b67793f04fef1e78a7906a117bd7d67ca537cea91572c667af4ff5e32e74147d86",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/TNGb0TFr/hollow-1.3.2-bc5-1.3.2-bc5.jar"
+					"url": "https://cdn.modrinth.com/data/EQovXCIt/versions/6BJic3KO/hollow-1.3.2-bc6-1.3.2-bc6.jar"
 				},
-				"filename": "hollow-1.3.2-bc5-1.3.2-bc5.jar",
+				"filename": "hollow-1.3.2-bc6-1.3.2-bc6.jar",
 				"name": "Hollow",
 				"side": "both"
 			}
 		},
-		"key": "eee11d9d4771eb05ad882831b490642cea9e52a38c305517fc2edfb6de2d5040"
+		"key": "c9351d70766a94a65e8a7eccc575321dfb39047f9e0ac9cc6d917a4c86b93e51"
 	},
 	"honque": {
 		"files": {
@@ -4395,16 +4395,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "4951bf19bde73826b13423540902ba75cabc6190163aa0d60e43cafa0bfa9ddb6a710af9e8b6d177fae1b529bf09ef859e408200e788ffe49834b431e591dcee",
+					"hash": "eb8ee14dfe7b5caf37b26f113963b8977073c33a1662469890c021218d5d0e296809cd0b29c9708ff03df87ffd15790fb02cb1c7bee39223bfdd2e300ca00b7e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/903OFjcp/spirit-vector-1.11.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/RaS1NbUp/spirit-vector-1.11.3%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.11.2+1.21.1.jar",
+				"filename": "spirit-vector-1.11.3+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "9dac644e857e19f9deb1d8f7671db806ce39eac6afaa3589eda1a8b989c2db68"
+		"key": "70cb98eeed98ffe490b403e23b88102d02f65baf2897e24119d7051856392876"
 	},
 	"splashfox": {
 		"files": {
