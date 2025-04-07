@@ -1695,11 +1695,11 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "405a6a1a94874ce67a00e3562ecfece5ac2e0a13c9c9a1863d06303479d9dac3f4de95cfc3b256412fb5acd5fd031071cf09326e97c31858179ef9b25a3dcbab",
+					"hash": "4ea2fb99a3031a46407adb043ddd4d735e2aeb16e9308072ddd51675b02e322e0533bda1112f279c076d544f22a7a5a63c11051ec877c9d8d92552207c59f514",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/lcbRuPWQ/enchiridion-fabric-0.1.0-bc25.15%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/RbhV7B6E/enchiridion-fabric-0.1.0-bc25.16%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.15+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.16+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1714,7 +1714,7 @@
 				"side": "both"
 			}
 		},
-		"key": "07eea1d4aec84e344b4d6c3a7fb41296213b25584b3532dc90cd43bdd83d7c3b"
+		"key": "c03ce8d208535b7add3b70b7bb1b09d1b73f437714536e04595f66e72b0e4185"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1770,26 +1770,16 @@
 		"files": {
 			"mods/extra-trinkets.pw.toml": {
 				"download": {
-					"hash": "3fd1a725b8cea64bf548d748a130650e012bb3ace26b3629ce47262a8bc9701ef5d0e5514e641cee23d1550467dac9651858fe8d3282bf5e6d10305f77ec0384",
+					"hash": "f375ef3d47d7a191b4ee0d555291ed271545cc4490396866cfc02ad35fa720bd23d10dd11f3d2503ea1c54c162dd297b8ab153fe45582617d26986f06d5fc37a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/JLpavzxe/versions/AGsyajJE/extra_trinkets-1.5.jar"
+					"url": "https://cdn.modrinth.com/data/JLpavzxe/versions/GTr6iLzE/extra_trinkets-1.6.jar"
 				},
-				"filename": "extra_trinkets-1.5.jar",
+				"filename": "extra_trinkets-1.6.jar",
 				"name": "Extra Trinkets",
-				"side": "both"
-			},
-			"mods/trinkets.pw.toml": {
-				"download": {
-					"hash": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-				},
-				"filename": "trinkets-3.10.0.jar",
-				"name": "Trinkets",
 				"side": "both"
 			}
 		},
-		"key": "1f206640836a2811ebdc7b36e46db53f7b8c75ca9cff95e367df7456ed1b3700"
+		"key": "689748a193ebebb7223f2d194bf0aa8aa80960aa1ad511a382b02e8bb7f13715"
 	},
 	"extravaganza": {
 		"files": {
@@ -3235,16 +3225,16 @@
 			},
 			"mods/paladins-furniture.pw.toml": {
 				"download": {
-					"hash": "60a9a7c2e8e2b755e3e2d615eee66d4c91593436096e591cdd314f95640d9c88f3a59c22b8f036ccb27dcd80b47937ec6e319a64659b9a471016090dc080b542",
+					"hash": "0a37927cd8a47e8718efd0d04bdb2a48de64ab72139841a327e6e5b750ed9a2f7878ae1599c589fe2cf217b82fd79646a77450e7e35bcd86cbb2bc3cc81f7e5a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/wdSNmQGh/paladin-furniture-mod-1.4.1-fabric-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/Y8wCxRSb/paladin-furniture-mod-1.4.2-fabric-mc1.21.1.jar"
 				},
-				"filename": "paladin-furniture-mod-1.4.1-fabric-mc1.21.1.jar",
+				"filename": "paladin-furniture-mod-1.4.2-fabric-mc1.21.1.jar",
 				"name": "Paladin's Furniture Mod",
 				"side": "both"
 			}
 		},
-		"key": "4416e18dfd5b5629949d1644aa2ad0bf67efe4f57e9738ce3154ea9af109b73a"
+		"key": "50523161bc8a5432563d2d876560e035275ca7f225cf8c48b348ade39702cb2e"
 	},
 	"particular": {
 		"files": {
@@ -4023,13 +4013,23 @@
 	},
 	"scarves": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/scarves.pw.toml": {
 				"download": {
-					"hash": "01e07d99720d2126846ac23210956ea6ad5a7b10851aa473000eff62fa56f47d9c457971c4d2769fc1a0edeb2f5b80ab432abde501d131f5a0187001290289c0",
+					"hash": "e512a76d99e6908d672e576381649bc4535008407653eff4fafe7537933ea15b230972272e652584b8f84b04dbf2c257198dafa33503a8ebdf4164a48f0b9098",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vhY4Cys8/versions/OdqtKB6n/scarves-1.4.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vhY4Cys8/versions/cKWxZ8wC/scarves-1.4.5%2B1.21.1.jar"
 				},
-				"filename": "scarves-1.4.4+1.21.1.jar",
+				"filename": "scarves-1.4.5+1.21.1.jar",
 				"name": "Scarves",
 				"side": "both"
 			},
@@ -4044,7 +4044,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c9f32068bc841f614e5a7d0bc61be92e294b1e8a562a8c31cd30ab88d413cd12"
+		"key": "9316ef25adaee15ae122bd43cc46f9dda7b50083c532661602f541a19305a36e"
 	},
 	"scriptor-magicae": {
 		"files": {
@@ -4605,15 +4605,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "ce24f9ed00a9a0290381e9bfdc6203c77bd89516d3a417ddc3df3e98d0add826",
+					"hash": "918b1a509075044b678c52fc4c01cd2fd79d4330177251f059b07b5897c470b8",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.18/superposition-fabric-1.21.1-0.2.18.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.19/superposition-fabric-1.21.1-0.2.19.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.18.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.19.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "ee2440c256ed8cd726b499b6d89aeda30a8654b81c3a8f040a6b651991981395"
+		"key": "41502029e180cafd09bc8f469423194afd4b1a1d62468cdb76b47c43e1197753"
 	},
 	"surveyor": {
 		"files": {
