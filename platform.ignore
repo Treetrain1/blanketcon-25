@@ -7,6 +7,9 @@ autowhitelist
 hoofprint
 surveyor
 
+# already have teabridge
+cantilever
+
 # Disorderly mixin https://github.com/Nico44YT/Liby/blob/fabric-1.21.1/src/main/java/nazario/liby/mixin/TagGroupLoaderMixin.java
 snapshotmc
 
@@ -27,10 +30,10 @@ colorful-lanterns
 
 # need meta fixed, then testing
 #coretechs
-pesky-seagulls
+#pesky-seagulls
 powerchord
 sunglasses
-tmyk
+#tmyk
 
 # ruining grass
 thoroughfabric
@@ -43,17 +46,15 @@ allium
 #berry-bounty
 #bouquet
 builderdash
-cantilever
+#cantilever
 #cerulean
 #combat-amenities
 #enchiridion
 extended-drawers
-illusionable
-jsonpatcher
+#illusionable
 #krender
-maddys_origins
-minegrapht
-minopp
+#maddys_origins
+#minopp
 #mirthdew-encore
 monthofswords
 necessity
@@ -61,19 +62,19 @@ necessity
 oceanic-weaponry
 #operation-starcleave
 #pirate-radio
-playercontainers
+#playercontainers
 #polaroidcamera
 #polyfactory
-scarves
-scriptor-magicae
-server-cosmetics
-shuttfup
-simple-resource-loader
+#scarves
+#scriptor-magicae
+#server-cosmetics
+#shuttfup
+#simple-resource-loader
 snapshotmc
-sooperdooperscooper
-stellaris
+#sooperdooperscooper
+#stellaris
 #superposition
 trickster
-vivatech
-wandering-wizardry
-worldinajar
+#vivatech
+#wandering-wizardry
+#worldinajar

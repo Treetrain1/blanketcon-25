@@ -2367,15 +2367,15 @@
 		"files": {
 			"mods/immersivemc.pw.toml": {
 				"download": {
-					"hash": "070b80f13a1c3048e74b74f30305693c77f8ef2e9af946a3e52e8f99ddba15dc",
+					"hash": "b30947c532749adfdb6ae48a67945614553117d13894523d02ea708290dd1d49",
 					"hash-format": "sha256",
-					"url": "https://github.com/hammy275/immersive-mc/releases/download/v1.5.7-modfest/immersivemc-1.5.7-modfest-1.21.1-fabric.jar"
+					"url": "https://github.com/hammy275/immersive-mc/releases/download/v1.5.8-modfest/immersivemc-1.5.8-modfest-1.21.1-fabric.jar"
 				},
-				"filename": "immersivemc-1.5.7-modfest-1.21.1-fabric.jar",
+				"filename": "immersivemc-1.5.8-modfest-1.21.1-fabric.jar",
 				"name": "immersivemc"
 			}
 		},
-		"key": "e9fa7b83e48e89317d4c77d28664cae308d86a1156e7bcca6f8702545d56a15b"
+		"key": "26a2c543408ea4da8b4e6e021343a6afdddf3b3830a29e0b6c6a916f21510cb9"
 	},
 	"impenduits": {
 		"files": {
@@ -3728,8 +3728,18 @@
 		"key": "2d52880d971b534a4a8c84b49c4c73d197a3598da2c5f3f6c4ab7ccbed279ed7"
 	},
 	"powerchord": {
-		"files": {},
-		"key": "94dc84fc403a93065476937f0daca12bfd5ee4cf1943eeb12c5b09e1f9aeae14"
+		"files": {
+			"mods/powerchord.pw.toml": {
+				"download": {
+					"hash": "9c665e89c72c6f2a1152f554d265de5287aa90b1f2fc83cf202c8d7ec625b5c2",
+					"hash-format": "sha256",
+					"url": "https://github.com/HestiMae/powerchord/releases/download/v0.3.4/powerchord-0.3.4+1.21.jar"
+				},
+				"filename": "powerchord-0.3.4+1.21.jar",
+				"name": "powerchord"
+			}
+		},
+		"key": "456b63af1aec3cbb8e9f63e6745106239a8fab961a7af5b623a36c9875d3c87a"
 	},
 	"ppetp": {
 		"files": {
@@ -4863,7 +4873,7 @@
 				"side": "both"
 			}
 		},
-		"key": "2eda997e6e21a481c9052cb5e56709c1d9f5d0fa63816997f30ede3080b68073"
+		"key": "bbb92f311d88b187c01aed73295806c30f693cf4321f0337055342bb298e94d9"
 	},
 	"toads-toolbox": {
 		"files": {
@@ -5068,16 +5078,16 @@
 			},
 			"mods/wandering-wizardry.pw.toml": {
 				"download": {
-					"hash": "4f4f50c7dacfe1820d2b72d6b50d114ccf8e8971de23ec67479f31cbc349f8aacb84e09d715e092e12ea0191fcc3f885d5211b653453376829a0c7f06cf240e1",
+					"hash": "0dacaed8363594e7f8a25cb6961d9863e6a04a00f16d8dfd7f7fd51efc06e8a3d904d3a794927017890c62aa520c03b75bcea077f407fd1557c231d1741ab48a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/yFv5eBUV/wwizardry-1.1.15%2Bmc.1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/6eWropFc/versions/kEmwCfUU/wwizardry-1.1.16%2Bmc.1.21.1-fabric.jar"
 				},
-				"filename": "wwizardry-1.1.15+mc.1.21.1-fabric.jar",
+				"filename": "wwizardry-1.1.16+mc.1.21.1-fabric.jar",
 				"name": "Wandering Wizardry",
 				"side": "both"
 			}
 		},
-		"key": "6900495a65830cfa560d75cad2911e1e2a71df5766bd997f2e2b44b16035d66d"
+		"key": "7ee476c5bc189507cac42d09d1bcba5e1bbcec6f83abe2303fee0b00cc22822b"
 	},
 	"wearthat": {
 		"files": {
