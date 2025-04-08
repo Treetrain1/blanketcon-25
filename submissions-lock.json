@@ -568,15 +568,26 @@
 		"files": {
 			"mods/berry-bounty.pw.toml": {
 				"download": {
-					"hash": "872577882eb18dfef0be3ca74eb2869bdc4266575494d3785a123c8eab7104a7",
-					"hash-format": "sha256",
-					"url": "https://github.com/jvuong4/Berry-Delight/releases/download/Minecraft/berry_bounty-1.0.1.jar"
+					"hash": "5c17618dea79d0fdefbd7556833782c30bee36a36c59d09dd886d78b3790fffefd1cd7a7c86cf32d8519d1236083ff0b534cce22fc41f6a2c26d95447c2900a1",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/1xV8GfHp/versions/7hNifspC/berry_bounty-1.0.0.jar"
 				},
-				"filename": "berry_bounty-1.0.1.jar",
-				"name": "berry-bounty"
+				"filename": "berry_bounty-1.0.0.jar",
+				"name": "Berry Bounty",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+				},
+				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"name": "Fabric API",
+				"side": "both"
 			}
 		},
-		"key": "5e3cb805394cf5640262a484ae7b768c02256851ed1b5394d0d5aa381c14f0ba"
+		"key": "2be92b42ea97a04cfe6b82e98c10c24612a5aad02b58e699b1fee1b09802a3c4"
 	},
 	"better-leaves": {
 		"files": {
@@ -5207,16 +5218,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "1427be6ecd1d0150071cc32c64fefc19d46cc309ea5606480c4861c0a11349a36dc6c5468699ebe9ed78af7d5b25eef4cd2ba4c5344092b2be38ccb60f2ea04e",
+					"hash": "501bd1b1622b81b8eaa1226b50739b3b8b5006099e2e79cd705f1366e4af6cb8d20527d1a8364d52f4634850bc5df2ecb3f04e5b816e0505239cf778acebaac9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/KJETHDMc/worldinajar-1.0.0-beta.8%2B1.21.1.blanketcon.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/4brxRdYS/worldinajar-1.0.0-beta.7%2B1.21.1.blanketcon.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.8+1.21.1.blanketcon.jar",
+				"filename": "worldinajar-1.0.0-beta.7+1.21.1.blanketcon.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "42bf3f553b516ac0f9e4fc8fb196159bc41ad210f82abad713137d4233bcd2b6"
+		"key": "9c005435a669f5841677411b078fe34528bc2b3abe06c512f3e6517cc49d48d2"
 	},
 	"yeet": {
 		"files": {
