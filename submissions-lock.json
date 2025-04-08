@@ -568,26 +568,15 @@
 		"files": {
 			"mods/berry-bounty.pw.toml": {
 				"download": {
-					"hash": "5c17618dea79d0fdefbd7556833782c30bee36a36c59d09dd886d78b3790fffefd1cd7a7c86cf32d8519d1236083ff0b534cce22fc41f6a2c26d95447c2900a1",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1xV8GfHp/versions/7hNifspC/berry_bounty-1.0.0.jar"
+					"hash": "872577882eb18dfef0be3ca74eb2869bdc4266575494d3785a123c8eab7104a7",
+					"hash-format": "sha256",
+					"url": "https://github.com/jvuong4/Berry-Delight/releases/download/Minecraft/berry_bounty-1.0.1.jar"
 				},
-				"filename": "berry_bounty-1.0.0.jar",
-				"name": "Berry Bounty",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
+				"filename": "berry_bounty-1.0.1.jar",
+				"name": "berry-bounty"
 			}
 		},
-		"key": "2be92b42ea97a04cfe6b82e98c10c24612a5aad02b58e699b1fee1b09802a3c4"
+		"key": "5e3cb805394cf5640262a484ae7b768c02256851ed1b5394d0d5aa381c14f0ba"
 	},
 	"better-leaves": {
 		"files": {
@@ -3200,26 +3189,26 @@
 		"files": {
 			"mods/moonlight.pw.toml": {
 				"download": {
-					"hash": "a362d82a11a82cecae30485e372de1ac5306dd2cd0cf94bf1819ce330085ad722c71ff9bec61a5757e8c9aae2385448455eefde25a69a65071b73328000f0c3e",
+					"hash": "fc395718165993881edc272795dc266782dab5a129c35a874aa9f6ee971fdc4919d296bfc372b7ab930f7cc7863b330ede9c61a1e4cd08339297308a4e35dcb6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/WGUxPaDX/moonlight-1.21-2.18.4-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/njmJH9rM/moonlight-1.21-2.18.5-fabric.jar"
 				},
-				"filename": "moonlight-1.21-2.18.4-fabric.jar",
+				"filename": "moonlight-1.21-2.18.5-fabric.jar",
 				"name": "Moonlight Lib",
 				"side": "both"
 			},
 			"mods/oxide.pw.toml": {
 				"download": {
-					"hash": "3e8d1af01fe8e1a185695ec639ba1752c5e6ad76ef7313408ed87666f286795b3b51da9b3e73bcff9628c7a23e41461da4d23b73c889cbb272097b3db0e6e94d",
+					"hash": "cdd6dbea1841705705f9040b8d16c7628b3d6193c6f0bc1a6ab4bf299a432b714d61b9a9deafc9d1f8361084f4c5ec4a5c3b9a0d43aa093a35dec08dbbfe0807",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/Er4sRvcS/oxide-1.21.1-0.1.5-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/mz1R5Wsg/versions/dqTUqct3/oxide-1.21.1-0.1.6-fabric.jar"
 				},
-				"filename": "oxide-1.21.1-0.1.5-fabric.jar",
+				"filename": "oxide-1.21.1-0.1.6-fabric.jar",
 				"name": "Oxide",
 				"side": "both"
 			}
 		},
-		"key": "7c62fa13d1f2b86d5491044c92fe31bba77a43807d7db48d8cf4f47342588f2d"
+		"key": "354368f26bc43eaa98d89f8943d3719838cde3f0171cfe118e63af4d6e57d514"
 	},
 	"paladins-furniture": {
 		"files": {
@@ -3895,16 +3884,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "5e54cd1a311249b876bba7770de83536f6a981dfca31e71913943f0f64e241ae28d106cea7ace22d8adc985706a56c8b9d9d44cee132e18a0847c8a5c6532ab3",
+					"hash": "1b7406e56950f58e37ac742932261a3624af85c4b9b084b7c5db9d774afdbf38a0217b1f7eeaba8913d054c42601e8108cbb4f7c9ef70e153d0daf4e93268743",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/OC7ts1UU/pulchra-occultorum-0.0.15-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/ycMB7aPW/pulchra-occultorum-0.0.16-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.15-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.16-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "f887bde83008eba331fac58e0d4ebd28652955c671381c06f5739ec97084ea89"
+		"key": "9f09b3cb9beb8cecf78ada4e02a9936e9fe0dd8124cab25c7318efad6b1e1211"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -5218,16 +5207,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "501bd1b1622b81b8eaa1226b50739b3b8b5006099e2e79cd705f1366e4af6cb8d20527d1a8364d52f4634850bc5df2ecb3f04e5b816e0505239cf778acebaac9",
+					"hash": "1427be6ecd1d0150071cc32c64fefc19d46cc309ea5606480c4861c0a11349a36dc6c5468699ebe9ed78af7d5b25eef4cd2ba4c5344092b2be38ccb60f2ea04e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/4brxRdYS/worldinajar-1.0.0-beta.7%2B1.21.1.blanketcon.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/KJETHDMc/worldinajar-1.0.0-beta.8%2B1.21.1.blanketcon.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.7+1.21.1.blanketcon.jar",
+				"filename": "worldinajar-1.0.0-beta.8+1.21.1.blanketcon.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "9c005435a669f5841677411b078fe34528bc2b3abe06c512f3e6517cc49d48d2"
+		"key": "42bf3f553b516ac0f9e4fc8fb196159bc41ad210f82abad713137d4233bcd2b6"
 	},
 	"yeet": {
 		"files": {
@@ -5268,15 +5257,15 @@
 			},
 			"mods/zipline.pw.toml": {
 				"download": {
-					"hash": "6f3c05ee51b4a034669338dde130a53e4e758323b5c34f620826520123ddc4af8b7daa319e6cdb0f5ea2e3cc68da6ae80678a9f3e4899a01056d8f0a84841e06",
+					"hash": "f822a91484229301189930cc943b03fdcba9a0e6f6e518e6c8fe5c0afbd92d29c954e220277182bc9cb48b13673db98400e8a72a71d9d173c09a94ec547a1517",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/byyd20XN/zipline-1.2.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/crqH8IT5/versions/aY7Lxe1j/zipline-1.2.1%2B1.21.1.jar"
 				},
-				"filename": "zipline-1.2.0+1.21.1.jar",
+				"filename": "zipline-1.2.1+1.21.1.jar",
 				"name": "Zipline",
 				"side": "both"
 			}
 		},
-		"key": "f3660608ee991cf9ed3e141b4b081c6ee8ca183fde6a4771ca47dd563d3ca772"
+		"key": "b186293b3771d02c92bc8b20b928841bd605fa50658e45ee693b4f5c80ae0243"
 	}
 }
