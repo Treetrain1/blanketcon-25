@@ -568,26 +568,15 @@
 		"files": {
 			"mods/berry-bounty.pw.toml": {
 				"download": {
-					"hash": "5c17618dea79d0fdefbd7556833782c30bee36a36c59d09dd886d78b3790fffefd1cd7a7c86cf32d8519d1236083ff0b534cce22fc41f6a2c26d95447c2900a1",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1xV8GfHp/versions/7hNifspC/berry_bounty-1.0.0.jar"
+					"hash": "872577882eb18dfef0be3ca74eb2869bdc4266575494d3785a123c8eab7104a7",
+					"hash-format": "sha256",
+					"url": "https://github.com/jvuong4/Berry-Delight/releases/download/Minecraft/berry_bounty-1.0.1.jar"
 				},
-				"filename": "berry_bounty-1.0.0.jar",
-				"name": "Berry Bounty",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
+				"filename": "berry_bounty-1.0.1.jar",
+				"name": "berry-bounty"
 			}
 		},
-		"key": "2be92b42ea97a04cfe6b82e98c10c24612a5aad02b58e699b1fee1b09802a3c4"
+		"key": "5e3cb805394cf5640262a484ae7b768c02256851ed1b5394d0d5aa381c14f0ba"
 	},
 	"better-leaves": {
 		"files": {
