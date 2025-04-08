@@ -3884,16 +3884,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "5e54cd1a311249b876bba7770de83536f6a981dfca31e71913943f0f64e241ae28d106cea7ace22d8adc985706a56c8b9d9d44cee132e18a0847c8a5c6532ab3",
+					"hash": "1b7406e56950f58e37ac742932261a3624af85c4b9b084b7c5db9d774afdbf38a0217b1f7eeaba8913d054c42601e8108cbb4f7c9ef70e153d0daf4e93268743",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/OC7ts1UU/pulchra-occultorum-0.0.15-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/ycMB7aPW/pulchra-occultorum-0.0.16-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.15-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.16-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "f887bde83008eba331fac58e0d4ebd28652955c671381c06f5739ec97084ea89"
+		"key": "9f09b3cb9beb8cecf78ada4e02a9936e9fe0dd8124cab25c7318efad6b1e1211"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -5207,16 +5207,16 @@
 			},
 			"mods/worldinajar.pw.toml": {
 				"download": {
-					"hash": "501bd1b1622b81b8eaa1226b50739b3b8b5006099e2e79cd705f1366e4af6cb8d20527d1a8364d52f4634850bc5df2ecb3f04e5b816e0505239cf778acebaac9",
+					"hash": "1427be6ecd1d0150071cc32c64fefc19d46cc309ea5606480c4861c0a11349a36dc6c5468699ebe9ed78af7d5b25eef4cd2ba4c5344092b2be38ccb60f2ea04e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/4brxRdYS/worldinajar-1.0.0-beta.7%2B1.21.1.blanketcon.jar"
+					"url": "https://cdn.modrinth.com/data/uvdL3H4g/versions/KJETHDMc/worldinajar-1.0.0-beta.8%2B1.21.1.blanketcon.jar"
 				},
-				"filename": "worldinajar-1.0.0-beta.7+1.21.1.blanketcon.jar",
+				"filename": "worldinajar-1.0.0-beta.8+1.21.1.blanketcon.jar",
 				"name": "World In a Jar",
 				"side": "both"
 			}
 		},
-		"key": "9c005435a669f5841677411b078fe34528bc2b3abe06c512f3e6517cc49d48d2"
+		"key": "42bf3f553b516ac0f9e4fc8fb196159bc41ad210f82abad713137d4233bcd2b6"
 	},
 	"yeet": {
 		"files": {
