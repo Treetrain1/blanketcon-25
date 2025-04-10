@@ -18,3 +18,6 @@ jsonpatcher
 
 # Currently breaks chunkloading
 colorful-lanterns
+
+# crashes on startup
+taking-a-break
