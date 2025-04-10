@@ -782,11 +782,11 @@
 		"files": {
 			"mods/bovines-and-buttercups.pw.toml": {
 				"download": {
-					"hash": "ebb34e38d63f1c704d43e1370b869cd2038eebf94e8c742abcd8184c45dcd764750c2754b62fe2cedf0ae5e85396da8013dbdd21feca0d72e27470e5e1849ffa",
+					"hash": "60acba677c77ca14005761573b7fd405d4404478a2efc69fd6ea0624ec7df51813b4975594f83d11abaa9af8c0d2d765df65b503316f7ae458398cf07e65fcd4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/D9Utpxjc/bovinesandbuttercups-2.2.9%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/BDg6nMn3/versions/RW2v1cbb/bovinesandbuttercups-2.2.10%2B1.21.1-fabric.jar"
 				},
-				"filename": "bovinesandbuttercups-2.2.9+1.21.1-fabric.jar",
+				"filename": "bovinesandbuttercups-2.2.10+1.21.1-fabric.jar",
 				"name": "Bovines and Buttercups (Mooblooms)",
 				"side": "both"
 			},
@@ -801,7 +801,7 @@
 				"side": "both"
 			}
 		},
-		"key": "2398e19bc2f65aec3a9cfe970787e2061a8d943949180fe15751fe55e666fe75"
+		"key": "1c397bcaea77028e2271e80c459c994a472be7fdd7e375e2c38a0146a70ad32c"
 	},
 	"breakerplacer": {
 		"files": {
@@ -1684,11 +1684,11 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "4ea2fb99a3031a46407adb043ddd4d735e2aeb16e9308072ddd51675b02e322e0533bda1112f279c076d544f22a7a5a63c11051ec877c9d8d92552207c59f514",
+					"hash": "008b462cef5251c5d1317d3dc3cd05f17229060fe5313beb173431bd934bad886740d92cc157a070a27cfb5a06d434a3013161f8f7a48948c5e569d06dbdeada",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/RbhV7B6E/enchiridion-fabric-0.1.0-bc25.16%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/jdqs7iWY/enchiridion-fabric-0.1.0-bc25.17%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.16+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.17+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1703,7 +1703,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c03ce8d208535b7add3b70b7bb1b09d1b73f437714536e04595f66e72b0e4185"
+		"key": "ae22f27e8e84bc74b26785e6a04642dbdc676f2761ad54c9f9477de64c29f668"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1759,16 +1759,26 @@
 		"files": {
 			"mods/extra-trinkets.pw.toml": {
 				"download": {
-					"hash": "f375ef3d47d7a191b4ee0d555291ed271545cc4490396866cfc02ad35fa720bd23d10dd11f3d2503ea1c54c162dd297b8ab153fe45582617d26986f06d5fc37a",
+					"hash": "337ba74a15081b180d489092c177debc73d1cdf0b8fc9f891f7399a79379b9f6630a73ca70d0a0713e370dcbec54a58ac545eb9c76b1b63d85eb1f85c8e3fb36",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/JLpavzxe/versions/GTr6iLzE/extra_trinkets-1.6.jar"
+					"url": "https://cdn.modrinth.com/data/JLpavzxe/versions/C70azjvC/extra_trinkets-1.7.jar"
 				},
-				"filename": "extra_trinkets-1.6.jar",
+				"filename": "extra_trinkets-1.7.jar",
 				"name": "Extra Trinkets",
+				"side": "both"
+			},
+			"mods/trinkets.pw.toml": {
+				"download": {
+					"hash": "3ea846c945a0559696501ff65b373c8ee8fd9b394604e9910b4ed710c3e07cadc674a615a2c3b385951a42253a418201975df951b3100053ed39afadc70221c9",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
+				},
+				"filename": "trinkets-3.10.0.jar",
+				"name": "Trinkets",
 				"side": "both"
 			}
 		},
-		"key": "689748a193ebebb7223f2d194bf0aa8aa80960aa1ad511a382b02e8bb7f13715"
+		"key": "8c41c5d6ffa2b3a6c7d0ddfcf394dd3af2a1246b0d9e3f8e1f11c76b3ed4966c"
 	},
 	"extravaganza": {
 		"files": {
@@ -2500,16 +2510,16 @@
 			},
 			"mods/item-descriptions.pw.toml": {
 				"download": {
-					"hash": "5f51e459add25191d360b6200aa79a30705c84498f6f3b0b54e88021aa6120ea5567e52b730d793c011206a4c3bf2c354a061668810bf19cc1437b94412696d7",
+					"hash": "2a526d99c20b79128bdc1f2ac2d158cf78a06b2de9baaa0446690c556540f1963857142e8741ccb8f365b187449fefb49dd2d67486e522c2e291713916a1fbb0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/DnUZlicO/item-descriptions-fabric-2.0.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/UKTcKebO/item-descriptions-fabric-2.1.0%2B1.21.1.jar"
 				},
-				"filename": "item-descriptions-fabric-2.0.1+1.21.1.jar",
+				"filename": "item-descriptions-fabric-2.1.0+1.21.1.jar",
 				"name": "Item Descriptions",
 				"side": "client"
 			}
 		},
-		"key": "e21ab7590bcc2735d5a98cb5bb7573c376b1b7a22b8b0e5c8df1a214ab6a831b"
+		"key": "aae739b18eda50ff2dab8b89c1b4b1e31e1bfd3652891ff75b70afc66afca04c"
 	},
 	"its-as-shrimple-as-that": {
 		"files": {
@@ -2594,16 +2604,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "fb41cfa6b9bae6ea1e75c882b628aaed1fb1ad97d8bf44f2e7a1894558dd24306f69a9a8375c849bfbf5509b33208496344172ad3f72b6bb5462f7dd57bf077c",
+					"hash": "0e2473f91a8562931a077f269ad5bfde36a7ff50805c0eed4f9247fe417a79238be06da7e0a7ce9af01db4f2a6165a40baf0e1f8a85c1b22a7b2779feb15a290",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Id7Vx0aH/kawaii-dishes-1.13-beta10.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/4ivDtL90/kawaii-dishes-1.13-beta11.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta10.jar",
+				"filename": "kawaii-dishes-1.13-beta11.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "377c6d9531e05f2b1c77c44eb9e13a98e21292e88aff1b72a49e5f7320ea38d6"
+		"key": "9864b9c7656c84fc5bf3ead509d0fa8292730966f6f8218d021918ea69cdb49c"
 	},
 	"klaxon": {
 		"files": {
@@ -3869,31 +3879,31 @@
 			},
 			"mods/private-horses.pw.toml": {
 				"download": {
-					"hash": "c5aa3ace4fb16861ce333d142b7f9f023e45e96395bb41386cb5461c8b0a445bba2ed097b63216d1e2d01b77491e831acf363971220be95504c728c7170c4acf",
+					"hash": "aab63abd1e78ca858b6fec92a1b8ab5adff11963c055b240e221de184dc089702f73a22533fce27e44552ff489a5ff2d37522af239701da124ecdb4377e686a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XQxkI6m0/versions/xr2WBszv/private-horses-1.21-0.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/XQxkI6m0/versions/ZErLTpPU/private-horses-1.21-0.0.3.jar"
 				},
-				"filename": "private-horses-1.21-0.0.2.jar",
+				"filename": "private-horses-1.21-0.0.3.jar",
 				"name": "Private Horses",
 				"side": "server"
 			}
 		},
-		"key": "24ea251a8847e29f9197f299022b1b7ad4d1d102590450c761b0b2c0d6fc8aa9"
+		"key": "b2a65bcd688f68add3f4acad7a1b3b2abb72574cfcfd5dba39a4633e27c4bdd2"
 	},
 	"pulchra-occultorum": {
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "1b7406e56950f58e37ac742932261a3624af85c4b9b084b7c5db9d774afdbf38a0217b1f7eeaba8913d054c42601e8108cbb4f7c9ef70e153d0daf4e93268743",
+					"hash": "941a8d15925434ffb906adcd02e3b64fefeab2a37648343a074c7a550a42a6645c342432576830cbfe75831694b45b69135a200bf5fb31ce0dc1d9190d4143d0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/ycMB7aPW/pulchra-occultorum-0.0.16-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/bYnmfOMU/pulchra-occultorum-0.0.17-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.16-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.17-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "9f09b3cb9beb8cecf78ada4e02a9936e9fe0dd8124cab25c7318efad6b1e1211"
+		"key": "7182ab030cd05a1b10e48c0a68d282f87e8aff4bbac598e55226f015d5c9d91a"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4614,15 +4624,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "918b1a509075044b678c52fc4c01cd2fd79d4330177251f059b07b5897c470b8",
+					"hash": "ffe304864a1cdc272e603f743775dc2126c38c4d03e8d729d5bd8f6bd250550d",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.19/superposition-fabric-1.21.1-0.2.19.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.20/superposition-fabric-1.21.1-0.2.20.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.19.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.20.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "41502029e180cafd09bc8f469423194afd4b1a1d62468cdb76b47c43e1197753"
+		"key": "6225861fac721c4f402a979ee84d60fedf1879871a7540e1477a1b4fabd317f5"
 	},
 	"surveyor": {
 		"files": {
@@ -4678,16 +4688,16 @@
 		"files": {
 			"mods/taking-a-break.pw.toml": {
 				"download": {
-					"hash": "fa486233f98f0a8520d5cc628cc67bb4141313d040669f5b9748f4a22bca969bdc87f91c2175e7ba66cca1660e0e7cb51eefdc85c183c88504fbbe1ae28d571f",
+					"hash": "6e8c5147947ee60cf649a2e14e43ea0031db36278eb2c2f1fa3b6576d1b0cf6df556aecfbb41b5e9f64db5e320b341bbccbce76c32d07ac6a9b6d57f770df584",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/uG4AxtB5/taking-a-break-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/nSNm6gwk/taking-a-break-1.0.1-dev.jar"
 				},
-				"filename": "taking-a-break-1.0.0.jar",
+				"filename": "taking-a-break-1.0.1-dev.jar",
 				"name": "Taking a Break",
 				"side": "server"
 			}
 		},
-		"key": "163a8c671ac7d41f18859ab96b5b56e643e4a31446e5caad4d902ca24a48b38a"
+		"key": "3317349ddd56589cee7bd535b10f757cb00a4036029a3824b46be2a7984c7dd3"
 	},
 	"templates-2": {
 		"files": {
@@ -4776,28 +4786,18 @@
 	},
 	"thoroughfabric": {
 		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
 			"mods/thoroughfabric.pw.toml": {
 				"download": {
-					"hash": "6a7d05d35e6c6203d1b475b15e08aa417673252c6f47e545f4c90d46d6d68ac10744b1ed2402fe49160dcf288490ebd3dca6c1d647e83ce12a5a4dce8c421fbb",
+					"hash": "ee80dcbe3726b652ba9e4aa1dad54d454e7e16f095fdead37d4e2cf2ac1df12c7efd4b178c4a5acecfb3714f63134344686a78b5d1ee561a7789ac0896034d59",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/98yN1fkj/versions/FJlZLWFb/Thoroughfabric-1.2.4%2B1.21.1-1.21.4.jar"
+					"url": "https://cdn.modrinth.com/data/98yN1fkj/versions/OAQdkaIt/Thoroughfabric-1.2.4b%2B1.21.1.jar"
 				},
-				"filename": "Thoroughfabric-1.2.4+1.21.1-1.21.4.jar",
+				"filename": "Thoroughfabric-1.2.4b+1.21.1.jar",
 				"name": "Thoroughfabric",
 				"side": "server"
 			}
 		},
-		"key": "8c0ecaadd8a605e9e1781f14d80ec708a357aeb05e557a295e305513b6c8ae34"
+		"key": "6b31312b9dd69922325af8ea0ebf7fdf389db807b4bde7b741749661da98f6ef"
 	},
 	"thwackinator": {
 		"files": {

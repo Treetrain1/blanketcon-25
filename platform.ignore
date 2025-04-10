@@ -31,6 +31,9 @@ world-comment
 # Currently breaks chunkloading
 colorful-lanterns
 
+# crashes on startup
+taking-a-break
+
 # need meta fixed, then testing
 #coretechs
 #pesky-seagulls
