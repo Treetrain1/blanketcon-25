@@ -4688,16 +4688,16 @@
 		"files": {
 			"mods/taking-a-break.pw.toml": {
 				"download": {
-					"hash": "6e8c5147947ee60cf649a2e14e43ea0031db36278eb2c2f1fa3b6576d1b0cf6df556aecfbb41b5e9f64db5e320b341bbccbce76c32d07ac6a9b6d57f770df584",
+					"hash": "fa486233f98f0a8520d5cc628cc67bb4141313d040669f5b9748f4a22bca969bdc87f91c2175e7ba66cca1660e0e7cb51eefdc85c183c88504fbbe1ae28d571f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/nSNm6gwk/taking-a-break-1.0.1-dev.jar"
+					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/uG4AxtB5/taking-a-break-1.0.0.jar"
 				},
-				"filename": "taking-a-break-1.0.1-dev.jar",
+				"filename": "taking-a-break-1.0.0.jar",
 				"name": "Taking a Break",
 				"side": "server"
 			}
 		},
-		"key": "3317349ddd56589cee7bd535b10f757cb00a4036029a3824b46be2a7984c7dd3"
+		"key": "163a8c671ac7d41f18859ab96b5b56e643e4a31446e5caad4d902ca24a48b38a"
 	},
 	"templates-2": {
 		"files": {
