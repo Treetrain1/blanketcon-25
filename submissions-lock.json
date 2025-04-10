@@ -3894,16 +3894,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "1b7406e56950f58e37ac742932261a3624af85c4b9b084b7c5db9d774afdbf38a0217b1f7eeaba8913d054c42601e8108cbb4f7c9ef70e153d0daf4e93268743",
+					"hash": "941a8d15925434ffb906adcd02e3b64fefeab2a37648343a074c7a550a42a6645c342432576830cbfe75831694b45b69135a200bf5fb31ce0dc1d9190d4143d0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/ycMB7aPW/pulchra-occultorum-0.0.16-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/bYnmfOMU/pulchra-occultorum-0.0.17-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.16-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.17-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "9f09b3cb9beb8cecf78ada4e02a9936e9fe0dd8124cab25c7318efad6b1e1211"
+		"key": "7182ab030cd05a1b10e48c0a68d282f87e8aff4bbac598e55226f015d5c9d91a"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4688,16 +4688,16 @@
 		"files": {
 			"mods/taking-a-break.pw.toml": {
 				"download": {
-					"hash": "fa486233f98f0a8520d5cc628cc67bb4141313d040669f5b9748f4a22bca969bdc87f91c2175e7ba66cca1660e0e7cb51eefdc85c183c88504fbbe1ae28d571f",
+					"hash": "6e8c5147947ee60cf649a2e14e43ea0031db36278eb2c2f1fa3b6576d1b0cf6df556aecfbb41b5e9f64db5e320b341bbccbce76c32d07ac6a9b6d57f770df584",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/uG4AxtB5/taking-a-break-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/nSNm6gwk/taking-a-break-1.0.1-dev.jar"
 				},
-				"filename": "taking-a-break-1.0.0.jar",
+				"filename": "taking-a-break-1.0.1-dev.jar",
 				"name": "Taking a Break",
 				"side": "server"
 			}
 		},
-		"key": "163a8c671ac7d41f18859ab96b5b56e643e4a31446e5caad4d902ca24a48b38a"
+		"key": "3317349ddd56589cee7bd535b10f757cb00a4036029a3824b46be2a7984c7dd3"
 	},
 	"templates-2": {
 		"files": {
