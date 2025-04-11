@@ -3799,16 +3799,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "745c6fc8cc524377590d397d4e2399dca0cff23819857df6107493b32c0a39b080029b53a07315da2ace4b8a17b714e6128883c703fa75311088f069259efa23",
+					"hash": "67438b75d26bda68407b510d2318e4a285ba4fdf2269ab2816623b66eef89ab438ec7b0a80f671d623231a646e0b49019463bd3f13fc480df04ead78aa89a835",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/BERGwud2/pride-moths-1.8.7%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/IWMGDZAq/pride-moths-1.8.8%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.7+1.21.jar",
+				"filename": "pride-moths-1.8.8+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "9ffe4fcae1429251459825cc1d910a8681577f42c683173b8be8e88af6cd98c1"
+		"key": "6287d8b838838ac1f1e2b34049f42b9c93cba42f22995a4e5d0037a4193a705e"
 	},
 	"pridegui": {
 		"files": {
@@ -4624,15 +4624,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "ffe304864a1cdc272e603f743775dc2126c38c4d03e8d729d5bd8f6bd250550d",
+					"hash": "f7478f591eef2563c5571d83c75f88ba42dfb165d4c0622698d6377fce199c17",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.20/superposition-fabric-1.21.1-0.2.20.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.21/superposition-fabric-1.21.1-0.2.21.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.20.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.21.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "6225861fac721c4f402a979ee84d60fedf1879871a7540e1477a1b4fabd317f5"
+		"key": "36c582616533b29b2b6f5f00389e02f6b4c73c3bd799ec514df28d1cad156eeb"
 	},
 	"surveyor": {
 		"files": {
@@ -4688,16 +4688,16 @@
 		"files": {
 			"mods/taking-a-break.pw.toml": {
 				"download": {
-					"hash": "6e8c5147947ee60cf649a2e14e43ea0031db36278eb2c2f1fa3b6576d1b0cf6df556aecfbb41b5e9f64db5e320b341bbccbce76c32d07ac6a9b6d57f770df584",
+					"hash": "43407ba136582645bc4fd055f130e408f9dac3d365ed69b4931b2ebc279e3a41fcef424f69487e831c09e77e524dd7c357bf3fb3f356a89949751c6c7d7a88b7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/nSNm6gwk/taking-a-break-1.0.1-dev.jar"
+					"url": "https://cdn.modrinth.com/data/xdTrASAc/versions/jbZ8ELz5/taking-a-break-1.0.2.jar"
 				},
-				"filename": "taking-a-break-1.0.1-dev.jar",
+				"filename": "taking-a-break-1.0.2.jar",
 				"name": "Taking a Break",
 				"side": "server"
 			}
 		},
-		"key": "3317349ddd56589cee7bd535b10f757cb00a4036029a3824b46be2a7984c7dd3"
+		"key": "4e84024e27955a01ea8ca08f82792bf48f09a6481ef915b7fed64a85d8daaa1b"
 	},
 	"templates-2": {
 		"files": {
