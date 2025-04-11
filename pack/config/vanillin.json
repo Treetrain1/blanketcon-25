@@ -6,6 +6,9 @@
         "minecraft:furnace_minecart": "disable",
         "minecraft:command_block_minecart": "disable",
         "minecraft:minecart": "disable",
-        "minecraft:spawner_minecart": "disable"
+        "minecraft:spawner_minecart": "disable",
+        "minecraft:block_display": "force_enable",
+        "minecraft:item": "force_enable",
+        "minecraft:item_display": "force_enable"
     }
 }
