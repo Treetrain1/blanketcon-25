@@ -31,7 +31,7 @@ allow-footguns: no;
 
 ## Avoid zstd
 # Disables the usage of zstd to save world data and compress network connections.
-avoid-zstd: true;
+avoid-zstd: false;
 
 ## Gameplay Changes
 # Allow altering features in a way that impacts gameplay.
