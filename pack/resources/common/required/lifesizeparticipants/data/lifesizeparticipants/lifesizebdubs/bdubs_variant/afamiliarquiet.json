@@ -1,5 +1,8 @@
 {
   "name": "afamiliarquiet",
   "texture": "lifesizeparticipants:textures/bdubs/afamiliarquiet.png",
-  "item": "familiar_magic:odd_trinket"
+  "item": {
+	  "count": 1,
+	  "id": "familiar_magic:odd_trinket"
+  }
 }
