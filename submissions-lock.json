@@ -3,11 +3,11 @@
 		"files": {
 			"mods/accessories.pw.toml": {
 				"download": {
-					"hash": "8e20b2d0348328a1f0266d2234232da1657c2a9f2404661e8f5e6fe2daf34300be310218bd40e657f754c9f9b7d1c7efe8284be75c6bcf83708828bb11e3ec6e",
+					"hash": "141f250bdebe8ddb3b5f6d6e10fdd22db24d177758036ffb2a150982c62a066ccc35cbc046305d7dc7239f6f9f285a9a9569598c867514d9e4b5f5de2b6888a0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/9HPe0p25/accessories-fabric-1.1.0-beta.35%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/v4WqKEp1/accessories-fabric-1.1.0-beta.36%2B1.21.1.jar"
 				},
-				"filename": "accessories-fabric-1.1.0-beta.35+1.21.1.jar",
+				"filename": "accessories-fabric-1.1.0-beta.36+1.21.1.jar",
 				"name": "Accessories",
 				"side": "both"
 			},
@@ -32,7 +32,7 @@
 				"side": "both"
 			}
 		},
-		"key": "a2ae2b87c4709286b3c7e47a6016cf477bb423594c71a12fc4da0eb5f86bc626"
+		"key": "b709af30ba9e8b046e87d92ea6dddaf6d3e508e6494bef6b9017aa17439aacde"
 	},
 	"advanced-networking": {
 		"files": {
@@ -1684,11 +1684,11 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "008b462cef5251c5d1317d3dc3cd05f17229060fe5313beb173431bd934bad886740d92cc157a070a27cfb5a06d434a3013161f8f7a48948c5e569d06dbdeada",
+					"hash": "fe3e0d63e3eab85f6ae48767eedcb2f37bb867bd9cc7a21bf67ea20d40b7fe97750ad5b004b7330e9d879de4098cf6b8ecbd070f27b9760bbcd2e8af547282d3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/jdqs7iWY/enchiridion-fabric-0.1.0-bc25.17%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/J4hvqv0b/enchiridion-fabric-0.1.0-bc25.18%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.17+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.18+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
@@ -1703,7 +1703,7 @@
 				"side": "both"
 			}
 		},
-		"key": "ae22f27e8e84bc74b26785e6a04642dbdc676f2761ad54c9f9477de64c29f668"
+		"key": "d0e40c18afe0460ce89a998ffcf6da33c629533316e63841727ae202d015665d"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -1877,16 +1877,16 @@
 			},
 			"mods/familiar-magic.pw.toml": {
 				"download": {
-					"hash": "a08b370e66e808ad6d26e108d7df2a30bae8941258579cd1b6be11fef794af151b9ede05eea9cfb4c3aa7ef6d6eb6a5562a39b9eed23267dd1c48ce766c45c69",
+					"hash": "592dd4394c09b4556a0ecb516a62e3efd517164b355f2ab4fc7e4df0d10006cb10b400f41677a6efa38de22c4634bb631e73263e7bbc97eb7bd5709c2432f199",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/akHhTlav/familiar_magic-1.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/V1XGEF7T/familiar_magic-1.1.3.jar"
 				},
-				"filename": "familiar_magic-1.1.2.jar",
+				"filename": "familiar_magic-1.1.3.jar",
 				"name": "familiar magic",
 				"side": "both"
 			}
 		},
-		"key": "573058aa9c15ab094874964a3050a274e23791c66be76008cd8233eaab2f9f4e"
+		"key": "e316ce4b3cc0edd69cb0801ce0131bf3c5f041792db2843eb447ae779f940b07"
 	},
 	"farmers-delight-refabricated": {
 		"files": {
@@ -3054,14 +3054,14 @@
 				"download": {
 					"hash": "6c95bd31d04ca58dbad20c40b7f9be184cac1e989df5654686680087eede21b74537a59fc8c246125ee8ae3d69eedd09b7640480a8d67f8d67e15e43805319bd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/F3Ud6ajm/necessities-1.1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/WYUzlLVx/necessities-1.1-1.21.1.jar"
 				},
 				"filename": "necessities-1.1-1.21.1.jar",
 				"name": "Necessities",
 				"side": "both"
 			}
 		},
-		"key": "748ca776a66dac7aaa654e6a9c6ad521aeec92d226e1354651ec8890d4a9156e"
+		"key": "fd6d3b5a8dd004341689102590f03f910df7cd322559a1843a22708d76a7f009"
 	},
 	"neomtr": {
 		"files": {
@@ -3894,16 +3894,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "941a8d15925434ffb906adcd02e3b64fefeab2a37648343a074c7a550a42a6645c342432576830cbfe75831694b45b69135a200bf5fb31ce0dc1d9190d4143d0",
+					"hash": "79d03640f9f3c08d0621eea6b16926716f64a2a6ea7981c42ce6a6094e99bd69d570507a55193a855aee3353cc8ef6c13b02298b27b9e51fa98900ca761a39ef",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/bYnmfOMU/pulchra-occultorum-0.0.17-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/yjwBtizW/pulchra-occultorum-0.0.18-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.17-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.18-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "7182ab030cd05a1b10e48c0a68d282f87e8aff4bbac598e55226f015d5c9d91a"
+		"key": "b6db65c80d46ae8018a99695fa16d13d5cacb056bee8f5b76a75c751151d4238"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4402,6 +4402,16 @@
 	},
 	"spirit-vector": {
 		"files": {
+			"mods/cloth-config.pw.toml": {
+				"download": {
+					"hash": "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
+				},
+				"filename": "cloth-config-15.0.140-fabric.jar",
+				"name": "Cloth Config API",
+				"side": "both"
+			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
@@ -4414,16 +4424,16 @@
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "eb8ee14dfe7b5caf37b26f113963b8977073c33a1662469890c021218d5d0e296809cd0b29c9708ff03df87ffd15790fb02cb1c7bee39223bfdd2e300ca00b7e",
+					"hash": "0e2c4a0e092b22ff23d8528031604b78985561a756364de35c07c973ed0644be95c2dfbebe8848f471076fc95a0b0051755522ba469dc5cb93b8a48f788fb5de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/RaS1NbUp/spirit-vector-1.11.3%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/dt1e5Gb3/spirit-vector-1.11.4%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.11.3+1.21.1.jar",
+				"filename": "spirit-vector-1.11.4+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "70cb98eeed98ffe490b403e23b88102d02f65baf2897e24119d7051856392876"
+		"key": "2e166c29c9c92e989a78209197b051adf4671bd572828e3ff387eae5b586aab6"
 	},
 	"splashfox": {
 		"files": {
