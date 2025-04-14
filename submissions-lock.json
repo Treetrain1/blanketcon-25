@@ -3894,16 +3894,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "79d03640f9f3c08d0621eea6b16926716f64a2a6ea7981c42ce6a6094e99bd69d570507a55193a855aee3353cc8ef6c13b02298b27b9e51fa98900ca761a39ef",
+					"hash": "9e0f52bcc3251a548bf9cd37a0492df9a9da9e398737adcd44f4fdff2497c8b3b2de5ee27c30b0e9985fab6902cb1dcd18d9d3c8e317c6652adaea354036902c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/yjwBtizW/pulchra-occultorum-0.0.18-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/SJvJ0Pbd/pulchra-occultorum-0.0.19-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.18-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.19-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "b6db65c80d46ae8018a99695fa16d13d5cacb056bee8f5b76a75c751151d4238"
+		"key": "9e3062550f1ec46a141ba96d4c0b366d1eefe39f8db873d383f4411ef0691c16"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4534,16 +4534,16 @@
 			},
 			"mods/stellaris.pw.toml": {
 				"download": {
-					"hash": "0e655f474ced7d65a0d1d27ed9928396a8f9ec3162e4770e73dc487a4ec26554e2409177416edf6579e2e5b9951a189708ad18d259e3a94c43c564d80420ccdb",
+					"hash": "0d93e0436d45728fa06d8d874542bd276c21378a8bbdce040ff9806bc904d6502b42c9a33373cbbed9f32a05064230b0938ed5b2254393caeb664797857c1b39",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/dJQAyPdN/stellaris-1.21-fabric-1.3.7.jar"
+					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/reGjFUkO/stellaris-1.21-fabric-1.3.8.jar"
 				},
-				"filename": "stellaris-1.21-fabric-1.3.7.jar",
+				"filename": "stellaris-1.21-fabric-1.3.8.jar",
 				"name": "Stellaris",
 				"side": "both"
 			}
 		},
-		"key": "c379ea881db259358aa49b382371f8f0f84c1e2c1994c882859974f14ad061dd"
+		"key": "3c6afb94c655d03e65fc23b703f5cd3b2202d0b8cd45bcce32672e20975f6218"
 	},
 	"subete-kowasu-no-nara-kuro-ni-nare-old": {
 		"files": {
@@ -4938,15 +4938,15 @@
 		"files": {
 			"mods/trickster.pw.toml": {
 				"download": {
-					"hash": "720679b8ad93f71a49d791ef4008935bf6d4cd76b38bbecbce788b9cd65412c2",
+					"hash": "d5e747ecf8f6fe0eacdb17c8e1a4e656449d0c4870712044dfd4f4b4846853ad",
 					"hash-format": "sha256",
-					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.4/trickster-2.0.0-beta.17-blanketcon.4.jar"
+					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.5/trickster-2.0.0-beta.17-blanketcon.5.jar"
 				},
-				"filename": "trickster-2.0.0-beta.17-blanketcon.4.jar",
+				"filename": "trickster-2.0.0-beta.17-blanketcon.5.jar",
 				"name": "trickster"
 			}
 		},
-		"key": "0c88ad5b297ea3b8deedaf31b586a95877655b15650f229f521b52eb9198c493"
+		"key": "d55e22837821ca8a85312b64383227b026d389bcdbfaad0668e501d08e0bb215"
 	},
 	"ubes-delight": {
 		"files": {

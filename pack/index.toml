@@ -236,10 +236,6 @@ file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/drogstyle.pw.toml"
 metafile = true
 
@@ -495,6 +491,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
 metafile = true
 
 [[files]]
