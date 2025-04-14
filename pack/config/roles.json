@@ -7,7 +7,9 @@
 				"modfest.netadmin": "allow",
                 "modfest.organizer": "allow",
                 "worldedit.*": "allow",
-                "scattered_shards.*": "allow"
+                "scattered_shards.*": "allow",
+				"styledchat.set": "allow",
+				"styledchat.clear": "allow"
             },
 			"command_feedback": true,
             "entity_selectors": true,
