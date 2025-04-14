@@ -488,16 +488,16 @@
 		"files": {
 			"mods/barricade.pw.toml": {
 				"download": {
-					"hash": "4569c223483df6248b201c9d0392e7259844a6d04fe36ce8a552b50f96797da3e2fc2c421c53278ba18a6e12d4e7c237d88665136e9348c8f4dd9a91c8428c7e",
+					"hash": "f231a14508d7449e6414d6aaa06a8956fe7dddc72560b26802fbbf60f26d0c2a3ee70286d59fd30a94af1c578c5e7d6d9feef1a2b6a97fec7b8bc026ae0f6731",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/kRSR7ZEj/versions/EfnvcvdK/barricade-fabric-2.0.5%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/kRSR7ZEj/versions/721LCnwK/barricade-fabric-2.0.6%2B1.21.1.jar"
 				},
-				"filename": "barricade-fabric-2.0.5+1.21.1.jar",
+				"filename": "barricade-fabric-2.0.6+1.21.1.jar",
 				"name": "Barricade",
 				"side": "client"
 			}
 		},
-		"key": "8bee1cbcd545dfffaf614c77709f068471ea9f6303b8735c7be70c4bc2610dcd"
+		"key": "17737a22d08ace22c8ddee66704a25bb0e1109c54983b67979ced854b3eceed6"
 	},
 	"basic-storage": {
 		"files": {
@@ -1181,16 +1181,16 @@
 		"files": {
 			"mods/cerulean.pw.toml": {
 				"download": {
-					"hash": "f925c934c11e4428feda875093fb069b2c77c66ac8a0c9772ed59c3cb153a7fb3a17c1a2ad1ffd8fbf1e612d2919192aabc8a8ecdb53244af38254a8c6e1aa06",
+					"hash": "e7c0da36da14b901f8b05eeb58273f81c23c591f0bce4eac60b4bf57d9ef93eb97ad132b4a30220cf88958f475014959d8a191b86a9bb1356e10ca3140ce5192",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/a6qSiVxz/versions/y8P6Mwq7/cerulean-1.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/a6qSiVxz/versions/rmdzcKzQ/cerulean-1.1.3.jar"
 				},
-				"filename": "cerulean-1.1.1.jar",
+				"filename": "cerulean-1.1.3.jar",
 				"name": "Cerulean",
 				"side": "both"
 			}
 		},
-		"key": "7bcdc21547e0242e698c59321c06c87124dca0ecbca5fb14df608ef1eec840db"
+		"key": "d2cf6f5e2244d92b552fdd179965a286b8fbc5dce54c3c7165cd43b8b0e8049b"
 	},
 	"charta": {
 		"files": {
@@ -1956,16 +1956,16 @@
 			},
 			"mods/flw-vanillin.pw.toml": {
 				"download": {
-					"hash": "b2d4d31480877895acc5c7eed423d792b1233143134e376be1d87f5c3f16865ccf8ed61e37df2e4684fe42d94d1abb543419c3801f92958d128f5ef19a484806",
+					"hash": "fdd36b6ec9d21ec834278fe5cc617e544697a05e53a32056a589dbe0ac7d9dfe63df06f13055265a4affde74c598e5e7a12560c2fda56b68fe74dcf5f9d881d8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/ZHyY9rx9/vanillin-fabric-1.21.1-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/nN4e4X2X/vanillin-fabric-1.21.1-1.1.1.jar"
 				},
-				"filename": "vanillin-fabric-1.21.1-1.1.0.jar",
+				"filename": "vanillin-fabric-1.21.1-1.1.1.jar",
 				"name": "Vanillin",
 				"side": "client"
 			}
 		},
-		"key": "3b60da68afbe3d17027775c8475b6a300217556a3abb4f48e4813da86f37ff78"
+		"key": "41124aca6a6b79d04e8a08cca3ff1b169351f6e12210ec9d6fbdfcfe99975572"
 	},
 	"friendship-bracelets": {
 		"files": {
@@ -2485,16 +2485,16 @@
 			},
 			"mods/inventory-tabs.pw.toml": {
 				"download": {
-					"hash": "ac7861262581021e1145a9514289ce222cdb0119dc90250dc002d8f855eabe324eb06ed980514e1e5633d78644ada17e54b3e1cabd00adb670c5b02ff3bd69f0",
+					"hash": "864b71ecffff6d13ec48e0a0d368efce594182aca1b39eda1a80736a5ef6c978325374191a632de25e71149adcc88b7ebf6a0ffbe1c25b70b89682c115e2a639",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/VD1aynYU/versions/UJQxusE8/inventory-tabs-1.4.2%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/VD1aynYU/versions/bg89rglV/inventory-tabs-1.4.3%2B1.21.jar"
 				},
-				"filename": "inventory-tabs-1.4.2+1.21.jar",
+				"filename": "inventory-tabs-1.4.3+1.21.jar",
 				"name": "Inventory Tabs",
 				"side": "client"
 			}
 		},
-		"key": "010b2079b1cff06cf9ec89a1d3ebe78a1d03677ec23d4c8b97d2a2544d4d0b6d"
+		"key": "f2f3908ee30048a08aa51cb93bba1f46ddcd0c67bde7cea8e6ada6406bbc0d95"
 	},
 	"item-descriptions": {
 		"files": {
@@ -2510,16 +2510,16 @@
 			},
 			"mods/item-descriptions.pw.toml": {
 				"download": {
-					"hash": "2a526d99c20b79128bdc1f2ac2d158cf78a06b2de9baaa0446690c556540f1963857142e8741ccb8f365b187449fefb49dd2d67486e522c2e291713916a1fbb0",
+					"hash": "1e479862ac9c80a7c5c590be3b52dc582c3517b22bfa01955d8a5c13d6ae7cfee131cf62560424bc8e5c9cd5ab6aae2660fe10328745ef21f0a145064f2bd1a2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/UKTcKebO/item-descriptions-fabric-2.1.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/2gF8VKS6/item-descriptions-fabric-2.1.1%2B1.21.1.jar"
 				},
-				"filename": "item-descriptions-fabric-2.1.0+1.21.1.jar",
+				"filename": "item-descriptions-fabric-2.1.1+1.21.1.jar",
 				"name": "Item Descriptions",
 				"side": "client"
 			}
 		},
-		"key": "aae739b18eda50ff2dab8b89c1b4b1e31e1bfd3652891ff75b70afc66afca04c"
+		"key": "c768bb066918684c47409fff6db62c60c6630e3c8388a8b6c2e4fa2f16797bf7"
 	},
 	"its-as-shrimple-as-that": {
 		"files": {
@@ -3129,16 +3129,16 @@
 			},
 			"mods/omnicrossbow.pw.toml": {
 				"download": {
-					"hash": "8f68a213a8baa562a0eb729b1e6811fc9a52bbeb082d81236d6393b6a93e345f690163282a0bbedf300a40bbec66f77c1c6e1fc3caa4ae4a5fbe7c86e9c3c38b",
+					"hash": "55edec28a75ea3747244529fffea89a93c76c93b76a78bc08068808f91e1600c2af8f532473bf4a17e2f788886c7d97076cf7763f3a6c0fcf2268fb472330e67",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/h26vunYA/omnicrossbow-0.4.2%2Bmc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/XdqMJ2jJ/omnicrossbow-0.4.3%2Bmc1.21.1.jar"
 				},
-				"filename": "omnicrossbow-0.4.2+mc1.21.1.jar",
+				"filename": "omnicrossbow-0.4.3+mc1.21.1.jar",
 				"name": "OmniCrossbow",
 				"side": "both"
 			}
 		},
-		"key": "97705bf337dd9a8ba561d09839da30028ca4688b15aa39b8706c5f790e6b70ca"
+		"key": "678dfb56fccb41056a41aa14cc9187eb203907aac2fb7b3a85656a11a03a04b0"
 	},
 	"operation-starcleave": {
 		"files": {
@@ -3234,16 +3234,16 @@
 			},
 			"mods/paladins-furniture.pw.toml": {
 				"download": {
-					"hash": "0a37927cd8a47e8718efd0d04bdb2a48de64ab72139841a327e6e5b750ed9a2f7878ae1599c589fe2cf217b82fd79646a77450e7e35bcd86cbb2bc3cc81f7e5a",
+					"hash": "9befe06f9d2340dc59855f70a23102a86330e0ad03a0522a6be19f913223b061aec192a25dd1de0d373a7970e02f40f27105f80e5feae1f28409cf25ccb1c7c3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/Y8wCxRSb/paladin-furniture-mod-1.4.2-fabric-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/qh3D1rjU/paladin-furniture-mod-1.4.3-fabric-mc1.21.1.jar"
 				},
-				"filename": "paladin-furniture-mod-1.4.2-fabric-mc1.21.1.jar",
+				"filename": "paladin-furniture-mod-1.4.3-fabric-mc1.21.1.jar",
 				"name": "Paladin's Furniture Mod",
 				"side": "both"
 			}
 		},
-		"key": "50523161bc8a5432563d2d876560e035275ca7f225cf8c48b348ade39702cb2e"
+		"key": "9f96604e8ffccaf86007f7d277fbdf4fe8bbdec262bfbf6e879aee3554ca7d8c"
 	},
 	"particular": {
 		"files": {
@@ -3576,11 +3576,11 @@
 		"files": {
 			"mods/polydecorations.pw.toml": {
 				"download": {
-					"hash": "4c8f0c7d6b2f8e4127a5ba772c9b348a99bdc8eaa1d68cda46b6ce46e16659061cfd6af43bafaadb349f60dbf291a17017f8169cc19a68fba73d427b6b376af1",
+					"hash": "7cc181752df0033364efe9e7fc6ce24af7497ef140838023b3135b2288045da56311e68518d320fbb2f4d2eca317db75d7966ea8228bfdf77c2cf6bdae1dfe8b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5710VC7f/versions/9spqh9Vr/polydecorations-0.4.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/5710VC7f/versions/R5oq1hmE/polydecorations-0.4.5%2B1.21.1.jar"
 				},
-				"filename": "polydecorations-0.4.4+1.21.1.jar",
+				"filename": "polydecorations-0.4.5+1.21.1.jar",
 				"name": "PolyDecorations",
 				"side": "server"
 			},
@@ -3595,7 +3595,7 @@
 				"side": "server"
 			}
 		},
-		"key": "cb7dc9dd2dce62baf6d10bf0491a95c8417299cf42368e548944c7b04e87d895"
+		"key": "07d1374f11d73fc21f2ec5fb4928862081e39ea16f7d00d0aa6dffb463f59585"
 	},
 	"polydex": {
 		"files": {
