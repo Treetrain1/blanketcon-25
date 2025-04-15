@@ -2550,16 +2550,16 @@
 		"files": {
 			"mods/joy.pw.toml": {
 				"download": {
-					"hash": "4138bc8469302919e25075d17c8846ed8540e9cc85c72d9bbf2e7dcd55a1e6d15936aa82054e01a40a4ae93ba7465f1647ef648a49854a88039e3be9a8af3fbd",
+					"hash": "59d7c8066a74d745c613c1df1d1aa219e878c4be9aefcbdf0ad09ee94faed866bc273a26c88cbb5dcd9d8b45d1d365f7f4541ce563415979fc88c79f10088711",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qwgCXyzw/versions/xxSm84gP/joy-fabric-1.0.0-alpha.9%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/qwgCXyzw/versions/ftDV31SE/joy-fabric-1.0.0-alpha.10%2Bmc.1.21.1.jar"
 				},
-				"filename": "joy-fabric-1.0.0-alpha.9+mc.1.21.1.jar",
+				"filename": "joy-fabric-1.0.0-alpha.10+mc.1.21.1.jar",
 				"name": "Joy Mod",
 				"side": "both"
 			}
 		},
-		"key": "e524442ac07fb45e57fdeedea6c4319d8c0419c5be57f85f28993be97bab685d"
+		"key": "b12d8035f11633529eadfd793bc95b09e3b383019814c00ceede67c834e2f35a"
 	},
 	"jsonpatcher": {
 		"files": {
@@ -3363,11 +3363,11 @@
 		"files": {
 			"mods/petworks.pw.toml": {
 				"download": {
-					"hash": "a9927b45f8b558c260589eb3b70174c09e8a0372344b911a928302a6b3db159b2e7c27d94d9d5fbd6cf211510573b59231635df168d8a9ec72ef72a287d2ef68",
+					"hash": "3428637b8b600a3d25340558674ea76cb6870541483f7dbd3e5a7722e8795547f9feedb155915b177223b7cdfa4c2a319fedecb647b7ccb082f6266eb90b6a7e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/5QMjPEDN/petworks-fabric-0.2.0-beta.1%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/dAKfA83i/versions/LiuycFVC/petworks-fabric-0.2.0-beta.2%2Bmc.1.21.1.jar"
 				},
-				"filename": "petworks-fabric-0.2.0-beta.1+mc.1.21.1.jar",
+				"filename": "petworks-fabric-0.2.0-beta.2+mc.1.21.1.jar",
 				"name": "Petworks",
 				"side": "both"
 			},
@@ -3382,7 +3382,7 @@
 				"side": "both"
 			}
 		},
-		"key": "caa25c48515a2645bdc1a5c449d0bf6fc695ae222ea764b81da3a0443ae2c5f2"
+		"key": "3049101d4099747049d376962d6ec3037a972e89cf71a3f06db246b9cf47db2e"
 	},
 	"phonos": {
 		"files": {
@@ -3491,16 +3491,16 @@
 			},
 			"mods/playercontainers.pw.toml": {
 				"download": {
-					"hash": "6e0607fb0e5956c610035dce3a014e6fea618251529c24d15cca5ef3989f4bab2141ea3d6bdf12ee3f77a022a44b614eecc66c21ac167c9fbf732e9aeb71a7f1",
+					"hash": "961434ac867572c58cf4a40b0d0920f4953f334532321e624e34e8719c4466e059da0ce2dc36e8c534982e0804b98b32567c341f3c20eda02461c3187f1cff1e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/u1rrlL9g/playercontainer-0.2.3.jar"
+					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/SNU2XJE2/playercontainer-0.2.4.jar"
 				},
-				"filename": "playercontainer-0.2.3.jar",
+				"filename": "playercontainer-0.2.4.jar",
 				"name": "Player Containers",
 				"side": "both"
 			}
 		},
-		"key": "6697885935fd20b5bec7112919da7429f4f0fa947af6b77391be3b99f52d67ab"
+		"key": "173194c9161f0f7bc1d7314b966648ce3a4fbf39f25aa2baf4a7fbb2b4b50ed0"
 	},
 	"plushables": {
 		"files": {
@@ -5192,16 +5192,16 @@
 		"files": {
 			"mods/world-comment.pw.toml": {
 				"download": {
-					"hash": "14a82b20b93ecf3bd42a3d586ac7d0b2b5e710a3847212336a4969f00ecfb6a71c50c48346a6be16d7291d808042e8b6fa4e7a0ba0dad85ba448879c6636c174",
+					"hash": "00baa5a76402cd8757db29ea6c1a5e6d29261cc618beacb30f92459bcc766fb2b9ca0739cb87816d7f3bcaa28f1ef4333c1e4d9396715e5b63ba0be9002e7374",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GNAofCJ3/versions/vVJmKsAs/WorldComment-0.2.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/GNAofCJ3/versions/tHUy1VLJ/WorldComment-0.3.0%2B1.21.1.jar"
 				},
-				"filename": "WorldComment-0.2.0+1.21.1.jar",
+				"filename": "WorldComment-0.3.0+1.21.1.jar",
 				"name": "World Comment",
 				"side": "both"
 			}
 		},
-		"key": "857d03f3059c40ef4668210bf34f3b95b3f32892927a137bb98d3d80d7d03849"
+		"key": "bc98721100fd5ed91fb1325306c7d72afc55c11d8eb693cb2a9b9c2a1d093330"
 	},
 	"worldinajar": {
 		"files": {
