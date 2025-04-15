@@ -1,15 +1,15 @@
 name = "glowcase"
-filename = "glowcase-2.1.0+1.21.jar"
+filename = "glowcase-2.1.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModFest/glowcase/releases/download/2.1.0/glowcase-2.1.0%2B1.21.jar"
+url = "https://github.com/ModFest/glowcase/releases/download/2.1.1/glowcase-2.1.1%2B1.21.jar"
 hash-format = "sha256"
-hash = "682ea6b9e5578705ea0fbe188d62639a823071c6545dff1a7f50c3fa976923fd"
+hash = "cdfd016c0b3c6b0316a4b762e40daf13f1f8bbe548dfc553019ef8452369f8c7"
 
 [update]
 [update.github]
 branch = "1.21"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ModFest/glowcase"
-tag = "2.1.0"
+tag = "2.1.1"
