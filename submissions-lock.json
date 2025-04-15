@@ -1956,16 +1956,16 @@
 			},
 			"mods/flw-vanillin.pw.toml": {
 				"download": {
-					"hash": "fdd36b6ec9d21ec834278fe5cc617e544697a05e53a32056a589dbe0ac7d9dfe63df06f13055265a4affde74c598e5e7a12560c2fda56b68fe74dcf5f9d881d8",
+					"hash": "54f88a3db176efd262fdc454e893c765a3e62990f652002a6e8c4e31db22be2ac1fbcd6a804752dc0ff4c722fdd2d80d8880af1e1970a897d165a1d97dcbe969",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/nN4e4X2X/vanillin-fabric-1.21.1-1.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/B2hBgDX8/vanillin-fabric-1.21.1-1.1.2.jar"
 				},
-				"filename": "vanillin-fabric-1.21.1-1.1.1.jar",
+				"filename": "vanillin-fabric-1.21.1-1.1.2.jar",
 				"name": "Vanillin",
 				"side": "client"
 			}
 		},
-		"key": "41124aca6a6b79d04e8a08cca3ff1b169351f6e12210ec9d6fbdfcfe99975572"
+		"key": "41a41fcb1a303755f96485352b9d1c0dd62d82d904285651768b7d6bd0eb5b7e"
 	},
 	"friendship-bracelets": {
 		"files": {
