@@ -17,7 +17,7 @@ impillagers
 #snapshotmc
 
 # Currently broken
-jsonpatcher
+#jsonpatcher
 
 # Currently breaks chunkloading
 colorful-lanterns
