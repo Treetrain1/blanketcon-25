@@ -288,11 +288,11 @@
 		"files": {
 			"mods/armisteel.pw.toml": {
 				"download": {
-					"hash": "14094c534cf9dcc8e4d8443d74a8ff115b21133130f5be9a86a11b29349c820b1df140967dcd0c92c2e726d6328dfc12f4853220a2ccf429ac033cfe4711930f",
+					"hash": "742136803108ce3f82a924528af54ad8cf8c0100b95b69cc886d3ad2774c75ce89208159d8f3df78ca9741e68ce1d06b6d7e3a9dc1ac416d74098488b8cc6ce4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/K0942pM3/armisteel-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/eZVtVxL9/armisteel-1.0.2.jar"
 				},
-				"filename": "armisteel-1.0.1.jar",
+				"filename": "armisteel-1.0.2.jar",
 				"name": "Armisteel",
 				"side": "both"
 			},
@@ -308,16 +308,16 @@
 			},
 			"mods/fusion-connected-textures.pw.toml": {
 				"download": {
-					"hash": "555c0d217b5fd5e5a3af29e82f0562d5137bd82dda986758a5c200a30b6488f5658bbbed4fd2009f83fb0ef63d1ce453b438b5a1a661a621c89299fe79c1fd7e",
+					"hash": "e306b03bb700b3abe7072aec419caeadd98af9bd20a36f5d5ecb5201955a3f30e610554a704294d518192539f1d8913c971e060ecde846a98b4f66757c3ff851",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/V6fEjSL9/fusion-1.2.5-fabric-mc1.21.jar"
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Yh47ECkT/fusion-1.2.7-fabric-mc1.21.jar"
 				},
-				"filename": "fusion-1.2.5-fabric-mc1.21.jar",
+				"filename": "fusion-1.2.7-fabric-mc1.21.jar",
 				"name": "Fusion (Connected Textures)",
 				"side": "client"
 			}
 		},
-		"key": "b6f86f4d6e3b314c578f32ebd5c44ecfbb0da44fc7ff132f9ab7e8d07cc952f6"
+		"key": "9873689810cf71545da6e0e002eeaad02d87c4f820d6480be295de2a7e6dee7a"
 	},
 	"armorstandeditor": {
 		"files": {
@@ -1181,16 +1181,16 @@
 		"files": {
 			"mods/cerulean.pw.toml": {
 				"download": {
-					"hash": "e7c0da36da14b901f8b05eeb58273f81c23c591f0bce4eac60b4bf57d9ef93eb97ad132b4a30220cf88958f475014959d8a191b86a9bb1356e10ca3140ce5192",
+					"hash": "b56df1c93edea9c21cd03d9e48aecf86dcd84b36ddb1e922c7ad6202a0107e0d208e44a364ca420902261f194c8ce53b0371451591e66613cf130fc33278c2f9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/a6qSiVxz/versions/rmdzcKzQ/cerulean-1.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/a6qSiVxz/versions/i2b8eY9Z/cerulean-1.1.4.jar"
 				},
-				"filename": "cerulean-1.1.3.jar",
+				"filename": "cerulean-1.1.4.jar",
 				"name": "Cerulean",
 				"side": "both"
 			}
 		},
-		"key": "d2cf6f5e2244d92b552fdd179965a286b8fbc5dce54c3c7165cd43b8b0e8049b"
+		"key": "9ebf57989deee6dd9713325ded815dfd4dfce1a54a4419f3bf55cadf0c0dd7ad"
 	},
 	"charta": {
 		"files": {
@@ -1842,11 +1842,11 @@
 			},
 			"mods/familiar-friends.pw.toml": {
 				"download": {
-					"hash": "b9ce2dca5ecf9eea6ebdad375fd4470c9da930218b9988e9ac4026fbc9614c1d4d579f9ee9396769eaa339d265ccd48e95a6bea2630cd836356ce44cca8a97ad",
+					"hash": "15ca69172fd5597053212f93ead0d172ad78eceb8603fcc108a018b2e05cc70df9ee011e57a055b503fc30b69d865865c4bfd038466d956bdef38d8fd8475037",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TFBCpGnI/versions/NneA5Orz/familiar_friends-1.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/TFBCpGnI/versions/F5rxjYlt/familiar_friends-1.0.6.jar"
 				},
-				"filename": "familiar_friends-1.0.5.jar",
+				"filename": "familiar_friends-1.0.6.jar",
 				"name": "Familiar Friends",
 				"side": "both"
 			},
@@ -1861,7 +1861,7 @@
 				"side": "both"
 			}
 		},
-		"key": "ccf934612cc6d8f981fcde74078f14c324849dd5b0f585f744ff650ffddc6652"
+		"key": "8795b72929f7fd8f6295478b2f84e6f233aeeb24da900ab9d70cd2f617feeaa8"
 	},
 	"familiar-magic": {
 		"files": {
@@ -2256,16 +2256,16 @@
 		"files": {
 			"mods/hide-body-parts.pw.toml": {
 				"download": {
-					"hash": "a74195918ccc8cfbb0eee723cd30b3bde0b3a0c4d6b40330fd42f7d9211ed8ac41503f4bfa16a6d8a4648ed0fdbd8091c3e8d33ee5f84fd83241d579a84b10f0",
+					"hash": "4044d287880e06632fa8c91c18a8ea84421870f3003e8d918aa183eed05e20092531b88127c0e15fc1ccba4c9a333cd3917ce19a45e763ad550dfe0fbbb6a649",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/soaGz3MF/versions/dnO4cxyF/hide-body-parts-0.0.7-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/soaGz3MF/versions/D9lFCeZ8/hide-body-parts-0.0.8-1.21.1.jar"
 				},
-				"filename": "hide-body-parts-0.0.7-1.21.1.jar",
+				"filename": "hide-body-parts-0.0.8-1.21.1.jar",
 				"name": "Hide Body Parts",
 				"side": "both"
 			}
 		},
-		"key": "dcfc8f0068536685baa40c2df703d7bc3235607f10977e9d81f640f6f00990b7"
+		"key": "d395e9f427d6e24f187bc8b0305022570064861e9d5d09dff6bd32e420baa9bc"
 	},
 	"hollow": {
 		"files": {
@@ -2361,16 +2361,16 @@
 		"files": {
 			"mods/illusionable.pw.toml": {
 				"download": {
-					"hash": "5b1fc648bbad68dfabb562c9d4f9a9f5da211b231a79755645693579a3a6cfd66dafcca598ebfe47842807f1539adee34e7f044271f3e82c5caf2910fc3591b0",
+					"hash": "92820250a713e3f2f5af308e754da960f95ecc1fdfaee924af992859501f900957bfa7286184ef26dd45086f6da8f5554019afe3318bdc6e8b32f2957e36a991",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/e56jGDgr/illusionable-0.0.4-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LEwEPjZz/versions/4n9BzePa/illusionable-0.0.6-1.21.1.jar"
 				},
-				"filename": "illusionable-0.0.4-1.21.1.jar",
+				"filename": "illusionable-0.0.6-1.21.1.jar",
 				"name": "Illusionable",
 				"side": "both"
 			}
 		},
-		"key": "cd4a37033bbf314fb3c5eedf3eb562e0f1d235620503d1cdf49e3dfd5d615ab4"
+		"key": "beb477ff68415608dbf8d6ba78d36130a4fd7fb6838f050f3d7db0f6ec93ac69"
 	},
 	"immersivemc": {
 		"files": {
@@ -2510,16 +2510,16 @@
 			},
 			"mods/item-descriptions.pw.toml": {
 				"download": {
-					"hash": "1e479862ac9c80a7c5c590be3b52dc582c3517b22bfa01955d8a5c13d6ae7cfee131cf62560424bc8e5c9cd5ab6aae2660fe10328745ef21f0a145064f2bd1a2",
+					"hash": "656d6d57fb641bc9ae6fee1ee947bea45fa9939cf38f3f074e41d6b906857ece6d0c0d1b26f10266bb7df560200ecc015f8a16e6fe66c7340490af454a42cbcf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/2gF8VKS6/item-descriptions-fabric-2.1.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/6CaoNgET/item-descriptions-fabric-2.1.2%2B1.21.1.jar"
 				},
-				"filename": "item-descriptions-fabric-2.1.1+1.21.1.jar",
+				"filename": "item-descriptions-fabric-2.1.2+1.21.1.jar",
 				"name": "Item Descriptions",
 				"side": "client"
 			}
 		},
-		"key": "c768bb066918684c47409fff6db62c60c6630e3c8388a8b6c2e4fa2f16797bf7"
+		"key": "0c122200b3ba4645ac12385d24acbc99c1e0eb319223d647d916b5180ea19f9c"
 	},
 	"its-as-shrimple-as-that": {
 		"files": {
@@ -2604,16 +2604,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "0e2473f91a8562931a077f269ad5bfde36a7ff50805c0eed4f9247fe417a79238be06da7e0a7ce9af01db4f2a6165a40baf0e1f8a85c1b22a7b2779feb15a290",
+					"hash": "0fb362f5435322331b1cf147d116253dac1563d9aaad410c77f76611e5504424dc7883d0ffea8850df9bae45d125eaad916c609ad0ea3c4b8dc0abdc696ff524",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/4ivDtL90/kawaii-dishes-1.13-beta11.jar"
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/OITdRkT6/kawaii-dishes-1.13-beta12.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta11.jar",
+				"filename": "kawaii-dishes-1.13-beta12.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "9864b9c7656c84fc5bf3ead509d0fa8292730966f6f8218d021918ea69cdb49c"
+		"key": "cf3331b8dbb9db51fc2a2afaa3eebe598b7f2b1a2a66704a31a008ddf7f23b21"
 	},
 	"klaxon": {
 		"files": {
@@ -3052,16 +3052,16 @@
 		"files": {
 			"mods/necessity.pw.toml": {
 				"download": {
-					"hash": "6c95bd31d04ca58dbad20c40b7f9be184cac1e989df5654686680087eede21b74537a59fc8c246125ee8ae3d69eedd09b7640480a8d67f8d67e15e43805319bd",
+					"hash": "7a90b8201219ec29dda4a55ad7f83851ba97751611b65dec0e2bec78242faa9164a59dbc2ccee7d461589743ab468b859b04c56f721d86b912f3a26532988d1c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/WYUzlLVx/necessities-1.1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/vo3xN74F/necessities-1.1-1.21.1.jar"
 				},
 				"filename": "necessities-1.1-1.21.1.jar",
 				"name": "Necessities",
 				"side": "both"
 			}
 		},
-		"key": "fd6d3b5a8dd004341689102590f03f910df7cd322559a1843a22708d76a7f009"
+		"key": "4631a3fd3612daff326570493a22b0c5301e35365aac13900476fe5c9ab736c0"
 	},
 	"neomtr": {
 		"files": {
@@ -4938,15 +4938,15 @@
 		"files": {
 			"mods/trickster.pw.toml": {
 				"download": {
-					"hash": "d5e747ecf8f6fe0eacdb17c8e1a4e656449d0c4870712044dfd4f4b4846853ad",
+					"hash": "1137713f0005794c0a5a932f577a83a4b3a8ff24f0da460426694431175ff73d",
 					"hash-format": "sha256",
-					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.5/trickster-2.0.0-beta.17-blanketcon.5.jar"
+					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.7/trickster-2.0.0-beta.17-blanketcon.7.jar"
 				},
-				"filename": "trickster-2.0.0-beta.17-blanketcon.5.jar",
+				"filename": "trickster-2.0.0-beta.17-blanketcon.7.jar",
 				"name": "trickster"
 			}
 		},
-		"key": "d55e22837821ca8a85312b64383227b026d389bcdbfaad0668e501d08e0bb215"
+		"key": "47cb3ab5d276cd4314096d241a279eed4b670af0aa520b5cea2d9b85b4c76ec7"
 	},
 	"ubes-delight": {
 		"files": {
@@ -5192,16 +5192,16 @@
 		"files": {
 			"mods/world-comment.pw.toml": {
 				"download": {
-					"hash": "00baa5a76402cd8757db29ea6c1a5e6d29261cc618beacb30f92459bcc766fb2b9ca0739cb87816d7f3bcaa28f1ef4333c1e4d9396715e5b63ba0be9002e7374",
+					"hash": "1103046318980a002f0541e11b4a43c7ab02326b0f8aeccad7abd46ff970b01bfa451e6317e531fd6d0d0d23f0e5ff25ab0f172a99105cf1ced207b805a7c5a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GNAofCJ3/versions/tHUy1VLJ/WorldComment-0.3.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/GNAofCJ3/versions/63qjleTu/WorldComment-0.3.1%2B1.21.1.jar"
 				},
-				"filename": "WorldComment-0.3.0+1.21.1.jar",
+				"filename": "WorldComment-0.3.1+1.21.1.jar",
 				"name": "World Comment",
 				"side": "both"
 			}
 		},
-		"key": "bc98721100fd5ed91fb1325306c7d72afc55c11d8eb693cb2a9b9c2a1d093330"
+		"key": "5e602d4e671f9f8e8dbb42441d9f65e3cd2ef571a0a3c35916d49928d73f560b"
 	},
 	"worldinajar": {
 		"files": {
