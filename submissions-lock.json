@@ -288,11 +288,11 @@
 		"files": {
 			"mods/armisteel.pw.toml": {
 				"download": {
-					"hash": "742136803108ce3f82a924528af54ad8cf8c0100b95b69cc886d3ad2774c75ce89208159d8f3df78ca9741e68ce1d06b6d7e3a9dc1ac416d74098488b8cc6ce4",
+					"hash": "a1c3f6ea77d17e6d7b3c40d573e39f63c0308f3b5ec884f01624d792f0cea9c8142977425ad72df355298d037b3ef7787ba6e7b5272591fd071e3721cbe955d7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/eZVtVxL9/armisteel-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/LpUpHsT0/versions/eJNNgGdr/armisteel-1.0.3.jar"
 				},
-				"filename": "armisteel-1.0.2.jar",
+				"filename": "armisteel-1.0.3.jar",
 				"name": "Armisteel",
 				"side": "both"
 			},
@@ -317,7 +317,7 @@
 				"side": "client"
 			}
 		},
-		"key": "9873689810cf71545da6e0e002eeaad02d87c4f820d6480be295de2a7e6dee7a"
+		"key": "1052a93284fc04ea2a12aae5b8b28ae3961ed733a5fb10459bf673f44b76a273"
 	},
 	"armorstandeditor": {
 		"files": {
@@ -2943,16 +2943,16 @@
 			},
 			"mods/monthofswords.pw.toml": {
 				"download": {
-					"hash": "ed829f6033fcc2ddad99990fd59777b48d5db0d4c8355ff4bf5896d48b413e8ca4ed876bcb70f047dd49d86ac6a64812366c3c1d2e03b8f0cac6fb2e320ad5f5",
+					"hash": "1ee4f0bb45e5b6d74c0be172750ab2866152c48c534a0147ed398c0830184eeee296e0d9c55a0fb69ea6aa68260e8aec06861320c0152b9f87cfb3cedec81ab7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XezKDvhL/versions/oNO7nfT4/monthofswords-fabric-1.21.0.jar"
+					"url": "https://cdn.modrinth.com/data/XezKDvhL/versions/feNys87f/monthofswords-fabric-1.21.1.jar"
 				},
-				"filename": "monthofswords-fabric-1.21.0.jar",
+				"filename": "monthofswords-fabric-1.21.1.jar",
 				"name": "Month Of Swords",
 				"side": "both"
 			}
 		},
-		"key": "97bda93fbfb86fdb68b51d6d076e389ca359be7830126b5a3330e9af0ba29570"
+		"key": "b840167284100a2d912ca96ce2fa424e19309a6a0de7ad3fca5b05069057bca1"
 	},
 	"more-paths": {
 		"files": {
@@ -3700,16 +3700,16 @@
 			},
 			"mods/polysit.pw.toml": {
 				"download": {
-					"hash": "e32f7227c0ce872abcc6dd0fa6db4a919864a5021154056770231267519820573e79bc9371cf8908ef3a0222b542fd4b3e389c46a02a933e549d447a6361acb3",
+					"hash": "24312bbef41ea68b13906983db8eec33d981cbfed5e923691519dc5f5f0f634cb38645a1dc484048d565e6881302209de779e8c45bda707da33ce611f1a27cdb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G9eJHDO2/versions/baubhIHP/polysit-0.8.3%2Bmc.1.21.jar"
+					"url": "https://cdn.modrinth.com/data/G9eJHDO2/versions/Jc8D0myc/polysit-0.9.3%2Bmc.1.21.1.jar"
 				},
-				"filename": "polysit-0.8.3+mc.1.21.jar",
+				"filename": "polysit-0.9.3+mc.1.21.1.jar",
 				"name": "Polysit",
 				"side": "server"
 			}
 		},
-		"key": "b454ce86fd0bc41a891714138f65b83802f945bc2b2070202180ca30cdf20176"
+		"key": "a396492ac0e905bd17af88b8e539a28e3f03ee8d5ebc1b4891500a481a71744b"
 	},
 	"portable-crafting": {
 		"files": {
@@ -3894,16 +3894,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "9e0f52bcc3251a548bf9cd37a0492df9a9da9e398737adcd44f4fdff2497c8b3b2de5ee27c30b0e9985fab6902cb1dcd18d9d3c8e317c6652adaea354036902c",
+					"hash": "d75230721e3b6f524e08ee637cf15a9c37924b4f175248e70af14c8841c3a386f66105cb3d3201481e587ccdac4d61529b8861e31bf3aadee7d3a4fe52b2b965",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/SJvJ0Pbd/pulchra-occultorum-0.0.19-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/LkBnQDXJ/pulchra-occultorum-0.0.20-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.19-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.20-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "9e3062550f1ec46a141ba96d4c0b366d1eefe39f8db873d383f4411ef0691c16"
+		"key": "3ed2c1f8cd5ed1b0ad400edfeda0b8478364672ad6cb70f46df6e8c0352b3217"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
@@ -4534,16 +4534,16 @@
 			},
 			"mods/stellaris.pw.toml": {
 				"download": {
-					"hash": "0d93e0436d45728fa06d8d874542bd276c21378a8bbdce040ff9806bc904d6502b42c9a33373cbbed9f32a05064230b0938ed5b2254393caeb664797857c1b39",
+					"hash": "b8ada0aeb47e6ad92e3ba9b82ebec4d6e22f95add17d3418ac9083fcd21e3259af8a2fb0026ef5a63d39056a0168d1e62be9b8662dc42209d38629ca17347b81",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/reGjFUkO/stellaris-1.21-fabric-1.3.8.jar"
+					"url": "https://cdn.modrinth.com/data/ItTQpuBn/versions/NBOma4nY/stellaris-1.21-fabric-1.3.9.jar"
 				},
-				"filename": "stellaris-1.21-fabric-1.3.8.jar",
+				"filename": "stellaris-1.21-fabric-1.3.9.jar",
 				"name": "Stellaris",
 				"side": "both"
 			}
 		},
-		"key": "3c6afb94c655d03e65fc23b703f5cd3b2202d0b8cd45bcce32672e20975f6218"
+		"key": "84eec9e32be48dd38f08324f4dfc09e99b45fb8e868d42fd021244cadf62c429"
 	},
 	"subete-kowasu-no-nara-kuro-ni-nare-old": {
 		"files": {
@@ -4634,15 +4634,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "f7478f591eef2563c5571d83c75f88ba42dfb165d4c0622698d6377fce199c17",
+					"hash": "312198df9f0364d606bc3d0664a5f97c5802e45621dfd360db40042b85d51b64",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.21/superposition-fabric-1.21.1-0.2.21.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.23/superposition-fabric-1.21.1-0.2.23.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.21.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.23.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "36c582616533b29b2b6f5f00389e02f6b4c73c3bd799ec514df28d1cad156eeb"
+		"key": "62cd8698a5e1c3a5e8814e697442aebb82e93092769f8f6544aeab363767de2c"
 	},
 	"surveyor": {
 		"files": {
@@ -4913,26 +4913,26 @@
 			},
 			"mods/frozenlib.pw.toml": {
 				"download": {
-					"hash": "bd7e3eff4348bf949b5f636fc4bcba77a916fa503773d644031828bcc11c17012a28f3cea5cccded39876dbdf289932dd6c10d9c5344a30f5e369b8797cc6943",
+					"hash": "0c6cf2d79e9dc066612af1656a8ffd8658ea7e7d34aa00336e2d2fd72d2b0d2f4fac43197383cddf63dff12947c3ea17dcabea641e4e1fb478d3abc37cc121a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9KawNmQc/versions/kixrjIOO/FrozenLib-2.0.4-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/9KawNmQc/versions/qwX0CF5v/FrozenLib-2.1-mc1.21.1.jar"
 				},
-				"filename": "FrozenLib-2.0.4-mc1.21.1.jar",
+				"filename": "FrozenLib-2.1-mc1.21.1.jar",
 				"name": "FrozenLib",
 				"side": "both"
 			},
 			"mods/trailier-tales.pw.toml": {
 				"download": {
-					"hash": "1d16560c1751ccca2d04d947b7ccd60fa0c86d64abeb30a06446726bca7d03477e326b1198ffcec173c826f5e050fdfcec3709c0fc0bd50b038cbcb2b6345013",
+					"hash": "fbde00bf9187764571a17e4dcb90184b46989c72da61aec57d64b4bb10b67a84e51f3e7d6b51a387baf7ceaad4ef80d0a383ee99bab8614f987a35bdf72dd429",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9xTQM0ci/versions/P9XJneuE/TrailierTales-1.1.5-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/9xTQM0ci/versions/V4jtOncN/TrailierTales-1.1.6-mc1.21.1.jar"
 				},
-				"filename": "TrailierTales-1.1.5-mc1.21.1.jar",
+				"filename": "TrailierTales-1.1.6-mc1.21.1.jar",
 				"name": "Trailier Tales",
 				"side": "both"
 			}
 		},
-		"key": "084d89d6eda1f3a90d6bcec13b7f5e5e5a8c7bd81bd2b234e26435f2e34abbe8"
+		"key": "3f26ecf384a9de88650bfc188ba4d665735d8cee436fdbcb5f03f8a21bdde053"
 	},
 	"trickster": {
 		"files": {
@@ -5167,26 +5167,26 @@
 			},
 			"mods/frozenlib.pw.toml": {
 				"download": {
-					"hash": "bd7e3eff4348bf949b5f636fc4bcba77a916fa503773d644031828bcc11c17012a28f3cea5cccded39876dbdf289932dd6c10d9c5344a30f5e369b8797cc6943",
+					"hash": "0c6cf2d79e9dc066612af1656a8ffd8658ea7e7d34aa00336e2d2fd72d2b0d2f4fac43197383cddf63dff12947c3ea17dcabea641e4e1fb478d3abc37cc121a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9KawNmQc/versions/kixrjIOO/FrozenLib-2.0.4-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/9KawNmQc/versions/qwX0CF5v/FrozenLib-2.1-mc1.21.1.jar"
 				},
-				"filename": "FrozenLib-2.0.4-mc1.21.1.jar",
+				"filename": "FrozenLib-2.1-mc1.21.1.jar",
 				"name": "FrozenLib",
 				"side": "both"
 			},
 			"mods/wilder-wild.pw.toml": {
 				"download": {
-					"hash": "941bb6788ca9c7d446900e724385ce36a80fe7d32ca286550076a530596fa0d95907813cd029fa9ab15159492b9faaec41fd9b44f99abf4b788196f7f78ab048",
+					"hash": "ffea66124a35d5396ce9ae745e037c8aa4386a0c1f21a89061b70205e271fe615e0a75c3cb659907a49195c2ce846a4beafc848d0d6c8b4ee5a529c89f17a8dd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/ZcY60rtQ/WilderWild-4.0.6-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/AtHRJSUW/versions/TWG3NbzH/WilderWild-4.0.7-mc1.21.1.jar"
 				},
-				"filename": "WilderWild-4.0.6-mc1.21.1.jar",
+				"filename": "WilderWild-4.0.7-mc1.21.1.jar",
 				"name": "Wilder Wild",
 				"side": "both"
 			}
 		},
-		"key": "4f4dae31ba971d9fd63ac1fd3d82b54842dd452f5f4206e63d57efd0bb6da1a7"
+		"key": "05c3d5462d2f75816212d94950ad770c23f7fe51c0cc8b12bd32e7f4d623237f"
 	},
 	"world-comment": {
 		"files": {
