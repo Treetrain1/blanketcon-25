@@ -22,9 +22,6 @@ impillagers
 # Currently broken
 #jsonpatcher
 
-# custom jar
-world-comment
-
 # crash on disconnect
 #cook-it
 
@@ -51,19 +48,19 @@ thoroughfabric
 #allium
 #berry-bounty
 #bouquet
-builderdash
+#builderdash
 #cantilever
 #cerulean
 #combat-amenities
 #enchiridion
-extended-drawers
+#extended-drawers
 #illusionable
 #krender
 #maddys_origins
 #minopp
 #mirthdew-encore
-monthofswords
-necessity
+#monthofswords
+#necessity
 #neomtr
 oceanic-weaponry
 #operation-starcleave
