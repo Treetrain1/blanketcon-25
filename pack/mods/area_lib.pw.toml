@@ -1,13 +1,13 @@
 name = "Area Lib"
-filename = "area_lib-0.2.6.jar"
+filename = "area_lib-0.3.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IBuXDbma/versions/QLIUGQ59/area_lib-0.2.6.jar"
+url = "https://cdn.modrinth.com/data/IBuXDbma/versions/soUbTiKc/area_lib-0.3.6.jar"
 hash-format = "sha512"
-hash = "4c96b65d35994711d493bf8137d85e5a5cc910d704fcc440779f51e9a93912002bde5bb1b343361455daeef2ff2bdd07165f80b8ee6a21e798524afa4850944f"
+hash = "6ed8229f11247b2d1ebf3ffdfc5db3262707732851d411ffb7ce8d9c41c914c20d81832336a27659fca0d370970f9d3c32b118f6785cd6d89bc1aa2f7c243cec"
 
 [update]
 [update.modrinth]
 mod-id = "IBuXDbma"
-version = "QLIUGQ59"
+version = "soUbTiKc"
