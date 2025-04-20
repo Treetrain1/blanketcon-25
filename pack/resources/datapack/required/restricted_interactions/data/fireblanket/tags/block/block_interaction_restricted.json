@@ -4,6 +4,7 @@
 		"minecraft:dragon_egg",
         "#minecraft:candle_cakes",
         "bovinesandbuttercups:placeable_edible",
+		"brewinandchewin:pizza",
 		"charta:cherry_bar_shelf",
 		"charta:cactus_wine_glass",
 		"charta:berry_wine_glass",
@@ -14,6 +15,7 @@
         "trickster:charging_array",
         "trickster:modular_spell_construct",
         "trickster:scroll_shelf",
-        "trickster:spell_construct"
+        "trickster:spell_construct",
+		"wilderwild:display_lantern"
     ]
 }
