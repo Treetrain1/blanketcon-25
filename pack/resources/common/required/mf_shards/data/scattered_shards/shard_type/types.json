@@ -13,7 +13,7 @@
 			"offsets": {
 				"normal": {
 					"top": 8,
-					"left": 4
+					"left": 8
 				},
 				"mini": {
 					"top": 2,
@@ -44,11 +44,11 @@
 			"offsets": {
 				"normal": {
 					"top": 8,
-					"left": 7
+					"left": 10
 				},
 				"mini": {
 					"top": 2,
-					"left": 3
+					"left": 2
 				}
 			},
 			"textures": {
@@ -74,8 +74,8 @@
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 13,
-					"left": 3
+					"top": 10,
+					"left": 10
 				},
 				"mini": {
 					"top": 3,
@@ -137,7 +137,7 @@
 			"offsets": {
 				"normal": {
 					"top": 13,
-					"left": 3
+					"left": 8
 				},
 				"mini": {
 					"top": 6,
@@ -199,7 +199,7 @@
 			"offsets": {
 				"normal": {
 					"top": 9,
-					"left": 3
+					"left": 7
 				},
 				"mini": {
 					"top": 2,
