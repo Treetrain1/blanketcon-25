@@ -167,12 +167,12 @@
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 13,
-					"left": 3
+					"top": 8,
+					"left": 8
 				},
 				"mini": {
-					"top": 6,
-					"left": 1
+					"top": 2,
+					"left": 2
 				}
 			},
 			"textures": {
