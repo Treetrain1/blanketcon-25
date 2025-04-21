@@ -3045,16 +3045,16 @@
 		"files": {
 			"mods/necessity.pw.toml": {
 				"download": {
-					"hash": "19bf77e8074c645260f19392283e5143c977d1098a363d2e1032ab6717f54b7f93c6594351813356bc0f63bd153be0576df8cbc84bec76e5b118d13daaebf603",
+					"hash": "19c78ffc16b1c2a8f4db32c858ea1df183587f213324c7be1246166e5f5426ca8ea0fac85cf72d34fe42afa949eae1df591be245b1aef9ee2b51db3499afb0cc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/6Ad4MnCJ/necessities-1.1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/2YE5dXzq/versions/NxnaCKcE/necessities-1.1-1.21.1.jar"
 				},
 				"filename": "necessities-1.1-1.21.1.jar",
 				"name": "Necessities",
 				"side": "both"
 			}
 		},
-		"key": "1f399b4d2b8786d7e8abec0a3a39c55087dd4e44b9c6ac2de6080198982aab73"
+		"key": "b57dd1f61f027db96a3f08e970c0bceb4030627c2aa93e128f3c89eb0ecc0ebc"
 	},
 	"neomtr": {
 		"files": {
