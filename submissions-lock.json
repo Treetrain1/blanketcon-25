@@ -3,11 +3,11 @@
 		"files": {
 			"mods/accessories.pw.toml": {
 				"download": {
-					"hash": "489b0edc30bbc71415cbbd20f3eaf238aa6f809881cc7ce0262ea15abdfc2bdabb9f9212829d482ea68ebcfd2b8955fc2542443dd15e21cbb70fed78137d7913",
+					"hash": "1b3bc7cd708d21ff69b00076f045fc2c0853d34be52dd3af080927e299743d07db4a23622b2d64c111124e0e6c83ed191a49163535bd80bd0f11d9e933818380",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/wYVgZ0Vh/accessories-fabric-1.1.0-beta.39%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/8iGovHhK/accessories-fabric-1.1.0-beta.40%2B1.21.1.jar"
 				},
-				"filename": "accessories-fabric-1.1.0-beta.39+1.21.1.jar",
+				"filename": "accessories-fabric-1.1.0-beta.40+1.21.1.jar",
 				"name": "Accessories",
 				"side": "both"
 			},
@@ -23,16 +23,16 @@
 			},
 			"mods/owo-lib.pw.toml": {
 				"download": {
-					"hash": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75",
+					"hash": "b9c79035c912ef043722f2a1f0bc0166e0ca047ea5237a86f23198dea487289e0a0f92a96e46bd683ffc39e4190b95450d13456b14f6280587635b51c9393a1b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
 				},
-				"filename": "owo-lib-0.12.15.1+1.21.jar",
+				"filename": "owo-lib-0.12.15.4+1.21.jar",
 				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "56ee25af40cfb7b8c98dac1d6ce23f56ee2dcecb0f9a13c68ab546175706c6e7"
+		"key": "9b3928853482f3d113136ab5cec2c68c9fa9b8f3d67c781c1c60f39c3f887361"
 	},
 	"advanced-networking": {
 		"files": {
@@ -877,16 +877,16 @@
 		"files": {
 			"mods/brewin-and-chewin.pw.toml": {
 				"download": {
-					"hash": "d7a727b8e6463f99653bedecf18dc62de9d932416e05580ed17e3f976d304b460aac65c6505df0107a7af932a0fdf364cc10479bee26c7fffdfb4a58a3f21401",
+					"hash": "a391bdac3e663d989ae2f0702b930e809b75ca75fe97e3f3568fb441824e8b31b181afcac50b07a0ddce99ac8e547e8395fc6ad780f50f373a94068513f465b7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/X5WlADtK/BrewinAndChewin-fabric-4.2.5%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/XOeyGw82/BrewinAndChewin-fabric-4.3.0%2B1.21.1.jar"
 				},
-				"filename": "BrewinAndChewin-fabric-4.2.5+1.21.1.jar",
+				"filename": "BrewinAndChewin-fabric-4.3.0+1.21.1.jar",
 				"name": "Brewin' And Chewin'",
 				"side": "both"
 			}
 		},
-		"key": "9020d23d9f46d63d05e0741618c38be0c63e436c7f73585e98974051bfac6578"
+		"key": "582c01c21e23edee469e1ed14f79a72a832b918183ff4e572c1fc46e8456b512"
 	},
 	"bronze": {
 		"files": {
@@ -2894,26 +2894,26 @@
 		"files": {
 			"mods/item-descriptions.pw.toml": {
 				"download": {
-					"hash": "5f51e459add25191d360b6200aa79a30705c84498f6f3b0b54e88021aa6120ea5567e52b730d793c011206a4c3bf2c354a061668810bf19cc1437b94412696d7",
+					"hash": "656d6d57fb641bc9ae6fee1ee947bea45fa9939cf38f3f074e41d6b906857ece6d0c0d1b26f10266bb7df560200ecc015f8a16e6fe66c7340490af454a42cbcf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/DnUZlicO/item-descriptions-fabric-2.0.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/UaizcMKP/versions/6CaoNgET/item-descriptions-fabric-2.1.2%2B1.21.1.jar"
 				},
-				"filename": "item-descriptions-fabric-2.0.1+1.21.1.jar",
+				"filename": "item-descriptions-fabric-2.1.2+1.21.1.jar",
 				"name": "Item Descriptions",
 				"side": "client"
 			},
 			"resourcepacks/mod-descriptions.pw.toml": {
 				"download": {
-					"hash": "6426368594142a50232147fd3048373939fe6b43f4aa1f4e230fcb5176a3781fe4ecb4e47cf9768ae570b144e99351298cf7f906fde5a37f57ab51560ce2b0e1",
+					"hash": "5cde311a24b2d3416299f8d2e48b482d3a2b7565b22a0304e3fd4bbcb8f5b49985889d6b99cb33e7927a28110da67704800dd196902e633b5c92030caba16135",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/DkF7ssGR/versions/vYkw9V17/mod-descriptions-v4.zip"
+					"url": "https://cdn.modrinth.com/data/DkF7ssGR/versions/fPUTBa7v/mod-descriptions-v5.zip"
 				},
-				"filename": "mod-descriptions-v4.zip",
+				"filename": "mod-descriptions-v5.zip",
 				"name": "Mod Descriptions",
 				"side": "client"
 			}
 		},
-		"key": "dc33ad4233837783b78907dd9eac6ce455a3adb1126bf0e569ab036c59e1834f"
+		"key": "71d0cccd4c63943004f13955322284c84df45f3b705d4dd99633144b8783257d"
 	},
 	"mod_garden": {
 		"files": {},
@@ -3474,26 +3474,26 @@
 		"files": {
 			"mods/area_lib.pw.toml": {
 				"download": {
-					"hash": "4c96b65d35994711d493bf8137d85e5a5cc910d704fcc440779f51e9a93912002bde5bb1b343361455daeef2ff2bdd07165f80b8ee6a21e798524afa4850944f",
+					"hash": "6ed8229f11247b2d1ebf3ffdfc5db3262707732851d411ffb7ce8d9c41c914c20d81832336a27659fca0d370970f9d3c32b118f6785cd6d89bc1aa2f7c243cec",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/IBuXDbma/versions/QLIUGQ59/area_lib-0.2.6.jar"
+					"url": "https://cdn.modrinth.com/data/IBuXDbma/versions/soUbTiKc/area_lib-0.3.6.jar"
 				},
-				"filename": "area_lib-0.2.6.jar",
+				"filename": "area_lib-0.3.6.jar",
 				"name": "Area Lib",
 				"side": "both"
 			},
 			"mods/playercontainers.pw.toml": {
 				"download": {
-					"hash": "961434ac867572c58cf4a40b0d0920f4953f334532321e624e34e8719c4466e059da0ce2dc36e8c534982e0804b98b32567c341f3c20eda02461c3187f1cff1e",
+					"hash": "e89929848dcedb78a9481c31ca4c6625cb31fe099e1173e593040b38e6502894804263e28ff030866b28b680d7e736ad170b46cf2b12458c5a08d5db979fd18d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/SNU2XJE2/playercontainer-0.2.4.jar"
+					"url": "https://cdn.modrinth.com/data/NDh54aZy/versions/O7S9m1cd/playercontainer-0.2.5.jar"
 				},
-				"filename": "playercontainer-0.2.4.jar",
+				"filename": "playercontainer-0.2.5.jar",
 				"name": "Player Containers",
 				"side": "both"
 			}
 		},
-		"key": "173194c9161f0f7bc1d7314b966648ce3a4fbf39f25aa2baf4a7fbb2b4b50ed0"
+		"key": "e7b81a8e209dc03c79e7038bd3ce82e400fcf9ddf1bb23a7c2aa0f7874026aa4"
 	},
 	"plushables": {
 		"files": {
@@ -3644,11 +3644,11 @@
 		"files": {
 			"mods/polyfactory.pw.toml": {
 				"download": {
-					"hash": "dbc3190f6c9fa373619ac84e0d99cfadd47a8f7bdae8d6f7c0bbb2aca2d26764b91fe2ba352b3a1dde6157115da13c62408f67f52b6346a1bc2add588fd305c7",
+					"hash": "2748ac30abeec040709d21ec98e688e4739fc36ba484822312db12776cc779eccd5b7e49c45b01be9ee3b60d1f6b3374df8e10f47dd2caa85096ac04cf7351ed",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MikpSrAF/versions/oCaOjOQt/polyfactory-0.4.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MikpSrAF/versions/EysgX1e4/polyfactory-0.4.5%2B1.21.1.jar"
 				},
-				"filename": "polyfactory-0.4.4+1.21.1.jar",
+				"filename": "polyfactory-0.4.5+1.21.1.jar",
 				"name": "PolyFactory",
 				"side": "server"
 			},
@@ -3663,7 +3663,7 @@
 				"side": "server"
 			}
 		},
-		"key": "f9d1f76c918634da1872d698ca645bf3e2a7973752c95c4b793d2c6b339ba36a"
+		"key": "31f6c1355f08f4fb502c86b5e327f9fbcbba18f726682a5a805395ab9c6af989"
 	},
 	"polymania": {
 		"files": {},
@@ -4637,15 +4637,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "312198df9f0364d606bc3d0664a5f97c5802e45621dfd360db40042b85d51b64",
+					"hash": "ee0716b41d6deb03d6b50ba0aef8391e719ef9c676c86ecd8f528ba9c38653f5",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.23/superposition-fabric-1.21.1-0.2.23.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.24/superposition-fabric-1.21.1-0.2.24.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.23.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.24.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "62cd8698a5e1c3a5e8814e697442aebb82e93092769f8f6544aeab363767de2c"
+		"key": "337a198961129aea83813ffa9a1d97d4a2afb5cfc6744fb944de9ec3fcb43fe2"
 	},
 	"surveyor": {
 		"files": {
