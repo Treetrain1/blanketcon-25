@@ -3,7 +3,7 @@ filename = "meret-0.1.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModFest/meret/releases/download/0.1.1/meret-0.1.1%2B1.21.jar"
+url = "https://github.com/ModFest/meret/releases/download/0.1.2/meret-0.1.1%2B1.21.jar"
 hash-format = "sha256"
 hash = "bc90b2758cb125e73748d9cc9a99b9f48ae3c47e293385ad4e31cb3e8b741fc8"
 
@@ -12,4 +12,4 @@ hash = "bc90b2758cb125e73748d9cc9a99b9f48ae3c47e293385ad4e31cb3e8b741fc8"
 branch = "1.21"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ModFest/meret"
-tag = "0.1.1"
+tag = "0.1.2"

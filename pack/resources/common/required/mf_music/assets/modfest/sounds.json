@@ -107,40 +107,40 @@
 			"modfest:music/stereo/battle_brick_boulder"
 		]
 	},
-	"music.step_step_right_up": {
-		"subtitle": "now-playing.modfest:music/step_step_right_up",
+	"music.step_step_right_on_up": {
+		"subtitle": "now-playing.modfest:music/step_step_right_on_up",
 		"sounds": [
-			"modfest:music/step_step_right_up"
+			"modfest:music/step_step_right_on_up"
 		]
 	},
-	"music.stereo.step_step_right_up": {
-		"subtitle": "now-playing.modfest:music/step_step_right_up",
+	"music.stereo.step_step_right_on_up": {
+		"subtitle": "now-playing.modfest:music/step_step_right_on_up",
 		"sounds": [
-			"modfest:music/stereo/step_step_right_up"
+			"modfest:music/stereo/step_step_right_on_up"
 		]
 	},
-	"music.really_truly": {
-		"subtitle": "now-playing.modfest:music/really_truly",
+	"music.testing_waters": {
+		"subtitle": "now-playing.modfest:music/testing_waters",
 		"sounds": [
-			"modfest:music/really_truly"
+			"modfest:music/testing_waters"
 		]
 	},
-	"music.stereo.really_truly": {
-		"subtitle": "now-playing.modfest:music/really_truly",
+	"music.stereo.testing_waters": {
+		"subtitle": "now-playing.modfest:music/testing_waters",
 		"sounds": [
-			"modfest:music/stereo/really_truly"
+			"modfest:music/stereo/testing_waters"
 		]
 	},
-	"music.steps_of_swans": {
-		"subtitle": "now-playing.modfest:music/steps_of_swans",
+	"music.steps_of_the_swans": {
+		"subtitle": "now-playing.modfest:music/steps_of_the_swans",
 		"sounds": [
 			"modfest:music/steps_of_swans"
 		]
 	},
-	"music.stereo.steps_of_swans": {
-		"subtitle": "now-playing.modfest:music/steps_of_swans",
+	"music.stereo.steps_of_the_swans": {
+		"subtitle": "now-playing.modfest:music/steps_of_the_swans",
 		"sounds": [
-			"modfest:music/stereo/steps_of_swans"
+			"modfest:music/stereo/steps_of_the_swans"
 		]
 	},
 	"music.me_booty": {
