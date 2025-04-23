@@ -315,6 +315,9 @@ file = "mods/jamlib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/kawaii-dishes-1.13-beta12.jar"
+
+[[files]]
 file = "mods/lavender.pw.toml"
 metafile = true
 
