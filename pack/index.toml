@@ -486,6 +486,10 @@ file = "mods/tmyk.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/veil-fabric-1-21-1-1-0-1-bc1-jar.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldedit-client.pw.toml"
 metafile = true
 
