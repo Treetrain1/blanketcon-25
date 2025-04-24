@@ -1649,36 +1649,36 @@
 		"files": {
 			"mods/electromechanics.pw.toml": {
 				"download": {
-					"hash": "e91471d9e8de73ba28d782411c7483ca22c4cd90aab275e9aab14a87e6698c0bfe080702dcce143fe829eb408f58ce2dc387a3a0bb63c6f97174dd8b5175004c",
+					"hash": "3a846c5036c95cc3045e4e3a2d714bedb93752db05d9dde658b3b66a2b7d2b80dad8f32fa1daec1113ec6e67175cf24c87f7e3615f2dabfdab9df58170ce32a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/1TB8n3my/electromechanics-1.2.3%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/lcr6Ckb4/versions/2SkavnO9/electromechanics-1.2.4%2B1.21.jar"
 				},
-				"filename": "electromechanics-1.2.3+1.21.jar",
+				"filename": "electromechanics-1.2.4+1.21.jar",
 				"name": "Electromechanics",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/owo-lib.pw.toml": {
 				"download": {
-					"hash": "61a7d77a76b1180890bcc3a391c0e4424e3e9e9808844831af2a42e38e190072bc3b15d6debbbdb276239b4f32d05dc1c995a3a5e6ba90c72f1f954629d52a75",
+					"hash": "b9c79035c912ef043722f2a1f0bc0166e0ca047ea5237a86f23198dea487289e0a0f92a96e46bd683ffc39e4190b95450d13456b14f6280587635b51c9393a1b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/WMGDnJhl/owo-lib-0.12.15.1%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
 				},
-				"filename": "owo-lib-0.12.15.1+1.21.jar",
+				"filename": "owo-lib-0.12.15.4+1.21.jar",
 				"name": "o\u03c9o (owo-lib)",
 				"side": "both"
 			}
 		},
-		"key": "5663b5144a61ace46da1aa8c38f9d36fcb7382b29fb1aa41fa7e41bc47a72b1e"
+		"key": "e334340c629ea3eedc9a9ec8d221f2daccc58be4b041f38ab24da16b27e82565"
 	},
 	"enchiridion": {
 		"files": {
