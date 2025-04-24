@@ -37,7 +37,7 @@ jobs:
         uses: dawidd6/action-download-artifact@v8
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
-          repo: packwiz/packwiz
+          repo: modfest/packwiz
           workflow: go.yml
           name: "Linux 64-bit x86"
           path: ${{ env.PACKWIZ_DIR }}
