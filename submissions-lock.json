@@ -922,21 +922,21 @@
 		"files": {
 			"mods/builderdash.pw.toml": {
 				"download": {
-					"hash": "43d37a91be5c2c0f1680100974bd83fa3ee4b53433bbae8ca9bfa96fbbc11d7e3991d598ff3e7a95ca7999572eb5fb7240a024c5576f8717d608f2f493b3cba1",
+					"hash": "22dff27c176824da1237b6d580b6b7aeb2bfe18efc32be51fdc7b5ea0758cf71e72e1d11bb02a17714fda967093949de3bbba7383d00794984489b089993ec9b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oIYIZBDT/versions/7ddUI1UE/builderdash-0.1.1a%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/oIYIZBDT/versions/sAtE3oiW/builderdash-0.1.2%2B1.21.1.jar"
 				},
-				"filename": "builderdash-0.1.1a+1.21.1.jar",
+				"filename": "builderdash-0.1.2+1.21.1.jar",
 				"name": "Builderdash",
 				"side": "server"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -951,7 +951,7 @@
 				"side": "server"
 			}
 		},
-		"key": "1116d7fdd76be243be45045b1e81199d24613935c11bb1ae154b307a9a88d1d5"
+		"key": "bf5772fd76aec93f8ff4659a43c67158b7bab592ba5eef09151ee96b8955569d"
 	},
 	"bundled_": {
 		"files": {
@@ -3987,16 +3987,16 @@
 		"files": {
 			"mods/rods-from-god.pw.toml": {
 				"download": {
-					"hash": "b7479a948c8038adc2094acec675efd3de6aad4e3aa1637eeeb4074f35a7d8696b1554b17208047de967df5349919ced92aaa75c72e4d19e8641f3267682baab",
+					"hash": "d787fc1c841cffedcbfdd3a3af05b2c4b1e2254b6bdee3b758500f9131e3bbf90d86e8f0c78240a7c2ffdc2c8c266606efebd9905cf4b130f82c07deb374f183",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/zHkPfNiI/rods_from_god-2.0.9%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/5skTYPUh/rods_from_god-2.0.10%2B1.21.1.jar"
 				},
-				"filename": "rods_from_god-2.0.9+1.21.1.jar",
+				"filename": "rods_from_god-2.0.10+1.21.1.jar",
 				"name": "Rods from God",
 				"side": "both"
 			}
 		},
-		"key": "a488d13819e0727805f9fe5772e81806911973899d046e5eac62c505e745e39e"
+		"key": "82783eb2a9793ecd993e9441599ce958b8dc86822e1e88353032ebe08d1ec55e"
 	},
 	"rounded_mod": {
 		"files": {
@@ -4362,36 +4362,36 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/soteria.pw.toml": {
 				"download": {
-					"hash": "f27603a8aa9eb6576d7cf7c29ca31685b85030c0e79bdcf72830b8de8e1e06795deb9d5a49fcad701c672f77ddc5aaf5eb25c247688f21a7ca5bb2bab329c5eb",
+					"hash": "9b7c58a12bc4231479a40b6a0d0398561d5a8103b7420905c5fc4fcecbd23cd2e5d435d8596f7388b2ff5c9214cccf9d34b1fc956784d61064eaba1609c62e33",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/836B9usr/soteria-0.3.7%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/iKGgUVoo/versions/kNfppzAF/soteria-0.3.9%2B1.21.1.jar"
 				},
-				"filename": "soteria-0.3.7+1.21.1.jar",
+				"filename": "soteria-0.3.9+1.21.1.jar",
 				"name": "Soteria",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "4951bf19bde73826b13423540902ba75cabc6190163aa0d60e43cafa0bfa9ddb6a710af9e8b6d177fae1b529bf09ef859e408200e788ffe49834b431e591dcee",
+					"hash": "6dea2e92a977e8c2770931f3c8c75ebbfc96dab66e80c643774f6b617e24f9fc3f1343703ebbb36dfa3271414cdae2bfbc9ce6f5412209409cb7d7716fa9eb00",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/903OFjcp/spirit-vector-1.11.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/OVIu5ykv/spirit-vector-1.11.5%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.11.2+1.21.1.jar",
+				"filename": "spirit-vector-1.11.5+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "8cbc6907fd7b5ff6de9fc18d6a339a7f46b1e9dd4847134a7afc5de029cd305c"
+		"key": "232cbf99c1e718f00c121d023aaf3fcbe10664c22ca699ff086da333ee66df23"
 	},
 	"spirit-vector": {
 		"files": {
@@ -4407,26 +4407,26 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/spirit-vector.pw.toml": {
 				"download": {
-					"hash": "0e2c4a0e092b22ff23d8528031604b78985561a756364de35c07c973ed0644be95c2dfbebe8848f471076fc95a0b0051755522ba469dc5cb93b8a48f788fb5de",
+					"hash": "6dea2e92a977e8c2770931f3c8c75ebbfc96dab66e80c643774f6b617e24f9fc3f1343703ebbb36dfa3271414cdae2bfbc9ce6f5412209409cb7d7716fa9eb00",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/dt1e5Gb3/spirit-vector-1.11.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vT1MJIWD/versions/OVIu5ykv/spirit-vector-1.11.5%2B1.21.1.jar"
 				},
-				"filename": "spirit-vector-1.11.4+1.21.1.jar",
+				"filename": "spirit-vector-1.11.5+1.21.1.jar",
 				"name": "Dream Burst Spirit Vector",
 				"side": "both"
 			}
 		},
-		"key": "2e166c29c9c92e989a78209197b051adf4671bd572828e3ff387eae5b586aab6"
+		"key": "dc349a57e29c9be4c21ba109a6af173da344429b84c4d33292b19fba9dc8e947"
 	},
 	"splashfox": {
 		"files": {
